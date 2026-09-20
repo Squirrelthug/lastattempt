@@ -1,0 +1,37 @@
+{
+  "name": "Last Attempt",
+  "show_name": "Last Attempt Guildcast",
+  "tagline": "Warcraft, discussed by people who actually play it.",
+  "description": "Last Attempt is a World of Warcraft media project: a weekly guildcast, written commentary on Retail and WoW Forever, and coverage from the people who raid, push keys, and follow every patch note.",
+  "url": "https://lastattempt.net",
+  "language": "en",
+  "author": "Squirrelthug",
+  "contact_email": "hello@lastattempt.net",
+  "press_email": "press@lastattempt.net",
+  "guild": "Second Attempt",
+
+  "feed_url": "https://anchor.fm/s/10ee80918/podcast/rss",
+  "spotify_show_id": "7DeyxVjwhWHW4K7UyLCiZT",
+  "spotify_show_url": "https://open.spotify.com/show/7DeyxVjwhWHW4K7UyLCiZT",
+  "apple_url": "https://podcasts.apple.com/us/podcast/last-attempt-a-world-of-warcraft-guildcast/id1876268344",
+
+  "socials": [
+    {"key": "youtube", "label": "YouTube", "url": ""},
+    {"key": "twitch", "label": "Twitch", "url": "https://www.twitch.tv/squirrelthug_"},
+    {"key": "x", "label": "X", "url": ""},
+    {"key": "tiktok", "label": "TikTok", "url": ""},
+    {"key": "discord", "label": "Discord", "url": ""},
+    {"key": "bluesky", "label": "Bluesky", "url": ""}
+  ],
+
+  "nav": [
+    {"label": "Articles", "href": "/articles/"},
+    {"label": "Episodes", "href": "/episodes/"},
+    {"label": "Listen", "href": "/listen/"},
+    {"label": "About", "href": "/about/"},
+    {"label": "Press", "href": "/press/"},
+    {"label": "Contact", "href": "/contact/"}
+  ],
+
+  "analytics_token": ""
+}

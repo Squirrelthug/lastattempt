@@ -1,0 +1,1264 @@
+{
+  "episode": "032",
+  "date": "2026-09-19",
+  "subtitle": "BlizzCon 2026",
+  "logo": "../media/last_attempt_logo.png",
+  "intro": {
+    "heads_up": "Quick heads-up before we dive in: the BlizzCon 2026 Housing Door Mat login reward runs through September 27, so if you haven't logged in since the show, do that this week.",
+    "rundown": [
+      "the Midnight: Eclipse reveal — the Mantle Vault, the Worldcore raid, and the saga's first Legendary",
+      "what Season 3 looks like, from the dungeon pool to spec-based Mythic+ rewards and a new Delve Nemesis",
+      "three new Paladin races, and the quality-of-life pile Eclipse is carrying underneath the headlines",
+      "Talebound, the rogue-like ARPG Blizzard is sliding into 12.1.7",
+      "the roadmap through 2027, with a Wrath Remix and the first look at The Last Titan",
+      "Classic+ finally having a name — World of Warcraft: Forever — with a date, a price tag, and a beta that's already live",
+      "Forever's four new zones, the Skyborne, and the Paladin rework",
+      "Forever's dungeons and raids, its realmless servers, and the Legacy System",
+      "and we'll close out the news with camping, optional transmog, the GDKP ban, and the beta's rough first night"
+    ]
+  },
+  "items": [
+    {
+      "title": "Midnight: Eclipse — Into the Worldcore",
+      "tab": "Eclipse",
+      "category": "Midnight — Patch 12.2",
+      "synopsis": "Patch 12.2 is Eclipse, the last major patch of Midnight, and it takes us beneath Azeroth to finally confront Xal'atath in an eight-boss raid.",
+      "points": [
+        "Blizzard opening the show with the Eclipse reveal cinematic, \"Threshold,\" and calling 12.2 the final major content update of Midnight",
+        "the whole patch cranking the Light-versus-Void fight \"to an 11\" — our own Light-wielding forces going down against Xal'atath and her Devouring Host",
+        "the Mantle Vault as the new zone — a Titan vault hidden eons ago, with stone- and azerite-based wildlife like stone worms and crystalline elementals",
+        "the Thraegar, an ancient race of crystalline, dwarf-like creatures, joining us as allies — and the Deepskar Empire of kobolds, troggs, drogbar, and niffen hostile to everyone",
+        "The Worldcore as the eight-boss raid to close the expansion — Void enemies, Titan constructs, living Azerite, and Xal'atath with her motivations finally laid bare",
+        "Midnight's Edge, the first Legendary of the whole Worldsoul Saga — a caster dagger with a questline that starts when you finish the raid, and not the Blade of the Black Empire",
+        "Thraegar's Stand as the new three-boss dungeon, ending on a titan construct called Stenvarg the Inevitable, straight into the Season 3 pool",
+        {
+          "text": "The Gearhold as the second raid lair — Noctinaxx, an enormous azerite bat, on World, Normal, Heroic, and flexible Mythic",
+          "sub": "Paul Kubit telling Wowhead the lair is tuned like an early Mythic boss — aimed at AOTC guilds without a 20-man roster"
+        },
+        "Radiant Screams as the new outdoor feature tied to the Worldsoul's cries, and Prey getting new hunts, new Torments, and Agony Mode as its final difficulty"
+      ],
+      "questions": [
+        "We're a mythic raiding guild — does a lair tuned like an early Mythic boss actually fill the gap for guilds stuck at AOTC, or is it just another lockout on the calendar?",
+        "A caster dagger is the first Legendary of the saga. Who in the raid is getting it, and does anyone want the drama that comes with a Legendary?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard — Midnight What's Next Panel Recap",
+          "url": "https://worldofwarcraft.blizzard.com/en-us/news/24298591"
+        },
+        {
+          "label": "Source — Midnight: Eclipse Announced as Patch 12.2 (Wowhead)",
+          "url": "https://www.wowhead.com/news/midnight-eclipse-announced-as-patch-12-2-reveal-cinematic-382820"
+        },
+        {
+          "label": "Source — The Final Raid of Midnight: The Worldcore (Wowhead)",
+          "url": "https://www.wowhead.com/news/the-final-raid-of-midnight-the-worldcore-382844"
+        },
+        {
+          "label": "Source — New Legendary Caster Dagger Coming in Patch 12.2 (Wowhead)",
+          "url": "https://www.wowhead.com/news/new-legendary-caster-dagger-coming-in-patch-12-2-382825"
+        },
+        {
+          "label": "Source — Noctinaxx Is the Lair World Boss for Patch 12.2 (Wowhead)",
+          "url": "https://www.wowhead.com/news/noctinaxx-a-giant-azerite-bat-is-the-lair-world-boss-for-patch-12-2-382886"
+        }
+      ],
+      "media": [
+        {
+          "type": "youtube",
+          "id": "tlJZzTcHrH0",
+          "caption": "Eclipse Reveal Trailer — THRESHOLD (World of Warcraft)"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Midnight_Eclipse_(12.2)_Logo.png",
+          "caption": "Midnight: Eclipse (12.2) logo"
+        },
+        {
+          "type": "image",
+          "src": "../media/World_of_Warcraft_Midnight_Eclipse_12.2_The_Mantle_Vault_(Concept).jpg",
+          "caption": "The Mantle Vault — concept"
+        },
+        {
+          "type": "image",
+          "src": "../media/World_of_Warcraft_Midnight_Eclipse_12.2_Worldcore_Zone_001.jpg",
+          "caption": "Worldcore zone"
+        },
+        {
+          "type": "image",
+          "src": "../media/World_of_Warcraft_Midnight_Eclipse_12.2_Worldcore_Zone_002.png",
+          "caption": "Worldcore zone"
+        },
+        {
+          "type": "image",
+          "src": "../media/World_of_Warcraft_Midnight_Eclipse_12.2_Worldcore_Zone_003.png",
+          "caption": "Worldcore zone"
+        },
+        {
+          "type": "image",
+          "src": "../media/World_of_Warcraft_Midnight_Eclipse_12.2_Crystal_Cavern_Geological_Formations_(Concept).jpg",
+          "caption": "Crystal cavern geological formations — concept"
+        },
+        {
+          "type": "image",
+          "src": "../media/World_of_Warcraft_Midnight_Eclipse_12.2_Azurite_Golem_(Concept).jpg",
+          "caption": "Azurite golem — concept"
+        },
+        {
+          "type": "image",
+          "src": "../media/World_of_Warcraft_Midnight_Eclipse_12.2_Worldcore_Creatures_004.jpg",
+          "caption": "Worldcore creatures"
+        },
+        {
+          "type": "image",
+          "src": "../media/World_of_Warcraft_Midnight_Eclipse_12.2_Worldcore_Creatures_005.png",
+          "caption": "Worldcore creatures"
+        },
+        {
+          "type": "image",
+          "src": "../media/World_of_Warcraft_Midnight_Eclipse_12.2_Worldcore_Creatures_006.png",
+          "caption": "Worldcore creatures"
+        },
+        {
+          "type": "image",
+          "src": "../media/World_of_Warcraft_Midnight_Eclipse_12.2_Worldcore_Creatures_011.png",
+          "caption": "Worldcore creatures"
+        },
+        {
+          "type": "image",
+          "src": "../media/World_of_Warcraft_Midnight_Eclipse_12.2_Thraegar_Weapons_(Concept).jpg",
+          "caption": "Thraegar weapons — concept"
+        },
+        {
+          "type": "image",
+          "src": "../media/World_of_Warcraft_Midnight_Eclipse_12.2_The_Worldcore_Entrance_(Concept).jpg",
+          "caption": "The Worldcore entrance — concept"
+        },
+        {
+          "type": "image",
+          "src": "../media/World_of_Warcraft_Midnight_Eclipse_12.2_Worldcore_Entrance_009.jpg",
+          "caption": "Worldcore entrance"
+        },
+        {
+          "type": "image",
+          "src": "../media/World_of_Warcraft_Midnight_Eclipse_12.2_Worldcore_RaidEntrance_007.jpg",
+          "caption": "The Worldcore — raid entrance"
+        },
+        {
+          "type": "image",
+          "src": "../media/World_of_Warcraft_Midnight_Eclipse_12.2_Worldcore_RaidEntrance_008.png",
+          "caption": "The Worldcore — raid entrance"
+        },
+        {
+          "type": "image",
+          "src": "../media/World_of_Warcraft_Midnight_Eclipse_12.2_The_Worldcore_(Internal)_(Concept).jpg",
+          "caption": "The Worldcore interior — concept"
+        },
+        {
+          "type": "youtube",
+          "id": "vgT5KpTPcQc",
+          "caption": "World of Warcraft: Midnight — What's Next Panel (BlizzCon 2026)"
+        }
+      ]
+    },
+    {
+      "title": "Season 3: Dungeons, Delves, and Spec-Based Rewards",
+      "tab": "Season 3",
+      "category": "Midnight — Season 3",
+      "synopsis": "Season 3 kicks off shortly after Eclipse, with a dungeon pool that mixes legacy dungeons with two Midnight returns, and a rewards change a lot of off-meta players are going to like.",
+      "points": [
+        {
+          "text": "the Season 3 Mythic+ pool: Thraegar's Stand, Magisters' Terrace, Maisara Cavern, Uldaman: Legacy of Tyr, Sanguine Depths, The Underrot, Iron Docks, and The Stonecore",
+          "sub": "The Underrot on its third rotation, and three of the eight carry a mount — Underrot, Magisters' Terrace, and Stonecore"
+        },
+        "Blizzard already publishing planned changes — Uldaman dropping the Lost Dwarves to go four bosses, and Emberon's intermission moving to health thresholds instead of a timer",
+        "Iron Docks getting all four bosses modernized and fewer archers up front, while keeping the Iron Stars — \"you'll still get to bowl for orcs\"",
+        "The Stonecore getting a full visual and mechanical revamp with new creature models, and Sanguine Depths thinning out the caster packs",
+        "The Underrot's Elder Leaxa becoming less kick-dependent and Cragmaw using more of the arena, with new routes through the final section",
+        {
+          "text": "a new top 5% seasonal reward joining the top 1%, and both now ranked against your own spec instead of the whole population",
+          "sub": "push as a Protection Warrior, you're measured against Protection Warriors — the 0.1% title wasn't mentioned, so that one likely stays global"
+        },
+        "Astalor Bloodsworn as the Season 3 Delve Nemesis — the guy who introduced us to Prey, now consumed by the anguish he was draining out of his enemies",
+        "Valeera's journey continuing with the Delve companion cap raised to 100 and new Curios to find",
+        "new opt-in Delve challenges styled after Prey Torments, still early in design, plus new variations across the existing Delves"
+      ],
+      "questions": [
+        "Spec-based top 1% and 5% — does that finally make pushing on an off-meta spec worth it, or does it just create forty leaderboards nobody checks?",
+        "Underrot's back for a third rotation. Which legacy dungeon are you actually happy to see, and which one would you have left in the vault?"
+      ],
+      "sources": [
+        {
+          "label": "Source — Season 3 Mythic+ Dungeon Rotation Revealed (Wowhead)",
+          "url": "https://www.wowhead.com/news/season-3-mythic-dungeon-rotation-revealed-sanguine-depths-returning-382831"
+        },
+        {
+          "label": "Source — Season 3 Mythic+ Dungeon Rotation Upcoming Changes (Wowhead)",
+          "url": "https://www.wowhead.com/news/season-3-mythic-dungeon-rotation-upcoming-changes-382930"
+        },
+        {
+          "label": "Source — New Top 5% and Spec-Based Mythic+ Achievements (Wowhead)",
+          "url": "https://www.wowhead.com/news/new-top-5-mythic-achievement-and-spec-based-achievements-coming-in-patch-12-2-382846"
+        },
+        {
+          "label": "Source — Astalor Bloodsworn Is Season 3's Delve Nemesis (Wowhead)",
+          "url": "https://www.wowhead.com/news/astalor-bloodsworn-is-midnight-season-3s-delve-nemesis-boss-382845"
+        },
+        {
+          "label": "Blizzard — Midnight What's Next Panel Recap",
+          "url": "https://worldofwarcraft.blizzard.com/en-us/news/24298591"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/55212-astalor-bloodsworn-is-midnight-season-3s-delve-nemesis-boss.jpg",
+          "caption": "Astalor Bloodsworn — Season 3 Delve Nemesis (Wowhead)"
+        },
+        {
+          "type": "image",
+          "src": "../media/World_of_Warcraft_Midnight_Eclipse_12.2_Delve_NemesisBoss_010.png",
+          "caption": "Delve Nemesis encounter"
+        },
+        {
+          "type": "youtube",
+          "id": "vgT5KpTPcQc",
+          "caption": "Midnight — What's Next Panel (Season 3 segment)",
+          "start": 0
+        }
+      ]
+    },
+    {
+      "title": "Three New Paladin Races",
+      "tab": "Paladins",
+      "category": "Midnight — Patch 12.2",
+      "synopsis": "Night Elf, Forsaken, and Darkspear Troll Paladins arrive in Eclipse, each with its own charger — and the Forsaken ones are coming to Forever too.",
+      "points": [
+        "Forsaken, Night Elf, and Troll characters all able to become Paladins in 12.2, framed as new races answering the Light's call in the Light-versus-Void story",
+        "Forsaken Paladins being the long-requested one, landing in both Midnight and World of Warcraft: Forever",
+        {
+          "text": "all three getting their own charger — a glowing horse, a raptor, and a cat, per the MMORPG interview",
+          "sub": "the Forever version of the Forsaken Charger got its first look in the Found Photographs panel; the Eclipse one is likely similar but not confirmed"
+        },
+        "Blizzard saying quests will tell the backstory of how specific characters of each race discovered they could wield the Light",
+        "the Q&A pointing back at the Void Elf Demon Hunter faction-imbalance mess as the reason they held off, and promising more combos in the future",
+        {
+          "text": "Libram of the Matriarch, a toy off Mythic Kith'ix in 12.1.5, giving Paladins a glyph that swaps Avenging Wrath's wings for Lady Liadrin's sleek version",
+          "sub": "the Libram is collectable by any class and hands out glyph pages to as many Paladin alts as you like"
+        },
+        "datamined items like the Blade of the Blood Knight Matriarch being written in the past tense, and Wowhead reading that as a bad sign for Liadrin's survival",
+        "the Q&A also closing the door on another new playable race for the rest of the Worldsoul Saga"
+      ],
+      "questions": [
+        "Night Elf Paladins have been a lore argument for twenty years. Does Elune's silver Light sell it for you, or is this the moment race-class restrictions stopped meaning anything?",
+        "Would either of you actually reroll for a charger?"
+      ],
+      "sources": [
+        {
+          "label": "Source — Three New Race-Class Combos for Paladins in 12.2 (Wowhead)",
+          "url": "https://www.wowhead.com/news/three-new-race-class-combos-for-paladins-coming-in-patch-12-2-382828"
+        },
+        {
+          "label": "Source — MMORPG Interview: Paladin Chargers & Legendary (Wowhead)",
+          "url": "https://www.wowhead.com/news/paladin-chargers-and-legendary-weapon-mmorpg-interview-on-midnight-382920"
+        },
+        {
+          "label": "Source — First Look at Forsaken Charger for Undead Paladins (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/first-look-at-forsaken-charger-for-undead-paladins-382877"
+        },
+        {
+          "label": "Source — Libram of the Matriarch Grants Liadrin's Wings (Wowhead)",
+          "url": "https://www.wowhead.com/news/libram-of-the-matriarch-new-paladin-glyph-grants-liadrins-wings-382917"
+        },
+        {
+          "label": "Source — Live Q&A Liveblog: Midnight and Forever (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/world-of-warcraft-live-q-a-liveblog-midnight-and-forever-382967"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/World_of_Warcraft_Midnight_Eclipse_12.2_Night_Elf_Paladin_Mount_(Concept).jpg",
+          "caption": "Night Elf Paladin mount — concept"
+        },
+        {
+          "type": "image",
+          "src": "../media/55188-undead-paladins-coming-to-world-of-warcraft-forever.jpg",
+          "caption": "Undead Paladins coming to World of Warcraft: Forever (Wowhead)"
+        }
+      ]
+    },
+    {
+      "title": "Eclipse Quality of Life: Transmog, Housing, and the Calibration Chamber",
+      "tab": "Eclipse QoL",
+      "category": "Midnight — Patch 12.2",
+      "synopsis": "Underneath the raid headlines, Eclipse carries a pile of quality-of-life changes — and the transmog one in 12.2.5 is the kind of thing people have asked about for a decade.",
+      "points": [
+        {
+          "text": "all armor-type transmog restrictions being lifted in content update 12.2.5 — plate wearers in cloth looks and everything in between",
+          "sub": "weapons weren't clarified, and the Q&A said class-specific sets like tier stay class-locked"
+        },
+        "Housing Showcase as a new mode — browse featured homes from the dashboard, submit your own as a snapshot, and earn exclusive décor from selected Showcase events",
+        "mannequins for your house, dressed in any gear and weapon appearance you've unlocked",
+        "copy-paste and multi-select for décor, plus buying more copies of décor you already own without leaving the house",
+        "four new Housing Endeavors, including the Stormriders of the Isle of Dorn",
+        "the Calibration Chamber — a group testing ground where your party or raid can test rotations against varied dummies, with cooldown resets and full raid buffs",
+        "PvP progression getting a refreshed Journey with new rewards, and that being the only PvP announcement of the whole show",
+        "the BlizzCon 2026 Housing Door Mat as a Feat of Strength for anyone who logs in between September 12 and 27"
+      ],
+      "questions": [
+        "The Dummy Dome becoming a real raid feature — is that a tool your raid would actually use before a pull, or does it live and die in the first week?",
+        "Any armor type on any class. Is there a look you've been waiting on, and is there a line where transmog stops reading as your class?"
+      ],
+      "sources": [
+        {
+          "label": "Source — Transmog Restrictions Removed in Patch 12.2.5 (Wowhead)",
+          "url": "https://www.wowhead.com/news/transmog-restrictions-removed-in-patch-12-2-5-382849"
+        },
+        {
+          "label": "Blizzard — Midnight What's Next Panel Recap",
+          "url": "https://worldofwarcraft.blizzard.com/en-us/news/24298591"
+        },
+        {
+          "label": "Source — Midnight What's Next Liveblog (Wowhead)",
+          "url": "https://www.wowhead.com/news/world-of-warcraft-midnight-whats-next-liveblog-382841"
+        },
+        {
+          "label": "Source — Live Q&A Liveblog: Midnight and Forever (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/world-of-warcraft-live-q-a-liveblog-midnight-and-forever-382967"
+        }
+      ],
+      "media": [
+        {
+          "type": "youtube",
+          "id": "bsqB90xrnTE",
+          "caption": "World of Warcraft: Midnight — Crafting Coziness (Housing panel, BlizzCon 2026)"
+        }
+      ]
+    },
+    {
+      "title": "Talebound: A Rogue-Like ARPG Inside WoW",
+      "tab": "Talebound",
+      "category": "Midnight — Patch 12.1.7",
+      "synopsis": "The standalone game mode Blizzard teased turns out to be Talebound — a rogue-like action RPG inside WoW, with its own classes, coming in 12.1.7.",
+      "points": [
+        "Talebound arriving with the Echoes of the Worldcore content update, 12.1.7, with an early PTR preview sometime in October",
+        "a PvE action RPG where a mysterious Storyteller pulls you into macabre tales — themed levels with enemies, bosses, puzzles, treasure, relics, and rewards, solo or with friends",
+        {
+          "text": "three new classes, none of them your WoW class — the Slayer with sword and gun, the Inquisitor burning evil with zeal, and the Witch with lightning, poison, spiders, and ravens",
+          "sub": "every class can double jump, dodge, and guard — positioning is the whole game"
+        },
+        "four tales at launch — Darkhaven, Greenthistle Wood, Greywake's Expedition, and the Grove of the Night Court — with witches, giants, a Blood Bishop, deep-sea horrors, and a Nightmare King",
+        "Quillgrave as the hub between runs, with an Arcanist, Scribe, Outfitter, and Antiquarian to improve your odds before the next attempt",
+        "the Q&A describing it like Torghast — you level inside a run and pick a power each level, die and you're back to level 1, but the town upgrades persist",
+        "new difficulties unlocking as you succeed, and cosmetic rewards flowing back to your Midnight account"
+      ],
+      "questions": [
+        "Blizzard putting a whole ARPG with its own classes inside WoW — a sign of confidence in the game, or a team that doesn't know what to do with a patch cycle?",
+        "Did anyone here actually finish Torghast happily? Because that's the comparison they reached for."
+      ],
+      "sources": [
+        {
+          "label": "Blizzard — Tales Take a Dark Turn in Midnight's Talebound",
+          "url": "https://worldofwarcraft.blizzard.com/en-us/news/24302576"
+        },
+        {
+          "label": "Blizzard — Midnight What's Next Panel Recap",
+          "url": "https://worldofwarcraft.blizzard.com/en-us/news/24298591"
+        },
+        {
+          "label": "Source — Talebound: A New Game Mode in Patch 12.1.7 (Wowhead)",
+          "url": "https://www.wowhead.com/news/talebound-a-new-game-mode-in-patch-12-1-7-382843"
+        },
+        {
+          "label": "Source — Live Q&A Liveblog: Midnight and Forever (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/world-of-warcraft-live-q-a-liveblog-midnight-and-forever-382967"
+        }
+      ],
+      "media": [
+        {
+          "type": "youtube",
+          "id": "Un7JXrIcUvE",
+          "caption": "Talebound Story Trailer (World of Warcraft)"
+        }
+      ]
+    },
+    {
+      "title": "The Roadmap: The Last Titan, Wrath Remix, and What Comes Between",
+      "tab": "Roadmap",
+      "category": "Midnight — Roadmap",
+      "synopsis": "We got a roadmap running through 2027 — Talebound in 12.1.7, Eclipse, 12.2.5 and 12.2.7, a Wrath Remix next summer, and a first look at The Last Titan.",
+      "points": [
+        {
+          "text": "The Last Titan teased in the opening ceremony with a cinematic called \"Colossal\" — a Northrend blizzard, Wyrmrest Temple, and a colossal figure attacking it",
+          "sub": "Blizzard saying they can't talk about it yet because it's all Midnight spoilers — more early next year, after Eclipse"
+        },
+        "the modern roadmap laying out the rest of Midnight: 12.1.5 and the Unbinding of Kith'ix on the PTR now, Talebound in 12.1.7, Eclipse, then 12.2.5 and 12.2.7",
+        "Wrath of the Lich King Remix as the third Remix, coming summer 2027 after 12.2.7",
+        {
+          "text": "the Q&A adding Outbreaks in the world and dungeons, Runeforging for every class, unreleased rewards, and a look at \"a modern take on Invincible\"",
+          "sub": "the stated reason for Northrend — a lot of players have never been there, and The Last Titan is headed there next"
+        },
+        "Ion telling But Why Tho? that after level 100 in The Last Titan they're \"probably going to look at another level squish,\" and a stat squish whenever the digits get unwieldy",
+        "the new-player path for Midnight being Exile's Reach and then Dragonflight, with an improved War Within recap planned",
+        "the Warcraft Tavern interview flagging interrupt trackers as the addon category most likely to get restricted further, while auditory callouts stay supported",
+        "the modern team already looking at what to bring back from Forever — server infrastructure, the lighting work, surnames — but \"it's not as easy as flipping a switch\""
+      ],
+      "questions": [
+        "A Wrath Remix while The Last Titan takes us back to Northrend — smart warm-up, or Northrend fatigue before the expansion even ships?",
+        "Ion's talking about another level squish after 100. Do squishes actually bother you, or is that a forum problem?"
+      ],
+      "sources": [
+        {
+          "label": "Source — Midnight and The Last Titan Roadmap Revealed (Wowhead)",
+          "url": "https://www.wowhead.com/news/world-of-warcraft-midnight-and-the-last-titan-roadmap-revealed-382850"
+        },
+        {
+          "label": "Source — The Last Titan Expansion Teaser (Wowhead)",
+          "url": "https://www.wowhead.com/news/the-last-titan-world-of-warcraft-expansion-teaser-382821"
+        },
+        {
+          "label": "Source — The Next Remix Event is Wrath of the Lich King (Wowhead)",
+          "url": "https://www.wowhead.com/news/the-next-remix-event-is-wrath-of-the-lich-king-382848"
+        },
+        {
+          "label": "Source — Live Q&A Liveblog: Midnight and Forever (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/world-of-warcraft-live-q-a-liveblog-midnight-and-forever-382967"
+        },
+        {
+          "label": "Source — But Why Tho? Interview: Stat Squish & Spookier Duskwood (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/stat-squish-for-modern-and-a-spookier-duskwood-in-forever-but-why-tho-interview-382939"
+        },
+        {
+          "label": "Source — TechRaptor Interview on Midnight: Eclipse (Wowhead)",
+          "url": "https://www.wowhead.com/news/xalataths-feet-techraptor-interview-on-midnight-eclipse-382971"
+        },
+        {
+          "label": "Source — Warcraft Tavern Interview: Interrupt Trackers (Wowhead)",
+          "url": "https://www.wowhead.com/news/blizzard-likely-to-restrict-interrupt-trackers-more-warcraft-tavern-interview-382888"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/World_of_Warcraft_Modern_Roadmap_-_CY26_27.png",
+          "caption": "World of Warcraft modern roadmap — CY26/27"
+        },
+        {
+          "type": "youtube",
+          "id": "F9Xb5PhF5pc",
+          "caption": "The Last Titan Teaser — COLOSSAL (World of Warcraft)"
+        },
+        {
+          "type": "image",
+          "src": "../media/55217-the-next-remix-event-is-wrath-of-the-lich-king.jpg",
+          "caption": "The next Remix is Wrath of the Lich King (Wowhead)"
+        }
+      ]
+    },
+    {
+      "title": "World of Warcraft: Forever — Classic+ Has a Name and a Date",
+      "tab": "Forever",
+      "category": "World of Warcraft: Forever",
+      "synopsis": "Classic+ is real. It's called World of Warcraft: Forever, it launches November 4, the beta is already live, and level 60 is where it stays.",
+      "points": [
+        "Blizzard announcing Forever as a permanent third home alongside modern and Classic — level 60 forever, new content added horizontally instead of expansions",
+        "launching globally November 4 at 3:00 p.m. PST, included with your regular subscription, with the beta running September 17 through October 21",
+        "the timeline set right after the new Warcraft III campaign, Forsaken Kingdom, and before Molten Core — \"year one\" of WoW, diverging on day one",
+        "Ion tracing the idea from the \"we want to stay here\" crowd at Classic launch, through Season of Discovery as the experiment, to being certain by mid-2024",
+        "Tim Jones laying down the rules: no flying, no level scaling, Azeroth stays dangerous, and \"the catch-up system is simple — play the game\"",
+        {
+          "text": "the Skyborne race gated behind the $29.99 Skyborne Heroic Pack — the first time a race has been paywalled outside an expansion",
+          "sub": "Heroic gets the race, Zephras Isle, early name reservation October 27–November 3, and a ground mount; Epic adds beta access and 30 days of game time"
+        },
+        "the limited-time Warcraft Forever Collection adding Warcraft III: Reforged and Forsaken Kingdom, available through January 11, 2027",
+        "a physical Collector's Edition with a 13-inch Dwarf and Bear statue from the original cinematic",
+        "Clay Stone telling Destin there are no plans for anything like a WoW Token or a boost — \"the journey is the game\""
+      ],
+      "questions": [
+        "Twenty-nine ninety-nine for a race, in a game that's otherwise free with the sub. Fair price for a starting zone and a race, or the line Blizzard shouldn't have crossed?",
+        "Be honest — are either of you rolling a Forever character on November 4, and does Second Attempt end up with a Forever wing?"
+      ],
+      "sources": [
+        {
+          "label": "Source — Classic+ Announced at BlizzCon: Warcraft Forever (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/classic-announced-at-blizzcon-warcraft-forever-382822"
+        },
+        {
+          "label": "Source — Everything We Know About WoW: Forever (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/everything-we-know-about-wow-forever-382827"
+        },
+        {
+          "label": "Blizzard — World of Warcraft at BlizzCon 2026 News Round-Up",
+          "url": "https://news.blizzard.com/en-us/article/24301145/world-of-warcraft-at-blizzcon-2026-news-round-up"
+        },
+        {
+          "label": "Source — WoW: Forever What's Next Liveblog (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/world-of-warcraft-forever-whats-next-liveblog-382824"
+        },
+        {
+          "label": "Source — Skyborne Race Costs $29.99 to Unlock (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/skyborne-race-costs-29-99-to-unlock-for-warcraft-forever-382826"
+        },
+        {
+          "label": "Source — Pre-Purchase WoW: Forever Collector's Edition (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/pre-purchase-world-of-warcraft-forever-collectors-edition-382838"
+        },
+        {
+          "label": "Source — Destin Interview: No WoW Token or Boosts (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/no-wow-token-or-boosts-and-the-future-of-forever-destin-interview-with-blizzard-382882"
+        },
+        {
+          "label": "Source — Sportskeeda Interview: Controller & Mount Costs (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/official-controller-supports-training-mount-skill-costs-sportskeeda-interview-on-382963"
+        }
+      ],
+      "media": [
+        {
+          "type": "youtube",
+          "id": "xXaXYxcbA6A",
+          "caption": "World of Warcraft: Forever — New Horizons cinematic trailer"
+        },
+        {
+          "type": "youtube",
+          "id": "uQuKE0KDgiM",
+          "caption": "World of Warcraft: Forever — gameplay trailer"
+        },
+        {
+          "type": "image",
+          "src": "../media/World_of_Warcraft_Forever_Roadmap_-_2026_27.jpg",
+          "caption": "World of Warcraft: Forever roadmap — 2026/2027"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_Announce_Zones_NewWater_006.jpg",
+          "caption": "Forever — new water"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_Announce_Zones_NewWater_007.jpg",
+          "caption": "Forever — new water"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_Announce_Zones_NewWater_008.jpg",
+          "caption": "Forever — new water"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_Announce_Zones_NewWater_009.jpg",
+          "caption": "Forever — new water"
+        },
+        {
+          "type": "youtube",
+          "id": "OEX-i55We5c",
+          "caption": "World of Warcraft: Forever — What's Next Panel (BlizzCon 2026)"
+        },
+        {
+          "type": "youtube",
+          "id": "BAsMFcHkM6U",
+          "caption": "BlizzCon 2026 Day 1 stream — Opening Ceremony, MDI Semifinals, Forever Creator Showcase"
+        }
+      ]
+    },
+    {
+      "title": "Forever's Azeroth: Four New Zones and a Lighting Pass",
+      "tab": "Forever Zones",
+      "category": "World of Warcraft: Forever",
+      "synopsis": "Forever's map isn't the map you remember — Mount Hyjal, Shen'dralas, the Riverglades, and Zephras Isle are new, and the whole world got a hand-done lighting pass.",
+      "points": [
+        "Mount Hyjal as the new endgame zone — the aftermath of Archimonde's defeat, Darkwhisper Gorge, Archimonde's skeleton still by Nordrassil, and two raids on the mountain",
+        "Shen'dralas between Mulgore and Desolace — the Shen'dralar, Eldre'Thalas, Dire Maul, and the Magram and Gelkis centaur war, with new reasons to run Maraudon and Razorfen Downs",
+        {
+          "text": "the Riverglades as the mid-30s to mid-40s frontier — rivers, trade routes, humans, orcs, ogres, Twilight's Hammer, a neutral goblin port, and 150+ quests",
+          "sub": "built to fix the level 30–45 drought — \"something other than spam Scarlet Monastery\" — with a Warcraft I nod in a ruined town called Sunnyglade"
+        },
+        "Zephras Isle as the Skyborne's level 1–12 starting experience — a floating isle in Skywall, with architecture inspired by the elemental plane",
+        "1000+ new quests across 1–60, with Wetlands, Azshara, and Desolace called out as the empty zones that got filled in",
+        "three new ship routes — Stormwind Harbor to Auberdine, Menethil to Southshore to Auberdine, and Steamwheedle Port to the Riverglades",
+        {
+          "text": "the \"Evolving a Timeless World\" panel's one rule, \"everything must be authentic\" — new fog in Dustwallow and the Wetlands, real day-night shadows in the Badlands, rivers that actually flow in Ashenvale",
+          "sub": "Ion saying the lighting isn't an engine switch — environment artists did it by hand — and modern WoW may get some of it down the line"
+        },
+        "HD and SD toggles for characters, models, and the world, so the Classic purists and the new players both get their version on the same skeletons",
+        "Duskwood being \"much spookier,\" with real-time light from a carried torch or lantern"
+      ],
+      "questions": [
+        "Hyjal, Dire Maul's elves, the Riverglades — which of these zones did you want as a kid staring at the map, and which one worries you?",
+        "HD/SD toggle, transmog toggle, lighting you can't turn off — is a Classic+ that everyone configures to taste still one shared game?"
+      ],
+      "sources": [
+        {
+          "label": "Source — New Zones Coming with Forever (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/new-zones-coming-with-forever-mount-hyjal-riverglades-and-more-382853"
+        },
+        {
+          "label": "Source — What We Know About the Open World in WoW: Forever (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/what-we-know-about-the-open-world-so-far-in-wow-forever-382931"
+        },
+        {
+          "label": "Source — The Sun Interview: Chase Items on Every Raid Boss (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/chase-items-on-every-raid-boss-the-sun-interview-on-wow-forever-382892"
+        },
+        {
+          "label": "Source — Three New Ship Routes Debuting in Forever (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/three-new-ship-routes-debuting-in-forever-382891"
+        },
+        {
+          "label": "Source — WoW: Forever Introduces Huge Graphics Upgrades (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/wow-forever-introduces-huge-graphics-upgrades-to-a-classic-world-382929"
+        },
+        {
+          "label": "Source — But Why Tho? Interview: Stat Squish & Spookier Duskwood (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/stat-squish-for-modern-and-a-spookier-duskwood-in-forever-but-why-tho-interview-382939"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/WoW_Camelot_Announce_Zones_Hyjal_025.png",
+          "caption": "Mount Hyjal"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Camelot_Announce_Zones_Hyjal_030.jpg",
+          "caption": "Mount Hyjal"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Camelot_Announce_Zones_Hyjal_032.jpg",
+          "caption": "Mount Hyjal"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Camelot_Announce_Zones_Shendralas_024.jpg",
+          "caption": "Shen'dralas"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Camelot_Announce_Zones_Mulgore_022.jpg",
+          "caption": "Mulgore — new plateau overlooking Thunder Bluff"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Camelot_Announce_Zones_Riverglades_035.jpg",
+          "caption": "The Riverglades"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Camelot_Announce_Zones_Riverglades_037.jpg",
+          "caption": "The Riverglades"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Camelot_Announce_Zones_Riverglades_039.jpg",
+          "caption": "The Riverglades"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Camelot_Announce_Zones_Riverglades_040.jpg",
+          "caption": "The Riverglades"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Camelot_Announce_Zones_Zephras_042.jpg",
+          "caption": "Zephras Isle"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Camelot_Announce_Zones_Zephras_045.jpg",
+          "caption": "Zephras Isle"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Camelot_Announce_Zones_Zephras_046.jpg",
+          "caption": "Zephras Isle"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Camelot_Announce_Zones_Zephras_047.jpg",
+          "caption": "Zephras Isle"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Camelot_Announce_Zones_Zephras_048.jpg",
+          "caption": "Zephras Isle"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Camelot_Announce_Zones_Zephras_049.jpg",
+          "caption": "Zephras Isle"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Camelot_Announce_Zones_Zephras_050.jpg",
+          "caption": "Zephras Isle"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Camelot_Announce_Zones_Skywatch_023.jpg",
+          "caption": "Skywatch"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Camelot_Announce_Zones_Dalaran_021.jpg",
+          "caption": "Dalaran"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_SCENIC_Announce_Camping_Players_063.jpg",
+          "caption": "Scenic — players camping"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_SCENIC_Announce_Camping_Players_064.jpg",
+          "caption": "Scenic — players camping"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_SCENIC_Announce_NewLighting_Ashenvale_051.jpg",
+          "caption": "New lighting — Ashenvale"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_SCENIC_Announce_NewLighting_Darkshore_049.jpg",
+          "caption": "New lighting — Darkshore"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_SCENIC_Announce_NewLighting_Darnassus_052.png",
+          "caption": "New lighting — Darnassus"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_SCENIC_Announce_NewLighting_Orgrimmar_053.png",
+          "caption": "New lighting — Orgrimmar"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_SCENIC_Announce_NewLighting_TirisfalGlades_050.jpg",
+          "caption": "New lighting — Tirisfal Glades"
+        },
+        {
+          "type": "youtube",
+          "id": "bsg2HmvLT-A",
+          "caption": "World of Warcraft: Forever — Evolving a Timeless World (BlizzCon 2026)"
+        },
+        {
+          "type": "youtube",
+          "id": "wDfA_S7fXOc",
+          "caption": "World of Warcraft: Forever — Found Photographs (BlizzCon 2026)"
+        }
+      ]
+    },
+    {
+      "title": "Skyborne, New Combos, and the Paladin Rework",
+      "tab": "Skyborne & Classes",
+      "category": "World of Warcraft: Forever",
+      "synopsis": "Forever's first new race is an elf that lives in the sky, and its class work is a full rethink — six new race-class combos, reworked racials, and a Paladin that can finally tank.",
+      "points": [
+        "the Skyborne as elves who escaped Dire Maul with help from Al'Akir's air elementals and settled in Skywall — no Sunwell, so they ran on elemental magic instead",
+        {
+          "text": "picking a faction at creation — Horde Skyborne get Shaman, Alliance Skyborne get Mage, both get Warrior, Hunter, Rogue, and Druid",
+          "sub": "brand-new sky-blue Druid forms for Bear, Cat, Travel, and Boomkin — the first elf Druids that aren't Night Elves"
+        },
+        "Skyborne racials: Walk on Air to glide for 10 seconds, 1% haste, 5% damage to Elementals, plus Read Ley Line for Alliance or a 10% run-speed blessing for Horde",
+        "six new race-class combos: Gnome Priest, Human Hunter, Dwarf Shaman, Orc Mage, Troll Warlock, and Undead Paladin, with more planned",
+        "every race getting two actives and two passives — Will of the Forsaken losing its immunity, Cannibalize returning mana, Touch of the Grave as a new life-drain",
+        "talent trees keeping the seven-row shape with a new one-point milestone at 16 points, and buffs like Blessing of Kings going baseline",
+        "the Paladin rework: Holy Strike at level 6, Judgment no longer eating your Seal, and Consecration baseline at 20",
+        {
+          "text": "Seal of Fury as a real tanking seal — damage on every swing, a small absorb, and Judgment of Fury as a 10-yard taunt",
+          "sub": "Twist of Light making Ret seal twisting work without a swing-timer addon — or skip it for a Shockadin build out of the Holy tree"
+        },
+        "Paladins still having no interrupt and no slow — Blizzard preserving the gaps on purpose so the class stays distinct"
+      ],
+      "questions": [
+        "Twenty-seven talent trees all viable for dungeons and raids — is that a Classic game anymore, and do we want it to be?",
+        "Sky elves with Druid forms. Cool race, or the moment Forever stopped feeling like 2004?"
+      ],
+      "sources": [
+        {
+          "label": "Source — Skyborne First Look: New Race in WoW: Forever (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/skyborne-first-look-new-neutral-race-in-world-of-warcraft-forever-382829"
+        },
+        {
+          "label": "Source — What We Know About the Open World in WoW: Forever (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/what-we-know-about-the-open-world-so-far-in-wow-forever-382931"
+        },
+        {
+          "label": "Source — Live Q&A Liveblog: Midnight and Forever (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/world-of-warcraft-live-q-a-liveblog-midnight-and-forever-382967"
+        },
+        {
+          "label": "Source — Racials for Skyborne & Changes to Existing Races (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/racials-for-skyborne-in-forever-and-racial-changes-to-existing-races-382847"
+        },
+        {
+          "label": "Blizzard — WoW: Forever Deep Dive Panel Recap",
+          "url": "https://worldofwarcraft.blizzard.com/en-us/news/24303313"
+        },
+        {
+          "label": "Source — Paladins Now Have a Taunt in WoW: Forever (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/paladins-now-have-a-taunt-in-wow-forever-382869"
+        },
+        {
+          "label": "Source — WoW: Forever Deep Dive Liveblog (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/world-of-warcraft-forever-deep-dive-liveblog-382862"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_Announce_Skyborne_Customization_096.jpg",
+          "caption": "Skyborne customization"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_SCENIC_Announce_Skyborne_Customization_060.png",
+          "caption": "Skyborne customization"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_SCENIC_Announce_Skyborne_Customization_061.png",
+          "caption": "Skyborne customization"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_SCENIC_Announce_Skyborne_Customization_062.png",
+          "caption": "Skyborne customization"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Camelot_Announce_Zones_Zephras_045.jpg",
+          "caption": "Zephras Isle — Skyborne starting experience"
+        },
+        {
+          "type": "image",
+          "src": "../media/55188-undead-paladins-coming-to-world-of-warcraft-forever.jpg",
+          "caption": "Undead Paladins (Wowhead)"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_SCENIC_Announce_Race_Class_NewCombos_054.png",
+          "caption": "New race-class combos"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_SCENIC_Announce_Race_Class_NewCombos_055.png",
+          "caption": "New race-class combos"
+        },
+        {
+          "type": "youtube",
+          "id": "nQPS_QSOYCU",
+          "caption": "World of Warcraft: Forever — Deep Dive (classes segment, BlizzCon 2026)"
+        }
+      ]
+    },
+    {
+      "title": "Forever's Dungeons and Raids: Ten, Twenty, Forty",
+      "tab": "Dungeons & Raids",
+      "category": "World of Warcraft: Forever",
+      "synopsis": "Nine new dungeons, a 10-man and a 20-man raid every tier, single difficulty, no flex, no Dungeon Journal — and every boss carrying a chase item.",
+      "points": [
+        {
+          "text": "nine new dungeons: Dalaran at 20–35, Lordaeron for the Horde at 15–20, the Hall of Thanes for the Alliance at 13–18, a Wetlands Excavation Site, The Drowned City off Stranglethorn",
+          "sub": "plus Alcaz Island Prison, The Shaper's Terrace, Krol'Dok Stronghold in the Riverglades at 40–60, and the furbolg city of Blackmaw Hold"
+        },
+        "Barrow Deeps as the first 10-player raid — three entrances around the world, one in Hyjal, and \"one particularly infamous character\" locked up inside",
+        "Hyjal Summit as the 20-player raid, with both raids landing in December per the roadmap",
+        "every tier getting a 10 and a 20, some tiers a 40 — Onyxia's Lair as the first 40, launching alongside Hyjal Summit",
+        "one difficulty for everything, no flex raiding, no attunements for the launch raids, and the difficulty never scaling to you — you can out-gear it",
+        "chase items on every boss' loot table — low drop chance, \"very, very strong,\" so old raids stay relevant instead of going obsolete",
+        "all items obfuscated until they drop — no stats in the database, no Dungeon Journal — \"the first week of the raid will be the Wild West\"",
+        "dungeon experience rebalanced — mob XP way down, dungeon quest XP \"much, much, much higher,\" so the first run is the payday and the tenth isn't",
+        "biome and creature-type effects on gear — speed in a desert, bonus damage to dragons — so a dragon-slaying set becomes a real thing"
+      ],
+      "questions": [
+        "No flex, one difficulty, ten and twenty. As a mythic raiding guild — would Second Attempt even fit in Forever, or is that the whole point?",
+        "Hidden item stats and no Dungeon Journal. Does the Wild West week actually happen, or does it last until the first datamine?"
+      ],
+      "sources": [
+        {
+          "label": "Source — WoW: Forever What's Next Liveblog (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/world-of-warcraft-forever-whats-next-liveblog-382824"
+        },
+        {
+          "label": "Source — New Dungeons and Raids Coming in WoW: Forever (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/new-dungeons-and-raids-coming-in-world-of-warcraft-forever-382854"
+        },
+        {
+          "label": "Source — Live Q&A Liveblog: Midnight and Forever (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/world-of-warcraft-live-q-a-liveblog-midnight-and-forever-382967"
+        },
+        {
+          "label": "Source — But Why Tho? Interview: No Raid Attunements (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/no-raid-attunements-for-launch-raids-but-why-tho-interview-on-wow-forever-382964"
+        },
+        {
+          "label": "Source — The Sun Interview: Chase Items on Every Raid Boss (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/chase-items-on-every-raid-boss-the-sun-interview-on-wow-forever-382892"
+        },
+        {
+          "label": "Source — MMORPG Interview: Bank Space & Hidden Raid Items (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/increased-bank-space-raid-items-hidden-until-it-drops-mmorpg-interview-on-wow-382960"
+        },
+        {
+          "label": "Source — Dungeon Experience Changes in WoW: Forever (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/dungeon-experience-changes-in-world-of-warcraft-forever-382898"
+        },
+        {
+          "label": "Source — IGN Nordic Interview: New Biome Buff Gear (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/new-biome-buff-gear-ign-nordic-interview-on-wow-forever-382936"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_Announce_Raid_BarrowDeeps_077.jpg",
+          "caption": "Barrow Deeps — 10-player raid"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_Announce_Raid_BarrowDeeps_079.jpg",
+          "caption": "Barrow Deeps"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_Announce_Raid_BarrowDeeps_082.jpg",
+          "caption": "Barrow Deeps"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_Announce_Raid_BarrowDeeps_083.jpg",
+          "caption": "Barrow Deeps"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_Announce_Raid_BarrowDeeps_104.jpg",
+          "caption": "Barrow Deeps"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_Announce_Raid_Hyjal_085.jpg",
+          "caption": "Hyjal Summit — 20-player raid"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_Announce_Raid_Hyjal_086.jpg",
+          "caption": "Hyjal Summit"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_Announce_Dungeon_Dalaran_073.jpg",
+          "caption": "Dungeon — Dalaran"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_Announce_Dungeon_Dalaran_074.jpg",
+          "caption": "Dungeon — Dalaran"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_SCENIC_Announce_Dungeon_Lordaeron_046.png",
+          "caption": "Dungeon — Lordaeron"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_SCENIC_Announce_Dungeon_Lordaeron_047.png",
+          "caption": "Dungeon — Lordaeron"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_SCENIC_Announce_Dungeon_Lordaeron_048.png",
+          "caption": "Dungeon — Lordaeron"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_Announce_Dungeon_HallOfThanes_053.jpg",
+          "caption": "Dungeon — Hall of Thanes"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_Announce_Dungeon_ExcavationSite_055.jpg",
+          "caption": "Dungeon — Excavation Site"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_Announce_Dungeon_DrownedCity_062.jpg",
+          "caption": "Dungeon — The Drowned City"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_Announce_Dungeon_DrownedCity_064.jpg",
+          "caption": "Dungeon — The Drowned City"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_Announce_Dungeon_TimbermawHold_057.jpg",
+          "caption": "Dungeon — Timbermaw Hold"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_Announce_Dungeon_AlcazPrison_066.jpg",
+          "caption": "Dungeon — Alcaz Island Prison"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_Announce_Dungeon_ShaperTerrace_068.jpg",
+          "caption": "Dungeon — The Shaper's Terrace"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_Announce_Dungeon_KrolDokStronghold_071.jpg",
+          "caption": "Dungeon — Krol'Dok Stronghold"
+        },
+        {
+          "type": "youtube",
+          "id": "nQPS_QSOYCU",
+          "caption": "World of Warcraft: Forever — Deep Dive (BlizzCon 2026)"
+        }
+      ]
+    },
+    {
+      "title": "Realmless, Two Names, and the Legacy System",
+      "tab": "Realmless & Legacy",
+      "category": "World of Warcraft: Forever",
+      "synopsis": "Forever has no realms — you pick a ruleset, you get a first and last name, and a Legacy System pays you for leveling alts.",
+      "points": [
+        {
+          "text": "no realm list at character creation — you pick a ruleset: Normal, PvP, Roleplay, or Hardcore, each running as its own big ecosystem",
+          "sub": "realmless but not regionless — Oceanic players sit on OCE hardware sharing the US-wide auction house"
+        },
+        "no cross-ruleset grouping and no cross-faction anything — \"the Horde and Alliance hate each other\" — but Battlegrounds are shared",
+        "no summoning stones — meeting stones open a new LFG listing instead, and if you don't have a Warlock, you walk",
+        "every character getting a main name and a secondary name, unique per region and across rulesets — early name reservation opening October 27",
+        "Hardcore arriving after launch as a closed ecosystem, and a dead Hardcore character able to transfer to any other ruleset, PvP included",
+        "the Legacy System: complete challenges — leveling classes, tradeskills to 150, 225, and 300, PvP ranks, reputations, dungeons — to earn Legacy Points",
+        "the Legacy System: complete challenges — leveling classes, tradeskills to 150/225/300, PvP ranks, reputations, dungeons — to earn Legacy Points",
+        "a Legacy Reward Track on total points — Spectral Bear Cub, Spectral Bear mount and tabard, and a Replica Ironforge Air Rifle that stuns other players",
+        "mount costs moving into riding training, TBC-style — 100 or 1,000 gold for the skill, then your first mount comes free"
+      ],
+      "questions": [
+        "Realmless kills the 'wrong server' problem, but it also kills 'our server.' Do you care about a realm identity, or was that always the guild's job anyway?",
+        "Which of you is going to be the alt-army Legacy grinder, and which one is spending all sixteen points on one character?"
+      ],
+      "sources": [
+        {
+          "label": "Source — No More Realms in WoW Forever (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/no-more-realms-in-wow-forever-382866"
+        },
+        {
+          "label": "Source — Live Q&A Liveblog: Midnight and Forever (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/world-of-warcraft-live-q-a-liveblog-midnight-and-forever-382967"
+        },
+        {
+          "label": "Source — Kotaku Interview: No Summoning Stones & Mount Costs (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/no-summoning-stones-and-mount-cost-changes-kotaku-interview-382944"
+        },
+        {
+          "label": "Source — Main and Secondary Names in Forever (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/main-and-secondary-names-in-forever-for-character-creation-382839"
+        },
+        {
+          "label": "Source — Hardcore Players Can Transfer Modes on Death (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/hardcore-players-on-forever-will-be-able-to-transfer-modes-on-death-382867"
+        },
+        {
+          "label": "Source — Hardcore Will Not Be Available at Forever's Launch (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/hardcore-will-not-be-available-on-forevers-launch-382876"
+        },
+        {
+          "label": "Source — Warcraft: Forever Legacy System Explained (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/warcraft-forever-legacy-system-explained-382842"
+        },
+        {
+          "label": "Blizzard — WoW: Forever Deep Dive Panel Recap",
+          "url": "https://worldofwarcraft.blizzard.com/en-us/news/24303313"
+        },
+        {
+          "label": "Source — Sportskeeda Interview: Controller & Mount Costs (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/official-controller-supports-training-mount-skill-costs-sportskeeda-interview-on-382963"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/55230-no-more-realms-in-wow-forever.jpg",
+          "caption": "No more realms in WoW: Forever (Wowhead)"
+        },
+        {
+          "type": "image",
+          "src": "../media/55216-warcraft-forever-legacy-system-explained.jpg",
+          "caption": "Legacy System explained (Wowhead)"
+        },
+        {
+          "type": "image",
+          "src": "../media/55231-hardcore-players-on-forever-will-be-able-to-transfer-modes-on-death.jpg",
+          "caption": "Hardcore transfer on death (Wowhead)"
+        },
+        {
+          "type": "youtube",
+          "id": "Gzo6t7xmK0Q",
+          "caption": "\"Go Again!\" — World of Warcraft: Forever Hardcore Panel (BlizzCon 2026)"
+        }
+      ]
+    },
+    {
+      "title": "Camping, 600 Recipes, and Optional Transmog",
+      "tab": "Camping & Mog",
+      "category": "World of Warcraft: Forever",
+      "synopsis": "Forever wants you to slow down: your cooking fire is now a campsite, professions got 600 new recipes, and transmog exists only if you turn it on.",
+      "points": [
+        "Camping turning the cooking fire into a Basic Campfire — a campsite with vendors, repairs, profession workspaces, and one-hour buffs you sit down and get rested to collect",
+        {
+          "text": "three crafted objects per campfire, one per player — a Blacksmith's Sharpening Wheel, a Tailor's Faction Banner, an Herbalist's Incense Candle, even a fish bowl",
+          "sub": "the buffs are variants of class buffs and don't stack with them — the buff high-five for a group with no Mage in it"
+        },
+        "upgraded campfires from Cooking holding five or ten objects, and advanced Blueprint recipes dropping from dungeon bosses",
+        "campfires lasting 10 minutes on an hour cooldown, nowhere in cities — and an internal tester put one on the Duskwood road and Stitches killed them",
+        "over 600 new recipes across every profession and level range, crafted food granting an XP bonus, and a level 3 quest handing out a free gathering profession",
+        {
+          "text": "transmog fully opt-in — a mode selector at first login, an NPC to flip it later, and \"Classic Mode\" turning it off automatically",
+          "sub": "same armor type only, no high-level looks before 60, and you still see everyone's hidden helm and cloak either way"
+        },
+        "BoP uncommons and rares in dungeons granting their appearance to the whole group — nobody rolling against your upgrade just for the look",
+        "raid epics staying personal — appearance only for whoever it binds to — \"up to the raid leader\"",
+        "the addon situation: modern client API, computational addons restricted, built-in damage meter in, Cooldown Manager coming later"
+      ],
+      "questions": [
+        "Is 'sit at a campfire for the buff' the social glue they think it is, or a thing everyone does once for the screenshot?",
+        "Transmog as a personal toggle — does that settle the Classic+ argument, or does it mean half the server is seeing a different game than the other half?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard — WoW: Forever Deep Dive Panel Recap",
+          "url": "https://worldofwarcraft.blizzard.com/en-us/news/24303313"
+        },
+        {
+          "label": "Source — What We Know About the Open World in WoW: Forever (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/what-we-know-about-the-open-world-so-far-in-wow-forever-382931"
+        },
+        {
+          "label": "Source — MMORPG Interview: Bank Space & Hidden Raid Items (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/increased-bank-space-raid-items-hidden-until-it-drops-mmorpg-interview-on-wow-382960"
+        },
+        {
+          "label": "Source — Over 600 New Recipes in WoW: Forever (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/over-600-new-recipes-in-wow-forever-382864"
+        },
+        {
+          "label": "Source — Changes & Additions to Professions in Forever (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/changes-and-additions-to-professions-in-world-of-warcraft-forever-382924"
+        },
+        {
+          "label": "Source — Transmog is Optional in WoW: Forever (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/transmog-is-optional-in-world-of-warcraft-forever-382834"
+        },
+        {
+          "label": "Source — Dungeon Drops Unlock Appearance for Whole Group (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/forever-transmog-items-dropped-in-dungeons-unlock-appearance-for-whole-group-382865"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_SCENIC_Announce_Camping_Players_063.jpg",
+          "caption": "Camping — players at a campfire"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_SCENIC_Announce_Camping_Players_064.jpg",
+          "caption": "Camping — players at a campfire"
+        },
+        {
+          "type": "image",
+          "src": "../media/55227-over-600-new-recipes-in-wow-forever.jpg",
+          "caption": "Over 600 new recipes (Wowhead)"
+        },
+        {
+          "type": "image",
+          "src": "../media/55229-forever-transmog-items-dropped-in-dungeons-unlock-appearance-for-whole-group.jpg",
+          "caption": "Dungeon drops unlock appearances for the whole group (Wowhead)"
+        }
+      ]
+    },
+    {
+      "title": "Forever's Rulebook: No GDKP, No Token, a PvP Track, and a Rough Beta Night",
+      "tab": "Rules & Beta",
+      "category": "World of Warcraft: Forever",
+      "synopsis": "Blizzard drew hard lines around Forever's economy and PvP, then launched the beta into a wall — and a producer explained exactly what broke.",
+      "points": [
+        {
+          "text": "GDKP not allowed in Forever — Blizzard saying it reaches a ubiquity that overtakes the guild structure, and that it's a laundering channel for bought gold",
+          "sub": "they also admitted they've been too lenient on gold buyers in the past and plan to be \"very punishing\" this time"
+        },
+        "no WoW Token and no boosts planned, and no rated PvP — instead a 14-rank Honor track that resets each patch cycle, with cosmetics and PvP armor that has stats",
+        "Darkspear Islands as a new 15v15 battleground — Eye of the Storm layout, Arathi Basin capture points, its own reputation — and Tim Jones saying \"battlegrounds,\" plural",
+        "full controller support — Xbox pads on every demo station, officially supported rather than retail's \"technically possible\"",
+        "the beta going live right after the September 17 Q&A, then disconnects, queues, and loot lag for hours",
+        {
+          "text": "Senior Game Producer Tom Ellis posting the postmortem on X: the beta runs on the PTR stack, and one regional realm's two connections tripped Battle.net's rate limiter — \"we scaled that 2 to an 8\"",
+          "sub": "then database tables needing a manual analyze, then world servers eating memory because empty maps weren't shutting down — \"20 years, always something new\""
+        },
+        "the beta capped at level 20, moving to 30 later and staying there — everyone starts at level 1 on November 4"
+      ],
+      "questions": [
+        "GDKP banned outright, gold buyers threatened with perma-bans. Is that enforceable, and does it actually protect guild raiding or just push the money underground?",
+        "A producer live-narrating a beta meltdown on X — refreshing transparency, or something the Blizzard of five years ago would never have allowed?"
+      ],
+      "sources": [
+        {
+          "label": "Source — GDKP Will Not Be Allowed in WoW: Forever (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/gdkp-will-not-be-allowed-in-wow-forever-382968"
+        },
+        {
+          "label": "Source — Destin Interview: No WoW Token or Boosts (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/no-wow-token-or-boosts-and-the-future-of-forever-destin-interview-with-blizzard-382882"
+        },
+        {
+          "label": "Source — 14-Rank Honor Track and Darkspear Islands BG (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/14-rank-pvp-honor-track-and-darkspear-islands-battleground-coming-in-wow-forever-382947"
+        },
+        {
+          "label": "Source — Live Q&A Liveblog: Midnight and Forever (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/world-of-warcraft-live-q-a-liveblog-midnight-and-forever-382967"
+        },
+        {
+          "label": "Source — WoW: Forever Will Have Full Controller Support (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/world-of-warcraft-forever-will-have-full-controller-support-382873"
+        },
+        {
+          "label": "Source — WoW: Forever Beta Now Live! (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/wow-forever-beta-now-live-382972"
+        },
+        {
+          "label": "Source — Tom Ellis Explains the Forever Beta Issues on X (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/behind-the-scenes-of-the-wow-forever-beta-issues-tom-ellis-explains-on-x-382993"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_Announce_BG_DarkspearIslands_090.jpg",
+          "caption": "Darkspear Islands battleground"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_Announce_BG_DarkspearIslands_091.jpg",
+          "caption": "Darkspear Islands battleground"
+        },
+        {
+          "type": "image",
+          "src": "../media/WoW_Forever_Announce_BG_DarkspearIslands_093.jpg",
+          "caption": "Darkspear Islands battleground"
+        },
+        {
+          "type": "youtube",
+          "id": "Y5zzSMSVhRo",
+          "caption": "World of Warcraft Developer Q&A — September 17 (Midnight and Forever)"
+        }
+      ]
+    }
+  ]
+}

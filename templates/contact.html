@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% set title = "Contact" %}
+{% set description = "Get in touch with Last Attempt — guest requests, press, corrections, collaborations." %}
+{% block content %}
+<div class="wrap">
+  <header class="page-head">
+    <span class="eyebrow">Get in touch</span>
+    <h1>Contact</h1>
+    <p class="lede">Email is the reliable way to reach us. We read everything; we reply to most of it.</p>
+  </header>
+  <section class="section" style="padding-top:.5rem">
+    <div class="contact-cards">
+      <div class="card contact-card">
+        <h3>General</h3>
+        <p>Questions, feedback, topic suggestions, corrections to something we said or wrote.</p>
+        <a class="email" href="mailto:{{ site.contact_email }}">{{ site.contact_email }}</a>
+      </div>
+      <div class="card contact-card">
+        <h3>Press &amp; partnerships</h3>
+        <p>Interview requests, press assets, sponsorships, cross-promotion with other Warcraft creators and communities.</p>
+        <a class="email" href="mailto:{{ site.press_email }}">{{ site.press_email }}</a>
+      </div>
+      <div class="card contact-card">
+        <h3>Be on the show</h3>
+        <p>Guild leaders, theorycrafters, addon authors, tournament players, community organizers — if you have a perspective our audience should hear, pitch it. Tell us who you are and what you'd want to talk about.</p>
+        <a class="email" href="mailto:{{ site.contact_email }}?subject=Guest%20pitch">{{ site.contact_email }}</a>
+      </div>
+      <div class="card contact-card">
+        <h3>Blizzard &amp; industry</h3>
+        <p>Embargoed material, press events, developer interviews, and official assets: we honour embargoes and will always credit official material as such.</p>
+        <a class="email" href="mailto:{{ site.press_email }}">{{ site.press_email }}</a>
+      </div>
+    </div>
+  </section>
+  {% if site.socials %}
+  <section class="section">
+    <div class="section-head"><h2>Elsewhere</h2></div>
+    <div class="listen-links">
+      {% for s in site.socials %}<a href="{{ s.url }}" rel="me noopener">{{ s.label }} <small>{{ s.url.replace('https://','').replace('www.','') }}</small></a>{% endfor %}
+    </div>
+  </section>
+  {% endif %}
+</div>
+{% endblock %}

@@ -1,0 +1,84 @@
+{% extends "base.html" %}
+{% set title = "Episode " ~ episode.number ~ " — " ~ episode.headline %}
+{% set description = episode.summary|excerpt(200) %}
+{% set image = show.image or None %}
+{% block head %}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"PodcastEpisode","name":{{ episode.headline|tojson }},"episodeNumber":{{ episode.number|int }},{% if episode.date %}"datePublished":"{{ episode.date|date('iso') }}",{% endif %}"url":"{{ site.url }}{{ episode.url }}",{% if episode.audio_url %}"associatedMedia":{"@type":"MediaObject","contentUrl":{{ episode.audio_url|tojson }}},{% endif %}"partOfSeries":{"@type":"PodcastSeries","name":"{{ site.show_name }}","url":"{{ site.url }}/episodes/"}}
+</script>
+{% endblock %}
+{% block content %}
+<div class="wrap">
+  <header class="episode-head">
+    {% if show.image %}<img class="art" src="{{ show.image }}" alt="" width="220" height="220">{% endif %}
+    <div>
+      <span class="eyebrow">{{ site.show_name }} · Episode {{ episode.number }}</span>
+      <h1>{{ episode.headline }}</h1>
+      <div class="meta">{% if episode.date %}<span>{{ episode.date|date }}</span>{% endif %}{% if episode.duration %}<span>{{ episode.duration }}</span>{% endif %}{% if not episode.published %}<span class="pill pill-soon">Publishing soon</span>{% endif %}</div>
+      {% if episode.audio_url %}
+      <audio class="audio" controls preload="none" src="{{ episode.audio_url }}"></audio>
+      {% endif %}
+      <div class="btn-row">
+        {% if episode.spotify_url %}<a class="btn btn-primary" href="{{ episode.spotify_url }}" rel="noopener">Listen on Spotify</a>{% endif %}
+        <a class="btn" href="{{ site.apple_url }}" rel="noopener">Apple Podcasts</a>
+        {% for s in site.socials if s.key == 'youtube' %}<a class="btn" href="{{ s.url }}" rel="noopener">YouTube</a>{% endfor %}
+      </div>
+    </div>
+  </header>
+
+  <div class="episode-body">
+    <div>
+      {% if episode.notes and episode.notes.rundown %}
+      <section class="rundown">
+        <h4>This week</h4>
+        {% if episode.notes.heads_up %}<p>{{ episode.notes.heads_up }}</p>{% endif %}
+        <ol>{% for r in episode.notes.rundown %}<li>{{ r }}</li>{% endfor %}</ol>
+      </section>
+      {% endif %}
+
+      {% if episode.notes and episode.notes.segments %}
+      <section class="section">
+        <div class="section-head"><h2>Segments</h2></div>
+        <div class="segments">
+          {% for it in episode.notes.segments %}
+          <details id="{{ it.slug }}" {% if loop.first %}open{% endif %}>
+            <summary>
+              <span class="eyebrow">{{ it.category }}</span>
+              <h3>{{ it.title }}</h3>
+              <p>{{ it.synopsis }}</p>
+            </summary>
+            {% if it.points %}
+            <ul>{% for p in it.points %}<li>{{ p.text }}{% if p.sub %}<small>{{ p.sub }}</small>{% endif %}</li>{% endfor %}</ul>
+            {% endif %}
+          </details>
+          {% endfor %}
+        </div>
+      </section>
+      {% endif %}
+
+      {% if episode.description_html %}
+      <section class="section">
+        <div class="section-head"><h2>Episode notes</h2></div>
+        <div class="description">{{ episode.description_html|safe }}</div>
+      </section>
+      {% endif %}
+    </div>
+
+    <aside class="sidebar">
+      <section>
+        <div class="section-head"><h2>Where to listen</h2></div>
+        <div class="listen-links">
+          <a href="{{ site.spotify_show_url }}" rel="noopener">Spotify <small>Follow the show</small></a>
+          <a href="{{ site.apple_url }}" rel="noopener">Apple Podcasts <small>Subscribe</small></a>
+          <a href="{{ site.feed_url }}">RSS <small>Any podcast app</small></a>
+        </div>
+      </section>
+      <section>
+        <div class="section-head"><h2>About the show</h2></div>
+        <p class="description">{{ show.description|excerpt(260) }}</p>
+        <a href="/about/">More about {{ site.name }} →</a>
+      </section>
+    </aside>
+  </div>
+</div>
+{% endblock %}

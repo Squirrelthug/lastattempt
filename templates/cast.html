@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% set title = "Cast" %}
+{% set description = "The host, co-hosts and recurring guests of the " ~ site.show_name ~ "." %}
+{% block content %}
+<div class="wrap">
+  <header class="page-head">
+    <span class="eyebrow">Who you're listening to</span>
+    <h1>Cast</h1>
+    <p class="lede">The show is recorded with members and friends of the guild {{ site.guild }}. Regulars below; guests rotate week to week.</p>
+  </header>
+  {% for group in ['host', 'cohost', 'guest'] %}
+  {% set people = cast.people|selectattr('role', 'equalto', group)|list %}
+  {% if people %}
+  <section class="section" style="padding-top:.5rem">
+    <div class="section-head"><h2>{{ {'host':'Host','cohost':'Co-hosts','guest':'Recurring guests'}[group] }}</h2></div>
+    <div class="people">
+      {% for p in people %}
+      <div class="card person">
+        <span class="eyebrow">{{ p.title }}</span>
+        <h3>{{ p.name }}</h3>
+        {% if p.bio %}<p>{{ p.bio }}</p>{% endif %}
+        {% if p.links %}<ul class="chips">{% for l in p.links %}<li><a href="{{ l.url }}" rel="noopener">{{ l.label }}</a></li>{% endfor %}</ul>{% endif %}
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+  {% endfor %}
+</div>
+{% endblock %}

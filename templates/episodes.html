@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% set title = "Episodes" %}
+{% set description = "Every episode of the " ~ site.show_name ~ " — weekly World of Warcraft news, raid and Mythic+ discussion from the guild Second Attempt." %}
+{% block content %}
+<div class="wrap">
+  <header class="page-head">
+    <span class="eyebrow">{{ site.show_name }}</span>
+    <h1>Episodes</h1>
+    <p class="lede">{{ stats.episode_count }} episodes and counting, weekly since {{ stats.first_episode_date|date }}. Listen here, or on <a href="{{ site.spotify_show_url }}" rel="noopener">Spotify</a> and <a href="{{ site.apple_url }}" rel="noopener">Apple Podcasts</a>.</p>
+  </header>
+  <section class="section episode-archive" style="padding-top:.5rem">
+    <ul class="episode-rows">
+      {% for e in episodes %}
+      <li id="ep-{{ e.number }}">
+        <span class="num">{{ e.number }}</span>
+        <div>
+          <a href="{{ e.url }}">{{ e.headline }}</a>
+          {% if not e.published %} <span class="pill pill-soon">Publishing soon</span>{% endif %}
+          <span class="meta">{% if e.date %}<span>{{ e.date|date('short') }}</span>{% endif %}{% if e.duration %}<span>{{ e.duration }}</span>{% endif %}</span>
+          {% if e.summary %}<p class="summary">{{ e.summary|excerpt(200) }}</p>{% endif %}
+          {% if e.topics %}<ul class="chips">{% for t in e.topics[:6] %}<li>{{ t }}</li>{% endfor %}</ul>{% endif %}
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+</div>
+{% endblock %}
