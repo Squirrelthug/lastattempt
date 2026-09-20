@@ -1,0 +1,191 @@
+{
+ "episode": "007",
+ "date": "2026-03-15",
+ "subtitle": "",
+ "source": "legacy-html",
+ "intro": {
+  "heads_up": "",
+  "rundown": []
+ },
+ "items": [
+  {
+   "title": "Midnight Secrets & Hidden Collectibles",
+   "tab": "",
+   "category": "News",
+   "synopsis": "The Secret Finding Discord discovered how to unlock Gortham, a secret capybara battle pet hidden in the Nexus-Point Xenas dungeon. All five party members must stand on the Corespark Conduits simultaneously in the wing leading to Chief Corewright Kasreth, which spawns a Netherstorm Structural Cage containing the pet and grants the You Conduit! Feat of Strength. Gortham also unlocks a new Mind-Seeker data record in the Seat of Knowledge, and the Secret Finding community believes it connects to a larger chain involving the Oddsight Focus — players are racing to complete 17 secrets for a clue from Anakron.",
+   "points": [
+    {
+     "text": "A new Ancestral War Bear mount is available from the Honored Warrior's Cache treasure in Zul'Aman. Instead of the classic timed dungeon run, players interact with the cache, then locate four Honored Warrior Urns across the main Amani Loa temples, defeat each Loa's Chosen to collect their token (Bear Tooth, Lynx Claw, Dragonhawk Feather, Eagle Feather), and return to the cache where spirits of the Chosen gather to witness the unlock. The mount is an HD update of the original with orange and light blue armor and an emerald Amani crest. A second War Bear, the Amani Blessed Bear, is available at Rank 17 with the Amani Tribe for 6,000 Voidlight Marl.",
+     "sub": ""
+    },
+    {
+     "text": "Blizzard's Zillow partnership for player housing hid a second freebie beyond the Naturally Elegant Doormat. Players can find a Simply Adorned Vase and Flowers decor item by clicking \"explore homes\" on the Zillow promotion, toggling between Alliance and Horde neighborhoods, and refreshing listings until a Greener's Plant Nursery ad appears with a \"free sample\" button. No in-game pop-up confirms the unlock — it simply appears in the Housing Dashboard. Duplicates can then be purchased from vendors Gabbi or Tuuran near the Trading Posts in Orgrimmar and Stormwind.",
+     "sub": ""
+    },
+    {
+     "text": "Wowhead — Gortham Battle Pet & You Conduit! Achievement",
+     "sub": ""
+    },
+    {
+     "text": "Wowhead — Ancestral War Bear Mount & Honored Warrior's Cache",
+     "sub": ""
+    },
+    {
+     "text": "Wowhead — Secret Zillow Decor: Simply Adorned Vase and Flowers",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Have you gone after any of these secrets yet — and does the Mind-Seeker chain have you motivated to hunt down all 17 secrets?",
+    "The Ancestral War Bear callback to the original Zul'Aman timed runs is a nice nod — do you think these treasure-hunt style unlocks are a better approach than pure RNG drops for mounts?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — iMX3, Jaydaa, Archimtiros",
+     "url": ""
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Mounts, Rares & the Missing Lynx Pet Cafe",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Harandar rares drop two mounts (Rootstalker Grimlynx and Vibrant Petalwing), unique weapon transmogs including an oversized mushroom hammer, and the Trials of the Florafaun Hunter item that lets Hunters tame Harandar's native florafaun species — Devilsaptors, Saptors, Cloroceroses, Potatoads, Thornmaws, Petalwings, and Grovecrawlers. The taming unlock is account-wide. Separately, Wowhead compiled a list of 8 easy Midnight mounts including the Reins of the Insatiable Shredclaw (a short puzzle in Voidstorm), Cobalt Dragonhawk (Eversong rare drops), Escaped Witherbark Pango (Zul'Aman rare drops), the Elder Glowmite and Vivid Chloroceros two-for-one from moth collecting in Harandar, Echo of Aln'sharan (a cloud serpent from collecting 500 Mysterious Skyshards), and Silvermoon's Arcane Defender plus Elven Arcane Guardian at 10,000 delve currency each.",
+   "points": [
+    {
+     "text": "On the lighter side, Wowhead spotlighted The Missing Lynx, a dachshund pet cafe on the upper tier of Murder Row in Silvermoon City. The cafe is packed with Dachshunds (called elfhounds in-game), Corgis, Chihuahuas, cats, birds, fish, and even a crab — along with elaborate decor including dog houses, collars, treats, chew toys, plushies, espresso station, and pastries. There are no vendors or activities inside; it's pure atmosphere. The article notes it's one of the best examples of Silvermoon feeling like a living, organic city.",
+     "sub": ""
+    },
+    {
+     "text": "Players can get their own Dachshund pets in Midnight: Luma is earned through a short questline in Eversong Woods starting with Second Time's a Choice and ending with Thief at Bark (starts at Instructor Antheol in Fairbreeze Village). Willie is earned by collecting the Half-Digested Viscera treasure in Voidstorm inside a cave south of the Ingress.",
+     "sub": ""
+    },
+    {
+     "text": "Wowhead — Farm Harandar Rares for Mounts & Unique Transmog",
+     "sub": ""
+    },
+    {
+     "text": "Wowhead — 8 Easy Midnight Mounts to Add to Your Collection",
+     "sub": ""
+    },
+    {
+     "text": "Wowhead — The Missing Lynx Dachshund Pet Cafe in Silvermoon",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "How many of these easy mounts has everyone knocked out already, and which ones are you prioritizing first?",
+    "Have you visited the Missing Lynx? Does this kind of purely atmospheric, non-functional space add to Silvermoon for you, or do you wish it had a vendor or activity tied to it?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — iMX3, Whispyr, Jaydaa",
+     "url": ""
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Abundance Nerfed & March 13 Hotfixes",
+   "tab": "",
+   "category": "News",
+   "synopsis": "The Abundance world event has been quietly nerfed with no mention in official hotfix notes. Players on Reddit and social media report that Abundance orbs now appear to be shared among players rather than individual, and orbs despawn faster. Previously, players could reliably hit the 900 Unalloyed Abundance cap per empowered run (activated with a Shard of Dundun, limited to 8 per week) by grouping in raids, where bonus bars triggered more often. The raid group strategy was so effective it caused server lag in the empowered zone. Now, hitting the 900 cap is no longer guaranteed, and there is zero catch-up for missed Shards of Dundun or missed Unalloyed Abundance — meaning crafters who fall behind on earning currency for Epic Profession tools fall behind permanently.",
+   "points": [
+    {
+     "text": "The March 13 hotfixes include: significant reduction in Voidlight Marl costs for Housing decor, class bugfixes for Death Knight (Unholy Gargoyle scaling), Demon Hunter (Reaper's Toll fix for Devourer), Guardian Druid (Dream Guide, Dream of Cenarius, Fury of Nature, and Memory of Ysera fixes), Restoration Druid (Symbiotic Blooms now visible on raid frames), and Preservation Evoker (Dream Flight healing calculation). Dungeon fixes hit Den of Nalorakk (Volatile Totem count) and Magisters' Terrace (Polymorph school corrected to Arcane). Rare creatures in Midnight zones now respawn faster, and Crate of Battlefield Goods now gives disenchant-relevant materials by level bracket.",
+     "sub": ""
+    },
+    {
+     "text": "The Marl cost reduction for decor is notable for players who felt Housing was too expensive to engage with, and the faster rare respawns in Midnight zones should help with mount and transmog farming in areas like Harandar and Zul'Aman discussed earlier.",
+     "sub": ""
+    },
+    {
+     "text": "Wowhead — Abundance Is No Longer Abundant",
+     "sub": ""
+    },
+    {
+     "text": "Wowhead — Midnight Hotfixes for March 13th",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Is the Abundance nerf justified to fix server lag, or should Blizzard have added a catch-up mechanism before nerfing the rates — especially with no official communication about the changes?",
+    "The Marl cost reduction and faster rare respawns feel like quality-of-life wins early in the expansion — are these the right adjustments, or is there something else you wish they'd hotfixed?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Squishei, Jaydaa",
+     "url": ""
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Voidforge Bonus Rolls in 12.0.5 & Roofus Charity Pack",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Patch 12.0.5 introduces the Voidforge, a new warband-wide loot system built around bonus rolls. Players will help the domanaar Decimus construct the Voidforge, then earn Nebulous Voidcores (2 per week, purchased with gold, Voidlight Marl, or Veteran Dawncrests) that function as targeted bonus rolls when defeating raid bosses or completing M+ dungeons, Bountiful Delves, or Nightmare Prey Hunts. Items use a knockout list per difficulty — once you receive an item, it's removed from the pool until all eligible items are obtained. Raid bosses cost 2 Voidcores, M+ costs 1. M+ reward item level matches Great Vault rewards (Myth track at +10 and above).",
+   "points": [
+    {
+     "text": "A second phase unlocks Ascendant Voidcores after completing the Ascendant Nilhammer questline. These can infuse fully upgraded Hero, Myth, and max-quality Radiance Crafted weapons and trinkets with additional item level, pushing gear beyond its normal upgrade cap.",
+     "sub": ""
+    },
+    {
+     "text": "Separately, the Roofus Pack charity bundle goes on sale March 17 and runs through May 12, 2026. 100% of the purchase price goes to Habitat for Humanity (less chargebacks, refunds, fees, and VAT). The pack includes the Roofus companion pet — a builder pup with idle construction animations — available in both Retail and Classic WoW. Retail players also get dog-themed Housing decor: a dog house, a dog bed, and a dog bowl.",
+     "sub": ""
+    },
+    {
+     "text": "Wowhead — Bonus Rolls Returning in 12.0.5: Voidforge System Explained",
+     "sub": ""
+    },
+    {
+     "text": "Wowhead — Roofus Charity Pack Available March 17th",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "The knockout system means you can't get the same item twice from Voidcores on a given difficulty — does this feel like it fixes the \"I never get my trinket\" frustration, or does 2-per-week feel too slow?",
+    "The Roofus Pack drops right in the middle of early Midnight progression — are you picking it up, and does tying the charity to Housing decor feel like a smart move from Blizzard?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Squishei",
+     "url": ""
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Jeff Kaplan on the Lex Fridman Podcast",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Jeff Kaplan, legendary designer of World of Warcraft and Overwatch, sat down with Lex Fridman for a 5-hour interview covering his entire career. Kaplan was hired by Allen Adham as one of the original WoW quest designers — he and Pat Nagle built the quest system that became the blueprint for quest-driven leveling in MMOs. He described working with Chris Metzen as translating Metzen's creative vision into gameplay, recounting how Metzen would riff for an hour about zones like Grizzly Hills and Silvermoon City with such conviction that junior devs took every word literally (they once tried to measure every structure in WoW to make sure the Silvermoon tower was the tallest). The Horde vs. Alliance faction split was championed by Allen Adham (inspired by Dark Age of Camelot) against pushback from Kaplan and Rob Pardo, who came from EverQuest's mixed-race model.",
+   "points": [
+    {
+     "text": "On Overwatch, Kaplan discussed how the Overwatch League became a destabilizing force — the concept was sound (regional teams, player salary protections), but it was over-marketed to investors who were told it would rival the NFL. The resulting financial pressure and commitments (Twitch deal, team skins, technical integrations) diverted the dev team from both live events and Overwatch 2 development. Kaplan left Blizzard in April 2021 after 19 years, describing the departure as emotionally devastating — he had believed he would retire there.",
+     "sub": ""
+    },
+    {
+     "text": "After leaving, Kaplan founded Kintsugiyama with Tim Ford (former associate tech director on Overwatch) and is building The Legend of California — an open-world multiplayer action game set during a mythical version of the 1800s California Gold Rush. The world is handcrafted but uses voxel terrain with map seeds that randomize difficulty tiers and points of interest per server. The game is on Steam and an alpha is expected soon. Kaplan also shared his take on AI in game development: useful for tedious tasks (he used ChatGPT to batch-resize 2,000 images), but currently \"overconfident\" and unreliable for creative work, and he stressed that using artists' or voice actors' work without permission is wrong.",
+     "sub": ""
+    },
+    {
+     "text": "YouTube — Lex Fridman Podcast: Jeff Kaplan Interview (5+ hours)",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Jeff Kaplan described WoW's world as the \"lead character\" — quoting Chris Metzen. Twenty years later, does Midnight's Silvermoon and Zul'Aman deliver on that philosophy, or has WoW shifted away from world-as-character?",
+    "Kaplan's story about the Overwatch League spiraling into a money-driven operation is a cautionary tale — do you see any parallels in how WoW's esports or competitive M+ scene is managed today?"
+   ],
+   "sources": [
+    {
+     "label": "Lex Fridman Podcast — YouTube (5+ hours)",
+     "url": ""
+    }
+   ],
+   "media": []
+  }
+ ]
+}

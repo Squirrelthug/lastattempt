@@ -1,0 +1,407 @@
+{
+ "episode": "013",
+ "date": "2026-04-25",
+ "subtitle": "",
+ "source": "legacy-html",
+ "intro": {
+  "heads_up": "",
+  "rundown": []
+ },
+ "items": [
+  {
+   "title": "Patch 12.0.5 Launch: Bug Wave & Hotfix Sprint",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Patch 12.0.5 — Lingering Shadows — went live on Tuesday, April 21st on a faster cadence than anticipated for Midnight, and the launch shipped with an unusually heavy bug load. Blizzard has spent the last four days hotfixing in waves, raising the question of whether the tighter patch schedule is outrunning the quality bar Blizzard had been holding to.",
+   "points": [
+    {
+     "text": "Pre-launch / disabled at the gate:",
+     "sub": ""
+    },
+    {
+     "text": "Player Housing was temporarily disabled in the Americas and Oceanic regions during launch maintenance after Blizzard found a critical bug; learning new decor was disabled along with it. Blizzard opened realms with Housing and Neighborhoods turned off and committed to a follow-up maintenance to bring it back.",
+     "sub": ""
+    },
+    {
+     "text": "Midnight Keystone Myth — Season One achievement (3,400 rating) was disabled at launch in the Americas and Oceanic for a bug; it came online with the April 24 hotfixes and qualifying players are receiving the achievement retroactively.",
+     "sub": ""
+    },
+    {
+     "text": "Raid & encounter bugs:",
+     "sub": ""
+    },
+    {
+     "text": "L'ura on March of Quel'Danas bugged on all difficulties — Phase 3 Dawn Crystal safety auras sometimes failing to protect players from the DoT; the Eclipsed intermission debuff persisting after the healing absorb is removed and stacking up to 4 times for the rest of the fight, also reported on Paladins and Dragons in Voidspire. No fix posted yet.",
+     "sub": ""
+    },
+    {
+     "text": "Alleria received a 12.0.5 \"fix\" that closed an immunity strategy and was effectively a buff with only a 10% Gravity Collapse damage reduction; on April 23 a follow-up hotfix nerfed Gravity Collapse another 10%, bringing damage from 234k to 189k per snap.",
+     "sub": ""
+    },
+    {
+     "text": "Magisters' Terrace — Degentrius's Devouring Entropy could damage players who were immune to it. Fixed April 23.",
+     "sub": ""
+    },
+    {
+     "text": "Windrunner Spire — Commander Kroluk could melee after finishing his Bladestorm cast. Fixed April 23.",
+     "sub": ""
+    },
+    {
+     "text": "Voidcore Bonus Rolls duplicates:",
+     "sub": ""
+    },
+    {
+     "text": "Nebulous Voidcore bonus rolls were not removing won items from the loot table, allowing duplicate drops. Blizzard acknowledged it, told players to hold off using bonus rolls, and hotfixed it on Wednesday April 22 around 8:05 PM PDT.",
+     "sub": ""
+    },
+    {
+     "text": "Blizzard explained the cause as a database difference between internal test environments (single database) and live realms (multiple databases) — the system worked as intended internally but not on live.",
+     "sub": ""
+    },
+    {
+     "text": "Every Nebulous Voidcore spent before the fix is being refunded to affected characters, and Blizzard noted that re-rolling on the same boss after the fix may still produce duplicates of items already received pre-fix.",
+     "sub": ""
+    },
+    {
+     "text": "Class bugs — specs that were broken or off-tune:",
+     "sub": ""
+    },
+    {
+     "text": "Unholy Death Knight dropped to the bottom of the WarcraftLogs Overall DPS chart due to multiple bugs: Commander of the Dead not applying to pets on spawn (especially during Army of the Dead), Dread Plague and Virulent Plague not ticking correctly when extended, Disease Cloud sourcing damage from the player instead of the Abomination so it didn't scale with pet modifiers, Unholy Devotion granting unintended haste in addition to attack speed and energy regen, Magus of the Dead AFK on spawn for ~1–1.5s, and Forbidden Knowledge Rank 4 under-procing. Fixed April 23–24, including a rework of Festering Scythe to a player aura instead of a target debuff.",
+     "sub": ""
+    },
+    {
+     "text": "Preservation Evoker — Stasis stopped capturing and duplicating Dream Breath, breaking a core part of the spec's healing toolkit. No fix posted yet.",
+     "sub": ""
+    },
+    {
+     "text": "Holy Paladin — Holy Armaments causing major FPS drops (workaround: spec swap and back); a missing 12.0.1 damage hotfix reportedly making the spec underperform. Holy Armaments framerate issue fixed April 24.",
+     "sub": ""
+    },
+    {
+     "text": "Mistweaver Monk — Refreshment, Uplifted Spirits, Unity Within, and Chrysalis randomly being disabled in raid; unclear trigger and unclear if it affects Mythic+. No fix posted yet.",
+     "sub": ""
+    },
+    {
+     "text": "Devourer Demon Hunter — the Sweet Suffering nerf intended for 12.0.5 didn't apply, and Devour was generating ~18 Fury instead of 10; spec dominated post-launch charts before tuning landed. Sweet Suffering issue addressed; April 24 also fixed Single-Button Assistant range recommendations on Collapsing Star.",
+     "sub": ""
+    },
+    {
+     "text": "Vengeance Demon Hunter — Metamorphosis going on cooldown when Last Resort triggered. Fixed April 24.",
+     "sub": ""
+    },
+    {
+     "text": "Windwalker Monk — Zenith Stomp benefits from Mastery but doesn't act as a unique spell to keep it going (X > Stomp > X drops Mastery / Hit Combo); double Zenith with Drinking Horn Cover overwriting; CDM buffs disappearing without a profile reset. No fix posted yet.",
+     "sub": ""
+    },
+    {
+     "text": "Restoration Shaman — the patch notes promised a 30% damage increase but the spec only received 15%. No fix posted yet.",
+     "sub": ""
+    },
+    {
+     "text": "Marksmanship Hunter — Pathfinding/Endurance Training double-applying with Unbreakable Bond plus Cunning or Tenacity, and Cunning/Tenacity pets sometimes losing their pet passives; also a separate bug where Unbreakable Bond's damage reduction went to the hunter instead of the pet. All fixed April 23–24. A second wave of PvP-only nerfs landed April 24 (Black Arrow damage −30%, all damage −10% in PvP) due to MM overperforming.",
+     "sub": ""
+    },
+    {
+     "text": "Affliction Warlock — Blight of Weakness and Tongues missing from the Cooldown Manager; Frequent Traveler not working through other Warlocks' Demonic Gateways; Jinx not functioning without Foul Mouth talented. Fixed across April 23–24.",
+     "sub": ""
+    },
+    {
+     "text": "Destruction Warlock — leftover spells from removed talents still appearing in the Cooldown Manager. Fixed April 23.",
+     "sub": ""
+    },
+    {
+     "text": "Demonology Warlock — Demonic Gateway unintentionally benefiting Hellbent Commander; Diabolist's Abyssal Dominion not matching Demonic Tyrant duration with Reign of Tyranny. Fixed April 23–24.",
+     "sub": ""
+    },
+    {
+     "text": "Frost Mage — Hand of Frost Rank 2 not providing the correct per-stack Shatter chance increase. Fixed April 24.",
+     "sub": ""
+    },
+    {
+     "text": "Shadow Priest — Voidweaver's Overwhelming Shadows incorrectly buffing Mind Blast. Fixed April 24.",
+     "sub": ""
+    },
+    {
+     "text": "Trickster Rogue — Cloud Cover costing 30 Energy to activate, and the visual being shown to the entire party instead of just the caster. Fixed April 24.",
+     "sub": ""
+    },
+    {
+     "text": "Other clean-ups in the April 24 hotfix wave:",
+     "sub": ""
+    },
+    {
+     "text": "Pandaren characters who boosted during the intro sequence can now port to their houses; Valeera no longer refuses to attack Poison Dart Frog or Giant Cursed Bullfrog in Delves; Atal'Aman Sanctified Banner placement adjusted; The Darkway's Corrupted Leyline no longer keeps casting Detected! out of range; Maisara Caverns players no longer stuck in combat after Vordaza; multiple quest fixes including the Nebulous Voidcore turn-in for \"Artifice of Aggression.\"",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Of all the bugs that surfaced in 12.0.5 — from L'ura's safety auras to Unholy DK falling to the bottom of the charts — which one hit your gameplay the hardest, and which one made you laugh the hardest?",
+    "Blizzard fixed most of these inside 48–72 hours. Does that response speed make up for the state the patch shipped in, or does the sheer volume of issues say something bigger about the cadence Blizzard set themselves to?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Player Housing Temporarily Disabled in America & Oceanic Regions",
+     "url": "https://www.wowhead.com/news/player-housing-temporarily-disabled-in-na-region-381327"
+    },
+    {
+     "label": "Wowhead — Keystone Myth Achievement for Season 1 Coming Soon",
+     "url": "https://www.wowhead.com/news/keystone-myth-achievement-for-season-1-coming-soon-381326"
+    },
+    {
+     "label": "Wowhead — Keystone Myth Achievement and Mounts Now Available in Patch 12.0.5",
+     "url": "https://www.wowhead.com/news/keystone-myth-mounts-now-live-381346"
+    },
+    {
+     "label": "Wowhead — L'ura Bugged on All Difficulties with Patch 12.0.5",
+     "url": "https://www.wowhead.com/news/lura-bugged-on-all-difficulties-with-patch-12-0-5-381335"
+    },
+    {
+     "label": "Wowhead — Alleria Nerfed in Latest Hotfixes",
+     "url": "https://www.wowhead.com/news/alleria-nerfed-in-latest-hotfixes-381368"
+    },
+    {
+     "label": "Wowhead — Class Bugs with Patch 12.0.5 — Unholy DK, Preservation Evoker",
+     "url": "https://www.wowhead.com/news/class-bugs-with-patch-12-0-5-unholy-dk-preservation-evoker-381338"
+    },
+    {
+     "label": "Wowhead — (Fixed) Unholy Death Knight Dealing Less Damage Than Intended Due to Bugs",
+     "url": "https://www.wowhead.com/news/unholy-death-knight-dealing-less-damage-than-intended-due-to-bugs-in-patch-12-0-381380"
+    },
+    {
+     "label": "Wowhead — Unholy Death Knight's Festering Scythe Bug Fixed",
+     "url": "https://www.wowhead.com/news/unholy-death-knight-bug-fixed-in-hotfix-381386"
+    },
+    {
+     "label": "Wowhead — Blizzard Investigating Issue With Bonus Rolls Duplicates",
+     "url": "https://www.wowhead.com/news/blizzard-investigating-issue-with-bonus-rolls-duplicates-381351"
+    },
+    {
+     "label": "Wowhead — Blizzard Confirms Bonus Rolls Safe to Use Again",
+     "url": "https://www.wowhead.com/news/blizzard-confirms-bonus-rolls-safe-to-use-again-381359"
+    },
+    {
+     "label": "Wowhead — Blizzard Will Refund Nebulous Voidcore Bonus Rolls in the Coming Days",
+     "url": "https://www.wowhead.com/news/blizzard-will-refund-nebulous-voidcore-bonus-rolls-in-the-coming-days-381366"
+    },
+    {
+     "label": "Wowhead — Marksmanship Hunter & Warlock Fixes — Midnight Patch 12.0.5 Hotfixes",
+     "url": "https://www.wowhead.com/news/marksmanship-hunter-affliction-warlock-and-destruction-warlock-fixes-381371"
+    },
+    {
+     "label": "Wowhead — Unholy Death Knight Fixed in Latest Midnight Hotfixes (April 24 hotfixes)",
+     "url": "https://www.wowhead.com/news/unholy-death-knight-fixed-in-latest-midnight-hotfixes-381390"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Blizzard's Public Apology for the 12.0.5 Launch",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Following four days of escalating bug reports, Blizzard posted a community-facing message acknowledging that the 12.0.5 launch fell short of their standards and committing to better communication on future patches — the kind of statement they don't usually issue mid-patch.",
+   "points": [
+    {
+     "text": "The post, signed by The World of Warcraft Team, opens by saying the 12.0.5 patch launch was \"not up to our standards\" and that the disruption caused \"justified frustration.\"",
+     "sub": ""
+    },
+    {
+     "text": "Blizzard says the team has been \"working around the clock since launch\" to stabilize the game and fix the highest-impact issues, linking to the running hotfixes thread and the two Bonus Roll posts (the investigation announcement and the refund commitment).",
+     "sub": ""
+    },
+    {
+     "text": "They commit to taking lessons from this launch to prevent it from happening again, and specifically to \"communicate openly, early, and often when a launch doesn't go as expected\" — including known issues, fixes as they roll out, and any other useful information for the community while problems are being worked.",
+     "sub": ""
+    },
+    {
+     "text": "The post closes with: \"We care deeply about this game, and we play it right alongside you. We will do better.\"",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "How does Blizzard's tone in this post compare to past apologies you've seen from them — do you read this as a real shift in posture, or is this standard PR language we're trained to expect after a rough launch?",
+    "\"Communicate openly, early, and often\" is a big promise. What would actually following through on it look like next patch — and do you think we'll see it when things go right, or only when something else goes wrong?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Blizzard Shares a Message With Players Regarding the 12.0.5 Launch",
+     "url": "https://www.wowhead.com/news/blizzard-shares-a-message-with-players-regarding-the-12-0-5-launch-381373"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Decor Duels: Wowhead Interview & Track Humanoids Exploit",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Blizzard sat down with Wowhead for an exclusive interview about the design of Decor Duels, the new prop-hunt-style mode in Silvermoon — but in the same week, players found ways to break it open with class abilities and food buffs the developers forgot to disable.",
+   "points": [
+    {
+     "text": "Interview — design intent and origins:",
+     "sub": ""
+    },
+    {
+     "text": "Game Producer Jerry Li and Senior Quality Analyst Patrick Horaczek say Decor Duels came out of a brainstorm aimed at building something fun regardless of how much in-game support already existed. The first playtest was at Sentinel Hill in Westfall (lots of houses to hide in), but they ended up settling on Silvermoon for its lore relevance and its magical theming — hiders use illusions, seekers dispel them.",
+     "sub": ""
+    },
+    {
+     "text": "Class kits are intentional. Spellbreaker fits the Silvermoon city guards and has a leap as a gap closer; Arcane Ranger has ranged abilities and stealth. The team specifically wanted to avoid a single dominant kit so players don't all settle on the same pick.",
+     "sub": ""
+    },
+    {
+     "text": "Matches are quick — about 3 minutes per round, no role queue, no comp requirement, matchmade with one premade team allowed. Winners earn slightly more currency but it's not heavily weighted; participation alone is meant to be enough to acquire all the desired rewards. There's no penalty for losing.",
+     "sub": ""
+    },
+    {
+     "text": "No end date has been set yet. The live team is taking a \"wait and see\" approach based on player response. They like the idea of letting players build custom maps inside their own houses down the line, and frame this as the first of \"many future kooky game modes.\"",
+     "sub": ""
+    },
+    {
+     "text": "Favorite story from the interview: an early playtest had no cap on the bee and fly swarms that spawn around hiders who stand still too long — one developer came back from lunch to find his character entirely engulfed, with the servers straining under the load.",
+     "sub": ""
+    },
+    {
+     "text": "The exploits side of the same week:",
+     "sub": ""
+    },
+    {
+     "text": "Track Humanoids exploit: Hunter's Track Humanoids ability and the Blackened Worg Steak food buff both stay active inside Decor Duels, letting Seekers locate Hiders trivially. Wowhead frames this as a clear oversight — gaining a tracker in a hide-and-seek mode defeats the purpose of the mode.",
+     "sub": ""
+    },
+    {
+     "text": "Penalized for hiding too well: Players reported receiving no rewards at the end of a Decor Duel because they remained inactive in their hiding spot — if accurate, this punishes hiders for actually winning.",
+     "sub": ""
+    },
+    {
+     "text": "Out-of-bounds hiding: Players also reported being able to go fully out of bounds as a hider.",
+     "sub": ""
+    },
+    {
+     "text": "Trap-stacking at the Seeker spawn: Hiders were stacking traps near the Seekers' waiting room to prevent them from leaving. Blizzard patched this April 23 — Hiders can no longer go near the Seeker waiting room. Developer note flagged it as an \"emergent tactic.\"",
+     "sub": ""
+    },
+    {
+     "text": "Side note: April 24 hotfixes added Decorative Dornogal Opals (small, medium, and large) to the Decor Duel vendor in Silvermoon as new housing decor purchases.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "The dev team explicitly called Decor Duels an experiment and the first of more \"kooky\" modes — what kind of side modes would you actually want to see them try next?",
+    "How much of the Decor Duels exploit list is on Blizzard for not anticipating obvious abilities like Track Humanoids in a hide-and-seek mode, and how much is just players being players?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Blizzard Discusses Decor Duels in 12.0.5 (Exclusive Interview)",
+     "url": "https://www.wowhead.com/news/blizzard-discusses-decor-duels-in-12-0-5-exclusive-wowhead-interview-381284"
+    },
+    {
+     "label": "Wowhead — Decor Duels Marred By Track Humanoids Exploit",
+     "url": "https://www.wowhead.com/news/decor-duels-marred-by-track-humanoids-exploit-381342"
+    },
+    {
+     "label": "Wowhead — April 23 Hotfixes (includes Decor Duels Seeker spawn fix)",
+     "url": "https://www.wowhead.com/news/marksmanship-hunter-affliction-warlock-and-destruction-warlock-fixes-381371"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Chinese Exclusive: The Crimson Tide Treasure Hunt",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Thunderfire Games revealed a new Chinese-exclusive promotional event called The Crimson Tide Treasure Hunt, in which players purchase mystery boxes containing previously datamined Sha and Venthyr-themed cosmetics — available for both Classic (Titan Reforged) and Midnight servers in China.",
+   "points": [
+    {
+     "text": "What's in the box:",
+     "sub": ""
+    },
+    {
+     "text": "Mounts: The Count's Crimson Carriage (a flying lying-down luxury vehicle), The Scarlet Duchess (a flying pink pony surrounded by hearts), and the Miasma-Footed Snail (fluorescent green shell). A separate-but-bundled Sha promotion adds Sha Wolf, Owl, and Hippogryph mounts.",
+     "sub": ""
+    },
+    {
+     "text": "Transmog: Nathria Noble Attire, themed as a Shadow Realm nobleman.",
+     "sub": ""
+    },
+    {
+     "text": "Pets: Lil' Staropod (a baby thunder dragon) and Miasma Bat.",
+     "sub": ""
+    },
+    {
+     "text": "Housing decor: The Crimson Sire's Throne (Denathrius's throne), the Countess's Crimson Crystal Ball, and the Fallen Castle Pipe Organ.",
+     "sub": ""
+    },
+    {
+     "text": "Classic / Titan Reforged exclusives: Droplet of the Crimson Tide (transforms a Mage's water elemental appearance, including spell effects, into a Crimson Tide), and the Grizzly Hills Packmaster mount — a Northrend beast equipped with built-in repair and transmogrification, marketed as a travel must-have.",
+     "sub": ""
+    },
+    {
+     "text": "How the promotion works:",
+     "sub": ""
+    },
+    {
+     "text": "Players buy Treasure Points with real currency: 1 RMB (~$0.15 USD) = 1 Treasure Point = 1 Treasure Coin. 6 Treasure Coins = 1 random draw. 54 Treasure Coins = 10 random draws.",
+     "sub": ""
+    },
+    {
+     "text": "Wowhead notes the framing doesn't really tie to Venthyr, Revendreth, or the Shadowlands thematically — the bundle is a mix — but the Sha pieces still fit cleanly with that side of the promotion.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Of everything in this bundle, which item would you most want to see come to NA and EU stores — and is there a thematic reason something like the Crimson Carriage or Scarlet Duchess stays Chinese-exclusive?",
+    "These China-exclusive promotions keep landing with high-quality cosmetics. How do you read the Western audience's reaction to consistently being on the outside looking in for items like these?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — The Crimson Tide Treasure Hunt (Chinese Exclusive Venthyr Mystery Box Promotion)",
+     "url": "https://www.wowhead.com/news/the-crimson-tide-treasure-hunt-chinese-exclusive-venthyr-mystery-box-promotion-381323"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "New Capybara Pet (Ka'bubb) from Abyss Anglers",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Patch 12.0.5 added a new spear-fishing activity off the coast of Zul'Aman called Abyss Anglers, with a capybara-in-a-bubble companion named Ka'bubb as the headline reward.",
+   "points": [
+    {
+     "text": "Speak with Depthdiver Jeju to dive in. Players use the Fire Harpoon ability to spearfish until their dive suit's Oxygen runs out — there is no daily or weekly cap on how many dives can be done.",
+     "sub": ""
+    },
+    {
+     "text": "The activity's currency is Angler Pearls, used both to upgrade the dive suit (longer dives) and to unlock additional activities that earn more currency.",
+     "sub": ""
+    },
+    {
+     "text": "Players can also earn a limited weekly amount of Fused Vitality, plus transmog and housing decor.",
+     "sub": ""
+    },
+    {
+     "text": "Reward highlights — housing decor: Windmark Tribal Charm, Amani Dreamer's Charm, Barebone Rope Charm, Simple Bone-Tied Charm, Depthdiver's Cooking Spit, and Zul'Aman Forest Hammock.",
+     "sub": ""
+    },
+    {
+     "text": "Reward highlights — transmog: the Fangfin Flailer weapon, Ensemble: Depthdiver Vestments, and Ensemble: Abyss Angler.",
+     "sub": ""
+    },
+    {
+     "text": "Reward highlights — pet: Ka'bubb, a capybara floating inside a bubble.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Where does Ka'bubb rank on your all-time WoW pet list — and is \"capybara in a bubble\" the cutest design Blizzard has ever shipped?",
+    "Abyss Anglers has no daily or weekly cap on dives, just an upgrade-and-grind loop. Does that make it the kind of evergreen activity people will keep coming back to, or does the lack of weekly structure burn it out faster?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Earn a New Capybara Pet From Abyss Anglers in Patch 12.0.5",
+     "url": "https://www.wowhead.com/news/earn-a-new-capybara-pet-from-abyss-anglers-in-patch-12-0-5-381304"
+    }
+   ],
+   "media": []
+  }
+ ]
+}

@@ -21,6 +21,7 @@ from __future__ import annotations
 import argparse
 import datetime as dt
 import email.utils
+import hashlib
 import html
 import json
 import re
@@ -241,6 +242,8 @@ def load_notes() -> dict[str, dict]:
                 "category": it.get("category", ""),
                 "synopsis": it.get("synopsis", ""),
                 "points": points,
+                "questions": [q for q in it.get("questions", []) if q],
+                "sources": [src for src in it.get("sources", []) if isinstance(src, dict) and src.get("label")],
                 "slug": slugify(it.get("title", "")),
             })
         notes[num] = {
@@ -280,6 +283,7 @@ def merge_episodes(feed_eps: dict[str, dict], notes: dict[str, dict]) -> list[di
         # "Topics:" titles Spotify descriptions carry (no detail to expand).
         if nt:
             topics = [{"title": it["title"], "synopsis": it["synopsis"], "points": it["points"],
+                       "questions": it["questions"], "sources": it["sources"],
                        "category": it["category"], "slug": it["slug"]} for it in nt["segments"]]
         else:
             topics = [{"title": t, "synopsis": "", "points": [], "category": "", "slug": slugify(t)}
@@ -434,6 +438,8 @@ def make_env(site: dict) -> Environment:
     env.filters["excerpt"] = excerpt
     env.globals["site"] = site
     env.globals["now"] = dt.datetime.now(dt.timezone.utc)
+    # Short content hash so browsers refetch the stylesheet after every change despite the long Cache-Control.
+    env.globals["css_v"] = hashlib.sha1((STATIC / "css" / "site.css").read_bytes()).hexdigest()[:8]
     return env
 
 

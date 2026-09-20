@@ -1,0 +1,1030 @@
+{
+ "episode": "005",
+ "date": "2026-03-01",
+ "subtitle": "",
+ "source": "legacy-html",
+ "intro": {
+  "heads_up": "",
+  "rundown": []
+ },
+ "items": [
+  {
+   "title": "Midnight — Big Picture",
+   "tab": "",
+   "category": "Preview",
+   "synopsis": "11th expansion — launches Mar 2, 2026. Season 1 starts Mar 17, M+ keystones Mar 24",
+   "points": [
+    {
+     "text": "Second chapter of the Worldsoul Saga (TWW → Midnight → Last Titan)",
+     "sub": ""
+    },
+    {
+     "text": "First teased BlizzCon 2023. Full reveal Gamescom Aug 19, 2025",
+     "sub": ""
+    },
+    {
+     "text": "Pre-patch (12.0.0) Jan 20, 2026 — pre-expansion event \"Twilight Ascension\" Jan 27",
+     "sub": ""
+    },
+    {
+     "text": "Epic Edition early access Feb 26 at 3:00 PM PST",
+     "sub": ""
+    },
+    {
+     "text": "GameSpot called it \"arguably the most transformative expansion since Cataclysm\"",
+     "sub": ""
+    },
+    {
+     "text": "Ion: \"the fastest expansion we've ever made\" — ~18 months from TWW",
+     "sub": ""
+    },
+    {
+     "text": "Ion: \"Midnight really has the potential to be our best expansion ever… my high-water mark is probably Legion. I think this one can top it\"",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "After TWW being so well-received, can Midnight actually live up to \"best expansion ever\"? Or is that setting expectations too high?",
+    "18-month dev cycle — does the faster pace feel like momentum or rushing?",
+    "\"Most transformative since Cataclysm\" — is that exciting or terrifying? Cataclysm was polarizing too."
+   ],
+   "sources": [],
+   "media": []
+  },
+  {
+   "title": "Systems & Progression Changes",
+   "tab": "",
+   "category": "Preview",
+   "synopsis": "Level cap 80 → 90. 10 new talent points: 3 class, 3 hero, 4 spec tree",
+   "points": [
+    {
+     "text": "Apex Talents — every spec gets a unique three-tier package at bottom of spec tree. Major power boost + new gameplay element",
+     "sub": ""
+    },
+    {
+     "text": "Hero talent tree gains a new column — at max level, entire hero tree is filled for the first time",
+     "sub": ""
+    },
+    {
+     "text": "Class pruning — abilities removed across the board. Some specs hit hard (Holy Priest lost ~half its abilities), others barely touched (Prot Warrior)",
+     "sub": ""
+    },
+    {
+     "text": "Blizzard says Apex Talents at 90 will restore missing complexity",
+     "sub": ""
+    },
+    {
+     "text": "Paladin pruning reverted during beta after backlash. Kubit: player feedback was \"passionate,\" they \"heard loud and clear\"",
+     "sub": ""
+    },
+    {
+     "text": "Pre-patch also brought: stat/ilvl squish, complete transmog overhaul (slot-based appearances + outfits system), built-in damage meters, native boss alerts, cooldown manager, simplified skyriding (6 shared charges, no Vigor bar), PvP training grounds",
+     "sub": ""
+    },
+    {
+     "text": "Assisted Highlight & One-Button Rotation — new accessibility tools, controversial",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Class pruning — did your spec get hit hard? Does Blizzard's promise that Apex Talents restore complexity reassure you?",
+    "One-Button Rotation for accessibility — good idea or dumbing the game down? Where's the line?",
+    "The transmog overhaul and built-in meters — are these the addons Blizzard should have always been making?"
+   ],
+   "sources": [],
+   "media": []
+  },
+  {
+   "title": "Quel'Thalas — Four Zones & Silvermoon",
+   "tab": "",
+   "category": "Preview",
+   "synopsis": "Setting: fully revamped Quel'Thalas, split into 4 zones with branching progression",
+   "points": [
+    {
+     "text": "Eversong Woods — starting zone. Merges old Eversong + healed Ghostlands. Radiant autumnal forest. Void forces, Lightbloom magical overgrowth, Amani troll conflict",
+     "sub": ""
+    },
+    {
+     "text": "Zul'Aman (player choice) — Forest Troll homeland. Expanded from TBC raid into temperate rainforest with hidden crypts and ziggurats",
+     "sub": ""
+    },
+    {
+     "text": "Harandar (player choice) — primordial bioluminescent fungal jungle built around World Tree roots. Haranir homeland",
+     "sub": ""
+    },
+    {
+     "text": "Voidstorm — final zone, unlocks last. Void invasion epicenter above Quel'Thalas. Xal'atath's Voidspire stronghold. Contains Slayer's Rise PvP area",
+     "sub": ""
+    },
+    {
+     "text": "Silvermoon City — completely rebuilt from scratch. Full flying support. Expansion hub for both factions",
+     "sub": ""
+    },
+    {
+     "text": "~2/3 is sanctuary zone (both factions). ~1/3 reserved for Horde",
+     "sub": ""
+    },
+    {
+     "text": "Contains profession hubs, PvP vendors, Timeways portal system for dungeon access, all major NPCs",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Branching zone paths (Zul'Aman vs Harandar) — are you going troll jungle or fungal jungle first? Does player choice in leveling paths excite you?",
+    "The return to Silvermoon — for blood elf mains especially, how big a deal is this? Were you one of the people asking for this?",
+    "Silvermoon as a shared hub — does a 2/3 sanctuary, 1/3 Horde split work? Should it have been full sanctuary?"
+   ],
+   "sources": [],
+   "media": []
+  },
+  {
+   "title": "Devourer Demon Hunter",
+   "tab": "",
+   "category": "Preview",
+   "synopsis": "First new spec added to an existing class since DH launched with only 2 specs in Legion",
+   "points": [
+    {
+     "text": "Mid-range DPS caster (~25 yards). Intellect leather. Glaive-wielding soul-harvesting spellcaster channeling Void and cosmic energies (not Fel)",
+     "sub": ""
+    },
+    {
+     "text": "Dual resource: Fury + Soul Fragments. Consume filler generates Souls → collect 50 Souls (35 with Soul Glutton talent) → enter Void Metamorphosis → spend burst window as Fury drains",
+     "sub": ""
+    },
+    {
+     "text": "Key abilities: Collapsing Star (massive damage), Void Ray, Voidblade, Shift (3-charge Fel Rush equivalent)",
+     "sub": ""
+    },
+    {
+     "text": "Entropy talent solves slow ramp-up — starts encounters with 25 Soul Fragments",
+     "sub": ""
+    },
+    {
+     "text": "Apex Talent: \"Midnight\" — Collapsing Star always crits, increased Cosmic damage, 5 Souls + instant Collapsing Star on entering Void Meta",
+     "sub": ""
+    },
+    {
+     "text": "Shares Void-Scarred hero tree with Havoc and new Annihilator tree with Vengeance",
+     "sub": ""
+    },
+    {
+     "text": "Void Elf Demon Hunters are now a new race/class combo",
+     "sub": ""
+    },
+    {
+     "text": "Icy Veins: \"incredibly powerful for Season 1\" but \"might have difficulties with execution requirements\" — struggles in M+ when pulls end too quickly",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "A caster DH — does the fantasy resonate or does it feel like a different class wearing a DH skin?",
+    "The ramp-up problem and M+ pull timing — is this going to be another spec that's amazing in raids but frustrating in keys?",
+    "Is anyone in the guild rolling Devourer? Will it be overrepresented at launch?",
+    "Should Blizzard add third specs to more classes? What class needs one next?"
+   ],
+   "sources": [],
+   "media": []
+  },
+  {
+   "title": "Haranir Allied Race",
+   "tab": "",
+   "category": "Preview",
+   "synopsis": "Haranir — bioluminescent fungal race descended from ancient dark trolls. Both factions",
+   "points": [
+    {
+     "text": "Unlocked by completing the Harandar questline — no reputation grind",
+     "sub": ""
+    },
+    {
+     "text": "10 classes available. Excludes Death Knight, Demon Hunter, Evoker, and Paladin",
+     "sub": ""
+    },
+    {
+     "text": "Visual identity bridges Troll and Night Elf aesthetics",
+     "sub": ""
+    },
+    {
+     "text": "Racials: Rootwalking (network-based teleport), Thorn Bloom (AoE damage/heal), Lash Out (+1% crit damage/healing)",
+     "sub": ""
+    },
+    {
+     "text": "Druid forms: Bear = pangolin-like \"Quillbear,\" flight = massive bat, aquatic = axolotl with leafy gills",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Bioluminescent fungal people — does the aesthetic appeal to you? Rolling one?",
+    "No rep grind to unlock — is that the right call, or does that cheapen it?",
+    "Those druid forms — pangolin bear, bat flight, axolotl aquatic. Best allied race druid forms ever?"
+   ],
+   "sources": [],
+   "media": []
+  },
+  {
+   "title": "Player Housing",
+   "tab": "",
+   "category": "Preview",
+   "synopsis": "Tentpole feature — most universally praised addition. 21 years of player requests",
+   "points": [
+    {
+     "text": "Designed as evergreen system, not expansion-specific. Early access launched Dec 2, 2025 for pre-purchasers",
+     "sub": ""
+    },
+    {
+     "text": "Philosophy: \"If you want a house, you can have a house\" — no lottery (pointed contrast with FFXIV), no exorbitant costs, no upkeep",
+     "sub": ""
+    },
+    {
+     "text": "Land costs 1,000 gold (first plot free). Housing is warband-wide across all characters",
+     "sub": ""
+    },
+    {
+     "text": "Plots in Founder's Point (Alliance) or Razorwind Shores (Horde) — ~50 plots per neighborhood",
+     "sub": ""
+    },
+    {
+     "text": "Up to 2 houses per account (one per faction). Horde can live in Alliance neighborhoods and vice versa",
+     "sub": ""
+    },
+    {
+     "text": "Neighborhoods: public (auto-created, unlimited) or private (guild/charter-based, invite-only)",
+     "sub": ""
+    },
+    {
+     "text": "Freeform or grid-based 3D placement. Dyeable furniture, swappable towers/windows/facades",
+     "sub": ""
+    },
+    {
+     "text": "Decor from quests, achievements, professions, AH, vendors, adventuring",
+     "sub": ""
+    },
+    {
+     "text": "House Level progression system. Monthly Endeavors = neighborhood-wide themed activities with exclusive decor",
+     "sub": ""
+    },
+    {
+     "text": "Early access surprises: players focused more on exteriors than interiors — building walking fortresses and floating airships",
+     "sub": ""
+    },
+    {
+     "text": "Lead Designer Ragaini surprised players were \"literally reusing assets in a way we never intended to create 2D art\"",
+     "sub": ""
+    },
+    {
+     "text": "Blizzard increased outdoor decor budgets in response. Acknowledged storage caps too low — promised 50% increase",
+     "sub": ""
+    },
+    {
+     "text": "Soft-lock bugs and confusing decor deletion were noted issues",
+     "sub": ""
+    },
+    {
+     "text": "4+ million players engaged with housing in its first two weeks",
+     "sub": ""
+    },
+    {
+     "text": "Community wishlist: copy/paste tools, import/export, placeable pets/mounts, mannequins — confirmed for future patches",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Did you try housing in early access? What did you build? Exterior focused or interior?",
+    "No lottery, 1,000 gold, first plot free — is Blizzard's approach better than FFXIV's? Is it too easy?",
+    "Is housing going to be a \"log in daily\" system for you, or will you set it and forget it?",
+    "The community building floating airships and 2D art from 3D assets — is this the kind of emergent creativity WoW needed?",
+    "Storage caps and missing features — is the foundation strong enough even if it's light on tools at launch?"
+   ],
+   "sources": [],
+   "media": []
+  },
+  {
+   "title": "Season 1 — Dungeons & Mythic+",
+   "tab": "",
+   "category": "Preview",
+   "synopsis": "8 new dungeons at launch — split between 4 leveling and 4 max-level",
+   "points": [
+    {
+     "text": "Season 1 M+ pool (4 new):",
+     "sub": ""
+    },
+    {
+     "text": "Magister's Terrace — reimagined TBC classic",
+     "sub": ""
+    },
+    {
+     "text": "Maisara Caverns — fungal underground in Harandar",
+     "sub": ""
+    },
+    {
+     "text": "Nexus Point Xenas — Void-themed in Voidstorm",
+     "sub": ""
+    },
+    {
+     "text": "Windrunner Spire — explores Windrunner family history",
+     "sub": ""
+    },
+    {
+     "text": "Season 1 M+ pool (4 legacy):",
+     "sub": ""
+    },
+    {
+     "text": "Algeth'ar Academy (Dragonflight)",
+     "sub": ""
+    },
+    {
+     "text": "Seat of the Triumvirate (Legion)",
+     "sub": ""
+    },
+    {
+     "text": "Skyreach (WoD)",
+     "sub": ""
+    },
+    {
+     "text": "Pit of Saron (WotLK) — first Wrath dungeon ever in M+ rotation",
+     "sub": ""
+    },
+    {
+     "text": "Reserved for future seasons: Murder Row, Den of Nalorakk, The Blinding Vale, Voidscar Arena",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Magister's Terrace in M+ — hype or horror? That dungeon was punishing in TBC.",
+    "Pit of Saron in the M+ rotation — first Wrath dungeon ever. Does that track's gauntlet work in M+?",
+    "Windrunner Spire exploring family history — are you here for dungeon lore, or do you just want to pull and kill?",
+    "Legacy dungeon picks — Skyreach and Seat of the Triumvirate. Good choices or were there better options?"
+   ],
+   "sources": [],
+   "media": []
+  },
+  {
+   "title": "Season 1 — Raids",
+   "tab": "",
+   "category": "Preview",
+   "synopsis": "Unprecedented structure: 3 raids at Season 1 launch — 9 total bosses",
+   "points": [
+    {
+     "text": "The Voidspire (6 bosses) — primary raid. Set in Xal'atath's fortress",
+     "sub": ""
+    },
+    {
+     "text": "The Dreamrift (1 boss) — experimental single-boss raid where primordial dreams meet reality",
+     "sub": ""
+    },
+    {
+     "text": "March on Quel'Danas (2 bosses) — delayed opening Mar 31. Bosses: Belo'ren (void-corrupted phoenix from Al'ar's last clutch), L'ura (Light creature corrupted by Void)",
+     "sub": ""
+    },
+    {
+     "text": "4 world bosses rotate weekly with Season 1",
+     "sub": ""
+    },
+    {
+     "text": "Blizzard committed to 2 additional one-boss raids in patches 12.0.7 and 12.1.5 — signaling a shift toward more frequent, smaller raid releases",
+     "sub": ""
+    },
+    {
+     "text": "Dylan Barker (Lead Encounter Designer) confirmed raids designed for the post-addon world: \"mechanics possible in Midnight that might not have been possible in the recent past... harder on a communication axis, on a coordination axis\"",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "3 raids at launch with 9 bosses — is that better than one big 8-boss tier? Does splitting it up help or hurt the World First Race?",
+    "One-boss raids like Dreamrift — love the experimentation? Or do you want full raid tiers?",
+    "March on Quel'Danas delayed to March 31 — good pacing or annoying?",
+    "Raids designed without addon support — are we ready for \"harder on the communication axis\"? Is your guild's comms good enough?",
+    "Belo'ren being from Al'ar's clutch — deep TBC callback. Does lore-connected raid bosses matter to you?"
+   ],
+   "sources": [],
+   "media": []
+  },
+  {
+   "title": "Delves, Outdoor Content & PvP",
+   "tab": "",
+   "category": "Preview",
+   "synopsis": "10 delves + 1 nemesis delve at launch",
+   "points": [
+    {
+     "text": "Prey — new outdoor hunting system",
+     "sub": ""
+    },
+    {
+     "text": "Labyrinths (mega-delves with saveable progress) coming in patch 12.1.5",
+     "sub": ""
+    },
+    {
+     "text": "5 major post-launch updates announced",
+     "sub": ""
+    },
+    {
+     "text": "Slayer's Rise — new 40v40 Epic Battleground in Voidstorm. Inspired by Alterac Valley + Isle of Conquest",
+     "sub": ""
+    },
+    {
+     "text": "Outdoor PvP zone with War Mode activities, world quests, Slayer's Duellum reputation faction",
+     "sub": ""
+    },
+    {
+     "text": "CC changes: diminishing returns grant immunity after 2 applications (was 3), reset timer 18 → 16 seconds",
+     "sub": ""
+    },
+    {
+     "text": "Gladiator cutoff drops from 2400 → 2300 rating",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Prey outdoor hunting system — is this the open-world content that keeps you engaged, or will it be like every other WQ?",
+    "Labyrinths (mega-delves with saveable progress) — is that the Delves evolution that was needed?",
+    "New AV-style 40v40 — are you going in? Does epic battleground content excite casual PvPers?",
+    "CC granting immunity after 2 applications instead of 3 — good for the game or over-nerfing crowd control?",
+    "Gladiator at 2300 now — accessibility win or devaluing the title?"
+   ],
+   "sources": [],
+   "media": []
+  },
+  {
+   "title": "Season 1 — Meta Predictions",
+   "tab": "",
+   "category": "Preview",
+   "synopsis": "Icy Veins rates Arcane Mage as potentially \"broken tier\"",
+   "points": [
+    {
+     "text": "Brewmaster Monk rated S-tier tank for Season 1",
+     "sub": ""
+    },
+    {
+     "text": "Devourer DH rated \"incredibly powerful\" but execution-dependent and potentially weak in short M+ pulls",
+     "sub": ""
+    },
+    {
+     "text": "Method's top-50 raider Hype publishing extensive Devourer guides",
+     "sub": ""
+    },
+    {
+     "text": "Bellular: average spec lost ~2 buttons from pruning. Made a free keybinding planner tool to help players adapt",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "What's your spec looking like going into Season 1? Any rerollers?",
+    "Arcane Mage \"broken tier\" — are you worried about early-season tuning making or breaking specs?",
+    "With only ~2 buttons lost on average, was the pruning panic overblown?"
+   ],
+   "sources": [],
+   "media": []
+  },
+  {
+   "title": "The Addon Disarmament — Deep Dive",
+   "tab": "",
+   "category": "Preview",
+   "synopsis": "Ion called it \"the single largest systemic change in WoW expansion history\"",
+   "points": [
+    {
+     "text": "Blizzard introduced \"secret values\" — combat state info addons can display but cannot process or trigger logic against",
+     "sub": ""
+    },
+    {
+     "text": "Ion's metaphor: \"Combat events are in a black box; addons can change the size or shape of the box and paint it a different color, but they can't look inside\"",
+     "sub": ""
+    },
+    {
+     "text": "CAN: customize nameplate appearances, buff/debuff frame locations, cast bars, similar UI elements",
+     "sub": ""
+    },
+    {
+     "text": "CANNOT: parse combat events in real time, trigger automated responses, make decisions based on combat state",
+     "sub": ""
+    },
+    {
+     "text": "Casualties — Top 25 addons, 7 NOT updated at launch:",
+     "sub": ""
+    },
+    {
+     "text": "RareScanner, Raider.IO, WeakAuras, Mythic Dungeon Tools, GTFO, World Quest Tracker, Healbot",
+     "sub": ""
+    },
+    {
+     "text": "WeakAuras — discontinued retail support entirely. Patreon statement criticized \"poorly communicated changes\" and \"fundamental incompatibility\"",
+     "sub": ""
+    },
+    {
+     "text": "ElvUI — halted development",
+     "sub": ""
+    },
+    {
+     "text": "Survived: Deadly Boss Mods, BigWigs, Details!, Plater — all adapted to Blizzard's new container system",
+     "sub": ""
+    },
+    {
+     "text": "Blizzard's native replacements: built-in damage meters (DPS, healing, interrupts, dispels, avoidable damage — up to 3 windows), boss warning/alert timers, cooldown manager with sound alerts + TTS",
+     "sub": ""
+    },
+    {
+     "text": "Dylan Barker: Midnight raids designed specifically for post-addon play — \"harder on a communication axis, on a coordination axis,\" not just \"we shoot more bullets at you\"",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Now that we've had the pre-patch — is it as bad as you feared? Better? Worse?",
+    "WeakAuras gone — what did you lose personally? Did you find Blizzard's built-in tools adequate?",
+    "Raider.IO not updated — does that change how pugs work? Is that good or bad?",
+    "\"Harder on communication, not more bullets\" — does that design philosophy excite you for mythic raiding, or terrify you?",
+    "Hot take: were addons a crutch that made the playerbase worse, or tools that made the game playable?",
+    "Are you still playing, or did the addon changes push you away? Know anyone who quit over it?"
+   ],
+   "sources": [],
+   "media": []
+  },
+  {
+   "title": "Class Pruning Fallout",
+   "tab": "",
+   "category": "Preview",
+   "synopsis": "Pruning generated immediate backlash — Paladin changes reverted during beta",
+   "points": [
+    {
+     "text": "Associate Game Director Paul Kubit: feedback was \"passionate,\" they \"heard loud and clear\"",
+     "sub": ""
+    },
+    {
+     "text": "Some specs devastated (Holy Priest lost ~half abilities), others barely changed (Prot Warrior)",
+     "sub": ""
+    },
+    {
+     "text": "Blizzard's position: Apex Talents at 90 restore missing complexity",
+     "sub": ""
+    },
+    {
+     "text": "Bellular's viral video \"Midnight's Ability Prune Is BRUTAL*\" — actually clickbait, most specs lost ~2 buttons average",
+     "sub": ""
+    },
+    {
+     "text": "Devs admitted they had been designing encounters around addon use for years — pruning is part of the reset",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Did you read your spec's pruning patch notes and panic? Did it play out better or worse than expected?",
+    "Blizzard admitting they designed around addons for years — does that explanation justify the pruning?",
+    "\"Swing the pendulum to one end and creep it back\" — do you trust this strategy?"
+   ],
+   "sources": [],
+   "media": []
+  },
+  {
+   "title": "Community Division — The Split",
+   "tab": "",
+   "category": "Preview",
+   "synopsis": "Addon removal splits community roughly 50/50",
+   "points": [
+    {
+     "text": "Supporters: addons had become \"mandatory competitive advantage\" not optional customization. Encounters designed for human communication is better",
+     "sub": ""
+    },
+    {
+     "text": "Critics: 20-year veterans with deeply customized UIs feel their playstyle was invalidated",
+     "sub": ""
+    },
+    {
+     "text": "Sara Hanson (Blizzard Watch): \"the biggest thing to hit World of Warcraft in a while\"",
+     "sub": ""
+    },
+    {
+     "text": "PC Gamer post-pre-patch: \"Not having combat UI mods in WoW hurts way less than I expected\"",
+     "sub": ""
+    },
+    {
+     "text": "But forum posts from 20-year veterans declare it the least interested they've been in an expansion",
+     "sub": ""
+    },
+    {
+     "text": "Consensus \"mature take\" per community analysis: \"wait and see\" — most serious players adapting, vocal minority considers it a dealbreaker",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Where do you fall — supporter, critic, or wait-and-see?",
+    "Do you know anyone who actually quit or is sitting out over this?",
+    "If Midnight is a hit, does the addon debate just fade away? Or will it simmer for years?"
+   ],
+   "sources": [],
+   "media": []
+  },
+  {
+   "title": "Pre-Launch Story — Cinematic & Shorts",
+   "tab": "",
+   "category": "Preview",
+   "synopsis": "Blizzard's deepest pre-launch narrative investment ever — novel, 3 short stories with audiobooks, 3 animated shorts, cinematic trailer",
+   "points": [
+    {
+     "text": "Cinematic: \"Intercession\" (Aug 19, 2025, Gamescom)",
+     "sub": ""
+    },
+    {
+     "text": "Liadrin prays at the Sunwell. Lor'themar summons her to defend Silvermoon from Xal'atath's Void assault",
+     "sub": ""
+    },
+    {
+     "text": "Spellbreakers charge the Devouring Host. Xal'atath teleports in. Lor'themar overwhelmed, snaps: \"You couldn't even break one elf\" (referencing Alleria)",
+     "sub": ""
+    },
+    {
+     "text": "Xal'atath retaliates with psychic devastation. Liadrin drops her weapon and prays: \"I know that I am unworthy… but I know my people do [deserve your help]\"",
+     "sub": ""
+    },
+    {
+     "text": "A gauntleted hand rises from the Sunwell — Liadrin returns leading an army of mysterious Light-empowered paladins",
+     "sub": ""
+    },
+    {
+     "text": "\"Supremacy\" (Feb 9, 2026) — Xal'atath (Claudia Christian) bends Nexus-King Salhadaar to her will by revealing her mortal origins — a young girl consumed by the Void who lost her world, like the Ethereals lost K'aresh",
+     "sub": ""
+    },
+    {
+     "text": "Fan debate: is Xal'atath telling the truth? Child wore symbol similar to Hallowfall Arathi",
+     "sub": ""
+    },
+    {
+     "text": "\"All That is Sacred\" (Feb 18, 2026) — Lady Liadrin's full arc from priestess to Scourge survivor, through Blood Knights siphoning Light from nauru M'uru, to Sunwell protector",
+     "sub": ""
+    },
+    {
+     "text": "\"Son of Two Worlds\" (Feb 23, 2026) — Arator the Redeemer's upbringing. Half-elf raised by aunt Vereesa while parents Alleria and Turalyon were beyond the Dark Portal. Grew up visiting their statues in Valley of Heroes",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "The expansion cinematic — did it get you hyped? How does it compare to TWW's cinematic?",
+    "Xal'atath's origin as a mortal girl consumed by Void — does that make her more sympathetic or is it too much villain redemption bait?",
+    "The Hallowfall Arathi connection to Xal'atath's child form — if she's Arathi, what does that do to the story?",
+    "Did you watch the animated shorts? Which hit hardest — Supremacy, All That is Sacred, or Son of Two Worlds?"
+   ],
+   "sources": [],
+   "media": []
+  },
+  {
+   "title": "Pre-Launch Story — Written Content",
+   "tab": "",
+   "category": "Preview",
+   "synopsis": "Three short stories with full audiobook recordings (YouTube) — \"hour-long narration videos\"",
+   "points": [
+    {
+     "text": "\"The Void Between\" (Jan 23, 2026) by Alex Acks. Narrated by Kirk Thornton as Grand Magister Rommath (~1+ hr)",
+     "sub": ""
+    },
+    {
+     "text": "Follows Rommath and Magister Umbric's fractured relationship — shared history as young magisters through blood elf tragedies. Can they ally before Xal'atath's invasion?",
+     "sub": ""
+    },
+    {
+     "text": "\"Legacy of the Amani\" (Feb 2026) by Graham Roswell. Narrated by Mela Lee as Chieftain Zul'jarra",
+     "sub": ""
+    },
+    {
+     "text": "Zul'jarra, granddaughter of Zul'jin, must prove her right to lead fractured Amani tribes after centuries of war, lost loa connection, and a rival's challenge",
+     "sub": ""
+    },
+    {
+     "text": "\"The Quiet at the End of Us\" (late Feb 2026) by Hugo Award-winner Catherynne M. Valente. Narrated by Ike Amadi as Amarakk",
+     "sub": ""
+    },
+    {
+     "text": "Literary, reflective story about two Haranir whose discovery of a forbidden rootway to Azeroth's surface transforms their friendship",
+     "sub": ""
+    },
+    {
+     "text": "Community praised Blizzard for hiring real literary talent",
+     "sub": ""
+    },
+    {
+     "text": "Novel: \"Blood Ties\" by Christie Golden (Nov 18, 2025) — Arator investigating Burning Legion remnant alongside Alleria & Turalyon. Family dynamics of heroes who experienced 1,000 years of war while their son aged decades",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Did you listen to the audiobook short stories? Is this level of pre-launch storytelling something you want more of?",
+    "A Hugo Award-winning author writing WoW lore — does that change how you feel about Blizzard taking the story seriously?",
+    "Rommath and Umbric's story — does Void Elf lore finally feel fleshed out?",
+    "Zul'jarra as Zul'jin's granddaughter — are you excited for deep troll lore? The Amani have been sidelined since TBC."
+   ],
+   "sources": [],
+   "media": []
+  },
+  {
+   "title": "Story — Where We Are Going",
+   "tab": "",
+   "category": "Preview",
+   "synopsis": "Continues directly from TWW: Xal'atath killed Locus-Walker, seized the Dark Heart containing Dimensius the All-Devouring, channeled its energy to create the Voidstorm over Quel'Thalas",
+   "points": [
+    {
+     "text": "Devouring Host — unified Void army: Ethereals, void creatures, corrupted beings — assaulting the Sunwell",
+     "sub": ""
+    },
+    {
+     "text": "Key characters: Alleria (hunting Xal'atath), Lor'themar, Lady Liadrin, Arator, Rommath, Umbric, Vereesa, Zul'jarra, Zul'jan",
+     "sub": ""
+    },
+    {
+     "text": "Xal'atath remains primary antagonist through Midnight and into The Last Titan",
+     "sub": ""
+    },
+    {
+     "text": "Design Director Maria Hamilton: \"there will be important characters that do not survive the trilogy… a lot of death\"",
+     "sub": ""
+    },
+    {
+     "text": "Leeroy Jenkins confirmed appearing to help defend the Sunwell",
+     "sub": ""
+    },
+    {
+     "text": "Dev Jake Shillan: team \"had to play historians/archaeologists\" going deep into all Warcraft history for the Zul'Aman expansion",
+     "sub": ""
+    },
+    {
+     "text": "Windows Central noted WoW writing \"has been under a microscope\" — characters sometimes forget events, behave out of character, let old hatreds die too easily",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "\"A lot of death\" — who do you think doesn't survive? Lor'themar? Alleria? Vereesa? Place your bets.",
+    "Xal'atath as a multi-expansion villain — is she compelling enough to carry TWW through Last Titan? Or is villain fatigue setting in?",
+    "Leeroy Jenkins defending the Sunwell — fun fan service or too memey for a serious expansion?",
+    "WoW writing \"under a microscope\" — do you trust this team to deliver after the Shadowlands writing backlash?"
+   ],
+   "sources": [],
+   "media": []
+  },
+  {
+   "title": "Asha Sharma & Microsoft Gaming",
+   "tab": "",
+   "category": "Preview",
+   "synopsis": "Asha Sharma — EVP and CEO of Microsoft Gaming as of Feb 23, 2026",
+   "points": [
+    {
+     "text": "Replaces Phil Spencer after 38 years at Microsoft. Sarah Bond also resigned",
+     "sub": ""
+    },
+    {
+     "text": "Born 1989. Came from leading Microsoft's CoreAI division (Azure AI Studio, Copilot developer tools)",
+     "sub": ""
+    },
+    {
+     "text": "No prior gaming leadership experience — described as a \"surprise pick\"",
+     "sub": ""
+    },
+    {
+     "text": "Xbox co-creator Seamus Blackley warned the appointment reflects Microsoft viewing \"everything as a gen AI problem\"",
+     "sub": ""
+    },
+    {
+     "text": "Sharma pushed back directly: \"We will not chase short-term efficiency or flood our ecosystem with soulless AI slop\"",
+     "sub": ""
+    },
+    {
+     "text": "Committed to \"great games,\" \"the return of Xbox,\" and \"the future of play\" — games need \"deep emotional resonance\" and \"a distinct point of view\"",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "An AI exec with no gaming background running all of Microsoft Gaming — worried?",
+    "The \"soulless AI slop\" quote — do you believe it, or is that just PR from an AI exec?",
+    "Should WoW players care about Xbox leadership changes? Or is Blizzard insulated enough?"
+   ],
+   "sources": [],
+   "media": []
+  },
+  {
+   "title": "Microsoft Gaming Finances",
+   "tab": "",
+   "category": "Preview",
+   "synopsis": "Q2 FY2026 (Oct–Dec 2025): gaming revenue declined $623M, or 9% YoY, to ~$5.96B",
+   "points": [
+    {
+     "text": "Xbox content and services fell 5%, hardware revenue plunged 32%",
+     "sub": ""
+    },
+    {
+     "text": "Management called results \"well below expectations\" — unspecified impairment charge recorded",
+     "sub": ""
+    },
+    {
+     "text": "Xbox hardware in steady multi-year decline: -42% FY24Q4, -29% FY25Q1, -32% FY26Q2",
+     "sub": ""
+    },
+    {
+     "text": "Division faces daunting 30% profit margin target — significantly above industry averages",
+     "sub": ""
+    },
+    {
+     "text": "Analysts project gaming revenue growth of just 2.1% FY2026, accelerating to 15% FY2027",
+     "sub": ""
+    },
+    {
+     "text": "WoW is NOT on Game Pass — no announced plans. Erroneous Jan 2025 marketing email quickly corrected",
+     "sub": ""
+    },
+    {
+     "text": "WoW subscription (~$15/month) generates significant standalone revenue Microsoft appears unwilling to cannibalize",
+     "sub": ""
+    },
+    {
+     "text": "Windows Central's Jez Corden has speculated about potential Game Pass Ultimate bundling",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Declining gaming revenue and a 30% margin target — does that pressure eventually come down on WoW?",
+    "WoW staying off Game Pass — right call? Or is it inevitable eventually?",
+    "If WoW did go to Game Pass, would it change the game for better or worse?"
+   ],
+   "sources": [],
+   "media": []
+  },
+  {
+   "title": "Layoffs & Unionization",
+   "tab": "",
+   "category": "Preview",
+   "synopsis": "~3,600 Activision Blizzard employees laid off between 2019–2025",
+   "points": [
+    {
+     "text": "Most recent: Jul 2025 — ~100 Blizzard positions cut. Project Odyssey cancelled. Warcraft Rumble moved to maintenance mode",
+     "sub": ""
+    },
+    {
+     "text": "In response: 3,500+ Blizzard developers unionized across WoW, Overwatch 2, and Diablo teams",
+     "sub": ""
+    },
+    {
+     "text": "Ion: Midnight was made \"without crunch\" and with \"no sacrifices to quality\"",
+     "sub": ""
+    },
+    {
+     "text": "The Last Titan is \"well underway\" — planning extends through a 13th expansion and beyond",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "3,500 devs unionized — does that feel like protection for the games, or could it complicate development?",
+    "\"Without crunch\" — do you believe it, and does it matter to you as a player?"
+   ],
+   "sources": [],
+   "media": []
+  },
+  {
+   "title": "WoW's Health & Blizzard 2026",
+   "tab": "",
+   "category": "Preview",
+   "synopsis": "Player population at multi-year highs:",
+   "points": [
+    {
+     "text": "Jul 2025 — French concert promo tie-in cited 9M players",
+     "sub": ""
+    },
+    {
+     "text": "Third-party trackers: ~9.7M monthly after Jan 2026 pre-patch. ActivePlayer.io: ~11M MAU heading into launch",
+     "sub": ""
+    },
+    {
+     "text": "WoW remains dominant subscription MMO: FFXIV ~3.3M, ESO ~2.8M monthly actives",
+     "sub": ""
+    },
+    {
+     "text": "Johanna Faries: 2026 is potentially \"the biggest year yet for Blizzard\"",
+     "sub": ""
+    },
+    {
+     "text": "Midnight + Diablo IV: Lord of Hatred (Apr 28) + Overwatch 10th anniversary + Blizzard 35th anniversary",
+     "sub": ""
+    },
+    {
+     "text": "BlizzCon returns Sep 12–13, 2026 — first since 2023, first under Microsoft ownership. Early bird tickets ($249) sold out Nov 2025",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "11 million heading into launch — how high can it go? Is this a new golden age?",
+    "WoW tripling FFXIV's player count — has the MMO race shifted definitively?",
+    "BlizzCon 2026 — are you going or following from home? What do you want announced there?",
+    "Biggest year for Blizzard — Midnight, D4 expansion, OW anniversary, BlizzCon — do they actually pull it off?"
+   ],
+   "sources": [],
+   "media": []
+  },
+  {
+   "title": "Content Creator Temperature Check",
+   "tab": "",
+   "category": "Preview",
+   "synopsis": "Bellular: \"Midnight's Ability Prune Is BRUTAL*\" video — somewhat clickbait (most specs ~2 buttons lost). Built free keybinding planner tool. Sees addon changes as genuine adjustment",
+   "points": [
+    {
+     "text": "Preach Gaming: maintained testing-focused approach rather than speculating",
+     "sub": ""
+    },
+    {
+     "text": "Taliesin & Evitel: offered measured analysis",
+     "sub": ""
+    },
+    {
+     "text": "Method / Hype: top-50 raider publishing extensive Devourer guides. Competitive community taking the spec seriously",
+     "sub": ""
+    },
+    {
+     "text": "General creator sentiment: cautious optimism",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Which content creators are you following into Midnight? Has anyone changed your mind on the expansion?",
+    "Is \"cautious optimism\" where you are too, or are you fully on the hype train?"
+   ],
+   "sources": [],
+   "media": []
+  },
+  {
+   "title": "The Big Gamble — What Blizzard Is Betting",
+   "tab": "",
+   "category": "Preview",
+   "synopsis": "Blizzard's strategy: reset WoW's foundations to be more accessible, less addon-dependent, more sustainable long-term",
+   "points": [
+    {
+     "text": "Addon disarmament alone would define any expansion — layering on housing, a new spec, class pruning, stat squish, and transmog overhaul creates a launch unlike anything in WoW's 21 years",
+     "sub": ""
+    },
+    {
+     "text": "Housing gives casual players a reason to log in daily",
+     "sub": ""
+    },
+    {
+     "text": "Addon changes force hardcore players to rediscover human coordination",
+     "sub": ""
+    },
+    {
+     "text": "Apex Talents promise to restore complexity that pruning removed",
+     "sub": ""
+    },
+    {
+     "text": "\"Swing the pendulum to one end and then creep it back\" — the explicit strategy",
+     "sub": ""
+    },
+    {
+     "text": "The central narrative tension: Midnight either reinvents WoW for its third decade or is the expansion where Blizzard changed too much, too fast",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Is this too much change at once? Should any of these have been spread across multiple patches?",
+    "Do you believe the pendulum strategy — that they'll creep back toward complexity? Or is this the new normal?",
+    "Six months from now, will we look back at this as the expansion that saved WoW or the one that broke it?",
+    "Final question — on launch day, what's the FIRST thing you're doing? Leveling? Housing? Rolling a Devourer? Rolling Haranir? Going straight to Silvermoon?"
+   ],
+   "sources": [],
+   "media": []
+  },
+  {
+   "title": "The Last Titan — Theories & Predictions",
+   "tab": "",
+   "category": "Preview",
+   "synopsis": "Ion: The Last Titan is \"well underway,\" teams are \"thinking beyond\" expansion 13",
+   "points": [
+    {
+     "text": "Blizzard confirmed planning through patch 13.2 and brainstorming through a potential 16th expansion",
+     "sub": ""
+    },
+    {
+     "text": "Most popular theory: \"The Last Titan\" refers to Azeroth herself — the world-soul at the center of the Worldsoul Saga",
+     "sub": ""
+    },
+    {
+     "text": "Sargeras theory: returning either as antagonist or redeemed figure. Metzen confirmed the Sword of Sargeras plotline resolves only in The Last Titan — told fans they're \"not prepared for that moment\"",
+     "sub": ""
+    },
+    {
+     "text": "Northrend rework confirmed for The Last Titan. Community expects Ulduar and Storm Peaks as endgame hubs",
+     "sub": ""
+    },
+    {
+     "text": "Provocative theory: Titans reframed as morally ambiguous — questionable creators who imprisoned Azeroth's world-soul rather than nurtured it. Datamined hints suggest Old Gods could return as allies against the Titans",
+     "sub": ""
+    },
+    {
+     "text": "New class predictions: Bard has strongest support (connected to \"Radiant Song\" mechanic). Tinker is perennial runner-up",
+     "sub": ""
+    },
+    {
+     "text": "Hamilton's confirmation of major deaths — community speculation: Lor'themar, Alleria, even Sylvanas (still doing penance in Shadowlands) as candidates",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "What's your Last Titan prediction — Azeroth the world-soul, Sargeras returning, or something else entirely?",
+    "Titans as villains and Old Gods as allies — would that be a brilliant twist or an insult to existing lore?",
+    "Sword of Sargeras finally addressed — what do you think \"you're not prepared\" means? Do they actually remove it?",
+    "Bard vs Tinker — which new class do you want more?",
+    "Northrend rework with Ulduar as endgame — does WoW keep reworking old continents, or does that eventually run out of nostalgia fuel?",
+    "Planning through expansion 16 — does it feel like WoW has another decade in it? What keeps it alive?"
+   ],
+   "sources": [],
+   "media": []
+  }
+ ]
+}

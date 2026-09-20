@@ -1,0 +1,379 @@
+{
+ "episode": "021",
+ "date": "2026-06-20",
+ "subtitle": "",
+ "source": "legacy-html",
+ "intro": {
+  "heads_up": "",
+  "rundown": []
+ },
+ "items": [
+  {
+   "title": "Patch 12.0.7 \"Midnight\" Is Live",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Patch 12.0.7 has landed, opening a counter-invasion of two void-occupied worlds, a new single-boss raid, and a fresh power system that sticks with you for the rest of Midnight.",
+   "points": [
+    {
+     "text": "The headline content is the counter-invasion of Naigtal and Val — two expanded open-world zones packed with rares, world quests, events, and a unique world boss apiece, plus a new Heroic World Tier recommending item level 274. Around them, Ritual Sites gain a sixth difficulty tier awarding Myth Dawncrests, Loa Lorewalking adds four new Zandalari, Drakkari, Gurubashi, and Darkspear stories, and Dragonflight Timewalking returns alongside Turbulent Timeways.",
+     "sub": ""
+    },
+    {
+     "text": "Also dropping with the patch:",
+     "sub": ""
+    },
+    {
+     "text": "Omnium Folio: A five-week power system — pick a Core Rune (Unleashed Fire or Void-Touched Orbs) and customize the proc with self-healing, shields, or buffs. Unlock it via The Sunstrider Omnium quest line near the Ritual Site vendors; the power stays active for the rest of Midnight.",
+     "sub": ""
+    },
+    {
+     "text": "World Cup decor (live now in 12.0.7): Grab a Tabard of Participation and a Kickable Practice Ball from Richmond in Silvermoon, score three goals, and earn three housing decor pieces. A ~5-minute current-patch activity — separate from the 12.1 housing overhaul covered later.",
+     "sub": ""
+    },
+    {
+     "text": "New mounts & cosmetics: A deterministic Sporefall mount, Timewalking rewards, and even a void surfboard among the fresh collectibles.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "The Omnium Folio's power follows you for the rest of Midnight — does a small-but-permanent system like this feel meaningful, or is it just another weekly box to check?",
+    "With this much catch-up gear flooding in, is 12.0.7 a great on-ramp for returning players, or does it cheapen things for those who've been grinding since launch?"
+   ],
+   "sources": [
+    {
+     "label": "Source — Midnight Patch 12.0.7 Guide Compendium (Wowhead)",
+     "url": "https://www.wowhead.com/news/midnight-patch-12-0-7-guide-compendium-every-guide-you-ll-need-for-launch-381872"
+    },
+    {
+     "label": "Source — Omnium Folio Now Available, How to Unlock (Wowhead)",
+     "url": "https://www.wowhead.com/news/omnium-folio-now-available-how-to-unlock-381867"
+    },
+    {
+     "label": "Source — Earn a World Cup Housing Item by Scoring Goals (Wowhead)",
+     "url": "https://www.wowhead.com/news/earn-a-world-cup-housing-item-by-scoring-goals-in-patch-12-0-7-381877"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Sporefall: First Mythic Kills, Catalyzing & Lockout Quirks",
+   "tab": "",
+   "category": "News",
+   "synopsis": "The new single-boss Sporefall raid is already drawing world-class guilds, generous loot rules, and a lockout that lets you farm it more than once a week.",
+   "points": [
+    {
+     "text": "Liquid cleared Mythic Rotmire roughly 15 minutes after servers came up, fielding 22 players thanks to the new 15–25 Flexible Mythic difficulty — and nearly wiped at 1% when a Bursting Shroom detonated and killed close to a third of the raid. The encounter is tuned softer than the later Voidspire bosses, positioning it as a bridge into Mythic raiding rather than a wall.",
+     "sub": ""
+    },
+    {
+     "text": "Loot details worth knowing:",
+     "sub": ""
+    },
+    {
+     "text": "Sporefused gear: Drops at the top of its upgrade track including Ascendant Voidforging bonuses — item level 298 on Mythic, nine ilvls above Myth 6/6.",
+     "sub": ""
+    },
+    {
+     "text": "Catalyzable: Each armor class has two Sporefused pieces that can be run through the Catalyst, though catalyzed armor may not count toward your tier set.",
+     "sub": ""
+    },
+    {
+     "text": "Repeatable rolls: Blizzard confirmed Mythic Sporefall has no traditional lockout — you can re-clear and bonus roll Rotmire multiple times a week, with no loot-rule changes planned.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "A re-farmable Mythic boss with bonus rolls is unusual — healthy catch-up tool, or a precedent that pressures raiders to grind it every single reset?",
+    "Sporefused gear out-itemizes Myth 6/6 and can be catalyzed — how much does that reshape early-season gearing priorities for the guild?"
+   ],
+   "sources": [
+    {
+     "label": "Source — Liquid Defeats Mythic Rotmire (Wowhead)",
+     "url": "https://www.wowhead.com/news/liquid-defeats-mythic-rotmire-381876"
+    },
+    {
+     "label": "Source — Sporefused Gear from Rotmire Can Be Catalyzed (Wowhead)",
+     "url": "https://www.wowhead.com/news/sporefused-gear-from-rotmire-can-be-catalyzed-381880"
+    },
+    {
+     "label": "Source — Blizzard Confirms Multiple Sporefall Bonus Rolls (Wowhead)",
+     "url": "https://www.wowhead.com/news/blizzard-confirms-players-can-bonus-roll-sporefall-multiple-times-381907"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Another L'ura Nerf Defuses the Phase 1 Wipe Factory",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Blizzard slipped another round of L'ura nerfs into the 12.0.7 notes, and one new line quietly removes two of Phase 1's most common raid-ending mistakes.",
+   "points": [
+    {
+     "text": "The standout change is that Resonance no longer triggers Tears of L'ura. In practice that means raids never have to drop the crystal during Phase 1 — eliminating both the \"crystal clipped by Resonance or a Glaive\" instant wipe and the awkward crystal-drop timing around the Memory game, and even letting Phase 3 clear over crystal carriers without summoning extra soaks.",
+     "sub": ""
+    },
+    {
+     "text": "Other tuning in the same pass:",
+     "sub": ""
+    },
+    {
+     "text": "Damage cuts: Glimmering down 20% on Mythic; Radiance down 50% on Heroic, with Dawn Crystals pulsing Radiance one second later on Heroic and Mythic.",
+     "sub": ""
+    },
+    {
+     "text": "Crystal spread: Reduced spread of Midnight and Dusk Crystals; Dark Constellations now spawn farther from Light Siphons.",
+     "sub": ""
+    },
+    {
+     "text": "Cast times: Criticality up to 4 seconds; Dark Constellation up to 3 seconds on Mythic; Starsplinter can no longer hit the same player twice.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "A change this impactful arriving as a buried patch-note line — does it suggest L'ura was overtuned at launch, or is this just normal post-release smoothing?",
+    "For guilds mid-progression, how much does removing the crystal-drop rule really move the needle versus the Glaive and Intermission problems still left?"
+   ],
+   "sources": [
+    {
+     "label": "Source — Another Large L'ura Nerf Added to 12.0.7 Patch Notes (Wowhead)",
+     "url": "https://www.wowhead.com/news/another-large-lura-nerf-added-to-12-0-7-patch-notes-p1-wipe-factory-nerfed-381875"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "China Celebrates Midsummer with a Flying Panda Mount",
+   "tab": "",
+   "category": "News",
+   "synopsis": "A new China-exclusive Lucky Bamboo Tile event has gone live with a flying panda mount, a Faerie Dragon pet, and a pack of housing decor.",
+   "points": [
+    {
+     "text": "Launched with the June 18 reset across Retail, Titan Reforged, and Mists of Pandaria Classic servers, the event uses the now-familiar paid loot-box format, themed around Sen Sen's bamboo-forest tribe. The marquee reward is Sensen the Bamboo Dweller, a flying panda that carries a sleeping baby panda on its back.",
+     "sub": ""
+    },
+    {
+     "text": "What's in the event:",
+     "sub": ""
+    },
+    {
+     "text": "Mount: Sensen the Bamboo Dweller (flying panda).",
+     "sub": ""
+    },
+    {
+     "text": "Pet: Yaoyao Faerie Dragon, plus a Classic-only Blooming Ancient.",
+     "sub": ""
+    },
+    {
+     "text": "Transmog & decor: Floral Pauldrons, a Classic Crown of Endless Prosperity, and the Blessings Furniture Pack (Chinese fish bowl, mortise-and-tenon box, woven basket).",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Region-exclusive cosmetics rarely reach Western servers — should standout collectibles like a baby-panda mount stay locked to one region, or is that a missed opportunity?",
+    "These paid loot-box events keep showing up patch after patch — fair way to fund cosmetics, or a creeping monetization trend worth watching?"
+   ],
+   "sources": [
+    {
+     "label": "Source — China Celebrates Midsummer with Exclusive Flying Panda Mount (Wowhead)",
+     "url": "https://www.wowhead.com/news/china-celebrates-midsummer-with-exclusive-flying-panda-mount-and-faerie-dragon-381871"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "The Addon Trials Push Their Deadline Back",
+   "tab": "",
+   "category": "News",
+   "synopsis": "CurseForge has extended eligibility for its Addon Trials competition back to the start of Midnight Beta, opening the $8,100 prize pool to far more existing mods.",
+   "points": [
+    {
+     "text": "The contest runs through July 5 and rewards 20 winners from a field of any Midnight addon, judged on originality, user experience, and design rather than sheer scope. The eligibility cutoff moved from March 2 to November 11 (Midnight Beta launch) so more pre-existing projects can enter, and ten mid-contest winners will each take $100. CurseForge also revealed its judging panel — content creators TomCat, Tex, and MrRoguery, plus the teams behind the r/wow, r/wowaddons, and r/WowUI subreddits — though final rankings go to a community vote.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Judging on originality and UX over scope is an unusual bar — does that reward the right things, or do the big utility addons deserve the spotlight?",
+    "Are there any addons the guild leans on that deserve a vote, and does a contest like this actually surface tools you'd install?"
+   ],
+   "sources": [
+    {
+     "label": "Source — The Addon Trials Community Competition Extended Eligibility (Wowhead)",
+     "url": "https://www.wowhead.com/news/the-addon-trials-community-competition-extended-eligibility-381878"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Patch 12.1 \"Curse of Ula'tek\" First Look",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Blizzard's WoWCast unveiled the next major update, Curse of Ula'tek, sending players to the snake-infested Coiled Isle and kicking off Midnight Season 2.",
+   "points": [
+    {
+     "text": "The campaign follows Zul'jan to the Coiled Isle, a corrupted zone of poisonous waters and venomous foes where players get a custom zone talent tree, Curse Surges that spawn rotating rare elites, and Cursed Fishing with a tortollan captain named Tokka. Season 2 begins one week after the content update goes live, bringing a new dungeon rotation, raid, PvP season, Prey targets, and Bountiful Delves — and a chaotic \"Dummy Dome\" test zone is landing on the PTR for practicing against Season 2–tuned dummies. The hunt for Xal'atath also continues with Arator amid the Twilight's Blade resurgence.",
+     "sub": ""
+    },
+    {
+     "text": "Headline systems from the reveal:",
+     "sub": ""
+    },
+    {
+     "text": "Discord ↔ guild chat: Link your Battle.net and Discord accounts to message your guild from either side — coordinate raids or chat from your phone. Testable soon on the PTR.",
+     "sub": ""
+    },
+    {
+     "text": "Season 2 M+ rotation: Eight dungeons confirmed — five Midnight (including the brand-new Altar of Fangs) plus three returning: Ruby Life Pools, Temple of Sethraliss, and Kings' Rest, all of which drew complaints for harsh tuning the first time around.",
+     "sub": ""
+    },
+    {
+     "text": "New Delves & Prey: Three new Delves including a Nemesis Delve (Venomfall Deeps), plus new Prey affixes and hunts on the Coiled Isle.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Battle.net-to-Discord chat could be huge for guild coordination — genuine quality-of-life win, or does pulling Discord into the game blur a line you'd rather keep separate?",
+    "Two of the three returning M+ dungeons (Temple of Sethraliss, Kings' Rest) were notoriously rough in BfA — excited to revisit them, or dreading it?"
+   ],
+   "sources": [
+    {
+     "label": "Source — Full Patch 12.1 Curse of Ula'tek PTR Development Notes (Wowhead)",
+     "url": "https://www.wowhead.com/news/full-patch-12-1-curse-of-ulatek-ptr-development-notes-381914"
+    },
+    {
+     "label": "Source — Connect Your Guild Discord and In-Game Chats in Patch 12.1 (Wowhead)",
+     "url": "https://www.wowhead.com/news/connect-your-guild-discord-and-in-game-chats-in-patch-12-1-381895"
+    },
+    {
+     "label": "Source — Mythic+ Season 2 Dungeon Rotation Revealed (Wowhead)",
+     "url": "https://www.wowhead.com/news/mythic-season-2-dungeon-rotation-revealed-381893"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Patch 12.1's New Raid, Lairs & a Loot Overhaul",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Season 2 centers on the eight-boss Venomous Abyss raid and a new \"Lair\" system, alongside sweeping changes to how endgame gear is earned.",
+   "points": [
+    {
+     "text": "The Venomous Abyss is the new raid, ending with the serpent god Ula'tek herself across eight encounters. Joining it are Lairs — an evolution of world bosses moved into instanced encounters with summoning stones, found at fixed locations like Delves and scaling all the way up to 15–25 Flexible Mythic, so guilds can pick their difficulty and summon friends straight in.",
+     "sub": ""
+    },
+    {
+     "text": "The gearing changes coming with it:",
+     "sub": ""
+    },
+    {
+     "text": "Raid Vault buffed: LFR/Normal/Heroic vault rewards jump to the first step of the next track (Heroic → Myth 1/6); Mythic vault gives Myth 6/6, with Very Rare items and the final two bosses at the equivalent of Myth 9.",
+     "sub": ""
+    },
+    {
+     "text": "Bonus rolls stay: Available in the Vault immediately, only 1 coin per raid roll, plus one weekly roll from a new NPC (Orin Straylight) starting in Week 8.",
+     "sub": ""
+    },
+    {
+     "text": "Catalyst upgrade: Class set armor now inherits the original item's secondary stats and certain special cantrip effects.",
+     "sub": ""
+    },
+    {
+     "text": "Ascendant Venomstones: The new Voidcore equivalent, arriving later in Season 2 and now able to upgrade necklaces in addition to weapons and trinkets.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Buffing raid Vault rewards a full track is a direct shot at Mythic+'s gearing dominance — does this finally make raiding worth the time, or will M+ still win on efficiency?",
+    "Lairs let you summon world bosses up to Mythic on demand — smart evolution, or does it lose what made world bosses feel like actual world events?"
+   ],
+   "sources": [
+    {
+     "label": "Source — Full Patch 12.1 Curse of Ula'tek PTR Development Notes (Wowhead)",
+     "url": "https://www.wowhead.com/news/full-patch-12-1-curse-of-ulatek-ptr-development-notes-381914"
+    },
+    {
+     "label": "Source — Massive Changes to End-Game Gearing in Patch 12.1 (Wowhead)",
+     "url": "https://www.wowhead.com/news/massive-changes-to-end-game-gearing-in-patch-12-1-raid-item-levels-buffed-and-381915"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Patch 12.1 Class Changes & Season 2 Tier Sets",
+   "tab": "",
+   "category": "News",
+   "synopsis": "The 12.1 PTR notes carry a massive class pass built around a 25% health-and-damage bump and a deliberate shift of power out of burst cooldowns into steady-state damage.",
+   "points": [
+    {
+     "text": "Blizzard is raising max-level player health and creature damage by 25% so healing feels less twitchy and more deliberate, while lowering throughput on major DPS cooldowns and raising baseline damage so combat outside cooldown windows feels less sluggish. Interrupts now show a \"missed\" visual and sound when used on a non-casting target — a small but welcome readability win. Every class also gets new Season 2 tier set bonuses to test on the PTR.",
+     "sub": ""
+    },
+    {
+     "text": "A few notable callouts:",
+     "sub": ""
+    },
+    {
+     "text": "Resto Druid: Big quality-of-life pass — Innervate redesigned to restore 25% mana over 8s, Abundance reworked around a 5-Rejuv threshold, Tranquility now roots and absorbs, and Swiftmend regains punch as a single-target heal.",
+     "sub": ""
+    },
+    {
+     "text": "Unholy DK: Summon density reined in — non-DK players now see at most 3 Lesser Ghouls, with Army of the Dead and a new \"Lord of the Dead\" reworked around it.",
+     "sub": ""
+    },
+    {
+     "text": "Demon Hunter: Can now equip daggers (helping Devourer find Intellect weapons), with Havoc and Vengeance gaining new talents.",
+     "sub": ""
+    },
+    {
+     "text": "Hunter: Ranged auto-shot damage up 600% and Hunter's Mark now applies to up to 5 targets for multi-boss fights.",
+     "sub": ""
+    },
+    {
+     "text": "Elemental Shaman: Ascendance burst spread back into baseline spells via big Lava Burst, Lightning Bolt, and Chain Lightning buffs.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Pulling power out of cooldowns and into steady-state is a recurring Blizzard goal — does it actually make rotations feel better, or just flatten the fun of big cooldown moments?",
+    "A 25% health-and-damage bump resets a lot of healer muscle memory — as a Resto main, does this read as a healthier baseline or a tuning headache waiting to happen?"
+   ],
+   "sources": [
+    {
+     "label": "Source — Full Patch 12.1 Curse of Ula'tek PTR Development Notes (Wowhead)",
+     "url": "https://www.wowhead.com/news/full-patch-12-1-curse-of-ulatek-ptr-development-notes-381914"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Patch 12.1 Housing, Pets & Datamined Cosmetics",
+   "tab": "",
+   "category": "News",
+   "synopsis": "12.1 gives player housing a major glow-up — shareable Blueprints, pet beds, and level-12 houses — while dataminers have already pulled new cosmetic cloaks from the PTR.",
+   "points": [
+    {
+     "text": "The big housing addition is Blueprints, which let players save up to 50 layouts and share them cross-region via codes that show exactly which rooms, decor, and budget an import needs. Pet Beds let you display up to 10 pets indoors and 5 outdoors, houses can now reach level 12 with larger exteriors and a movable entry room (basement dreams included), dye crafting is streamlined with new colors, and four new Endeavors arrive led by \"Knock-off Amani.\"",
+     "sub": ""
+    },
+    {
+     "text": "On the cosmetics front, dataminers found a vicious shark cloak and three sets of demonic wings — the Ophidian, Corroded, and Apophic Patagia. The first two look like general Delve rewards, while the red Apophic version is tied to defeating the new Season 2 Delve Nemesis.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Shareable housing Blueprints could spawn a whole community of layout creators — is that the feature that finally makes housing stick, or does it only matter to decorators?",
+    "Datamined cosmetics this early always set expectations — does a shark you wear as a cape sound awesome or absurd, and which cloak would you actually chase?"
+   ],
+   "sources": [
+    {
+     "label": "Source — Full Patch 12.1 Curse of Ula'tek PTR Development Notes (Wowhead)",
+     "url": "https://www.wowhead.com/news/full-patch-12-1-curse-of-ulatek-ptr-development-notes-381914"
+    },
+    {
+     "label": "Source — Cosmetic Shark and Wing Cloak Appearances Datamined in Patch 12.1 (Wowhead)",
+     "url": "https://www.wowhead.com/news/cosmetic-shark-and-wing-cloak-appearances-datamined-in-patch-12-1-381923"
+    }
+   ],
+   "media": []
+  }
+ ]
+}

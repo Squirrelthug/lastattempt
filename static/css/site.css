@@ -317,3 +317,13 @@ blockquote { margin: 1.5rem 0; padding: .5rem 0 .5rem 1.25rem; border-left: 3px 
 .topic-body li + li { margin-top: .25rem; }
 .topic-body li small { display: block; color: var(--muted); }
 .topic-body a { font-size: .85rem; }
+
+/* ---------- segment extras: questions + sources */
+.seg-label { margin: .9rem 0 .3rem; font-size: .72rem; }
+.questions { margin: .5rem 0 0; padding-left: 1.1rem; color: var(--text-2); font-size: .95rem; }
+.questions li { list-style: none; position: relative; padding-left: .2rem; font-style: italic; }
+.questions li::before { content: "?"; position: absolute; left: -1.1rem; color: var(--gold); font-style: normal; font-weight: 700; }
+.questions li + li { margin-top: .3rem; }
+.sources { margin: .6rem 0 0; font-size: .8rem; color: var(--muted); }
+.sources a { color: var(--text-2); }
+.sources a:hover { color: var(--gold-2); }

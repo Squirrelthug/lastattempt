@@ -1,0 +1,330 @@
+{
+ "episode": "008",
+ "date": "2026-03-21",
+ "subtitle": "",
+ "source": "legacy-html",
+ "intro": {
+  "heads_up": "",
+  "rundown": []
+ },
+ "items": [
+  {
+   "title": "Patch 12.0.5",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Next patch demon hunters will get new eye customizations",
+   "points": [
+    {
+     "text": "Along with next patch we will get the bonus loot system",
+     "sub": ""
+    },
+    {
+     "text": "Building the Voidforge with Decimus",
+     "sub": ""
+    },
+    {
+     "text": "Progress weekly through assembling a forge with the guidance of Dominaar Decimus",
+     "sub": ""
+    },
+    {
+     "text": "Scaffolding of system in 12.0, will initiate in 12.0.5",
+     "sub": ""
+    },
+    {
+     "text": "Purchase up to 2 voidcores each week",
+     "sub": ""
+    },
+    {
+     "text": "Get guaranteed drop from boss as players may choose to spend their Nebulous Voidcores to receive a random item appropriate for their Loot Specialization from that activity",
+     "sub": ""
+    },
+    {
+     "text": "1 voidcore per roll in mythic+",
+     "sub": ""
+    },
+    {
+     "text": "2 voidcores per roll in raids",
+     "sub": ""
+    },
+    {
+     "text": "Armor always relevant to your class/spec",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "How do you feel about the voidcore system compared to previous bonus roll mechanics — is spending voidcores on a guaranteed drop better than the old coins?",
+    "With the Voidforge being scaffolded in 12.0 and not fully online until 12.0.5, do you think Blizzard is doing a good job of pacing content rollout this expansion? Historically they scaffold a system like this before enabling it in a following patch, examples include Creation Catalyst in Shadowlands and Revival Catalyst in Dragonflight."
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Demon Hunters Embrace the Void with New Eye Customizations in Patch 12.0.5",
+     "url": "https://www.wowhead.com/news/demon-hunters-embrace-the-void-with-new-eye-customizations-in-patch-12-0-5-380875?utm_source=discord-webhook"
+    },
+    {
+     "label": "Blizzard Forums — 12.0.5 PTR Development Notes",
+     "url": "https://us.forums.blizzard.com/en/wow/t/1205-ptr-development-notes/2270121"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Practice Midnight Season 1 Raid Encounters with Vellum: Raid Night Study Hall",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Free on Steam",
+   "points": [
+    {
+     "text": "Amusing raid names like Starch for Quail-Ganache or Gleamdrift",
+     "sub": ""
+    },
+    {
+     "text": "Includes dynamic tips and a raid codex for identifying mechanics mid-fight",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Would you actually use a tool like Vellum to prep for raid night, or do you think most players just learn by wiping and watching a video?",
+    "Could something like Raid Night Study Hall help close the gap between casual and mythic raiders, or is hands-on experience always going to be king?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Practice Midnight Season 1 Raid Encounters with Vellum: Raid Night Study Hall",
+     "url": "https://www.wowhead.com/news/practice-midnight-season-1-raid-encounters-with-vellum-raid-night-study-hall-380778?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "The Secret of the Felcycle Continues - 10th Orb Discovered",
+   "tab": "",
+   "category": "News",
+   "synopsis": "As part of their work behind discovering how to join the Mind-Seekers, the Secret Finding Discord had leads on an item called Oddsight Focus, believing it was a continuation of a previously discovered secret. They were right!",
+   "points": [
+    {
+     "text": "Obtaining the Oddsight Focus unlocks the 10th orb on the Felcycle clock puzzle in the Kharazan Catacombs",
+     "sub": ""
+    },
+    {
+     "text": "Head over to the Secret Finding discord to join the hunt",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Do you follow the Secret Finding community at all, or do you prefer to stumble onto hidden content on your own?",
+    "Blizzard keeps burying these deep multi-step secrets in the game — do you think this kind of content adds lasting value, or does it only matter to a tiny niche of the playerbase?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — The Secret of the Felcycle Continues - 10th Orb Discovered",
+     "url": "https://www.wowhead.com/news/the-secret-of-the-felcycle-continues-10th-orb-discovered-380840?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Players Report Bans Associated With Recent Knowledge Point Exploit",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Before Season 1 of Midnight, some players noticed that as long as they kept the vendor window open, they could continuously purchase the Knowledge Point books from Renown vendors",
+   "points": [
+    {
+     "text": "However, it is now being reported that players who took part in this exploit have been banned, beginning with the release of Season 1.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Where do you draw the line between taking advantage of a bug and exploiting — if the vendor lets you keep buying, is that on the player or on Blizzard?",
+    "Do you think bans are the right response here, or should Blizzard have just rolled back the knowledge points and called it a day?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Players Report Bans Associated With Recent Knowledge Point Exploit",
+     "url": "https://www.wowhead.com/news/players-report-bans-associated-with-recent-knowledge-point-exploit-380848?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Raid Buffs Can No Longer Be Removed Mid Combat - Midnight Hotfixes for March 18th",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Player-cast long term raid buffs can no longer be canceled while the player is in combat.",
+   "points": [
+    {
+     "text": "- Mark of the Wild",
+     "sub": ""
+    },
+    {
+     "text": "- Arcane Intellect",
+     "sub": ""
+    },
+    {
+     "text": "- Battle Shout",
+     "sub": ""
+    },
+    {
+     "text": "- Power Word: Fortitude",
+     "sub": ""
+    },
+    {
+     "text": "- Skyfury",
+     "sub": ""
+    },
+    {
+     "text": "- Source of Magic",
+     "sub": ""
+    },
+    {
+     "text": "- Symbiotic Relationship",
+     "sub": ""
+    },
+    {
+     "text": "- Blessing of the Bronze",
+     "sub": ""
+    },
+    {
+     "text": "Canceling the buff then reapplying triggers a state update mid-fight",
+     "sub": ""
+    },
+    {
+     "text": "This exploit allowed players to read state from the encounter for things they should not have been able to see and this allowed addons to track enough values to infer mechanics",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "How do you feel about addon developers finding creative workarounds like this — is it impressive problem-solving or does it cross a line into undermining encounter design?",
+    "Should Blizzard be doing more to lock down what data addons can access during encounters, or is the cat-and-mouse game between developers and addon makers just part of WoW's DNA?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Raid Buffs Can No Longer Be Removed Mid Combat - Midnight Hotfixes for March 18th",
+     "url": "https://www.wowhead.com/news/raid-buffs-can-no-longer-be-removed-mid-combat-midnight-hotfixes-for-march-18th-380858?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "New Twitch Drop Starting on March 26th - Cuddly Void Grrgle Housing Decor",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Watch any eligible World of Warcraft stream on Twitch.tv from March 26 at 3:00 pm PDT until April 23 at 3:00 pm PDT to claim the Cuddly Void Grrgle Housing decor item.",
+   "points": [
+    {
+     "text": "Watch 4 hours of eligible World of Warcraft content while these Twitch Drops are active on any channel to earn the Cuddly Void Grrgle Housing decor item.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Are you making use of the housing system at all, and does a cosmetic reward like this actually motivate you to tune into WoW streams?",
+    "Do you think Blizzard leaning into housing decor as Twitch drop rewards signals that they see player housing as a long-term pillar of the game?"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard — New Twitch Drop Starting on March 26th",
+     "url": "https://worldofwarcraft.blizzard.com/en-us/news/24271368"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "WoW Ambassador Q&A with Holly Longdale on March 30th",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Blizzard's new official World of Warcraft community Discord, The Portal Room, will be hosting an exclusive Q&A with Executive Producer Holly Longdale at 10 AM on Monday, March 30th!",
+   "points": [
+    {
+     "text": "The community discords connected to The Portal Room are allowed to submit questions for Holly to answer.",
+     "sub": ""
+    },
+    {
+     "text": "The blue post calls for players to submit questions via their own communities for those leaders to subsequently ask in the Q&A",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "If you could get one question in front of Holly Longdale, what would you ask her about the current state or future direction of WoW?",
+    "Do you think the Ambassador program and The Portal Room Discord are a meaningful step toward better community communication, or is it just another layer between players and devs?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — WoW Ambassador Q&A with Holly Longdale on March 30th",
+     "url": "https://www.wowhead.com/news/wow-ambassador-q-a-with-holly-longdale-on-march-30th-380862?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Bound Into Cuddly Adventures with the Spring Bloom Pet Pack",
+   "tab": "",
+   "category": "News",
+   "synopsis": "A curios approach to sales on the wow shop",
+   "points": [
+    {
+     "text": "A 65% discounts to 23 pets from the WoW shop",
+     "sub": ""
+    },
+    {
+     "text": "Sale is time-limited and named \"Spring Bloom Pet Pack\" indicating a short run",
+     "sub": ""
+    },
+    {
+     "text": "Players who have bought none of the pets will be asked to pay a whopping $80.50 for all 23",
+     "sub": ""
+    },
+    {
+     "text": "The discount is hefty but may lead players to purchase a pack when they realistically would not have paid anywhere near $80 for all the pets they want.",
+     "sub": ""
+    },
+    {
+     "text": "Still a great discount for pet lovers",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Is bundling 23 pets at a steep discount a smart deal for collectors, or is it a psychological trick to get players to spend $80 they never would have spent otherwise?",
+    "Does this kind of shop promotion make you more or less comfortable with the direction of WoW's cash shop?"
+   ],
+   "sources": [],
+   "media": []
+  },
+  {
+   "title": "Get Guaranteed Hero Track Gear from Trovehunter's Bounty",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Unlock Nightmare difficulty with the Prey system",
+   "points": [
+    {
+     "text": "Once unlocked from a short questline players will need to pick up the quest A Nightmarish Task",
+     "sub": ""
+    },
+    {
+     "text": "One of the rewards for this quest is Beacon of Hope",
+     "sub": ""
+    },
+    {
+     "text": "Use the Beacon of Hope to lure the latest delve seasonal boss Nullaeus",
+     "sub": ""
+    },
+    {
+     "text": "Defeating the boss this way awards a Trovehunter's Bounty",
+     "sub": ""
+    },
+    {
+     "text": "The bounty will have a 1/6 Hero track item",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Does a guaranteed Hero track drop from delves feel like a fair reward for the effort, or does it risk devaluing gear earned through M+ and raiding?",
+    "Are you engaging with the Prey system and Nightmare difficulty delves, or does it still feel like side content compared to your main progression path?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Get Guaranteed Hero Track Gear from Trovehunter's Bounty",
+     "url": "https://www.wowhead.com/news/get-guaranteed-hero-track-gear-from-trovehunters-bounty-380853?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  }
+ ]
+}

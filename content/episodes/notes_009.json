@@ -1,0 +1,243 @@
+{
+ "episode": "009",
+ "date": "2026-03-28",
+ "subtitle": "",
+ "source": "legacy-html",
+ "intro": {
+  "heads_up": "",
+  "rundown": []
+ },
+ "items": [
+  {
+   "title": "AURORA × Blizzard: \"A Place to Call Home\"",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Blizzard partnered with Norwegian art-pop star AURORA and multiple external collaborators to produce an original song and anime-style animated music video for WoW: Midnight — here's who was involved and what it took.",
+   "points": [
+    {
+     "text": "• The Song: \"A Place to Call Home\" — co-written by Brendon Williams (freelance game composer, ex-Riot Games senior composer, credits include League of Legends, Destiny 2, Guild Wars 2), AURORA (Fontana Records / Universal Music Group, 2.6B+ streams, toured 50+ countries), and Laura Intravia (renowned video game vocalist/composer known as \"Flute Link,\" credits include Destiny, Mortal Kombat 11, Video Games Live concert tour)",
+     "sub": ""
+    },
+    {
+     "text": "• The Music Production: Created in collaboration with Blizzard Entertainment's internal music team. Williams and Intravia handled the composition side while AURORA provided vocals and co-writing. Blizzard's in-house team guided the cinematic, fantasy-driven production to fit WoW's legacy sound",
+     "sub": ""
+    },
+    {
+     "text": "• The Animation: Music video produced by Brunch Studio, a Paris-based CG/2D animation studio founded in 2015. Brunch specializes in game trailers and cinematics — they've done work for Riot Games (Valorant), Ubisoft (Just Dance), and NACON. Art direction supervised by Jean-Charles Kerninon (co-owner), lead creative director Clement Lauricella",
+     "sub": ""
+    },
+    {
+     "text": "• The Business Chain: Blizzard (owned by Microsoft via Activision Blizzard) funds and directs the project → contracts AURORA through Fontana/Universal for vocals and songwriting → brings in freelance game composers Williams and Intravia → outsources animation to Brunch Studio in Paris. This is the same outsourced animation pipeline Blizzard used for the Midnight launch shorts (Xal'atath, Arator, Liadrin)",
+     "sub": ""
+    },
+    {
+     "text": "• The Bigger Picture: Holly Longdale (Blizzard president/EP) has said the Warcraft IP is \"underutilized,\" and Johanna Faries has said \"exciting conversations\" are happening about adaptations of Blizzard properties. Community response is overwhelmingly asking for a full WoW animated series in this style",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Blizzard is now outsourcing high-quality animated shorts to studios like Brunch and partnering with mainstream artists like AURORA — is this the early pipeline for a full Warcraft animated series, or is it just smart marketing for expansions?",
+    "Does bringing in outside artists like AURORA help WoW reach new audiences, or does it dilute the game's identity? Some fans felt the song didn't match WoW's tone — where do you land?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — \"A Place to Call Home\" New Music Video and Animation",
+     "url": "https://www.wowhead.com/news/a-place-to-call-home-new-music-video-and-animation-380944"
+    },
+    {
+     "label": "GameSpot — Official World of Warcraft Music Video Is a Walk Down Memory Lane",
+     "url": "https://www.gamespot.com/articles/official-world-of-warcraft-music-video-is-a-walk-down-memory-lane/1100-6538991/"
+    },
+    {
+     "label": "NME — Listen to AURORA's Ethereal New WoW: Midnight Song",
+     "url": "https://www.nme.com/news/music/listen-to-aurora-ethereal-new-world-of-warcraft-midnight-song-a-place-to-call-home-3936489"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Neuralink Patient Plays WoW With His Mind",
+   "tab": "",
+   "category": "News",
+   "synopsis": "British Army veteran Jon Noble (Patient #18) posted a 100-day update on his Neuralink N1 brain-computer interface implant — and he's now raiding in World of Warcraft completely hands-free using only thought control.",
+   "points": [
+    {
+     "text": "• Noble is a former paratrooper paralyzed from the shoulders down after a driving accident in 2016. He received the N1 implant in London in December 2025 as part of Neuralink's clinical trials",
+     "sub": ""
+    },
+    {
+     "text": "• The implant uses 1,024 ultra-thin threads inserted into the motor cortex by a robotic system. Surgery took place under general anaesthetic with minimal recovery — Noble went home the next day and the scar was fading by Day 7",
+     "sub": ""
+    },
+    {
+     "text": "• By Week 2 he was controlling a MacBook cursor with thought. By Week 3, scrolling, clicking, and typing were all mind-controlled. By Day 80, he fired up WoW for the first time with pure thought control",
+     "sub": ""
+    },
+    {
+     "text": "• Noble's X post includes video of him playing WoW — PC Gamer noted you'd be hard-pressed to tell the game was being controlled by thought. He's now raiding and exploring Azeroth at full speed with no mouse or keyboard",
+     "sub": ""
+    },
+    {
+     "text": "• This follows previous Neuralink patients playing Counter-Strike 2 and Mario Kart, but WoW's control complexity (keybinds, macros, mouse movement, targeting) represents a significant step up in BCI capability",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "WoW is one of the most keybind-heavy games in existence — what does it say about where BCI tech is headed that someone can raid in it with thought alone after only 80 days of training?",
+    "If brain-computer interfaces eventually become consumer tech, how would that change the WoW experience? Would Blizzard need to design for thought-based input, or does the current mouse-and-keyboard paradigm already translate?"
+   ],
+   "sources": [
+    {
+     "label": "Jon Noble on X — 100 Days With Neuralink N1",
+     "url": "https://x.com/CheckCanopy/status/2035787611474657652"
+    },
+    {
+     "label": "PC Gamer — Neuralink Patient Raiding in WoW Calls It \"Pure Magic\"",
+     "url": "https://www.pcgamer.com/games/world-of-warcraft/neuralink-patient-raiding-in-world-of-warcraft-after-only-100-days-of-having-the-implant-installed-calls-it-pure-magic-exploring-azeroth-hands-free-at-full-speed/"
+    },
+    {
+     "label": "Tom's Hardware — Paralyzed Army Vet Plays WoW Using Neuralink Brain Implant",
+     "url": "https://www.tomshardware.com/tech-industry/big-tech/paralyzed-army-vet-can-now-play-world-of-warcraft-using-science-fiction-magic-brilliant-neuralink-brain-implant-im-now-raiding-and-exploring-azeroth-hands-free-at-full-speed"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Liquid Claims World First Crown of the Cosmos",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Team Liquid took World First on Mythic Crown of the Cosmos in just 35 pulls, making it their fifth consecutive World First Hall of Fame — but the Race to World First isn't over yet with March on Quel'Danas opening March 31.",
+   "points": [
+    {
+     "text": "• Liquid cleared The Voidspire and claimed first place in the standalone Crown of the Cosmos Hall of Fame. Their comp: 2 tanks (Guardian Druid, Prot Warrior), 4 healers (Pres Evoker, Disc Priest, 2 MW Monks), 3 melee, 11 ranged including 2 Aug Evokers and 2 MM Hunters",
+     "sub": ""
+    },
+    {
+     "text": "• The Voidspire fell faster than expected at only 35 pulls on the final boss, but Midnight Season 1 features separate Hall of Fame leaderboards for each of the three launch raids — the race continues",
+     "sub": ""
+    },
+    {
+     "text": "• Chinese guilds Huoguo Hero and Jitianhong (JTH) claimed World 2nd and 3rd on Chimaerus in The Dreamrift, each earning ¥500,000 RMB (~$72,367 USD) from Thunderfire Games. The World First bounty for Chinese guilds has now accumulated to ¥1.6 million RMB (~$231k USD)",
+     "sub": ""
+    },
+    {
+     "text": "• March on Quel'Danas opens March 31 with bosses designed to be harder to compensate for gear already acquired. This could upset the current standings",
+     "sub": ""
+    },
+    {
+     "text": "• Story Mode for The Voidspire is now available for players who want to see the raid narrative without grouping — solo queue through Venzilion the Reality Cracker for a simplified Crown of the Cosmos encounter",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Liquid took the final boss in just 35 pulls — is The Voidspire undertuned for a mythic tier, or is this the intended design with three separate raids and Hall of Fames spreading the difficulty across the season?",
+    "Thunderfire Games is now offering real prize money for Chinese guilds in the RWF — ¥1.6 million and climbing. Does official prize money from a regional operator change the nature of the Race to World First, and should Blizzard itself be doing something similar?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — World First Mythic Crown of the Cosmos by Liquid",
+     "url": "https://www.wowhead.com/news/world-first-mythic-crown-of-the-cosmos-by-liquid-380939"
+    },
+    {
+     "label": "Wowhead — Huoguo Hero and JTH Win ¥500,000 RMB for World Second & Third",
+     "url": "https://www.wowhead.com/news/huoguo-hero-and-jth-win-500-000-rmb-for-world-second-and-third-chimaerus-380982"
+    },
+    {
+     "label": "Wowhead — The Race to World First Is Upon Us",
+     "url": "https://www.wowhead.com/news/the-race-to-world-first-is-upon-us-check-out-all-the-coverage-380947"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "WoW: 20 Years of Music Concert Tour Announced",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Swiss production company Helvepic announced a global \"World of Warcraft: 20 Years of Music\" concert tour in partnership with Blizzard — full symphonic orchestra and choir touring North America, Europe, and Asia starting May 2026.",
+   "points": [
+    {
+     "text": "• Produced by Helvepic (Switzerland) with international distribution through SOHO Live and ESK. Features music spanning Classic WoW through Dragonflight, performed by a full symphonic orchestra and choir with visual projections from the game",
+     "sub": ""
+    },
+    {
+     "text": "• North America dates: LA Intuit Dome (Sep 10), Dallas (Sep 16-17), Las Vegas (Sep 19-20), Chicago (Sep 22-23), Denver (Sep 27), Newark (Sep 30)",
+     "sub": ""
+    },
+    {
+     "text": "• Europe dates: Paris Zénith (May 8), Lyon (May 9), Luzern KKL (Oct 2-3), London Royal Albert Hall (Oct 25), Birmingham (Oct 31)",
+     "sub": ""
+    },
+    {
+     "text": "• Asia dates: Singapore (Nov 19), Kaohsiung (Dec 12), Bangkok and Shanghai TBA",
+     "sub": ""
+    },
+    {
+     "text": "• The LA date on September 10 lines up perfectly with BlizzCon returning in September 2026 — the first BlizzCon since the Microsoft acquisition. Johanna Faries has been framing 2026 as the biggest year in Blizzard's history",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "The concert tour, BlizzCon, the AURORA collab, and the animated shorts all in the same year — is Blizzard making a genuine play to turn Warcraft into a multimedia franchise, or is this just a celebration year?",
+    "Are any of us actually going to one of these? Which city would you pick and is the Royal Albert Hall the most baller WoW flex of all time?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Official WoW Concert Series in North America, Europe and Asia",
+     "url": "https://www.wowhead.com/news/official-world-of-warcraft-concert-series-in-north-america-europe-and-asia-380960"
+    },
+    {
+     "label": "Helvepic — World of Warcraft: 20 Years of Music (Official Ticket Page)",
+     "url": "https://worldofwarcraft.helvepic.com/"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Microsoft Gaming Leadership Shakeup",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Phil Spencer retired after 38 years at Microsoft, Sarah Bond departed, and Satya Nadella picked Asha Sharma from the Core AI division to run Xbox — a leader with zero gaming industry experience now sits above Blizzard in the org chart.",
+   "points": [
+    {
+     "text": "• Spencer ran Xbox since 2014 and was the face of the brand through the Activision Blizzard acquisition. Bond was widely expected to replace him. Instead, Nadella chose Sharma, who previously held roles at Instacart and Meta",
+     "sub": ""
+    },
+    {
+     "text": "• Matt Booty was promoted to Chief Content Officer overseeing ~40 studios including Activision Blizzard, reporting to Sharma. Johanna Faries at Blizzard reports up through that chain",
+     "sub": ""
+    },
+    {
+     "text": "• Sharma has promised to \"not chase short-term efficiency or flood our ecosystem with soulless AI slop\" — but Xbox founder Seamus Blackley publicly said he believes her real job may be to act as \"a palliative care doctor\" for Xbox, arguing Nadella sees everything through an AI lens",
+     "sub": ""
+    },
+    {
+     "text": "• Sharma has already retired the controversial \"This Is An Xbox\" marketing campaign and is personally leading a brand reset. Additional senior Xbox staff have departed in recent weeks",
+     "sub": ""
+    },
+    {
+     "text": "• For Blizzard specifically: Faries has been talking about the biggest year ever, but the person above her is brand new, comes from AI, and is openly questioning how Xbox operates. This could mean more investment in reliable revenue drivers like WoW, or restructuring pressure if the numbers don't justify headcount",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Nadella picked someone from AI over two seasoned gaming execs to run Xbox — is this a signal that Microsoft views gaming as a content pipeline for their AI strategy rather than a standalone business?",
+    "Blizzard has been thriving under Johanna Faries with Midnight, BlizzCon, and the concert tour — but does a new AI-focused boss above her create uncertainty for the studio's direction, or does WoW's consistent revenue actually make it safer under this kind of leadership?"
+   ],
+   "sources": [
+    {
+     "label": "CNBC — Microsoft Xbox Chief Phil Spencer Retires, Replaced by AI Executive",
+     "url": "https://www.cnbc.com/2026/02/20/microsoft-gaming-chief-phil-spencer-retires-asha-sharma-replacing.html"
+    },
+    {
+     "label": "Windows Central — Exclusive: Talking to New Xbox CEO Asha Sharma and CCO Matt Booty",
+     "url": "https://www.windowscentral.com/gaming/xbox/exclusive-talking-to-new-xbox-ceo-asha-sharma-and-cco-matt-booty"
+    },
+    {
+     "label": "Insider Gaming — Reason Asha Sharma Retired \"This Is An Xbox\" Campaign Revealed",
+     "url": "https://insider-gaming.com/asha-sharma-thought-this-is-an-xbox-campaign-didnt-feel-like-xbox/"
+    }
+   ],
+   "media": []
+  }
+ ]
+}

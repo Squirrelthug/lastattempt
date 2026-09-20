@@ -1,0 +1,124 @@
+{
+ "episode": "014",
+ "date": "2026-05-03",
+ "subtitle": "",
+ "source": "legacy-html",
+ "intro": {
+  "heads_up": "",
+  "rundown": []
+ },
+ "items": [
+  {
+   "title": "Patch 12.0.7: The Omnium Folio Is Borrowed Power Without the Gear Slot",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Patch 12.0.7 is introducing a new source of borrowed power called the Omnium Folio, and the big headline is that it has no gear slot attached to it — a deliberate design shift after players criticized systems like the War Within's Durable Information Securing Container belt for overstaying their welcome. Once you complete a short unlock questline, it lives as a button on your minimap and gives you access to a five-node talent tree of passive runes.",
+   "points": [
+    {
+     "text": "The nodes are likely weekly time-gated and come in two flavors: a core rune that deals damage or heals, and a series of modifier nodes that add stat bonuses, periodic effects, or amplifiers on top of it. The final node choice goes big — either doubling your core rune output, doubling your lingering effect, or creating an echo that repeats all rune damage and healing at 50% after a 10-second delay. Because it's not tied to gear, Blizzard can tune it independently and, importantly, just turn it off heading into Season 2.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Ripping borrowed power off of a gear slot feels like a direct response to player feedback — does removing the gear dependency actually solve the problem, or does it just move the complaints somewhere else?",
+    "If Blizzard can literally just disable the Omnium Folio when Season 2 starts, does that change how much effort you're willing to put into building it out?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — New Power from the Omnium Folio Does Not Take a Gear Slot",
+     "url": "https://www.wowhead.com/news/new-power-from-the-omnium-folio-does-not-take-a-gear-slot-381474"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "WoW Tier 2 Sets Are Coming to Diablo 4: Lord of Hatred",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Blizzard dropped a surprise crossover to coincide with the Diablo 4: Lord of Hatred expansion, bringing iconic World of Warcraft Tier 2 armor sets into Sanctuary as cosmetics for every Diablo 4 class. The lineup covers all the classics: Judgment for Paladin, Bloodfang for Rogue, Stormrage for Druid, Netherwind for Mage, Nemesis Raiment for Warlock, Battle Gear of Wrath for Barbarian, Ten Storms for Spiritborn, and a Death Knight-inspired set for Necromancer. Two mount rewards also make an appearance — a Sindragosa basilisk and a Raven Lord basilisk, both recognizable to longtime WoW players. Each class bundle runs $24.99 per class or $49.99 for the full collection.",
+   "points": [],
+   "questions": [
+    "Tier 2 is arguably the most iconic armor era in WoW history — does seeing it land in Diablo 4 feel like a fun tribute, or does it cheapen what made those sets special?",
+    "This seems like a one-way street right now — WoW gear going into Diablo. Would you want to see Diablo-themed cosmetics come back into WoW in return, or does that feel like crossing the streams?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — World of Warcraft Collab Brings Tier 2 Sets to Diablo 4: Lord of Hatred",
+     "url": "https://www.wowhead.com/news/world-of-warcraft-collab-brings-tier-2-sets-to-diablo-4-lord-of-hatred-381504"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Sporefall Raid Is Bringing Two Big Alt-Friendly Features in Patch 12.0.7",
+   "tab": "",
+   "category": "News",
+   "synopsis": "The Sporefall one-boss raid coming in Patch 12.0.7 is shaping up to be the most alt-friendly raid content Blizzard has released in a long time — two distinct features are working together to make that happen. First, all gear from the raid, including Myth track loot at item level 276 from Mythic difficulty, drops as Warbound Until Equipped. This is the first time Myth track gear has been tradeable to alts at all, and with Mythic Sporefall supporting flex groups of 15–25, it could meaningfully accelerate late-season alt gearing headed into Season 2. As a PTR note, this is subject to change.",
+   "points": [
+    {
+     "text": "Second, defeating Rotmire completes a quest that rewards a Void-Twisted Sporbit, convertible into a Nebulous Voidcore for a bonus loot roll. The catch: rolling requires two Voidcores, so you'll still need a second from the Great Vault to spend it in the raid — or you can use the single core for a bonus roll in dungeons, Delves, or Nightmare Prey content instead.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Tradeable Myth track gear — even from a single-boss raid — feels like a significant shift in how Blizzard thinks about the late-season alt experience. Do you think this is a one-time experiment or the start of a new precedent?",
+    "The bonus loot roll being locked behind two Voidcores feels intentionally gated — is that the right call, or should a Mythic clear of a one-boss raid earn you a full roll on its own?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Earn An Additional Bonus Loot Roll From Sporefall Raid in Patch 12.0.7",
+     "url": "https://www.wowhead.com/news/earn-an-additional-bonus-loot-roll-from-sporefall-raid-in-patch-12-0-7-381489"
+    },
+    {
+     "label": "Wowhead — Warbound Equipped Gear Drops from Patch 12.0.7 Sporefall Raid",
+     "url": "https://www.wowhead.com/news/warbound-equipped-myth-track-gear-drops-from-patch-12-0-7-sporefall-raid-381466"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Patch 12.0.7 Datamining: Mounts, a Deathwing Onesie, and Badlands Fashion",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Patch 12.0.7 datamining has turned up a solid cosmetic haul across mounts, transmog, and the Trading Post. On the mount side there's a Spawn of Vyranoth tied to the upcoming Dragonflight Timewalking event, alongside rocket mounts, a Void Surfboard, a Void-Forged Mechsuit, a Stormcrow, and — yes — a Sporebat. The transmog highlight is a Deathwing Onesie, possibly also a Dragonflight Timewalking reward, with a plainer Black Dragon Onesie variant for those who want the cozy energy without the Worldbreaker branding. Rounding things out, a Western-styled Badlands armor set in five color variants has been datamined as a likely future Trading Post reward — nothing officially confirmed yet.",
+   "points": [],
+   "questions": [
+    "A Deathwing Onesie is objectively unhinged — is that the kind of cosmetic that keeps the game feeling alive and fun, or does it start to undermine the world's tone when it goes too far?",
+    "Sporebat mount incoming — what's a long-requested mount model that you're still personally waiting to see get the treatment?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — New Rocket Mount and Void Surfbound Mounts in Patch 12.0.7",
+     "url": "https://www.wowhead.com/news/new-rocket-mount-and-void-surfbound-mounts-in-patch-12-0-7-381465"
+    },
+    {
+     "label": "Wowhead — New Deathwing Onesie Transmog in Patch 12.0.7",
+     "url": "https://www.wowhead.com/news/new-deathwing-onesie-transmog-in-patch-12-0-7-381485"
+    },
+    {
+     "label": "Wowhead — New Badlands Armor Models Datamined in Patch 12.0.7",
+     "url": "https://www.wowhead.com/news/new-badlands-armor-models-datamined-in-patch-12-0-7-381491"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "KeystoneLoot AddOn: One Menu for All Your Gearing Decisions",
+   "tab": "",
+   "category": "News",
+   "synopsis": "KeystoneLoot is an addon that consolidates all available loot for your spec from current Mythic+ dungeons and raids into a single filterable icon grid — filterable by class, spec, armor slot, and item level. It also displays what difficulty of content you need to complete to hit a given item level, so you're not doing mental math mid-session. The standout feature for this season is its integration with the Nebulous Voidcore bonus roll system: you can mark items as Best in Slot, Must Have, or Nice to Have, giving you a live priority list so you always know exactly where to spend your rolls without opening a sim tool.",
+   "points": [],
+   "questions": [
+    "Do you use addon tools like this to manage gearing, or do you mostly sim once and go with your gut for the rest of the week?",
+    "Now that bonus loot rolls are back in the game, does having a prioritized list actually change how you play — or does RNG just do what it wants regardless?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Simplify Your End-Game Gearing Efforts with the KeystoneLoot AddOn",
+     "url": "https://www.wowhead.com/news/simplify-your-end-game-gearing-efforts-with-the-keystoneloot-addon-381445"
+    }
+   ],
+   "media": []
+  }
+ ]
+}

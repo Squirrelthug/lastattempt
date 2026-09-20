@@ -1,0 +1,488 @@
+{
+ "episode": "010",
+ "date": "2026-04-05",
+ "subtitle": "",
+ "source": "legacy-html",
+ "intro": {
+  "heads_up": "",
+  "rundown": []
+ },
+ "items": [
+  {
+   "title": "Sally Whitemane 1/3 Scale Statue",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Blizzard and Infinity Studio have partnered again for a hyper-detailed 1/3 scale statue of Sally Whitemane, now available for early bird pre-order.",
+   "points": [
+    {
+     "text": "The statue stands over 3.5 feet tall (108cm) and features rooted hair, silicone skin, intricate fabric attire, and LED effects lighting up the Holy Fire and base candles.",
+     "sub": ""
+    },
+    {
+     "text": "Early bird price: $2,620.00 — early bird pricing ends April 26, 2026.",
+     "sub": ""
+    },
+    {
+     "text": "Materials: Silicone, polystone, fabric, LEDs.",
+     "sub": ""
+    },
+    {
+     "text": "Shipping: Free to US, Canada, Australia, Europe, Singapore & Malaysia. UK TBD.",
+     "sub": ""
+    },
+    {
+     "text": "Infinity Studio has also produced a Garrosh Hellscream 1/3 Scale, King Varian Wrynn Life-Size Bust, and King Varian Wrynn 1/3 Scale.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "$2,600 for a statue — are any of you in the market for high-end WoW collectibles? Where's the line between \"that's awesome\" and \"that's a mortgage payment\"?",
+    "If Infinity Studio could make any WoW character next, who would you want to see at this quality?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Richly Detailed Sally Whitemane 1/3 Scale Statue Now Available for Pre-Order",
+     "url": "https://www.wowhead.com/news/richly-detailed-sally-whitemane-1-3-scale-statue-now-available-for-pre-order-381000"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Delve Journey Uncapped",
+   "tab": "",
+   "category": "News",
+   "synopsis": "The Seasonal Delve Journey cap has been lifted — players can now reach Rank 5, unlocking a Champion-track equipment vendor.",
+   "points": [
+    {
+     "text": "Last week Blizzard confirmed the Journey was temporarily capped at Rank 4. That cap is now removed.",
+     "sub": ""
+    },
+    {
+     "text": "Reaching Rank 5 unlocks access to Zah'ran, an ethereal vendor who sells Champion-track equipment for Undercoins after completing Tier 6+ Delves.",
+     "sub": ""
+    },
+    {
+     "text": "Zah'ran appears near the end-of-Delve chests and offers a different daily selection of Champion-track gear at varying Undercoin prices.",
+     "sub": ""
+    },
+    {
+     "text": "Originally introduced in The War Within Season 3, Zah'ran no longer sells only trinkets — the vendor now offers a rotating daily selection of gear slots, making it a solid catch-up source for alts.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Have you been keeping up with your Delve Journey progression? Is Champion-track gear from a vendor enough to get you running Delves more regularly?",
+    "Do you think Delves continue to be a good solo-player path, or does it still feel disconnected from raiding and M+ gearing?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Delve Journey Uncapped - Champion Equipment Vendor Available At Rank 5",
+     "url": "https://www.wowhead.com/news/delve-journey-uncapped-champion-equipment-vendor-available-at-rank-5-381067"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Promo Rewards Coming to Trading Post in 12.0.5",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Datamined from the 12.0.5 PTR — several previously promotional-exclusive items are being added to the Trading Post.",
+   "points": [
+    {
+     "text": "Items found in the PTR build:",
+     "sub": ""
+    },
+    {
+     "text": "Lil' Flameo (Pet, 250 Tender) — originally from the SteelSeries × WoW collab (required ~$160 USD purchase)",
+     "sub": ""
+    },
+    {
+     "text": "Hateforged Blazecycle (Mount, 500 Tender) — Mountain Dew × WoW collab",
+     "sub": ""
+    },
+    {
+     "text": "Parrlok (Pet, 250 Tender) — Discord Cross Link promotion",
+     "sub": ""
+    },
+    {
+     "text": "Classic Sunny Tabard (Transmog, 100 Tender) — Kroger Rewards promotion",
+     "sub": ""
+    },
+    {
+     "text": "Sand Scarab (Pet, 250 Tender) — WoW TCG & Twitch Drop promotion",
+     "sub": ""
+    },
+    {
+     "text": "Blizzard previously confirmed that promotional items like these will continue to rotate onto the Trading Post over time. Many of these items were heavily targeted by scalpers due to FOMO, especially Lil' Flameo.",
+     "sub": ""
+    },
+    {
+     "text": "Community is hopeful that items like Thunder-Ridged Elekk and Gummi the Glow Wyrm may follow in future months.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Is this the right move by Blizzard — making promo items available through in-game currency? Or does it devalue the effort people put into getting them originally?",
+    "Are there any promo items you missed out on that you're hoping show up on the Trading Post?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Previous Promotional Rewards Might Make Their Way to the Trading Post in 12.0.5",
+     "url": "https://www.wowhead.com/news/previous-promotional-rewards-might-make-their-way-to-the-trading-post-in-12-0-5-380991"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "The Felcycle Secret Has Concluded",
+   "tab": "",
+   "category": "News",
+   "synopsis": "The Secret Finding Discord has cracked the final two orbs of the Felcycle clock puzzle — all 12 orbs are now lit, and new transmog + a Feat of Strength are available.",
+   "points": [
+    {
+     "text": "11th Orb (Radiant Singer): Requires a full 40-man raid group. Players perform coordinated emote sequences at the Divine Flame of Beledar in Hallowfall. 25 Measures of emotes must be completed with fewer than 15 mistakes. The Beledar Orchestra Add On is strongly recommended.",
+     "sub": ""
+    },
+    {
+     "text": "12th Orb: Can be completed without the 11th. Requires 2–3 players. Players find an invisible ghost on a lonely island in southeastern Suramar using the Torch of Pyrreth, then escort an Orb of Shadows to Golk the Rumble in Azsuna.",
+     "sub": ""
+    },
+    {
+     "text": "Escort rules: Carrying the orb darkens your vision, spawns adds, and the carrier cannot take damage, jump, or swim. Water-walking buffs recommended.",
+     "sub": ""
+    },
+    {
+     "text": "Rewards: Spare Key, the Ensemble: Fashion of the Fanatic Felcyclist transmog set (from a Weathered Lockbox), and the Radiant Singer achievement.",
+     "sub": ""
+    },
+    {
+     "text": "Using both the Oddsight Focus and Starry-Eyed Goggles buffs reveals a Hidden Footlocker behind the 12th Orb pillar in Ratt's Lair, containing Page 317 from Ratts' Journal.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "The secret-finding community continues to be one of the most dedicated groups in WoW. Have any of you ever participated in one of these community puzzle hunts?",
+    "A 40-man emote coordination puzzle is wild — do you think Blizzard should keep designing secrets that require that level of group effort?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — The Felcycle Secret Has Concluded: Earn New Transmog and Feat of Strength",
+     "url": "https://www.wowhead.com/news/the-felcycle-secret-has-concluded-earn-new-transmog-and-feat-of-strength-381031"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Bluepost Roundup: Hotfixes Through April 3",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Blizzard has been pushing hotfixes at a rapid pace since launch — here are the highlights from the running hotfix post through April 3, 2026.",
+   "points": [
+    {
+     "text": "Resto Druid (PvP): All healing +8%, Regrowth +40%, Swiftmend +25%, Barkskin now 30% DR (was 20%). Also +5% all healing, Reactive Resin +50%. Substantial buffs.",
+     "sub": ""
+    },
+    {
+     "text": "Resto Druid (PvE): Rejuv/Germination +10%, Tranq +10%, Wild Growth +10%, Embrace of the Dream +35%. Reforestation no longer stacks out of combat in raids (exploit fix).",
+     "sub": ""
+    },
+    {
+     "text": "Shadow Priest: SW:Death +80%, Mind Blast/Void Blast −10%, Shadow Apparition +35%. Big execute rework.",
+     "sub": ""
+    },
+    {
+     "text": "Guardian Druid: Heavy nerfs — Maul/Raze/Ravage −20%, Moonfire −10%, 4pc nerfed to 50% (was 100%), Heart of the Wild damage −20%.",
+     "sub": ""
+    },
+    {
+     "text": "Balance Druid: All damage +20%, but Starfall −14% and tier set adjustments (Shooting Stars/Orbit Breaker tuning).",
+     "sub": ""
+    },
+    {
+     "text": "Unholy DK: Launch-week all damage −20%, then later all +8%. Wild swing.",
+     "sub": ""
+    },
+    {
+     "text": "Frost DK: +4% all damage twice (PvE). Also +8% in PvP.",
+     "sub": ""
+    },
+    {
+     "text": "Arms Warrior: Mortal Strike +12%, Execute +15% (PvE); +20% Execute in PvP; Battle Stance mobility buff in PvP.",
+     "sub": ""
+    },
+    {
+     "text": "Mistweaver Monk (PvP): −4% all healing, Heart of Jade Serpent nerfed to 30% (was 75%), Celestial Conduit −50%. Repeat nerfs.",
+     "sub": ""
+    },
+    {
+     "text": "March on Quel'Danas — Belo'ren: Fixed Eternal Burns, Dive Bomb on dead targets, Void Patch size mismatch, same-color tank feathers.",
+     "sub": ""
+    },
+    {
+     "text": "The Voidspire: Vorasius Shadowclaw Slam visibility improved and can no longer be dodged/parried. Crown of the Cosmos — Void Expulsion and Ranger Captain's Mark fixes. Lightblinded Vanguard — Avenger's Shield targets reduced to 4 (was 8) on Mythic, Tyr's Wrath −17%, Sacred Toll −15%.",
+     "sub": ""
+    },
+    {
+     "text": "Magisters' Terrace: Spellwoven Familiar health −20%, now counts for Enemy Forces. Gemellus clone cleanup fix.",
+     "sub": ""
+    },
+    {
+     "text": "Skyreach — Rukhran: Screech trigger fix; stuck-in-combat fix.",
+     "sub": ""
+    },
+    {
+     "text": "Algeth'ar Academy — Echo of Doragosa: Arcane Rift duration reduced to 90s (was 2min), 3s spawn delay added, Energy Bomb now targets 2 (was 1).",
+     "sub": ""
+    },
+    {
+     "text": "Pit of Saron: Arcanist Cadaver now marked as elite with mana bar and better visuals. Gargoyle grab rotation fix.",
+     "sub": ""
+    },
+    {
+     "text": "Dreamrift Hall of Fame is now full and no longer available.",
+     "sub": ""
+    },
+    {
+     "text": "Belo'ren rewards increased — gear from the boss in March on Quel'Danas has been buffed.",
+     "sub": ""
+    },
+    {
+     "text": "Trinket fixes: Crucible of Erratic Energies Leech −50%. Several healing trinkets buffed +35% (Light of the Cosmic Crescendo, Whisper of the Duskwraith, Echo of L'ura, Radiant Sunstone).",
+     "sub": ""
+    },
+    {
+     "text": "Professions: Rare profession tools/accessories are now BoE (was BoP). Double Knowledge granted during first full week (March 3–10). Midnight ring enchant stats increased. Gems found more regularly when prospecting Midnight ore.",
+     "sub": ""
+    },
+    {
+     "text": "Prey: Completing hunts beyond weekly 4 now awards 1000 Journey progress until Rank 4. Prey quest XP increased.",
+     "sub": ""
+    },
+    {
+     "text": "Housing: Harvesting lumber now gives XP. Fungal Pergola can be placed inside houses.",
+     "sub": ""
+    },
+    {
+     "text": "Macro restrictions tightened during active encounters: macros can no longer send chat to non-group channels (guild, communities, custom), group chat is rate-limited and requires all members be in the instance, whispers must target someone in the instance. Target markers limited to 3 units in a short window.",
+     "sub": ""
+    },
+    {
+     "text": "Major quest-blocking fixes: \"The Crimson Rogue\" questline (Valeera not appearing after abandon), \"Champions of Quel'Danas\" progression fix, \"Legends of the Haranir\" / \"Legendary Prosperity\" auto-complete, and Renown progression past rank 11 fixed.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "With this many hotfixes in the first few weeks, do you feel like Midnight Season 1 shipped in a solid state, or does the volume of fixes concern you?",
+    "Resto Druid got massive PvP buffs — are we finally in a good spot, or is Blizzard overcorrecting?"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard — Hotfixes: April 3, 2026 (Running Post)",
+     "url": "https://worldofwarcraft.blizzard.com/en-us/news/24266320"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "The War on Addons Continues on Mythic L'ura",
+   "tab": "",
+   "category": "News",
+   "synopsis": "The push-and-pull between top guilds and Blizzard over addon usage on Mythic L'ura has become one of the most compelling side stories of this Race to World First.",
+   "points": [
+    {
+     "text": "On Mythic difficulty, Terminate is a 1.5-second cast that must be interrupted 5 times sequentially across 3 rotating adds (Termination Matrices). Missing a single cast is nearly always a wipe.",
+     "sub": ""
+    },
+    {
+     "text": "Liquid initially debuted an addon that attached unique identifiers (like \"Theta A\" or \"Theta B\") to Matrix nameplates, making it easier to track which add was which as they rotated.",
+     "sub": ""
+    },
+    {
+     "text": "Blizzard's first hotfix broke the GUID-based identification method — but in doing so, added the Termination Matrix adds to the boss frames. This opened up a new method: players can now use @boss2, @boss3, @boss4 macros to target specific matrices without needing to visually identify them.",
+     "sub": ""
+    },
+    {
+     "text": "The community then revived Interrupt Anchor WeakAuras — these track kick counts and play audio alerts (like an air horn) when it's your turn to kick.",
+     "sub": ""
+    },
+    {
+     "text": "The visual portion of the addon was later removed from Liquid's stream, but the audio-only version persists — players hear a sound cue and press their interrupt without needing visual confirmation.",
+     "sub": ""
+    },
+    {
+     "text": "Messages in the WoWUI Discord confirmed that UnitIsUnit restrictions from 12.0.5 are being surprise-hotfixed in. This would break interrupt anchors on nameplates entirely.",
+     "sub": ""
+    },
+    {
+     "text": "Speculation: Blizzard is okay with audio-based alerts but does not want visual nameplate-attached helpers. No public statement has been made.",
+     "sub": ""
+    },
+    {
+     "text": "Other affected addons: Glows for Light/Void Dive on Belo'ren will also break with UnitIsUnit changes.",
+     "sub": ""
+    },
+    {
+     "text": "On Mythic, the Memory mechanic splits players into 3 phases — each phase can only see a portion of the notes. Players must communicate their notes to form the complete pattern.",
+     "sub": ""
+    },
+    {
+     "text": "Liquid debuted an addon that auto-fills the pattern for all players as notes are revealed, eliminating the need for voice comms to relay note positions.",
+     "sub": ""
+    },
+    {
+     "text": "Echo has since developed a similar addon. Blizzard has not acted against this addon, despite an interview with PoddyC where devs said they designed a mechanic specifically to resist computational addon solving.",
+     "sub": ""
+    },
+    {
+     "text": "Liquid added audio counters so players can track note cadence even when their own phase has gaps in the pattern.",
+     "sub": ""
+    },
+    {
+     "text": "The article raises the core tension: Blizzard designed a mechanic with extremely tight execution requirements (1.5s cast, rotating adds, deadly glaives, top DPS needed simultaneously), but the affordance on the mechanic seems off — and when affordance is off, players will always find ways to offload cognitive load.",
+     "sub": ""
+    },
+    {
+     "text": "If Blizzard wants players to solve Terminate without addons, the mechanic would need longer casts, colored/unique matrices, or reduced simultaneous pressure from other abilities.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Where do you draw the line on addons in progression raiding? Is audio-only assistance fundamentally different from visual aids, or is Blizzard splitting hairs?",
+    "Do you think Blizzard designed the Terminate mechanic with the expectation that addons would solve it, or did they genuinely expect players to handle it raw?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — The War on Addons Continues on Mythic L'ura",
+     "url": "https://www.wowhead.com/news/the-war-on-addons-continues-on-mythic-lura-381108"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Race to World First: March on Quel'Danas",
+   "tab": "",
+   "category": "News",
+   "synopsis": "The Race to World First has entered its most intense phase — Liquid has claimed World First Mythic Belo'ren after a grueling progression, and the top guilds are now deep into Mythic L'ura (Midnight Falls), the final boss of the season. Phase 3 has been seen, hotfixes are flying, and the finish line is in sight.",
+   "points": [
+    {
+     "text": "When March on Quel'Danas opened on March 31, all three top guilds went back to gear farming instead of immediately pulling Mythic bosses — the Heroic versions of Belo'ren and L'ura made it clear these were not pushovers.",
+     "sub": ""
+    },
+    {
+     "text": "Liquid ran Mythic re-clears of Voidspire and Dreamrift as split runs during this lockout, funneling gear to their mains. They completed 5× Mythic kills of Imperator Averzian, Vorasius, Fallen-King Salhadaar, and Vaelgor & Ezzorak before starting Mythic Quel'Danas progression.",
+     "sub": ""
+    },
+    {
+     "text": "Echo opted to skip some splits and jump into Belo'ren earlier than expected, prioritizing pull time over gear advantage.",
+     "sub": ""
+    },
+    {
+     "text": "Method and Echo both ran extensive Heroic and Mythic splits throughout, with Echo racking up 10 Mythic Chimaerus kills total.",
+     "sub": ""
+    },
+    {
+     "text": "Liquid claimed World First Mythic Belo'ren, Child of Al'ar after more pulls than the previous seven bosses combined. Belo'ren was originally intended to be the \"Smolderon\" of the tier, but after Crown of the Cosmos (Alleria) fell quickly, Blizzard substantially buffed Belo'ren and increased rewards to re-establish it as a true penultimate wall.",
+     "sub": ""
+    },
+    {
+     "text": "Kill comp: 2 Tanks (Prot Warrior, Guardian Druid) · 3 Healers (2 Disc Priest, Mistweaver Monk) · 3 Melee (Ret Paladin, Unholy DK, Windwalker Monk) · 12 Ranged (3 Aug Evokers, 3 MM Hunters, 2 Frost Mages, 2 Ele Shamans, Devourer DH, Demo Warlock).",
+     "sub": ""
+    },
+    {
+     "text": "Belo'ren is a tight damage check requiring constant light/void swapping, orb intercepts, and soaks matched to player affinity. It took significantly more pulls than all of Voidspire and Dreamrift combined.",
+     "sub": ""
+    },
+    {
+     "text": "Liquid is the furthest progressed — they have seen Phase 3 and are actively optimizing. As of recent updates, they were around pull 267 with a best of 50.5% in Phase 3.",
+     "sub": ""
+    },
+    {
+     "text": "Echo had reached ~55.5% in Phase 3 on pull 227 before going dark (turning off logs and streams to hide tech). They are running close behind Liquid.",
+     "sub": ""
+    },
+    {
+     "text": "Method is in the race on Midnight Falls, with a best of ~60% in Phase 2. They are making steady progress.",
+     "sub": ""
+    },
+    {
+     "text": "This is a genuine three-way race between Liquid, Echo, and Method on the final boss.",
+     "sub": ""
+    },
+    {
+     "text": "Phase 1: Features the deadly Heaven's Glaives (which Blizzard nerfed — now 20% slower with improved visuals), the Memory Game (3-phase note communication puzzle), Terminate (1.5s interrupt chain on rotating adds), and laser beams. Phase 1 consistency has been the biggest barrier.",
+     "sub": ""
+    },
+    {
+     "text": "Intermission: Similar to Heroic, but all players receive the star pattern at the end.",
+     "sub": ""
+    },
+    {
+     "text": "Phase 2: Described as \"a dance\" — players aim Galvanize at Void Cores, spread before cores get pulled in. Ends with a spread + knockback that spawns 18 soaks.",
+     "sub": ""
+    },
+    {
+     "text": "Phase 3: Raid splits into two teams in different phases — touching a player from the opposing phase kills you instantly. Memory game returns with each group executing at different times. Players must \"Star Augur collapse\" symbols in correct order. L'ura channels The Dark Archangel and crystals must be destroyed.",
+     "sub": ""
+    },
+    {
+     "text": "Based on hotfix analysis: Dark Archangels have a 53-second cooldown. Estimated hard enrage at ~9:15 with four Dark Archangel cycles.",
+     "sub": ""
+    },
+    {
+     "text": "Heaven's Glaives now move 20% slower with new visuals — both Liquid and Echo were struggling with consistent Phase 1s due to glaives hitting crystals causing instant wipes.",
+     "sub": ""
+    },
+    {
+     "text": "Phase 3 Dimension Link hotfix: Damage dealt to one copy of L'ura is supposed to transfer to the other. After the hotfix, Liquid went from 3.2% raid damage to 6% in the same 30-second window — suggesting a bug was preventing proper damage sharing.",
+     "sub": ""
+    },
+    {
+     "text": "Instant Dollars (NA, #2 in region) — on Belo'ren progression, best of ~44.2% at pull 101.",
+     "sub": ""
+    },
+    {
+     "text": "Identity — on Belo'ren, best of ~52.8% at pull 84. Making competitive progress.",
+     "sub": ""
+    },
+    {
+     "text": "Advance — entered Belo'ren late but jumped to 35.8% after only 29 pulls.",
+     "sub": ""
+    },
+    {
+     "text": "Chinese guilds (Huoguo Hero, Jitianhong, 静思网游UUG): They face a structural disadvantage — their raid reset comes 2 days after NA. Huoguo Hero was World 4th last tier and remains the strongest Asian contender. 静思网游UUG achieved World 10th on Crown of the Cosmos (149 pulls). With L'ura proving to be a multi-day wall, Chinese guilds have time to close the gap — and reportedly NetEase has a bounty nearing $200,000 for any Chinese guild that claims a Race to World First.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "With Liquid, Echo, and Method all deep into L'ura and Echo going dark — do you think this is going to be a photo finish, or will Liquid's gear advantage from splits carry them across first?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — World First Mythic Belo'ren, Child of Al'ar by Liquid",
+     "url": "https://www.wowhead.com/news/world-first-mythic-beloren-child-of-alar-by-liquid-381037"
+    },
+    {
+     "label": "Wowhead — RWF Day 9 Recap: Battle for the Bird",
+     "url": "https://www.wowhead.com/news/midnight-season-1-race-to-world-first-day-9-recap-battle-for-the-bird-381087"
+    },
+    {
+     "label": "Wowhead — Positioning Addons Make L'ura's Memory Game Much Easier in the RWF",
+     "url": "https://www.wowhead.com/news/positioning-addons-make-luras-memory-game-much-easier-in-the-race-to-world-first-381097"
+    },
+    {
+     "label": "Wowhead — Mythic L'ura Nerfed for Race to World First",
+     "url": "https://www.wowhead.com/news/mythic-lura-nerfed-for-race-to-world-first-381114"
+    },
+    {
+     "label": "Wowhead — First Look at Phase 3 of Mythic L'ura",
+     "url": "https://www.wowhead.com/news/first-look-at-phase-3-of-mythic-lura-381115"
+    },
+    {
+     "label": "Wowhead — Additional Mythic L'ura Hotfix Targeting Phase 3",
+     "url": "https://www.wowhead.com/news/additional-mythic-lura-hotfix-targeting-phase-3-381117"
+    }
+   ],
+   "media": []
+  }
+ ]
+}
