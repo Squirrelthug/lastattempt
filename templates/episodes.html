@@ -29,6 +29,8 @@
                   {% if t.category %}<span class="eyebrow">{{ t.category }}</span>{% endif %}
                   {% if t.synopsis %}<p>{{ t.synopsis }}</p>{% endif %}
                   {% if t.points %}<ul>{% for p in t.points %}<li>{{ p.text }}{% if p.sub %}<small>{{ p.sub }}</small>{% endif %}</li>{% endfor %}</ul>{% endif %}
+                  {% if t.questions %}<ul class="questions">{% for q in t.questions %}<li>{{ q }}</li>{% endfor %}</ul>{% endif %}
+                  {% if t.sources %}<p class="sources">{% for src in t.sources %}{% if src.url %}<a href="{{ src.url }}" rel="noopener">{{ src.label }}</a>{% else %}{{ src.label }}{% endif %}{% if not loop.last %} · {% endif %}{% endfor %}</p>{% endif %}
                   <a href="{{ e.url }}#{{ t.slug }}">Open in the episode →</a>
                 </div>
               </details>

@@ -1,0 +1,367 @@
+{
+ "episode": "022",
+ "date": "2026-07-05",
+ "subtitle": "",
+ "source": "legacy-html",
+ "intro": {
+  "heads_up": "",
+  "rundown": []
+ },
+ "items": [
+  {
+   "title": "Player Housing: New Decor + Upcoming Exterior",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Housing got a small decor win this patch and a bigger tease for the next — Bartender Bob now sells a \"No Weapons Allowed\" rack, and Blizzard has confirmed a new house exterior coming in Patch 12.1 that won't be a Shop purchase.",
+   "points": [
+    {
+     "text": "Now live in Patch 12.0.7: earn the Highly Decorated achievement by bringing relics of the past to the Arcantina, then buy Bartender Bob's \"No Weapons Allowed\" Rack for free from decor vendor Morta Gage. It has two dye slots (metal border and wood base), works both indoors and outdoors, and grants the same \"weapon stowed\" interaction as the Arcantina's own rack — though your weapon won't visually display once racked.",
+     "sub": ""
+    },
+    {
+     "text": "Coming in the Patch 12.1 PTR: datamining turned up two new House Exterior file entries that looked Shop-bound, sparking speculation about a real-money exterior. Blizzard clarified that assumption was wrong — this exterior (and likely more down the line) will be earnable in-game, with more details to come as it nears testing.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Does a free decor unlock like the weapon rack move the needle on how much time you spend decorating, or does it take a flashy Shop item to get you in there?",
+    "Blizzard walking back the \"Shop exclusive\" assumption on the new exterior — good-faith correction, or just cleanup after the datamine got ahead of them?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — \"No Weapons Allowed\" Decor Available in Patch 12.0.7",
+     "url": "https://www.wowhead.com/news/no-weapons-allowed-decor-available-in-patch-12-0-7-382007?utm_source=discord-webhook"
+    },
+    {
+     "label": "Wowhead — New Exterior for Player Housing Is Coming",
+     "url": "https://www.wowhead.com/news/new-exterior-for-player-housing-is-coming-will-not-be-released-in-shop-382063?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Naigtal & Val World Tier Rewards Buffed",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Blizzard buffed Naigtal & Val World Tier rewards, with some changes already live via hotfix and more landing on weekly reset, aimed at smoothing the climb from Normal into Heroic World Tier.",
+   "points": [
+    {
+     "text": "What changed (live now):",
+     "sub": ""
+    },
+    {
+     "text": "Warbound caches: Void-Touched Heroic Caches from Maren Silversong in Silvermoon City are now Warbound.",
+     "sub": ""
+    },
+    {
+     "text": "Crests: Rare enemies now drop twice as many crests, and Warp Riders / Blasktar Legion enemies can drop Heroic Crests in the Heroic World Tier.",
+     "sub": ""
+    },
+    {
+     "text": "Currency: Dark Particles now drop in both Val and Naigtal and stack to 1000.",
+     "sub": ""
+    },
+    {
+     "text": "Rare spawns: Increased spawn frequency, plus a chance for Warbound-until-equipped Heroic items.",
+     "sub": ""
+    },
+    {
+     "text": "Weekly reset: World Bosses now drop Warbound Heroic gear (1/6 Normal, 4/6 Heroic), and every character gets a guaranteed Soulbound piece on both difficulties.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Does this make Heroic World Tier worth prioritizing over just farming Normal on alts?",
+    "Doubling crest drops and boosting rare spawn rates this fast — good responsiveness from Blizzard, or a sign the initial tuning was off?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Buffs to Naigtal and Val Rewards",
+     "url": "https://www.wowhead.com/news/buffs-to-naigtal-and-val-rewards-immediately-and-on-weekly-reset-382019?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "July Trading Post Goes Blue",
+   "tab": "",
+   "category": "News",
+   "synopsis": "The July Trading Post is live with a blue-and-fireworks theme, headlined by the Blackwater X-TREME Firework Rocket mount and the first Trading Post appearance for the promotional Chillbot/Thrillbot pets.",
+   "points": [
+    {
+     "text": "Pick up items with Trader's Tender from T&W in Stormwind, the Zen'shiri Trading Post in Orgrimmar, or the capital-city vendors in Dornogal and Silvermoon. Filling the Traveler's Log this month unlocks the Bilgewater X-TREME mount as a bonus reward on top of anything purchased directly.",
+     "sub": ""
+    },
+    {
+     "text": "Highlights:",
+     "sub": ""
+    },
+    {
+     "text": "Blackwater X-TREME Firework Rocket: mount, 700 Tender.",
+     "sub": ""
+    },
+    {
+     "text": "Wailing Banshee's Charger: mount, 575 Tender.",
+     "sub": ""
+    },
+    {
+     "text": "Chillbot 9000 / Thrillbot 9000: pets, 250 Tender each — first time off promo-exclusive status.",
+     "sub": ""
+    },
+    {
+     "text": "Ensemble: Villager's Seaside Collection: full 6-slot transmog set, 440 Tender.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Anything from this month's post worth grinding Tender for, or is it a skip month?",
+    "Chillbot and Thrillbot finally hitting the Trading Post after being promo-only — does that change how you feel about promo-exclusive rewards going forward?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — July's Trading Post Ignites a True-Blue Celebration",
+     "url": "https://www.wowhead.com/news/july-s-trading-post-ignites-a-true-blue-celebration-382036?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "BlizzCon 2026: Blizzard Classic Cup Legacy Matches Revealed",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Blizzard revealed the Legacy Match lineups for its new Blizzard Classic Cup at BlizzCon 2026, pairing legendary rivals across StarCraft, Heroes of the Storm, and Warcraft III, alongside word on WoW's own esports Grand Finals.",
+   "points": [
+    {
+     "text": "Team captains Tasteless and Artosis will draft from a pool of returning legends for a cross-title celebration of Blizzard esports history at BlizzCon. The reveal comes alongside news that WoW's Arena World Championship and Mythic Dungeon International will hold their 2026 Grand Finals at the same show, splitting a combined $600,000 prize pool between six qualified AWC teams and four MDI teams.",
+     "sub": ""
+    },
+    {
+     "text": "Legacy Matches confirmed so far:",
+     "sub": ""
+    },
+    {
+     "text": "StarCraft: Remastered: BoxeR vs. Nal_rA.",
+     "sub": ""
+    },
+    {
+     "text": "StarCraft II: IdrA vs. MC.",
+     "sub": ""
+    },
+    {
+     "text": "Heroes of the Storm: Dignitas vs. Gen.G, a rematch of the 2018 Global Championship Finals.",
+     "sub": ""
+    },
+    {
+     "text": "Warcraft III: ToD vs. TeD.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Any of these legacy matchups you're genuinely excited to watch, even outside WoW?",
+    "Are you following the Road to BlizzCon for AWC/MDI this year, or tuning in cold for the Grand Finals?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Blizzard Classic Cup Players Revealed at BlizzCon 2026",
+     "url": "https://www.wowhead.com/news/blizzard-classic-cup-players-revealed-at-blizzcon-2026-382045?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "New Short Story: \"The Bitter Truth\"",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Blizzard released a new three-part short story pairing old rivals Lor'themar Theron and Torundo the Grizzled for a tense, drink-fueled reckoning, written by Robert Brooks and narrated in video form on YouTube.",
+   "points": [
+    {
+     "text": "What was meant as a diplomatic sit-down turns personal fast, with polite exchanges giving way to a long shared history of bloodshed and blame. Gideon Emery returns as Lor'themar opposite Keston John's Torundo, with all three parts — starting with \"To the Brim\" — now available.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Lor'themar's story keeps circling back to old blood — where do you want to see his arc go from here?",
+    "Do narrated short-story drops like this land better for you than getting the same beats through an in-game questline?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Blizzard Releases New Short Story: The Bitter Truth",
+     "url": "https://www.wowhead.com/news/blizzard-releases-new-short-story-the-bitter-truth-part-one-382058?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Curse of Ula'tek (12.1 PTR): Quality-of-Life Pass",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Patch 12.1's PTR brings another round of quality-of-life work, headlined by a one-time profession knowledge reset and the long-requested option to display map coordinates in the UI.",
+   "points": [
+    {
+     "text": "Already live via 12.0.5 hotfixes:",
+     "sub": ""
+    },
+    {
+     "text": "Silvermoon City: raised concurrent-player thresholds for better performance during busy times.",
+     "sub": ""
+    },
+    {
+     "text": "Looting: fixed a bug causing area-loot and auto-loot to occasionally fail.",
+     "sub": ""
+    },
+    {
+     "text": "Repair costs: combat actions like swinging or blocking no longer cause \"wear and tear\" durability loss.",
+     "sub": ""
+    },
+    {
+     "text": "Coming in 12.1:",
+     "sub": ""
+    },
+    {
+     "text": "Professions: a one-time knowledge point reset per profession.",
+     "sub": ""
+    },
+    {
+     "text": "Housing: reduced cost on most Midnight crafted decor.",
+     "sub": ""
+    },
+    {
+     "text": "UI: map coordinates, account-wide auto-loot settings, and persistent Auction House filters.",
+     "sub": ""
+    },
+    {
+     "text": "Bug fixes: targeting the open-world \"stuck in combat\" issue and a transmog display bug on the character select screen.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Should the profession knowledge reset be a one-and-done, or something Blizzard offers every season?",
+    "Which of these actually affects your day-to-day play the most — the auto-loot fix, repair costs, or something else on the list?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Quality-of-Life Improvements Coming in Curse of Ula'tek",
+     "url": "https://www.wowhead.com/news/quality-of-life-improvements-coming-in-curse-of-ulatek-profession-knowledge-382059?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Stoneforged Sentinel: $30 Shop Mount",
+   "tab": "",
+   "category": "News",
+   "synopsis": "A new fully customizable mount, the Stoneforged Sentinel, is now available on the Shop for $30 USD, with adjustable wings, claws, tail, saddle, and coloring.",
+   "points": [
+    {
+     "text": "Blizzard is pitching it as a build-your-own flying guardian, chiseled from stone and built around a wide customization matrix rather than a single fixed look.",
+     "sub": ""
+    },
+    {
+     "text": "Customization options:",
+     "sub": ""
+    },
+    {
+     "text": "Wing Style: 6 options.",
+     "sub": ""
+    },
+    {
+     "text": "Claw Style: 6 options.",
+     "sub": ""
+    },
+    {
+     "text": "Tail Style: 6 options.",
+     "sub": ""
+    },
+    {
+     "text": "Head: 6 options.",
+     "sub": ""
+    },
+    {
+     "text": "Gem Color: 5 options.",
+     "sub": ""
+    },
+    {
+     "text": "Stone Color / Metal Color: 4 options each.",
+     "sub": ""
+    },
+    {
+     "text": "Saddle: 3 options.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Does this level of customization justify $30 for you, or does it still feel like a reskin with extra sliders?",
+    "Where's your personal line between a cool Shop mount and Shop bloat?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Introducing the Stoneforged Sentinel",
+     "url": "https://www.wowhead.com/news/introducing-the-stoneforged-sentinel-new-customizable-mount-available-in-shop-382060?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Ion Hazzikostas on Addons, Raid Design & Patch Cadence",
+   "tab": "",
+   "category": "News",
+   "synopsis": "In a wide-ranging PsybearTV interview, Ion Hazzikostas addressed the ongoing arms race between raid mechanics and addons, defended the 8-week patch cadence, and traced the 12.0.5 housing bug back to a last-minute elevator fix.",
+   "points": [
+    {
+     "text": "Ion frames addons that simplify mechanics as a natural arms race rather than a problem to eliminate outright — early hotfixes targeting tools like interrupt tracking on Mythic L'ura were rolled back because they hurt average players more than top guilds. Without those workarounds existing at all, he says some of that fight's tuning would have been nerfed much harder. He also confirmed the last few bosses in a tier are deliberately tuned at a \"superhuman\" level early on for the top 3-5 guilds, then eased down as the season progresses. On the 8-week cadence, he called it a target rather than a hard deadline — content slips a patch if testing or feedback says it isn't ready, which he says is what should have happened with some of 12.0.5's last-minute fixes.",
+     "sub": ""
+    },
+    {
+     "text": "Also addressed:",
+     "sub": ""
+    },
+    {
+     "text": "Gear checks: with parallel dungeon/raid gearing, players now vet pugs by M+ rating or raid achievements instead of pure item level — Ion doesn't consider that inherently toxic if people are polite about it.",
+     "sub": ""
+    },
+    {
+     "text": "Raid lockouts: Sporefall's reception has Blizzard looking toward more flexible Mythic-style lockouts down the line, but a fully flexible raid size isn't coming soon due to tuning and social-experience concerns.",
+     "sub": ""
+    },
+    {
+     "text": "Itemization: Season 2 pulls back slightly on how much high-item-level Myth-track gear is available, balancing skill-chasers against players who gear up as a means to other goals.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Do you buy Ion's argument that addon-proofing a mechanic just means Blizzard nerfs it harder for everyone else?",
+    "Would you actually want more flexible Mythic lockouts, even knowing it could mean raid-size min-maxing?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — PsybearTV Interview with Ion Hazzikostas",
+     "url": "https://www.wowhead.com/news/psybeartv-interview-with-ion-hazzikostas-the-mythic-raid-lockout-addons-8-week-382061?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Super Spreader Debuff Turns Moon Guard Into Corrupted Blood 2.0",
+   "tab": "",
+   "category": "News",
+   "synopsis": "A Brackenhide Hollow debuff escaped the dungeon and spread across the Moon Guard realm for several hours in a spontaneous plague event before Blizzard hotfixed it.",
+   "points": [
+    {
+     "text": "Vile Rothexer's Withering Contagion — a stacking, spreading nature DoT meant to stay inside the dungeon — somehow leaked onto the open server, jumping player-to-player through Silvermoon, Stormwind, and even the Goldshire Inn. Low-level players caught in the blast radius died almost instantly, and screenshots spread across Reddit and social media before the bug was hotfixed around 3:51 PM Pacific. Anyone who remembers the original 2005 Corrupted Blood Incident — or its 2024 repeat during Season of Discovery — immediately clocked the parallel.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Accident, or is there a decent chance Blizzard quietly let this one ride for the chaos? Where do you land?",
+    "These incidents generate huge community goodwill almost by accident — should Blizzard just lean in and build an intentional plague-style event around it?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Super Spreader Debuff from Brackenhide Hollow Now Hotfixed",
+     "url": "https://www.wowhead.com/news/super-spreader-debuff-from-brackenhide-hollow-now-hotfixed-382082?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  }
+ ]
+}

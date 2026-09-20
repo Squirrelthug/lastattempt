@@ -1,0 +1,178 @@
+{
+ "episode": "019",
+ "date": "2026-06-06",
+ "subtitle": "",
+ "source": "legacy-html",
+ "intro": {
+  "heads_up": "",
+  "rundown": []
+ },
+ "items": [
+  {
+   "title": "Patch 12.0.7 \"Revelations\" Releases June 16",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Midnight's first major content patch, 12.0.7 \"Revelations,\" goes live June 16 for NA (June 17 for EU) — and it leads with Mythic Flex Raiding, the first time Mythic has ever supported flexible group sizes.",
+   "points": [
+    {
+     "text": "Alongside that headline change, the patch stacks on a pile of new content: the single-boss Sporefall raid against the fungal giant Rotmire (playable Raid Finder through Mythic, with Mythic now in flexible 15–25 groups, dropping the Luminous Sporeglider mount), a new player-power system in the Omnium Folio — a runic ledger you imbue and customize through weekly activities — and the next story chapter with Zul'jan beginning the week of July 7. Rounding it out are Loa lorewalking sessions with Li Li, the two new Void zones and the return of Turbulent Timeways (both covered below), and another round of UI quality-of-life passes on raid frames and damage meters.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Mythic Flex is a genuine first for the game — does flexible sizing change how Second Attempt would approach a single-boss raid like Sporefall, or is one boss too small to really feel it?",
+    "A June 16 drop lands us mid-progression — does a content patch this size help a guild still grinding the current Mythic tier, or just split our focus?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Midnight Patch 12.0.7 \"Revelations\" Releases on June 16",
+     "url": "https://www.wowhead.com/news/patch-12-0-7-release-on-june-16-381783"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Xbox 25th-Anniversary Games Showcase",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Microsoft's Xbox Games Showcase airs Sunday, June 7 — pitched as a 25th-anniversary celebration loaded with world premieres, with a Gears of War: E-Day Direct running back-to-back right after. The June Game Pass wave is dropping the same week, so it's a big seven days for the green machine.",
+   "points": [
+    {
+     "text": "The show streams at 10 AM Pacific and is being framed as Xbox's marquee event of the Summer Game Fest season — and as a reset moment for a brand that's spent a couple of rough years on the back foot under new leadership. The thread that matters for us is Blizzard. Microsoft owns it now, BlizzCon returns this September, and there's been years of low-grade speculation about WoW eventually landing on Xbox console. A 25th-anniversary stage is exactly the kind of spotlight where a \"WoW comes to console\" tease would make sense — the open question is whether a 20-plus-year-old, keyboard-and-mouse-married MMO could ever truly translate to a controller.",
+     "sub": ""
+    },
+    {
+     "text": "The week at a glance:",
+     "sub": ""
+    },
+    {
+     "text": "When & where: Sunday, June 7, 10 AM PT — on Xbox's YouTube, Twitch, and Steam channels, plus (new this year) Amazon Live and Prime Video on Fire TV in the US",
+     "sub": ""
+    },
+    {
+     "text": "The headliner: a dedicated Gears of War: E-Day Direct from The Coalition immediately follows the main show; State of Decay 3 is rumored to appear (reported in private alpha)",
+     "sub": ""
+    },
+    {
+     "text": "Game Pass June: nine titles rolling out June 3–16, led by Final Fantasy VI and Persona 5 Royal; June 11 alone brings three day-one drops, one of which becomes the 100th Game Pass addition of 2026",
+     "sub": ""
+    },
+    {
+     "text": "Leaving soon: departures include Warhammer 40,000: Space Marine and Teenage Mutant Ninja Turtles: Shredder's Revenge",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "If Blizzard actually gets stage time on Sunday, what's the one announcement that would genuinely move the needle for our guild — WoW on console, tighter Battle.net / Game Pass integration, or something nobody's expecting?",
+    "Be honest at the table: would you ever raid Mythic on a controller? Is \"WoW on Xbox\" a real future, or a headline that never survives contact with a 40-keybind rotation?"
+   ],
+   "sources": [
+    {
+     "label": "Xbox Wire — How to Watch the Xbox Games Showcase and Gears of War: E-Day Direct",
+     "url": "https://news.xbox.com/en-us/2026/06/01/xbox-games-showcase-2026-gears-of-war-e-day-direct-how-to-watch/"
+    },
+    {
+     "label": "Xbox Wire — Coming to Xbox Game Pass (June 2026, Wave 1)",
+     "url": "https://news.xbox.com/en-us/2026/06/03/xbox-game-pass-june-2026-wave-1/"
+    },
+    {
+     "label": "TechTimes — Xbox Games Showcase 2026: Gears of War: E-Day Direct Anchors 25th-Anniversary Show",
+     "url": "https://www.techtimes.com/articles/317889/20260605/xbox-games-showcase-2026-gears-war-e-day-direct-anchors-25th-anniversary-show.htm"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Travel to Val and Naigtal",
+   "tab": "",
+   "category": "News",
+   "synopsis": "12.0.7's counter-invasion sends you through a portal in Voidstorm into two new open-world zones — the icy world of Val and the mana-rich bogs of Naigtal — to hunt down the Void leaders behind the assaults on Azeroth.",
+   "points": [
+    {
+     "text": "You kick it off by speaking with Riftblade Maella in Silvermoon, then step through the Voidstorm portal in Howling Reach — and the destination rotates weekly, so only one world is open at a time. Each zone has Normal and Heroic world tiers (Heroic recommends 274 item level and adds roving elites for better rewards), a full slate of World Quests, rares, events, secrets, and a unique world boss — Imperator Pertinax in Val, Nexus-Captain Leth'ir in Naigtal. You earn Field Accolades to spend at the Umbral Base Camp vendors on catch-up gear, transmog, Housing Decor, mounts, pets, and toys, and the \"Showdown\" quests reward a Riftstalker's Cache that feeds your Great Vault world row.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "The weekly portal rotation means you can only run one zone per week — do you read that as smart pacing, or an artificial gate on catch-up gear?",
+    "Heroic world tier adds roving elites and wants 274 ilvl — is that the kind of open-world challenge you actually want, or would you rather faceroll your accolades and get out?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Travel to Val and Naigtal to Quell Leaders of the Void",
+     "url": "https://www.wowhead.com/news/travel-to-val-and-naigtal-to-quell-leaders-of-the-void-381787"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Darkspear Dash Microholiday",
+   "tab": "",
+   "category": "News",
+   "synopsis": "WoW's first official Darkspear Dash microholiday runs June 27–29 — Blizzard's take on the long-running community \"Running of the Trolls\" charity event.",
+   "points": [
+    {
+     "text": "The Running of the Trolls is in its 12th year as an annual celebration of the LGBTQIA+ community raising support for The Trevor Project, and Blizzard is now making it an official in-game event. Datamined assets point to a Pride-themed parade: a beach party in the Echo Isles that runs across Kalimdor and the Eastern Kingdoms all the way to Silvermoon — notably the first such run since the Midnight revamps folded Quel'Thalas into a unified Eastern Kingdoms. Rewards and toys include the Darkspear Dasher title, a Darkspear Dash Tabard, the Troll Scroll of Rainbow Roll toy, and Pocket Rainbow / Rainbow Runners / Pocket Sand consumables for the route. The original community event still runs concurrently on Feathermoon-US and Argent Dawn-EU.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Blizzard turning a player-run charity event into official content — genuine nod to the community, or corporate co-opting something grassroots?",
+    "It's the first parade route since Quel'Thalas got stitched into the Eastern Kingdoms — anyone actually planning to run it, and what's the over/under on how broken the route is on day one?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — New Models for Darkspear Dash Microholiday on Patch 12.0.7",
+     "url": "https://www.wowhead.com/news/new-models-for-darkspear-dash-microholiday-on-patch-12-0-7-381773"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Turbulent Timeways Returns (Mastery Buff Walkback)",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Turbulent Timeways returns June 30–August 11 with six weeks of Timewalking and a new mount — and Blizzard just walked back a key detail: the \"Mastery of the Timeways\" XP buff is NOT account-wide.",
+   "points": [
+    {
+     "text": "The event cycles a different expansion's Timewalking dungeons each week, opening and closing on Dragonflight, with a Dragonflight vendor (Xydan) in Valdrakken's Bronze Enclave and a boosted weekly-quest reward — a Heroic Cache of Quel'Thalas Treasures at item level 259–276. Running dungeons stacks the \"Knowledge of the Timeways\" XP buff, which becomes \"Mastery of the Timeways\" (30% XP, persists through death) after four applications. The correction matters for alt plans: an earlier blog said that buff was account-wide, and Blizzard updated it June 4 to clarify it is not — it only persists through death. Maintain Mastery for any four weeks to earn the Spawn of Vyranoth flying mount, and the Covenant restrictions on the returning Shadowlands Bronze mounts have been lifted.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "The account-wide walkback stings if you were planning to power-level a stable of alts — does that change how you'll play the event, or were you grinding it for the Vyranoth mount regardless?",
+    "Six weeks of Dragonflight-bookended Timewalking — fun nostalgia tour, or are we all just going to autopilot dungeons for the XP and the mount?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Blizzard Clarifies Mastery of the Timeways Buff is Not Account-Wide",
+     "url": "https://www.wowhead.com/news/blizzard-clarifies-mastery-of-the-timeways-buff-is-not-account-wide-381799"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Brian Holinka Joins Riot Games' MMO",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Former WoW Lead Combat Designer Brian Holinka has joined Riot Games as a principal designer on their still-untitled Runeterra (League of Legends) MMO.",
+   "points": [
+    {
+     "text": "Holinka's a name longtime players will know — he was WoW's highly visible Lead PvP Designer starting in 2012, then returned in 2018 as Lead Combat Designer over the entire class and combat team, overseeing things like Dragonflight's expanded talent trees. He left Blizzard in 2023 for Greg Street's studio Fantastic Pixel Castle to work on the MMO Project Ghost, which shut down late last year — one of many new-MMO startups to fold in a rough market. Now he lands at Riot, whose Runeterra MMO has already been through a full development reset (Greg Street originally led it before stepping down) and is loosely targeting a release before 2030, despite no gameplay, screenshots, or game-specific art shown to date.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "A designer who shaped a decade-plus of WoW combat and PvP jumping to a direct MMO competitor — does that worry you, or is MMO design talent just one big revolving door now?",
+    "Riot's MMO has been reset, has zero footage, and is aiming for \"before 2030\" — at what point do we stop treating it as a real WoW threat and start calling it vaporware?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Brian Holinka Joins Riot Games' MMORPG Team",
+     "url": "https://www.wowhead.com/news/brian-holinka-joins-riot-games-mmorpg-team-381762"
+    }
+   ],
+   "media": []
+  }
+ ]
+}

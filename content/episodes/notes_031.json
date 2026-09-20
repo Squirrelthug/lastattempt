@@ -1,0 +1,651 @@
+{
+ "episode": "031",
+ "date": "2026-09-05",
+ "subtitle": "",
+ "source": "legacy-html",
+ "intro": {
+  "heads_up": "",
+  "rundown": [
+   "Liquid taking down Mythic Ula'tek to close out one of the longest Race to World First events in the game's history",
+   "the Roofus Pack's final charity total landing, and whether the shop pricing backlash actually dented it",
+   "a community delve compendium that lays out how a speedrunner actually gets through a delve efficiently",
+   "BlizzCon 2026 landing next weekend, with the full schedule out and a pile of What's Next panels on it",
+   "the AWC and MDI Grand Finals back on the BlizzCon stage for the first time since 2019",
+   "Trader's Tender and a flying quilt mount handed out just for watching the stream",
+   "Raid Finder Wing 3 going live on the Venomous Abyss",
+   "a look back at everything the Coiled Isle patch actually gave us now that we've had a month with it",
+   "and we'll close out the news with everything piling up on the 12.1.5 PTR — the Kith'ix raid, the first Labyrinth, the gearing catch-ups, and a seven million gold mount"
+  ]
+ },
+ "items": [
+  {
+   "title": "Ula'tek Falls to Liquid",
+   "tab": "",
+   "category": "News",
+   "synopsis": "The Venomous Abyss Race to World First is over — Liquid are World Champions of the Venomous Abyss.",
+   "points": [
+    {
+     "text": "Liquid killing Mythic Ula'tek after 17 days and 306 pulls",
+     "sub": ""
+    },
+    {
+     "text": "this landing as a stunning upset, with Echo sitting on several sub-10% wipes while Liquid were still in the 30% range that same morning",
+     "sub": "Liquid went from 22% to 11% to a clean kill in barely 10 pulls"
+    },
+    {
+     "text": "the win making it five consecutive Race to World First titles for the North American guild",
+     "sub": ""
+    },
+    {
+     "text": "the tier finishing as one of the longest races in history — seventeen days and three resets",
+     "sub": ""
+    },
+    {
+     "text": "back-to-back 300-pull bosses, both of which needed multiple hotfixes before they were even killable",
+     "sub": ""
+    },
+    {
+     "text": "the guild engineering a strategy of parking most of the raid in the acid to buy a little more time and space at the very end of the fight",
+     "sub": ""
+    },
+    {
+     "text": "Blizzard hotfixing the strat mid-race to stop players swimming under the waves to ignore mechanics and tunnel the boss",
+     "sub": "Liquid talked about that hotfix on their kill pull itself"
+    },
+    {
+     "text": "the killing comp being 2 tanks, 4 healers, 6 melee and 9 ranged — both tanks Blood Death Knights, two Preservation Evokers in the healing core",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Seventeen days and three resets — is that the length a Race to World First should be now, or has it gotten long enough that it stops being fun to follow?",
+    "Blizzard hotfixed the underwater strat while both guilds were pulling. Where's the line between fixing an exploit and changing the race?"
+   ],
+   "sources": [
+    {
+     "label": "Source — Ula'tek Falls to Liquid: World Champions of the Venomous Abyss (Wowhead)",
+     "url": "https://www.wowhead.com/news/ulatek-falls-to-liquid-world-champions-of-the-venomous-abyss-382682?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Charity Pets and the Roofus Number",
+   "tab": "",
+   "category": "News",
+   "synopsis": "The Roofus Pack's final total is in, and it's the answer to something we speculated about months ago.",
+   "points": [
+    {
+     "text": "the Roofus Pack closing out at more than $1.3 million for Habitat for Humanity, with Blizzard donating 100% of the purchase price",
+     "sub": ""
+    },
+    {
+     "text": "this being the one we called back when the digital shop pricing controversy was everywhere",
+     "sub": "the cherry blossom trees were the flashpoint — that whole argument about what Blizzard thinks a digital item is worth"
+    },
+    {
+     "text": "our speculation at the time being that the goodwill problem might follow them into the charity promotion",
+     "sub": ""
+    },
+    {
+     "text": "the two closest comparisons both being $20 promotions — Sunny and Flurky pulling $1.5 million in 2023, Reven pulling over $2 million in 2024",
+     "sub": ""
+    },
+    {
+     "text": "so the honest answer being yes, but barely — a slight decline, not the collapse the discourse would have predicted",
+     "sub": ""
+    },
+    {
+     "text": "Every charity pet since 2009:",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Did the shop pricing stuff change what you were willing to spend here, or did you buy Roofus without thinking twice?",
+    "Seventeen years and the number always lands between one and two and a half million. Healthy floor, or a sign the audience stopped growing?"
+   ],
+   "sources": [
+    {
+     "label": "Source — BlizzCon 2026, Midnight 12.1.5, and More in This Week's WoW Weekly (Wowhead)",
+     "url": "https://www.wowhead.com/news/blizzcon-2026-midnight-12-1-5-and-more-in-this-week-s-wow-weekly-382752?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Moleman's Delve Compendium",
+   "tab": "",
+   "category": "News",
+   "synopsis": "A community resource built by a delve speedrunner that doubles as the fastest way for the rest of us to get delves over with.",
+   "points": [
+    {
+     "text": "the Moleman's Delve Compendium collecting the best curios, the fastest variants and the unsolved bugs in one place",
+     "sub": ""
+    },
+    {
+     "text": "specific guides in there detailing routes for the fastest delves",
+     "sub": ""
+    },
+    {
+     "text": "the practical angle being that so many quests and rewards send you into Delves anyway, so knowing which ones are quickest is worth having",
+     "sub": ""
+    },
+    {
+     "text": "the Corrosive Codex in Midnight Season 2 being a real source of questions, since it takes quite a while to unlock more than the first few",
+     "sub": ""
+    },
+    {
+     "text": "the compendium giving a straight answer to \"what should I give Valeera\"",
+     "sub": "Moleman's picks are Bursting Toad Toxin for the poison, Corrosive Bilespear for the combat curio, Dundun's Favor for utility, and Ouroboric Cycle out of the Corrosive Codex"
+    },
+    {
+     "text": "the caveat Wowhead put on it themselves — these are a speedrunner's recommendations, so treat it as a starting point rather than gospel",
+     "sub": ""
+    },
+    {
+     "text": "the compendium itself living in a public Google Doc, with the video breakdowns over on Moleman's YouTube channel",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Do you actually optimize your Valeera setup, or have you been running whatever you unlocked first since the season started?",
+    "When a speedrunner's list becomes the default answer for everybody, does that make delves better or does it just narrow what people bother trying?"
+   ],
+   "sources": [
+    {
+     "label": "Source — Speed Run Delves with Moleman's Delve Compendium (Wowhead)",
+     "url": "https://www.wowhead.com/news/speed-run-delves-with-molemans-delve-compendium-382660?utm_source=discord-webhook"
+    },
+    {
+     "label": "Google Docs — Moleman's Delve Compendium",
+     "url": "https://docs.google.com/spreadsheets/u/0/d/1hv8huds5AihQEuKsINplol7QNpDy1g6n/htmlview?pli=1"
+    },
+    {
+     "label": "YouTube — Moleman WoW (@moleman-official)",
+     "url": "https://www.youtube.com/@moleman-official"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "BlizzCon 2026 Is Nearly Here",
+   "tab": "",
+   "category": "News",
+   "synopsis": "BlizzCon opens at the Anaheim Convention Center next weekend and the full two-day schedule is out.",
+   "points": [
+    {
+     "text": "select programming streaming live for everyone, with what airs varying by channel",
+     "sub": ""
+    },
+    {
+     "text": "Day One opening with the Opening Ceremony at 10:30 a.m. PDT, then World of Warcraft: What's Next at noon",
+     "sub": ""
+    },
+    {
+     "text": "a second What's Next panel later that same day, plus Building Cutscenes in World of Warcraft and a Developers x Creators Showcase",
+     "sub": ""
+    },
+    {
+     "text": "Day Two leading with the World of Warcraft: Deep Dive at 10:00 a.m. PDT",
+     "sub": ""
+    },
+    {
+     "text": "Day Two also carrying World Building, Art Design, a Design Deep Dive, and Crafting Coziness and Creative Freedom for the housing crowd",
+     "sub": ""
+    },
+    {
+     "text": "World of Warcraft Hardcore: What's Next getting its own slot on Day Two",
+     "sub": ""
+    },
+    {
+     "text": "Classic Cup Warcraft III legacy and entertainment matches on the schedule",
+     "sub": ""
+    },
+    {
+     "text": "the show closing out with a live Le Sserafim performance and the Trophy Ceremony",
+     "sub": "musical performances aren't part of the livestream — those are in-person only"
+    },
+    {
+     "text": "the BlizzCon Bundle sitting on the Battle.net Shop through September 28 with the Rabbit'ath Void mount, the Garb of the Dawnfire Phoenix ensemble, and the Perch of the Dawnfire Phoenix for your house",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Two What's Next panels and a Deep Dive on the same weekend — what do you actually expect them to announce, and what do you want them to announce?",
+    "Are you watching live, or waiting for the recaps on Monday?"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard — BlizzCon 2026 Is Nearly Here: Watch Live, Earn Rewards, and More",
+     "url": "https://worldofwarcraft.blizzard.com/en-us/news/24294375"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "AWC, MDI, and Rewards for Watching",
+   "tab": "",
+   "category": "News",
+   "synopsis": "The Grand Finals are back on the BlizzCon stage for the first time since 2019, and Blizzard is paying you in Trader's Tender to watch.",
+   "points": [
+    {
+     "text": "the Arena World Championship and Mythic Dungeon International Grand Finals running live from the BlizzCon Stage on September 12 and 13",
+     "sub": ""
+    },
+    {
+     "text": "a combined $600,000 prize pool across the two events",
+     "sub": ""
+    },
+    {
+     "text": "the MDI running four teams in single-elimination best-of-3 with a best-of-5 Grand Final, on the new Season 2 dungeon maps",
+     "sub": ""
+    },
+    {
+     "text": "the AWC running six teams in best-of-5, Grand Final best-of-7, with cross-region matches between Europe, North America and China back on the table",
+     "sub": ""
+    },
+    {
+     "text": "community costreams being allowed for the first time, live from inside the BlizzCon halls",
+     "sub": "Maximum, Megasett and Hopeful on MDI day; Pikaboo, Absterge and Xaryu on AWC day, plus Kimuh in German and Zerator in French"
+    },
+    {
+     "text": "watch rewards tiered by hours — 200 Trader's Tender at 2 hours, the Cuddly Blue Grrgle at 4, the Fluffy Comfy Flying Quilt mount at 8, and the Venomous Champion's Illustrious Banner at 12",
+     "sub": ""
+    },
+    {
+     "text": "the Twitch window running September 12 through September 27, but the YouTube window only running September 12 to September 13",
+     "sub": "you have to link the account first, either at account.battle.net/connections or through YouTube's Connected Apps page"
+    },
+    {
+     "text": "in-person attendees still getting the rewards by linking their BlizzCon Pass to Battle.net no later than September 18",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Are you actually going to sit through eight hours of stream for the quilt mount, or park it muted in a tab?",
+    "Costreamers on the official broadcast for the first time — does that make the esports more watchable, or does it just split the audience?"
+   ],
+   "sources": [
+    {
+     "label": "Source — Watch the AWC and MDI Grand Finals at BlizzCon 2026 (Wowhead)",
+     "url": "https://www.wowhead.com/news/watch-the-awc-and-mdi-grand-finals-at-blizzcon-2026-382707?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — Obtain Trader's Tender, a Flying Quilt Mount and Other Rewards (Wowhead)",
+     "url": "https://www.wowhead.com/news/obtain-traders-tender-a-flying-quilt-mount-and-other-rewards-for-watching-382709?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "This Week's WoW Weekly",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Blizzard's weekly roundup, and the pieces of it we haven't already covered.",
+   "points": [
+    {
+     "text": "Raid Finder Wing 3 of Curse of Ula'tek: The Venomous Abyss now being live",
+     "sub": "that's the last wing of the eight-boss raid, so LFR players can finally finish the story themselves"
+    },
+    {
+     "text": "Blizzard framing 12.1.5 as the dramatic finale of the saga — we delve beneath Ula'tek's chamber and into Kith'ix's prison",
+     "sub": ""
+    },
+    {
+     "text": "the five headline features of 12.1.5 as Blizzard themselves list them",
+     "sub": "the new story campaign \"The Promise of Tomorrow\", the single-boss raid The Unbinding of Kith'ix, the expanded delve-like Labyrinths, the Aqir Invasion outdoor event, and Ascendant Venomstones as the mid-season refresh"
+    }
+   ],
+   "questions": [
+    "Did you run any of the Venomous Abyss in Raid Finder, or is LFR something you have written off entirely at this point?",
+    "Five headline features for a point-five patch — does that read like a real content drop, or a holdover until the next big thing?"
+   ],
+   "sources": [
+    {
+     "label": "Source — BlizzCon 2026, Midnight 12.1.5, and More in This Week's WoW Weekly (Wowhead)",
+     "url": "https://www.wowhead.com/news/blizzcon-2026-midnight-12-1-5-and-more-in-this-week-s-wow-weekly-382752?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "The Coiled Isle, One Month On",
+   "tab": "",
+   "category": "News",
+   "synopsis": "A retrospective on Follow the Snakes to the Coiled Isle — everything the patch shipped with, now that we have had a month to actually go through it.",
+   "points": [
+    {
+     "text": "the Coiled Isle itself being pitched as an island steeped in ancient Amani history, with Zul'jarra chasing her brother Zul'jan across it",
+     "sub": ""
+    },
+    {
+     "text": "the Vaults of Atal'Utek, Tokka's Landing and the Amani Foothold as the landmarks the zone actually hangs off of",
+     "sub": ""
+    },
+    {
+     "text": "Zul'jarra's Forces renown running a full twenty ranks",
+     "sub": "worth asking the room where everybody actually landed on that track a month in"
+    },
+    {
+     "text": "the Altar of Corrosion showing up as its own talent tree rather than a plain renown reward list",
+     "sub": ""
+    },
+    {
+     "text": "the Corrosive Codex and its Corrosive Powers being the borrowed-power layer sitting under all of it",
+     "sub": ""
+    },
+    {
+     "text": "Captain Tokka's Crew being a second, shorter five-rank renown running alongside the main one",
+     "sub": ""
+    },
+    {
+     "text": "Temple Patrols, Strikes and Incursions as the repeatable outdoor loop, plus Curse Surges as the public events across five locations",
+     "sub": ""
+    },
+    {
+     "text": "the Altar of Fangs coming in as a three-boss dungeon with a Follower difficulty on it",
+     "sub": ""
+    },
+    {
+     "text": "the Venomous Abyss as the eight-boss raid this all built toward — the one Liquid just closed out in News Item 1",
+     "sub": ""
+    },
+    {
+     "text": "Ravi, the Writhing Coil and Zul'jan as the bosses along the way, with Nymrissa Wavecaller out in the lair",
+     "sub": ""
+    },
+    {
+     "text": "a whole venom fishing track with the Coiled Huntress rod on the end of it",
+     "sub": ""
+    },
+    {
+     "text": "the mount list running deep — Caustic Venomfang for 10,000 Corrosive Coins, Snek'zali at Renown 12, Indigo Coiled Horror at 17, Violet-Backed Skyfang at 19",
+     "sub": ""
+    },
+    {
+     "text": "the Hash'ura of Zul'jarra title parked at Renown 20 as the completionist carrot",
+     "sub": ""
+    },
+    {
+     "text": "the housing decor haul being enormous — the Egg of Ula'tek, the Soulcoiler pieces, even an Altar of Corrosion for your own house",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "A month in — did the Coiled Isle hold up as a patch zone, or did it turn into a checklist you were doing out of obligation?",
+    "Two renown tracks, a talent tree and a codex all layered on one zone. Is that depth, or is it just a lot of bars to fill?"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard — Follow the Snakes to the Coiled Isle for New Adventures",
+     "url": "https://news.blizzard.com/en-us/article/24293963/follow-the-snakes-to-the-coiled-isle-for-new-adventures"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Patch 12.1.5: The Unbinding of Kith'ix",
+   "tab": "",
+   "category": "News",
+   "synopsis": "The 12.1.5 raid is a single-boss fight against Kith'ix with Lady Liadrin at your side, and it drops gear above the normal cap.",
+   "points": [
+    {
+     "text": "The Unbinding of Kith'ix being a one-boss raid, the same shape Sporefall took with Rotmire",
+     "sub": ""
+    },
+    {
+     "text": "the setup being that Ula'tek had Kith'ix bound in his lair, and with Ula'tek dead he is back",
+     "sub": ""
+    },
+    {
+     "text": "Lady Liadrin fighting alongside players as a continuation of the Midnight story",
+     "sub": ""
+    },
+    {
+     "text": "the Mythic loot dropping at Myth 9 out of 6 — item level 344, well past where the track normally stops",
+     "sub": "the other difficulties drop at 3 out of 6: LFR 285, Normal 298, Heroic 311"
+    },
+    {
+     "text": "four new Cantrip Armor pieces, all on tier slots so they can be catalyzed and keep the cantrip effect",
+     "sub": ""
+    },
+    {
+     "text": "those cantrip effects getting stronger if you are wearing a Venomcursed piece off Ula'tek — a direct bridge from the old raid to the new one",
+     "sub": ""
+    },
+    {
+     "text": "new trinkets and a new Hearthstone on the loot table as well",
+     "sub": ""
+    },
+    {
+     "text": "the fight running on an energy bar — at 100 energy Kith'ix casts Suffocating Darkness and Liadrin holds it back while charging Divine Radiance",
+     "sub": ""
+    },
+    {
+     "text": "stage two starting at 25% with Stygian Howl stunning the raid and Liadrin rescuing everyone with Last Light",
+     "sub": "Last Light gives 100% increased damage and healing, so the whole ending is a burn race against his Eightfold Eclipse"
+    },
+    {
+     "text": "Eightfold Eclipse being a hard wipe — the final eclipse converges on Liadrin, snuffs out her Light and kills the raid instantly",
+     "sub": ""
+    },
+    {
+     "text": "the raid map already being datamined, alongside the loading screen art",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "One-boss raids as a mid-patch refresh — is that a good cadence now, or does it make the tier feel like it ended early?",
+    "Myth 9 out of 6 loot from a single boss. Does that undercut the Venomous Abyss for anyone still progressing it?"
+   ],
+   "sources": [
+    {
+     "label": "Source — The Unbinding of Kith'ix Raid Loading Screen Datamined (Wowhead)",
+     "url": "https://www.wowhead.com/news/the-unbinding-of-kithix-raid-loading-screen-datamined-in-patch-12-1-5-382746?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — Unique Cantrip Items from Kith'ix Boss Encounter: Loot and Boss Abilities (Wowhead)",
+     "url": "https://www.wowhead.com/news/unique-cantrip-items-from-kithix-boss-encounter-in-patch-12-1-5-loot-and-boss-382755?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — New Datamined Labyrinth and Raid Maps in Patch 12.1.5 (Wowhead)",
+     "url": "https://www.wowhead.com/news/new-datamined-labyrinth-and-raid-maps-in-patch-12-1-5-382744?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Patch 12.1.5: Labyrinths and Kindo'jan",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Labyrinths are the new mega-dungeon-sized version of a Delve, and the first one already has a solo Hall of Fame achievement attached.",
+   "points": [
+    {
+     "text": "Labyrinths landing as a mega-dungeon-like system built on top of Delves",
+     "sub": ""
+    },
+    {
+     "text": "the format letting you run it in one session or spread it across multiple sessions",
+     "sub": ""
+    },
+    {
+     "text": "them working like Delves in that you can go solo or take a group",
+     "sub": ""
+    },
+    {
+     "text": "the Labyrinth of Kindo'jan being the first one, with Kindo'jan as its villain",
+     "sub": ""
+    },
+    {
+     "text": "the datamined maps showing sprawling pathways and a lot of separate segments — this is a big one",
+     "sub": ""
+    },
+    {
+     "text": "a new Delve Hall of Fame achievement, Fabled Let Me Solo Him: Kindo'jan",
+     "sub": "defeat him on Tier 11, solo, before the first reset after he goes live — the reward is the title Fabled Vanquisher of Kindo'jan"
+    },
+    {
+     "text": "it being unclear whether Kindo'jan is a hard Nemesis-style boss or whether the achievement is really about just finishing the Labyrinth inside week one",
+     "sub": ""
+    },
+    {
+     "text": "the datamined creature model looking an awful lot like a certain Loa we have seen before",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "A solo, first-week, Tier 11 title — are you going for that, or is that firmly a someone-else problem?",
+    "Delves getting a mega-dungeon-sized version: does that pull you back into solo content, or is the appeal of Delves that they are short?"
+   ],
+   "sources": [
+    {
+     "label": "Source — New Solo Delve Hall of Fame Achievement in Patch 12.1.5 (Wowhead)",
+     "url": "https://www.wowhead.com/news/new-solo-delve-hall-of-fame-achievement-in-patch-12-1-5-382742?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — New Datamined Labyrinth and Raid Maps in Patch 12.1.5 (Wowhead)",
+     "url": "https://www.wowhead.com/news/new-datamined-labyrinth-and-raid-maps-in-patch-12-1-5-382744?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Patch 12.1.5: Gearing and Catch-Up",
+   "tab": "",
+   "category": "News",
+   "synopsis": "The mid-season refresh is mostly about letting people who fell behind get caught back up.",
+   "points": [
+    {
+     "text": "Ascendant Voidcores returning as Ascendant Venomstones, and this time necklaces are included alongside weapons and trinkets",
+     "sub": ""
+    },
+    {
+     "text": "the necklace part being brand new — Season 1 never had it",
+     "sub": ""
+    },
+    {
+     "text": "Orin Straylight as the new steward of the Voidforge, standing near the Catalyst in Silvermoon City",
+     "sub": ""
+    },
+    {
+     "text": "the unlock starting with a quest called \"Ancient Depths, Ancient Venom\"",
+     "sub": "the wording \"once Orin has had time to do his research\" reads like another multi-week chain, not something available on patch day"
+    },
+    {
+     "text": "the stones dropping from every Heroic or Mythic raid boss, Mythic+ 10 and above, Tier 11 Bountiful Delves, and Nightmare Prey Hunt Champion gear chests",
+     "sub": ""
+    },
+    {
+     "text": "10 Venomstones boosting one fully upgraded Season 2 Hero, Mythic or top-quality Tidal Crafted weapon, trinket or necklace",
+     "sub": ""
+    },
+    {
+     "text": "Wowhead reading that as another 3 upgrade levels, which would put Myth track at 344 — matching Mythic Coiled Altar and Ula'tek loot",
+     "sub": "that is a read, not a confirmation, and the end-of-raid pieces keep their extra socket and cantrip effects either way"
+    },
+    {
+     "text": "Legion and Battle for Azeroth reputations going warband-wide",
+     "sub": "first reputation batch made shared since Shadowlands went account-wide back in 11.1.5 — that is a full expansion cycle"
+    },
+    {
+     "text": "that covering all nine main Legion factions plus Talon's Vengeance and the six fishing reps, and the whole BFA neutral, Alliance and Horde lists",
+     "sub": ""
+    },
+    {
+     "text": "Prey renown getting catch-up brackets — under rank 3 you get a full rank per hunt, ranks 3 through 8 get 2,000 progress on each of your first four hunts a week",
+     "sub": "normally it is 1,000 per hunt for the first four and 50 after that, so this halves the grind to rank 8"
+    },
+    {
+     "text": "Blizzard saying outright this is for players who did not invest in Prey during Season 2 and felt they could never catch up",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Necklaces finally getting the Voidcore treatment — does that change which slot you have been holding onto vault picks for?",
+    "Warband-wide Legion and BFA reps: is that the mount-farming unlock you wanted, or does it land a few years too late to matter?"
+   ],
+   "sources": [
+    {
+     "label": "Source — Ascendant Venomstones Will Also Upgrade Necklaces (Wowhead)",
+     "url": "https://www.wowhead.com/news/ascendant-venomstones-will-also-upgrade-necklaces-in-patch-12-1-5-382731?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — BFA and Legion Reputations Warband-Wide in Patch 12.1.5 (Wowhead)",
+     "url": "https://www.wowhead.com/news/battle-for-azeroth-and-legion-reputations-warband-wide-in-patch-12-1-5-382734?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — Catch Up on Prey Renown Levels Quickly in Patch 12.1.5 (Wowhead)",
+     "url": "https://www.wowhead.com/news/catch-up-on-prey-renown-levels-quickly-in-patch-12-1-5-382751?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Patch 12.1.5: A Seven Million Gold Mount and a Datamined Hint",
+   "tab": "",
+   "category": "News",
+   "synopsis": "The two 12.1.5 stories that aren't about new content — the biggest gold sink since the Brutosaur, and a keybinding file that may have leaked BlizzCon.",
+   "points": [
+    {
+     "text": "the Sporebearer Fungal Strider going on sale in Harandar for 5 million gold",
+     "sub": ""
+    },
+    {
+     "text": "it only being purchasable until the end of Midnight, exactly like the Brutosaur was in Battle for Azeroth",
+     "sub": ""
+    },
+    {
+     "text": "the mount coming with a mailbox and a repair vendor by default, in two swappable vendor slots",
+     "sub": ""
+    },
+    {
+     "text": "the new part being that you can customize which NPCs ride along with you",
+     "sub": ""
+    },
+    {
+     "text": "the extra vendors costing on top — 1.5 million for the auctioneer and 500k for the transmogrifier",
+     "sub": "that is where the 7 million total comes from, and access to the NPCs stays available even after the mount leaves"
+    },
+    {
+     "text": "Blizzard saying they are considering adding more mount NPCs in future patches",
+     "sub": ""
+    },
+    {
+     "text": "separately, a new Game Key Bindings file getting datamined off the 12.1.5 PTR",
+     "sub": ""
+    },
+    {
+     "text": "the Achievement panel's default Y bind being replaced by something called TOGGLELEGACYSYSTEM",
+     "sub": ""
+    },
+    {
+     "text": "a batch of Classic-style combat binds in there — G to target last hostile, F to assist, T to attack",
+     "sub": ""
+    },
+    {
+     "text": "the actual headline being a string buried in the file that just reads \"Forever\"",
+     "sub": "a Reddit thread claiming to leak BlizzCon announcements used the same word, and Wowhead's read is that new binding profiles would be strange unless a new game mode were coming"
+    },
+    {
+     "text": "the honest caveat that it could just as easily be the 12.1.7 game mode, or something that never ships at all",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Seven million gold for the full setup. Is that a fair gold sink, or is it just the Brutosaur tax again with extra steps?",
+    "\"Forever\" in a keybinding file the week before BlizzCon — are you buying Classic+, or is that us wanting it to be true?"
+   ],
+   "sources": [
+    {
+     "label": "Source — New Limited-Time Vendor Mount Costs 7 Million Gold for Everything (Wowhead)",
+     "url": "https://www.wowhead.com/news/new-limited-time-5-million-gold-mount-includes-customizable-vendors-in-patch-12-382733?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — New Game Key Bindings Datamined on 12.1.5 PTR (Wowhead)",
+     "url": "https://www.wowhead.com/news/new-game-key-bindings-datamined-on-12-1-5-ptr-a-hint-for-upcoming-content-382738?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  }
+ ]
+}

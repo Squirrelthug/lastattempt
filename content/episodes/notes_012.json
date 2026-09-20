@@ -1,0 +1,294 @@
+{
+ "episode": "012",
+ "date": "2026-04-18",
+ "subtitle": "",
+ "source": "legacy-html",
+ "intro": {
+  "heads_up": "",
+  "rundown": []
+ },
+ "items": [
+  {
+   "title": "Post-Race Interview & Sporefall Mythic Flex",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Liquid's Maximum hosted a post-race interview with Lead Encounter Designer Taylor Sanders and Senior Game Designer Anthony Trejo, discussing raid design philosophy across the Midnight Season 1 tier.",
+   "points": [
+    {
+     "text": "Belo'ren was originally designed with a fourth wave of echoes and a possible third wave of birds, but internal QA testing found it was too much. The fight was intended to be killed on the 3rd egg, with a berserk trigger after. The two-phase skip strategy was not expected to be feasible without the long-range Augmentation Evoker tech.",
+     "sub": ""
+    },
+    {
+     "text": "L'ura had an expected strategy using extra crystal time that Liquid's damage output ended up making unnecessary. Devs expected players would have about 10 more seconds than they did. Phase 1 was a point where the team considered mid-race nerfs because they weren't sure it was manageable.",
+     "sub": ""
+    },
+    {
+     "text": "Encounter Journal — The team has been intentionally making higher-difficulty journal details more ambiguous. They've found Mythic players enjoy learning as they go and have a higher tolerance for discovery wipes. Secret phases like L'ura's work better when they're not spoiled in the journal.",
+     "sub": ""
+    },
+    {
+     "text": "Healing design shifted in Midnight toward more steady rot damage, triage moments, and healing debuffs rather than planning long lists of raid cooldowns. The goal is more texture from encounter to encounter rather than every fight feeling the same.",
+     "sub": ""
+    },
+    {
+     "text": "Mid-race tuning — The team doesn't like to adjust things too much once they're live. Bug fixes take priority. L'ura tuning was considered safer because it improved consistency without risking a quick kill. They're careful not to give either region a distinct advantage.",
+     "sub": ""
+    },
+    {
+     "text": "The upcoming Sporefall one-boss raid in Harandar will offer flexible 15–25 player Mythic difficulty — a first for World of Warcraft. The goal is to help groups who have completed AOTC bridge the gap into Mythic raiding.",
+     "sub": ""
+    },
+    {
+     "text": "Taylor Sanders: the intent is to make the Heroic-to-Mythic transition more accessible. If your Heroic group has finished the season, this is designed to let you bite off a bigger challenge without needing to recruit to a fixed 20-man roster.",
+     "sub": ""
+    },
+    {
+     "text": "The team considers this an experiment — not a guarantee they'll repeat it in future tiers, but they're eager for player feedback.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "What do you think about the encounter team intentionally withholding information from the Dungeon Journal at Mythic difficulty? Does it make the experience better, or does it just send everyone to Wowhead anyway?",
+    "Mythic Flex Sporefall — is this a meaningful bridge for guilds stuck between Heroic and Mythic, or does it risk diluting what Mythic difficulty means? Could this work for a full-tier raid?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Liquid Maximum Post-Race Encounter Design Interview Liveblog",
+     "url": "https://www.wowhead.com/news/liquid-maximum-post-race-encounter-design-interview-liveblog-381240"
+    },
+    {
+     "label": "Wowhead — Sporefall Boss in Patch 12.0.7 Will Have a Mythic Flex Difficulty",
+     "url": "https://www.wowhead.com/news/sporefall-boss-in-patch-12-0-7-will-have-a-mythic-flex-difficulty-381241"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "L'ura Nerfs & April 17 Hotfixes",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Major nerfs to the L'ura encounter in March on Quel'Danas are coming with the weekly reset, targeting glaives and several other mechanics across Heroic and Mythic.",
+   "points": [
+    {
+     "text": "Heaven's Glaives — Blades per cast reduced to 5 (was 6) on Heroic and Mythic. Max duration reduced to 2 minutes (was 3 minutes). This means at the end of Phase 1, there will be 10 glaives in the arena instead of the previous 18.",
+     "sub": ""
+    },
+    {
+     "text": "L'ura's health reduced by 5% on Mythic difficulty.",
+     "sub": ""
+    },
+    {
+     "text": "Termination Matrix — Terminate applications reduced to 4 (was 5) and cast time increased to 2 seconds (was 1.5 seconds).",
+     "sub": ""
+    },
+    {
+     "text": "Grim Symphony — Melody can no longer repeat the same Dark Rune twice. Second cast now spins clockwise (was counter-clockwise).",
+     "sub": ""
+    },
+    {
+     "text": "Eclipsed heal absorb reduced by 10% on Mythic. Overkill Current damage reduced by 20% on Heroic.",
+     "sub": ""
+    },
+    {
+     "text": "Criticality — Final cast now triggers 2 Tears of L'ura per Dawn Crystal (was 3). Dark Constellation precast time increased to 2.5 seconds on Mythic (was 2 seconds).",
+     "sub": ""
+    },
+    {
+     "text": "Delves — Midnight Season 1 Delver's Journey Rank 10 now properly rewards the Void Breacher title.",
+     "sub": ""
+    },
+    {
+     "text": "Maisara Caverns — Rak'tul: Spectral Residue duration increased to 40 seconds. Additional applications no longer refresh the duration. (Fixes the tech of pulling the boss into the intermission realm to extend the buff.)",
+     "sub": ""
+    },
+    {
+     "text": "Seat of the Triumvirate — Fixed an issue where Merciless Subjugator's Chains of Subjugation could be interrupted unintentionally.",
+     "sub": ""
+    },
+    {
+     "text": "The Voidspire — Fallen-King Salhadaar: Fixed Void Infusion overriding the berserk phase. Lightblinded Vanguard: Fixed the raid skip failing to spawn all three paladins.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "How much do these L'ura nerfs change the fight for guilds currently progressing Heroic or early Mythic? Is the glaive reduction alone enough to flip it from a wall to a kill?",
+    "The Maisara Caverns Rak'tul fix kills a popular M+ tech — did anyone at the table use it, and how much does losing it change the key?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Glaives Nerfed on Midnight Falls — Large Nerfs to Heroic and Mythic",
+     "url": "https://www.wowhead.com/news/glaives-nerfed-on-midnight-falls-large-nerfs-to-heroic-and-mythic-coming-with-381210"
+    },
+    {
+     "label": "Wowhead — Raid and Dungeon Hotfixes — Midnight Hotfixes for April 17th",
+     "url": "https://www.wowhead.com/news/raid-and-dungeon-hotfixes-midnight-hotfixes-for-april-17th-381272"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Patch 12.0.5 Preview — Drops April 21",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Patch 12.0.5 lands this coming Monday with Void Assaults, Ritual Sites, the Voidforge gear system, Decor Duels, and a pile of quality-of-life upgrades. Here are two highlights worth discussing.",
+   "points": [
+    {
+     "text": "New optional feature for tanks: Lindormi's Glow highlights select enemy forces in Mythic+ dungeons at any keystone level. Defeating all highlighted enemies completes the enemy forces requirement for the key.",
+     "sub": ""
+    },
+    {
+     "text": "Any player whose class supports a tank spec can toggle the feature on by speaking with Lindormi near The Timeways portal or at the end of a keystone dungeon. The glow activates for the party if the tank has it enabled.",
+     "sub": ""
+    },
+    {
+     "text": "Unlike Lindormi's Guidance (active in +2–5 keys, includes -5% HP/damage on targets), the Glow is routing help only — no combat advantages, just a visual highlight showing a viable route through the dungeon.",
+     "sub": ""
+    },
+    {
+     "text": "The system is not dynamic. It won't recalculate mid-dungeon if you pull extra packs, but it gives newer tanks a baseline route without requiring third-party tools like MDT.",
+     "sub": ""
+    },
+    {
+     "text": "Weapon sheathing options — Players can now choose whether weapons sheath at the hip, on the back, or are hidden entirely. One-handed weapons get all three options. Two-handed weapons can only sheath on back or be hidden. Dual wielders can set each hand independently.",
+     "sub": ""
+    },
+    {
+     "text": "New Situations — Two new categories: Weather (clear, rain, snow, sandstorm) and Time of Day (morning, midday, evening, night). Your outfit can now automatically change based on in-game conditions.",
+     "sub": ""
+    },
+    {
+     "text": "Outfit macros — New /outfit X command lets you swap transmog sets via macro, where X is the outfit's order number. Using it with no number or with the currently-equipped outfit clears all transmogs. Trial of Style outfit uses /outfit 0.",
+     "sub": ""
+    },
+    {
+     "text": "Set tooltips now show detailed collection status breakdowns for each appearance in a set.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Lindormi's Glow is opt-in and routing-only — is this a good middle ground between hand-holding and throwing new tanks into the deep end, or should Blizzard go further and make it dynamic?",
+    "Weather and Time of Day transmog situations — fun cosmetic depth or feature bloat? Is anyone actually going to set up a rain outfit?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Lindormi's Glow in Patch 12.0.5",
+     "url": "https://www.wowhead.com/news/help-route-through-higher-level-mythic-dungeons-with-lindormis-glow-in-patch-12-381261"
+    },
+    {
+     "label": "Wowhead — All Transmog Changes in Patch 12.0.5",
+     "url": "https://www.wowhead.com/news/all-transmog-changes-in-patch-12-0-5-weapon-sheathing-new-situations-and-outfit-381266"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Lil' Staropod Pet — Blizzard Gear Store",
+   "tab": "",
+   "category": "News",
+   "synopsis": "A new Lil' Staropod in-game pet is available exclusively through the Blizzard Gear Store, bundled with the purchase of select products now through May 15th — while supplies last.",
+   "points": [
+    {
+     "text": "Nearly 100 eligible store items qualify, ranging from apparel to plushies, backpacks, and tankards. Cheapest option is around $17, most expensive around $137. Look for the \"In-Game Content\" tag on eligible items.",
+     "sub": ""
+    },
+    {
+     "text": "Codes are not instant — they'll be delivered via email up to five days after purchase. Codes are not replaceable if lost or stolen. Check spam folders.",
+     "sub": ""
+    },
+    {
+     "text": "Both the offer and the pet codes appear to have a limited supply, though it's unclear whether the cap is on codes or store inventory. If you want it, don't wait.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Is tying an in-game pet to physical merch purchases a good way to drive store sales, or does it feel like a cash grab when it's limited quantity?",
+    "Pet collectors — is anyone at the table picking one up? What's your price threshold for a store pet?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Limited Quantity Lil' Staropod Pet Available From the Blizzard Gear Store",
+     "url": "https://www.wowhead.com/news/limited-quantity-lil-staropod-pet-available-from-the-blizzard-gear-store-381205"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Business Briefing — Microsoft, Xbox & Blizzard",
+   "tab": "",
+   "category": "News",
+   "synopsis": "This is the big-picture segment. We're zooming all the way out to talk about the company that owns Blizzard: what they're spending, who's running Xbox now, and why the business decisions being made in Redmond echo all the way to Azeroth.",
+   "points": [
+    {
+     "text": "Microsoft spent $37.5 billion in capital expenditures in a single quarter earlier this year, up 66% year-over-year. Full fiscal year 2026 capex is projected around $146 billion, almost entirely on AI infrastructure — GPUs, CPUs, data centers. They just bought 3,200 acres in Cheyenne, Wyoming for another expansion.",
+     "sub": ""
+    },
+    {
+     "text": "The stock is down roughly 22% year-to-date, its worst quarterly decline since the 2008 financial crisis. Valuation has compressed below 20x forward earnings for the first time since 2016. Investors want to see AI spending translate to revenue. Copilot adoption has lagged expectations, and Azure growth decelerated for the first time in years.",
+     "sub": ""
+    },
+    {
+     "text": "Why WoW players should care: When the stock is getting hammered and the AI bet hasn't paid off yet, every division faces scrutiny. Gaming is now a significantly larger portion of Microsoft's revenue post-Activision acquisition. WoW subscriptions and Blizzard store revenue become a lifeline, not an afterthought.",
+     "sub": ""
+    },
+    {
+     "text": "Phil Spencer retired after 38 years at Microsoft. His replacement is Asha Sharma, a 36-year-old executive whose career is defined by scaling platforms — not by AI, despite the headlines.",
+     "sub": ""
+    },
+    {
+     "text": "Career arc: COO at Porch Group (helped take it to a $1B public debut) → VP of Product and Engineering at Meta (ran Messenger and Instagram Direct, billions of users) → COO at Instacart (architected the path to profitability and IPO of a $30B+ GMV operation) → President of CoreAI Product at Microsoft → Xbox CEO.",
+     "sub": ""
+    },
+    {
+     "text": "Her first memo to Xbox staff went viral: she explicitly stated Microsoft would \"not chase short-term efficiency or flood our ecosystem with soulless AI slop.\" She called games art, crafted by humans.",
+     "sub": ""
+    },
+    {
+     "text": "Early moves: Killed the \"This is an Xbox\" marketing campaign. Oversaw overhauls to Quick Resume and Xbox Achievements. Assembled a player-feedback team. Replied \"Hear you\" to a fan asking about console exclusives, sending the community into a frenzy.",
+     "sub": ""
+    },
+    {
+     "text": "Game Pass Ultimate hit $29.99/month in October 2025 — a 50% increase. PC Game Pass went up ~37% to $16.49. Player reaction was overwhelmingly negative.",
+     "sub": ""
+    },
+    {
+     "text": "Leaked internal memo (The Verge, this week): Sharma told employees Game Pass has become \"too expensive for players\" and that \"the current model isn't the final one.\" She's exploring a better value equation in the short term and a more flexible system long-term.",
+     "sub": ""
+    },
+    {
+     "text": "Reports of a potential ad-supported tier at a lower price, following the Netflix/Hulu model. Netflix co-CEO Greg Peters has publicly said he and Sharma have \"kicked around ideas\" for Xbox–Netflix subscription bundles.",
+     "sub": ""
+    },
+    {
+     "text": "WoW angle: If Game Pass evolves into a flexible, tiered system under a CEO whose entire career has been about growing user bases, the question of whether WoW gets integrated into the broader Microsoft gaming ecosystem is going to come up. Maybe not soon, but that conversation is inevitable under this kind of leadership.",
+     "sub": ""
+    },
+    {
+     "text": "Exclusivity debate is back. According to Jez Corden at Windows Central, \"very very very big discussions\" are happening internally. Live-service/multiplayer games like Call of Duty almost certainly stay multiplatform. Single-player titles could potentially be locked to Xbox. For Blizzard: WoW is likely always in the \"everywhere\" category, but what about a future Diablo or single-player Blizzard IP?",
+     "sub": ""
+    },
+    {
+     "text": "Project Helix is the next-gen Xbox, described as essentially a PC in a console form factor running Windows under the hood. If that's accurate, WoW could potentially run natively on next-gen Xbox without any porting. Price speculation: $1,000+.",
+     "sub": ""
+    },
+    {
+     "text": "Layoff shadow: Microsoft reportedly cut ~15,000 jobs across 2025. Rumors in January 2026 of another 11,000–22,000 targeting Azure, Xbox, and global sales (Microsoft called it \"100 percent made up\"). The WoW team has a strong revenue argument in its favor with Midnight Season 1 active and 12.0.5 dropping Monday, but no division is truly safe when AI spending is this enormous.",
+     "sub": ""
+    },
+    {
+     "text": "Microsoft's FY2026 Q3 earnings drop April 29. Gaming revenue numbers in the More Personal Computing segment will tell us whether the Activision Blizzard acquisition is delivering returns. Strong numbers protect Blizzard. Soft numbers put pressure on every part of the gaming division.",
+     "sub": ""
+    },
+    {
+     "text": "Sources: Yahoo Finance, ERP Today, Futurum Group, FinancialContent, GameSpot, Pure Xbox, Windows Central, NME, Gamereactor, Lords of Gaming, The Verge, Microsoft/Xbox Wire",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Does Asha Sharma's career background — scaling platforms, growing user bases, driving profitability — make you more or less optimistic about WoW's place in the Microsoft ecosystem compared to Phil Spencer's tenure?",
+    "If Project Helix really is a PC under the hood, would you want WoW on console? Would it bring in new players or just split the community?"
+   ],
+   "sources": [],
+   "media": []
+  }
+ ]
+}

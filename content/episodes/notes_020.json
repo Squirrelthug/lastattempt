@@ -1,0 +1,222 @@
+{
+ "episode": "020",
+ "date": "2026-06-13",
+ "subtitle": "",
+ "source": "legacy-html",
+ "intro": {
+  "heads_up": "",
+  "rundown": []
+ },
+ "items": [
+  {
+   "title": "MDI Season 1 Finals Happening Now",
+   "tab": "",
+   "category": "News",
+   "synopsis": "The Mythic Dungeon International Season 1 Finals are live this weekend, June 12–14, with eight teams competing for $100,000 and four spots at BlizzCon 2026.",
+   "points": [
+    {
+     "text": "The Finals bring together the top six teams from the global region plus two from China in a single elimination bracket to close out Season 1 of Midnight. Only the top four finishers — including at least one Chinese team — punch their ticket to the Global Finals at BlizzCon 2026, where a separate $300,000 prize pool will be on the line. Matches are streaming live on the official Warcraft Twitch and YouTube channels.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Have you been watching any of the MDI this season, and is the speedrunning format something you think showcases WoW at its best for an outside audience?",
+    "With BlizzCon 2026 on the horizon as the stage for the Global Finals, how much do you think live esports events at conventions move the needle for competitive WoW's visibility?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Mythic Dungeon International 2026 Finals Begins Today",
+     "url": "https://www.wowhead.com/news/mythic-dungeon-international-2026-finals-begins-today-381835?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Patch 12.0.7 \"Revelations\" Drops June 16",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Patch 12.0.7 \"Revelations\" arrives June 16, bringing two new Void zones, the Sporefall single-boss raid, the Omnium Folio system, and a mountain of quality-of-life updates.",
+   "points": [
+    {
+     "text": "The headlining content is the new Sporefall raid against fungal giant Rotmire, available in all four difficulties including Mythic Flex for 15–25 players. Rotmire drops Sporefused gear — sitting 9 item levels above normal upgrade tracks — and the Luminous Sporeglider mount, earned by collecting four Sporesnacks (one per account per week). On the zone side, Val and Naigtal are two rotating weekly Void worlds accessed through a portal in Voidstorm, each with world quests, rares, and a world boss showdown. The Omnium Folio is a new rune-based power system unlocked through weekly activities that persists for the rest of the Midnight expansion.",
+     "sub": ""
+    },
+    {
+     "text": "Other notable patch changes:",
+     "sub": ""
+    },
+    {
+     "text": "Ritual Sites: New Tier 6 difficulty (6 challenges, ilvl 274 recommended) with Mythic Dawncrest rewards",
+     "sub": ""
+    },
+    {
+     "text": "Housing: Outdoor lighting now available; exterior decor limits raised to 300–350 depending on house level",
+     "sub": ""
+    },
+    {
+     "text": "Durability: Weapons and armor no longer take damage from combat — only from dying",
+     "sub": ""
+    },
+    {
+     "text": "Turbulent Timeways: Starts June 30, runs through August 11 — Dragonflight dungeons with upgraded cache rewards",
+     "sub": ""
+    },
+    {
+     "text": "Darkspear Dash: Micro-holiday June 27 — a troll race from Echo Isles to Silvermoon",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "The Sporefall raid is a single-boss experience available in Mythic Flex — is that format something you'd want to see Blizzard continue doing between major raid tiers, or does it feel like filler?",
+    "The Omnium Folio is a power system that sticks around for the whole expansion — how do you feel about systems like that layering on top of gear progression, and does it add or muddy the loop for you?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Official Patch 12.0.7 \"Revelations\" Patch Notes",
+     "url": "https://www.wowhead.com/news/official-patch-12-0-7-revelations-patch-notes-381833?utm_source=discord-webhook"
+    },
+    {
+     "label": "Wowhead — New Sporefall Raid Rewards in Patch 12.0.7",
+     "url": "https://www.wowhead.com/news/new-sporefall-raid-rewards-in-patch-12-0-7-new-sporefused-gear-and-mount-381473?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "X Practice Addon Updated for Mythic L'ura Phase 4",
+   "tab": "",
+   "category": "News",
+   "synopsis": "The X Practice addon has been updated to simulate Mythic L'ura Phase 4, letting players rehearse the fight's one-shot mechanics outside of a live raid environment.",
+   "points": [
+    {
+     "text": "Phase 4 of Mythic L'ura is deceptively simple — stack, handle Starsplinters, dodge animals, and run from the Heaven & Hell beam — but every mechanic is a one-shot, and passive crystal damage means dead players tank the DPS check hard. The addon mirrors real Phase 4 movement, pauses when you would have killed yourself or a teammate, and tells you exactly what went wrong. It's the same team behind the Xanesh soccer simulator from Ny'olatha, and it's free to download from CurseForge.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "With tools like this making it possible to practice specific fight phases on your own time, do you think addons are closing the gap between cutting-edge guilds and mid-tier progression, or does the real execution gap still live somewhere they can't replicate?",
+    "For Second Attempt specifically — is this something you'd want the team to run before progging Phase 4, or do you think live pull experience is still the better teacher?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Practice L'ura Phase 4 with X Practice Addon",
+     "url": "https://www.wowhead.com/news/practice-lura-phase-4-with-x-practice-addon-381839?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "NVIDIA Hotfix Driver 610.52 Addresses WoW Crashes",
+   "tab": "",
+   "category": "News",
+   "synopsis": "NVIDIA has released GeForce Hotfix Driver 610.52, which includes a targeted stability fix for World of Warcraft, particularly helping older cards running DirectX 12.",
+   "points": [
+    {
+     "text": "What else is in the hotfix:",
+     "sub": ""
+    },
+    {
+     "text": "G-SYNC frame pacing: Fixed a frame pacing issue on certain monitors with G-SYNC enabled",
+     "sub": ""
+    },
+    {
+     "text": "Multi-monitor stability: Improved V-SYNC + DLSS Frame Generation behavior in multi-monitor setups",
+     "sub": ""
+    },
+    {
+     "text": "Smooth Motion fixes: Addressed jitter, ghosting, and crashes in DX11 games when Smooth Motion is active",
+     "sub": ""
+    },
+    {
+     "text": "Sleep/wake fix: Resolved certain monitors failing to wake from sleep mode",
+     "sub": ""
+    },
+    {
+     "text": "Install note: This is a beta hotfix on top of the standard 610.47 Game Ready Driver — grab it directly from NVIDIA's support site if you're hitting issues",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Have any of you had freezes or crashes in WoW lately, and if so is this the kind of thing you even think to check for, or is a driver update always the last thing on the troubleshooting list?",
+    "NVIDIA releasing a hotfix specifically calling out WoW stability is notable — what do you think it says about how closely GPU vendors and game devs are actually talking to each other these days?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — NVIDIA Graphics Card Driver Hotfix Addresses Instability in WoW",
+     "url": "https://www.wowhead.com/news/nvidia-graphics-card-driver-hotfix-addresses-instability-in-wow-381838?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "CurseForge Addon Trials Contest (Through July 5)",
+   "tab": "",
+   "category": "News",
+   "synopsis": "CurseForge has launched the Addon Trials, a community contest for WoW: Midnight addons running now through July 5, with 20 winners splitting $8,100 in prizes.",
+   "points": [
+    {
+     "text": "Any kind of addon is eligible — big or small, new or existing (as long as it was created after March 2, 2026). Multiple submissions are allowed, and judging is split equally between originality, user experience, and design. On June 23, ten mid-contest winners will each receive a $100 bonus, then after July 5 a panel of judges picks the top 10 finalists. Community voting runs July 9–13, and final winners are announced July 15.",
+     "sub": ""
+    },
+    {
+     "text": "Key rules to know:",
+     "sub": ""
+    },
+    {
+     "text": "Eligibility cutoff: Addon must have been created after March 2, 2026 — older addons are not eligible",
+     "sub": ""
+    },
+    {
+     "text": "AI art ban: AI-generated project avatars are not permitted",
+     "sub": ""
+    },
+    {
+     "text": "Moderation delay: All CurseForge submissions go through moderation, so submit early",
+     "sub": ""
+    },
+    {
+     "text": "No duplicates: Multiple submissions allowed, but submitting the same addon twice is not",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "If you were going to build an addon for this contest, what problem in WoW right now would you actually want to solve — what's something the community is still missing that a good addon could fix?",
+    "CurseForge running a community contest like this — is this the kind of healthy ecosystem signal you want to see, or does it feel like a band-aid on a modding community that Blizzard keeps breaking with every major patch?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — The Addon Trials: A WoW Addon Contest by CurseForge",
+     "url": "https://www.wowhead.com/news/the-addon-trials-a-wow-addon-contest-by-curseforge-381823?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Microsoft Gaming Enters \"Reset,\" Layoffs Incoming",
+   "tab": "",
+   "category": "News",
+   "synopsis": "A public memo from Microsoft Gaming CEO Asha Sharma acknowledged the division is deeply unprofitable, setting the stage for major July layoffs and a strategic pullback — while the Activision Blizzard segment was notably carved out as a separate, healthier piece of the portfolio.",
+   "points": [
+    {
+     "text": "Sharma's memo, posted June 10, put the gaming division's \"accountability margin\" at roughly 3%, while revealing that excluding Activision Blizzard King, Xbox spent over $20 billion in five years as annual revenue fell by nearly half a billion dollars over the same period. Hardware costs are spiraling — storage alone has more than doubled since February and is projected to hit five times its 2024 level by the 2027 holiday season — and a more affordable console option is reportedly being explored. The June 7 Xbox Games Showcase also signaled a strategy shift, with Gears of War: E-Day and Clockwork Revolution announced as Xbox console exclusives, reversing the recent multiplatform approach; a previously in-development PS5 version of Gears was reportedly canceled.",
+     "sub": ""
+    },
+    {
+     "text": "On the Blizzard and Activision side, two stories stood out. When asked directly whether the $68.7 billion Activision Blizzard acquisition is paying off, Sharma declined to give an affirmative answer. Separately, Microsoft agreed to pay $250 million to settle a lawsuit tied to the acquisition, with the settlement noting no court or investigation had substantiated claims of systemic harassment at the company. A securities class action related to Activision stock sold between January 2022 and October 2023 remains active, with a June 30 deadline for shareholders to file lead plaintiff applications.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "The memo explicitly carves Activision Blizzard out from the bad financial numbers — does that feel like a genuine signal that those studios are in better shape, or does it read more like messaging designed to protect the acquisition's optics?",
+    "With Xbox pulling back to console exclusives after leaning into multiplatform, and layoffs looming in July — what does a healthy Microsoft Gaming actually look like at the end of this reset, and do you think Blizzard comes out of it better or worse positioned?"
+   ],
+   "sources": [
+    {
+     "label": "GeekWire — Microsoft Gaming CEO Memo: Division in \"Reset\"",
+     "url": "https://geekwire.com"
+    }
+   ],
+   "media": []
+  }
+ ]
+}

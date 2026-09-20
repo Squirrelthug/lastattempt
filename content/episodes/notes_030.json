@@ -1,0 +1,313 @@
+{
+ "episode": "030",
+ "date": "2026-08-29",
+ "subtitle": "",
+ "source": "legacy-html",
+ "intro": {
+  "heads_up": "",
+  "rundown": []
+ },
+ "items": [
+  {
+   "title": "Race to World First: Venomous Abyss & Mythic Nerfs",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Week one of the Venomous Abyss Race to World First ended as the slowest opening progression tier since Liberation of Undermine, packed with extensive splits, Mythic Coiled Altar nerfs, and a lair kill by Liquid.",
+   "points": [
+    {
+     "text": "Progression through the nine-boss tier started at a crawl, with Method finishing week one in the lead at 5/9 Mythic while Liquid and Echo spent the majority of their time running Heroic and Normal splits. Overtuned bosses and bugs made early heroic clears much longer than expected, delaying Liquid from entering Mythic until day five. Outside the main raid, Liquid managed to defeat the lair boss Nymrissa Wavecaller on Mythic with a 25-player roster running 3 tanks and 12 ranged DPS to secure Myth-track upgrades.",
+     "sub": ""
+    },
+    {
+     "text": "Key developments in the race:",
+     "sub": ""
+    },
+    {
+     "text": "Mythic Coiled Altar nerfs: Blizzard stepped in with hotfixes, cutting Malacrass's phase 3 bonus health down to 19% from 35% and reducing Veil of Twilight shields by 20%.",
+     "sub": ""
+    },
+    {
+     "text": "Slowest pace in tiers: with only 5 of 9 Mythic bosses defeated by week one's end, this tier matches Liberation of Undermine as one of the tightest progression walls in recent expansions.",
+     "sub": ""
+    },
+    {
+     "text": "Sszorak roadblock: non-RWF guilds face a tough road on Mythic Sszorak, as its tight DPS check hasn't received traditional post-RWF nerfs while top guilds remain stuck on later bosses.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Do you think Liquid's decision to burn five days on Heroic splits was the right call, or did giving up the week one lead to Method put them on the back foot?",
+    "With non-RWF guilds heading into Mythic Sszorak before RWF nerfs hit, are we going to see mid-week hotfixes or another multi-week race?"
+   ],
+   "sources": [
+    {
+     "label": "Source — World First Nymrissa Wavecaller Defeated by Liquid (Wowhead)",
+     "url": "https://www.wowhead.com/news/world-first-nymrissa-wavecaller-defeated-by-liquid-382494?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — Race to World First Analysis: Slowest Week 1 Progression since Liberation of Undermine (Wowhead)",
+     "url": "https://www.wowhead.com/news/race-to-world-first-analysis-slowest-week-1-progression-since-liberation-of-382634?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — Mythic Coiled Altar Nerfed - Race to World First (Wowhead)",
+     "url": "https://www.wowhead.com/news/mythic-coiled-altar-nerfed-race-to-world-first-382658?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Weekly Reset Class Tuning & Raid Hotfixes",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Blizzard has rolled out a sweeping round of weekly reset tuning targeting underperforming raid specs, alongside dungeon density adjustments and LFR raid nerfs.",
+   "points": [
+    {
+     "text": "Class tuning across the board focuses on lifting specs that struggled during week one of Season 2, with Balance Druid, Feral Druid, and Frost Death Knight seeing baseline damage buffs across primary rotational abilities. Mistweaver Monks received a 5% overall healing increase alongside a boost to their 4-piece set bonus trigger rate, while Vengeance Demon Hunters got defensive buffs to Demonic Wards and Fel Devastation healing. On the dungeon side, Blizzard adjusted mob density and pathing in Altar of Fangs, Den of Nalorakk, and Ruby Life Pools to smooth out Mythic+ routes.",
+     "sub": ""
+    },
+    {
+     "text": "Additional tuning and hotfixes:",
+     "sub": ""
+    },
+    {
+     "text": "Vashnik LFR nerfs: Siphoning Infection and Siphon Blood damage on Raid Finder difficulty were cut by 33% to prevent raid wipes in casual groups.",
+     "sub": ""
+    },
+    {
+     "text": "Coiled Altar and Ula'tek fixes: tether skips and sac'ing soaks were fixed on Heroic Ula'tek, while Zul'jan shield health and trash packs in The Venomous Abyss were reduced.",
+     "sub": ""
+    },
+    {
+     "text": "PvP defensiveness reduction: PvP tuning continues to trim barrier absorbs for Mages and defensives for Devourer and Havoc Demon Hunters to speed up arena match pacing.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Feral and Balance Druids both got 4 to 5% baseline buffs this reset — is that enough to bring them up to tier-one raid slots, or do they still need work?",
+    "How are your Mythic+ routes feeling after the mob density cuts in Ruby Life Pools and Altar of Fangs?"
+   ],
+   "sources": [
+    {
+     "label": "Source — Coiled Altar, Ula'tek and Nymrissa Tuning with Weekly Reset - Nerfs and Cheese Fixes (Wowhead)",
+     "url": "https://www.wowhead.com/news/coiled-altar-ulatek-and-nymrissa-tuning-with-weekly-reset-nerfs-and-cheese-fixes-382610?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — Vashnik LFR Nerf - Patch 12.1 Hotfixes for August 27th (Wowhead)",
+     "url": "https://www.wowhead.com/news/hotfixes-august-27-2026-world-of-warcraft-blizzard-news-382657?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — Boomkin, Feral Druid, Mistweaver Monk Buffs - Class Tuning Coming with Weekly Reset (Wowhead)",
+     "url": "https://www.wowhead.com/news/boomkin-feral-druid-mistweaver-monk-buffs-class-tuning-coming-with-weekly-reset-382674?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Delve Milestones & Crafting Order Bugs",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Over 110,000 players cleared the Season 2 solo Delve challenge in week one, but a persistent crafting bug is leaving some players without their hard-earned Crests and Sparks.",
+   "points": [
+    {
+     "text": "The Hall of Fame for the ?? Azta'rec solo Delve closed out week one with 113,411 players earning the Fabled Vanquisher title across NA and EU servers. Nearly 50,000 NA players completed the challenge before maintenance, with twelve players clutching out kills in the final three minutes before shutdown. The achievement awards a custom rank title on the Corrosive Victory toy, making it one of the most widely completed high-difficulty solo milestones in recent expansion history.",
+     "sub": ""
+    },
+    {
+     "text": "On the crafting side, players across forums and Discord are reporting a bug where submitted Work Orders glitch out and disappear without completing. Affected players are losing their Sparks, Mythic Crests, and crafting materials without receiving items or refunds. Customer support confirmed the behavior is unintended and being investigated by developers, but CS currently has no way to restore missing materials, leading players to advise holding off on high-value crafts until a hotfix lands.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Did you get your solo ?? Azta'rec kill done before the week one Hall of Fame title closed out?",
+    "With customer support unable to restore lost Sparks from failed work orders, are you holding off on your high-end crafts this week?"
+   ],
+   "sources": [
+    {
+     "label": "Source — Over 110,000 Players Defeated ?? Azta'rec Solo During First Week of Season 2 (Wowhead)",
+     "url": "https://www.wowhead.com/news/over-110-000-players-defeated-aztarec-solo-during-first-week-of-season-2-382605?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — Failed Crafting Orders Resulting in Lost Crests and Sparks for Some Players (Wowhead)",
+     "url": "https://www.wowhead.com/news/failed-crafting-orders-resulting-in-lost-crests-and-sparks-for-some-players-382651?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Campaign Finale, Northrend Cup & Coiled Isle Activities",
+   "tab": "",
+   "category": "News",
+   "synopsis": "The final chapter of the Patch 12.1 campaign is now live with weapon transmogs, while Northrend Skyriding races and rock climbing return for outdoor players.",
+   "points": [
+    {
+     "text": "Chapter 6 of the Patch 12.1 campaign unlocks from Lor'themar Theron in Silvermoon City, taking players through Zul'Aman to wrap up the narrative arc. Completing the quest chain awards The Curse of Ula'tek achievement alongside the Dawn's Radiance sword transmog and Twilight Brazier. Meanwhile, This Week in WoW highlighted the opening of Black Temple in Burning Crusade Classic Anniversary Edition and Raid Finder Wing 2 in The Venomous Abyss.",
+     "sub": ""
+    },
+    {
+     "text": "World activities and events:",
+     "sub": ""
+    },
+    {
+     "text": "Northrend Cup Skyriding: running through September 8th across iconic Northrend courses, offering Riders of Azeroth Badges for the Frosted Tabard and Skymaster's Blood cosmetics.",
+     "sub": ""
+    },
+    {
+     "text": "Rock climbing returns: a new World Quest called Slithering Heights brings rock climbing minigames back on the Coiled Isle.",
+     "sub": ""
+    },
+    {
+     "text": "September Trading Post preview: celebrates friendship with the Crested Ember Leafmimic mount for completing Traveler's Log activities across capital cities.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Have you wrapped up the campaign for your Dawn's Radiance transmog, or are you focusing purely on endgame progression?",
+    "Are you glad to see rock climbing World Quests back on the Coiled Isle, or do you stick strictly to Skyriding?"
+   ],
+   "sources": [
+    {
+     "label": "Publication — Carve, Climb, and Cruise Through the Skies of Northrend",
+     "url": "https://worldofwarcraft.blizzard.com/en-us/news/24295088"
+    },
+    {
+     "label": "Source — Earn the Dawn's Radiance Sword for Completing the Final Chapter of Patch 12.1 Campaign (Wowhead)",
+     "url": "https://www.wowhead.com/news/earn-the-dawns-radiance-sword-for-completing-the-final-chapter-of-patch-12-1-382611?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — Black Temple and the Venomous Abyss Raids - This Week in WoW (Wowhead)",
+     "url": "https://www.wowhead.com/news/black-temple-and-the-venomous-abyss-raids-this-week-in-wow-382662?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — Rock Climbing World Quests Return in Patch 12.1 on Coiled Isle (Wowhead)",
+     "url": "https://www.wowhead.com/news/rock-climbing-world-quests-return-in-patch-12-1-on-coiled-isle-382676?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Coiled Altar Intermission Bug & Early Bonus Roll Changes",
+   "tab": "",
+   "category": "News",
+   "synopsis": "High-DPS raid groups encountered an unkillable boss bug during Coiled Altar intermissions, while Blizzard's planned restrictions on Bonus Rolls went live days ahead of schedule.",
+   "points": [
+    {
+     "text": "Raid groups pushing high damage during the intermission of Coiled Altar ran into an issue where reducing Zul'jan to 1 HP rendered him completely unkillable in Phase 3. Because Malacrass heals both bosses during the intermission, overgeared groups dealing double damage to Zul'jan caused his HP to cap out at 1, bricking the encounter until the raid wiped. A hotfix has since resolved the 1 HP bug, but groups are still advised to manage DPS timing during phase transitions.",
+     "sub": ""
+    },
+    {
+     "text": "Bonus Roll changes and timeline update:",
+     "sub": ""
+    },
+    {
+     "text": "Bonus roll lockouts: Blizzard announced that starting with weekly reset, Bonus Rolls can only be used on bosses where players are still eligible for loot, preventing double-coining locked bosses.",
+     "sub": ""
+    },
+    {
+     "text": "Unannounced early hotfix: despite the announced Tuesday timeline, players and content creators reported the restriction went live immediately over the weekend.",
+     "sub": ""
+    },
+    {
+     "text": "Impact on gearing strategy: players can no longer stockpile coins to dump multiple rolls on Heroic Ula'tek in a single lockout, extending character progression timelines.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Did your raid team run into the 1 HP Zul'jan bug before the hotfix landed on August 27th?",
+    "How does the early Bonus Roll lock change affect your personal coining plan for Heroic bosses?"
+   ],
+   "sources": [
+    {
+     "label": "Source — Too Much DPS in the Coiled Altar Intermission Might Bug the Boss (Wowhead)",
+     "url": "https://www.wowhead.com/news/too-much-dps-in-the-coiled-altar-intermission-might-bug-the-boss-382632?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — Bonus Rolls Cannot Be Used on Loot-Locked Bosses Next Week (Wowhead)",
+     "url": "https://www.wowhead.com/news/bonus-rolls-cannot-be-used-on-loot-locked-bosses-next-week-382656?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — Bonus Roll Hotfix Applied Early: No More Loot from Locked Bosses (Wowhead)",
+     "url": "https://www.wowhead.com/news/bonus-roll-hotfix-applied-early-no-more-loot-from-locked-bosses-382677?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Community Spotlights: J'imothy Pet & Housing Blueprint Challenge",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Community creators and secret finders are taking center stage this week with the discovery of the J'imothy raccoon pet in Silvermoon and a player housing blueprint contest.",
+   "points": [
+    {
+     "text": "The WoW Secret Finding Discord solved the puzzle for J'imothy, bringing Seattle's famous raccoon into World of Warcraft as a battle pet. Players can track down an Ensorcelled Cryptid across three locations in Silvermoon City and channel to drain 100 stacks of Barrier Integrity while dodging swirly telegraphs. Once the channel completes, clicking J'imothy awards the Stubby Whistle item to unlock the pet for your warband collection.",
+     "sub": ""
+    },
+    {
+     "text": "On the player housing front, content creator SoulSoBreezy announced the Welcome Home Blueprint Challenge, inviting NA and EU players to submit starter home designs through September 14th. To keep blueprints accessible for all players, entries are restricted to neighborhood decor bought with gold rather than expansion currencies. Submissions are judged on creativity, with top prizes including game time and decor bundles like the Treehouse Retreat.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Have you picked up your J'imothy pet in Silvermoon yet, or are you waiting for a group to drain the Cryptid stacks faster?",
+    "Are you planning to submit a build for SoulSoBreezy's housing challenge, or will you just be importing other players' blueprints?"
+   ],
+   "sources": [
+    {
+     "label": "Source — How to Get J'imothy Pet in World of Warcraft (Wowhead)",
+     "url": "https://www.wowhead.com/news/how-to-get-jimothy-pet-in-world-of-warcraft-382648?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — Enter SoulSoBreezy's Player Housing Blueprint Challenge: Show Off Your Designs! (Wowhead)",
+     "url": "https://www.wowhead.com/news/enter-soulsobreezys-player-housing-blueprint-challenge-show-off-your-designs-382653?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Shop Mailbox Mount, McDonald's Bakery & Xbox Warcraft Series Pitch",
+   "tab": "",
+   "category": "News",
+   "synopsis": "New utility mounts and regional transmogs hit the Blizzard store, while reports surface that Xbox is pitching a World of Warcraft television series to Hollywood studios.",
+   "points": [
+    {
+     "text": "According to industry reporting from Puck News, Xbox is shopping a bulk adaptation deal with Hollywood studios for several major gaming properties, including a potential World of Warcraft series. Following the success of recent gaming adaptations like Fallout, Microsoft is exploring film and television projects for flagship franchises. While nothing is greenlit yet, fans are speculating whether Warcraft's rich lore could see a serialized live-action or animated treatment.",
+     "sub": ""
+    },
+    {
+     "text": "In-game shop and promo updates:",
+     "sub": ""
+    },
+    {
+     "text": "Hearthkeeper's Wandering Caravan mount: listed for $25 on the store, providing built-in repair and portable mailbox access alongside an interactive caravan interior seat.",
+     "sub": ""
+    },
+    {
+     "text": "Vibrant Petalweave Collection: four floral transmog sets available in a $40 bundle or $20 individually with reactive glow effects on crowns and cloaks.",
+     "sub": ""
+    },
+    {
+     "text": "McDonald's Red Hot Bakery transmog: backpiece transmog now available in Ireland and the UK via 1,500 McDonald's app points, with Blizzard confirming promotional items will hit the Trading Post in future updates.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "If Xbox succeeds in pitching a Warcraft TV series, would you prefer an animated show like Arcane or a live-action series covering the Arthas storyline?",
+    "Is a $25 mount with portable mailbox access worth buying if you missed out on the Brutosaur?"
+   ],
+   "sources": [
+    {
+     "label": "Source — New Mount and Ensembles in In-Game Shop: $25 Mailbox Mount (Wowhead)",
+     "url": "https://www.wowhead.com/news/new-mount-and-ensembles-in-in-game-shop-25-mailbox-mount-382612?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — McDonald's Red Hot Portable Bakery Transmog Now Available in Ireland & the UK (Wowhead)",
+     "url": "https://www.wowhead.com/news/mcdonalds-red-hot-portable-bakery-transmog-now-available-in-ireland-and-the-uk-382619?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — Xbox Might be Pitching a World of Warcraft Series (Wowhead)",
+     "url": "https://www.wowhead.com/news/xbox-might-be-pitching-a-world-of-warcraft-series-382664?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  }
+ ]
+}

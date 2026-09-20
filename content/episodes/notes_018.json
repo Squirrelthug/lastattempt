@@ -1,0 +1,215 @@
+{
+ "episode": "018",
+ "date": "2026-05-30",
+ "subtitle": "",
+ "source": "legacy-html",
+ "intro": {
+  "heads_up": "",
+  "rundown": []
+ },
+ "items": [
+  {
+   "title": "The Best Ways to Farm Myth Dawncrests",
+   "tab": "",
+   "category": "News",
+   "synopsis": "With the weekly crest cap now removed, players can fully upgrade all of their gear — here's the fastest path to stacking Myth Dawncrests.",
+   "points": [
+    {
+     "text": "Mythic+ dungeons remain the top earner at 10–16 crests per run, with Pit of Saron and Nexus Point Xenas flagged as the best speed choices. Running in a premade five-man cuts queue time and lets you reroll keys toward those preferred dungeons, making organized play significantly more efficient than pugging. You can also trade up 30 Hero Dawncrests into 10 Myth ones — not efficient on its own, but a useful sink for overflow Hero crests before raid night.",
+     "sub": ""
+    },
+    {
+     "text": "Patch 12.0.7 adds a third option worth knowing:",
+     "sub": ""
+    },
+    {
+     "text": "Tier 6 Ritual Sites: Award 5 Myth Dawncrests per run with no lockout or weekly limit — faster than a Mythic+ dungeon and the only meaningful Myth crest source for solo players.",
+     "sub": ""
+    },
+    {
+     "text": "T11 Delves: Also give 5 crests on reaching Rank 4 renown, but capped at four clears per week, making Ritual Sites the better long-term grind once 12.0.7 drops.",
+     "sub": ""
+    },
+    {
+     "text": "Trade-Up: 30 Hero Dawncrests → 10 Myth Dawncrests at the upgrade vendor — best used when you have excess Heros and nothing left to spend them on.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "With the crest cap gone, do you think this changes how guilds approach gearing between raid weeks — are we expecting players to show up significantly more upgraded going into progression now?",
+    "Tier 6 Ritual Sites being unlimited and soloable feels like a big deal for the non-Mythic+ crowd — do you think that changes who can realistically push into endgame content next patch?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — The Best Ways to Farm for Mythic Upgrade Crests",
+     "url": "https://www.wowhead.com/news/the-best-ways-to-farm-for-mythic-upgrade-crests-381728?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Blizzard Previews the Omnium Folio",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Patch 12.0.7 introduces the Omnium Folio, a new permanent power system tied to the ancient Sunstrider Omnium relic — and the buffs you earn carry through the rest of the Midnight expansion.",
+   "points": [
+    {
+     "text": "You unlock it by helping Magister Umbric and Grand Magister Rommath on the Isle of Quel'Danas, after which the Folio appears as a minimap icon you can click to manage your runes. Each week you complete the Seeking Knowledge quest, you earn a Mote of Omnial Inquiry to unlock the next row — five weeks to fully unlock the whole thing. The rune system is layered across five rows, with one core rune and one pick per row, and you can swap freely outside of combat.",
+     "sub": ""
+    },
+    {
+     "text": "Rune structure at a glance:",
+     "sub": ""
+    },
+    {
+     "text": "Row 1 (Core): Choose between Void-Touched Orbs (collect and launch at enemies/allies) or Unleashed Fire (proc-based damage or healing on spells/abilities).",
+     "sub": ""
+    },
+    {
+     "text": "Rows 2–4: Defensive and stat-boosting enhancements — self-healing below 75%, a damage-absorb shield on big hits, speed on taking damage, and secondary stat bonuses (crit, haste, mastery, or versatility) that stack on core rune procs.",
+     "sub": ""
+    },
+    {
+     "text": "Row 5: Power multipliers — double your core rune damage/healing, double your Rune of Lingering, or build up an echoing curse that detonates accumulated damage or healing after 10 seconds.",
+     "sub": ""
+    },
+    {
+     "text": "Completion reward: Finish all five Seeking Knowledge quests and you unlock the Sunstrider Omnium Simulacrum housing decor item.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "The Omnium Folio persists through the rest of Midnight — does that framing make it feel more meaningful to invest in, or does it just set the expectation that we'll be wearing these training wheels for the whole expansion?",
+    "With runes being freely swappable outside of combat, do you think players are going to optimize these per encounter, or is it more of a \"set it and forget it\" system in practice?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Blizzard Previews the Omnium Folio",
+     "url": "https://www.wowhead.com/news/blizzard-previews-the-omnium-folio-more-power-for-your-characters-in-patch-12-0-381734?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Patch 12.0.7 Is a Release Candidate + Turbulent Timeways Updates",
+   "tab": "",
+   "category": "News",
+   "synopsis": "The 12.0.7 PTR has been flagged as a release candidate, pointing to a June 16th launch — and the Turbulent Timeways event that comes with it just got a player-friendly tweak to its mount achievement.",
+   "points": [
+    {
+     "text": "A release candidate build means 12.0.7 is effectively feature-complete and likely only a couple weeks out, with hotfixes the only expected additions before and after launch. The in-game calendar already has Turbulent Timeways, Midsummer Festival, and the new Darkspear Dash micro-holiday populated — and all three point to June 16th as the go-live date, exactly eight weeks after Patch 12.0.5 dropped on April 21st.",
+     "sub": ""
+    },
+    {
+     "text": "Turbulent Timeways V details:",
+     "sub": ""
+    },
+    {
+     "text": "Event window: June 30th through August 11th — five weeks total.",
+     "sub": ""
+    },
+    {
+     "text": "Spawn of Vyranoth mount: The Master of the Turbulent Timeways V achievement now requires earning Mastery of Timeways in only 4 weeks (down from 5), meaning you can miss one week and still get the mount.",
+     "sub": ""
+    },
+    {
+     "text": "How it stacks: Complete a Timewalking dungeon to start gaining Knowledge of Timeways stacks; hit 4 runs and you earn Mastery of Timeways for that week.",
+     "sub": ""
+    },
+    {
+     "text": "Also in 12.0.7: New Zul'Jan campaign chapter, single-boss Sporefall raid (flexible 15–25 Mythic), two new Void Assault invasion zones, and Tier 6 Ritual Sites.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "June 16th would make this a pretty tight turnaround — does that feel like the right pace for a .x7 patch, or does it seem rushed given everything that's in it?",
+    "The Spawn of Vyranoth being achievable in four out of five weeks makes it basically a \"show up and do the minimum\" mount — is that the right call for a limited-time event reward, or does it take away from the prestige?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Midnight Patch 12.0.7 PTR Now a Release Candidate Build",
+     "url": "https://www.wowhead.com/news/midnight-patch-12-0-7-ptr-now-a-release-candidate-build-381735?utm_source=discord-webhook"
+    },
+    {
+     "label": "Wowhead — Spawn of Vyranoth Mount Requires One Less Week of Timewalking",
+     "url": "https://www.wowhead.com/news/spawn-of-vyranoth-mount-requires-one-less-week-of-timewalking-during-turbulent-381738?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "12.0.7 PTR QoL Bundle: Alts, Repairs, and Dundun",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Three separate PTR changes this week add up to a meaningful quality-of-life pass: cheaper gear for alts, cheaper repair bills for everyone, and a long-overdue fix to the Dundun grind.",
+   "points": [
+    {
+     "text": "The biggest structural change is to durability — starting in 12.0.7, weapons and shields will no longer take durability damage from combat, only from death or spirit rez. Testing on the PTR showed this roughly cuts repair costs in half for most classes, and essentially eliminates the infamous Protection Warrior \"block tax,\" where shields degraded so fast from blocking that it added up to a disproportionate gold sink every session. For alt players, a new Warbound Champion-track cache costing only 100 Field Accolades lets you send gear directly to characters who need it, filling a gap left by the bind-on-pickup Hero caches already in the game.",
+     "sub": ""
+    },
+    {
+     "text": "The Dundun change specifically:",
+     "sub": ""
+    },
+    {
+     "text": "Old system: 1 Shard of Dundun per run — up to 8 runs per week to maximize Unalloyed Abundance. Major time sink, especially on multiple characters.",
+     "sub": ""
+    },
+    {
+     "text": "New system: Offer 1, 2, 4, or 8 Shards simultaneously. The abundance payout is multiplied by the number of shards used — so 8 shards in one run equals what 8 separate runs used to give.",
+     "sub": ""
+    },
+    {
+     "text": "Field Accolade cache costs for reference: Slot-specific Champion (Warbound) = 100 accolades; Random Champion = 75; Slot-specific Heroic (BoP) = 750; Random Heroic = 500.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "The Dundun fix has been requested since launch — does it land as a win, or does it feel like a case of \"too little too late\" for players who already burned out on the daily grind?",
+    "Warbound Champion caches for 100 Accolades sounds accessible — do you think this actually moves the needle for gearing alts, or does Champion-track gear become irrelevant so fast that it barely matters by the time you'd use it?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Get Champion Gear for Alts Using Field Accolades in Patch 12.0.7",
+     "url": "https://www.wowhead.com/news/get-champion-gear-for-alts-using-field-accolades-in-patch-12-0-7-381739?utm_source=discord-webhook"
+    },
+    {
+     "label": "Wowhead — Save Gold on Repairs with Weapon Durability Changes in Patch 12.0.7",
+     "url": "https://www.wowhead.com/news/save-gold-on-repairs-with-weapon-durability-changes-in-patch-12-0-7-381744?utm_source=discord-webhook"
+    },
+    {
+     "label": "Wowhead — Earn Unalloyed Abundance Faster by Using Multiple Shards of Dundun",
+     "url": "https://www.wowhead.com/news/earn-unalloyed-abundance-faster-by-using-multiple-shards-of-dundun-381750?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Lorewalking: The History of the Loa in 12.0.7",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Patch 12.0.7's Lorewalking segment, hosted by Li Li Stormstout, takes players through the full history of the Loa — and it's almost certainly setting up major story beats for patch 12.1.",
+   "points": [
+    {
+     "text": "Li Li reframes loa as the troll cultural term for Wild Gods, connected to the Emerald Dream — a slight retcon from the older definition where \"loa\" covered any troll deity, including ascended trolls and minor spirits. The Lorewalking covers benevolent loa like Rezan, the Loa of Kings who empowered Zandalari royalty; corrupted cases like Hakkar the Blood God, who has never truly been slain; and tragic ones like the Drakkari who sacrificed their own loa to fight the Scourge during Wrath. It also introduces the concept of hash'ey — loa-blessed mortal avatars — and reveals that Bwonsamdi himself was once a hash'ey of Mueh'zala before ascending to godhood through absorbing the power of other loa.",
+     "sub": ""
+    },
+    {
+     "text": "The story framing almost certainly points toward Vol'jin, who is still dormant in Ardenweald and absorbed Rezan's power during Shadowlands — the parallels drawn here suggest his awakening as a true loa could be a 12.1 storyline. The patch also introduces a mysterious entity called Ula'tek, connected to the Amani and originating from the Rift of Aln in Harandar, whose status as a loa or something more sinister is left deliberately unresolved going into 12.1. Li Li gives out a Tome of Kings housing item as the Lorewalking reward, swapping the usual toy for décor.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "The Vol'jin breadcrumb here feels pretty deliberate — if he wakes up as a full loa in 12.1, how do you think that changes the troll faction storyline, and does that excite you as a potential patch arc?",
+    "Blizzard quietly retconning what \"loa\" means is a pretty significant lore shift — do you think that kind of retroactive cleanup helps or hurts the overall coherence of the Warcraft universe?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — The Story of Lorewalking: Loa in Patch 12.0.7",
+     "url": "https://www.wowhead.com/news/the-story-of-lorewalking-loa-in-patch-12-0-7-378221?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  }
+ ]
+}

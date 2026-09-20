@@ -1,0 +1,288 @@
+{
+ "episode": "025",
+ "date": "2026-07-24",
+ "subtitle": "",
+ "source": "legacy-html",
+ "intro": {
+  "heads_up": "",
+  "rundown": []
+ },
+ "items": [
+  {
+   "title": "Blizzard Employee Fired for Cheating in Mythic+ Key",
+   "tab": "",
+   "category": "News",
+   "synopsis": "A Blizzard employee was confirmed to have used GM-only development tools to help a group of friends complete a +23 Nexus-Point Xenas key — and has been terminated. The complicit players are also facing account action.",
+   "points": [
+    {
+     "text": "It started with a Reddit post flagging suspicious spell activity in a logged Mythic+ run, where insta-kill effects appeared on enemies including a boss. Community sleuthing matched the log to a real Raider.io run, and a player in the group later confirmed on stream that the group had asked their GM friend to help them complete the key. Blizzard initially responded that they were reviewing the situation, then confirmed the full story within days: every use of developer tools on live servers is logged and reviewed by their Platform Security team, which is how the violation was caught quickly.",
+     "sub": ""
+    },
+    {
+     "text": "What happened and what's being done:",
+     "sub": ""
+    },
+    {
+     "text": "The violation: Developer-only spells were used on a live realm to assist a Mythic+ group — against company policy.",
+     "sub": ""
+    },
+    {
+     "text": "The employee: Terminated immediately after Blizzard confirmed the incident.",
+     "sub": ""
+    },
+    {
+     "text": "The players: Account action is being taken against those complicit in the run.",
+     "sub": ""
+    },
+    {
+     "text": "The records: Blizzard thanked community sites (Raider.io, Warcraftlogs) for also removing the results from their systems.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Blizzard confirmed this because their internal logging caught it — does that give you more confidence that this kind of thing gets caught, or does it make you wonder how many incidents don't make it to Reddit first?",
+    "The group essentially had a friend on the inside who bent the rules for them — how do you think this affects trust in high-end Mythic+ rankings, and should leaderboard results have more transparency going forward?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Alleged Cheating in +23 Nexus Point Xe'nas Log",
+     "url": "https://www.wowhead.com/news/alleged-cheating-in-23-nexus-point-xenas-log-382228"
+    },
+    {
+     "label": "Wowhead — Blizzard Responds to Accusations About Cheated +23 Nexus Point Xe'nas",
+     "url": "https://www.wowhead.com/news/blizzard-responds-to-accusations-about-cheated-23-nexus-point-xenas-382233"
+    },
+    {
+     "label": "Wowhead — Blizzard Confirms GM Tools Used to Cheat, Employee Fired",
+     "url": "https://www.wowhead.com/news/blizzard-confirms-gm-tools-used-to-cheat-in-recent-mythic-dungeon-382246"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "BlizzCon 2026 Digital Bundles Now Live",
+   "tab": "",
+   "category": "News",
+   "synopsis": "BlizzCon 2026 digital bundles are now available on the Battle.net shop, with WoW-specific items including a new mount, transmog set, and housing decor. Physical attendees can also link their BlizzCon Pass to claim the Ultimate Collection for free.",
+   "points": [
+    {
+     "text": "What's in the WoW bundle ($29.99):",
+     "sub": ""
+    },
+    {
+     "text": "Rabbit'ath: A void rabbit flying mount described as a harbinger of doom — lore says you can see the end of all things in its eyes.",
+     "sub": ""
+    },
+    {
+     "text": "Ensemble: Garb of the Dawnfire Phoenix: Partial transmog set (head, shoulder, cloak).",
+     "sub": ""
+    },
+    {
+     "text": "Perch of the Dawnfire Phoenix: Housing decor item that cycles through a phoenix rebirth animation.",
+     "sub": ""
+    },
+    {
+     "text": "Ultimate Collection ($50): Adds the WoW pet Murk'atath plus bonus items for Overwatch, Diablo IV, Diablo Immortal, and Hearthstone. If you're attending BlizzCon in person, link your Tixr pass serial on the Battle.net link page to receive the Ultimate Collection automatically — items appear in-game.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "The housing decor piece with an animated phoenix rebirth cycle sounds genuinely cool — are you at the point where cosmetics like housing items factor into your decision to buy these bundles, or is it still mostly about mounts and transmog?",
+    "BlizzCon is coming up — are any of you planning to attend, and if so, is the free Ultimate Collection bundle a meaningful perk or just a nice bonus on top of the ticket?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — BlizzCon Bundles Now Available",
+     "url": "https://www.wowhead.com/news/blizzcon-bundles-now-available-new-mount-pet-decor-and-transmog-382237"
+    },
+    {
+     "label": "Wowhead — Link Your BlizzCon Pass to Receive the Ultimate BlizzCon Pack",
+     "url": "https://www.wowhead.com/news/link-your-blizzcon-pass-to-receive-the-ultimate-blizzcon-pack-382244"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Patch 12.1 PTR Dev Notes: Class Bug Fixes",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Blizzard dropped a round of 12.1 PTR development notes covering bug fixes for Restoration Druid, Preservation Evoker, Beast Mastery and Marksmanship Hunter, Brewmaster and Mistweaver Monk, and more — plus a balance tweak to the Holy Paladin Season 2 tier set and a PvP Conquest change.",
+   "points": [
+    {
+     "text": "The Resto Druid changes fix two Abundance bugs — the talent's bonus crit chance to Regrowth wasn't working correctly, and Flourish wasn't properly extending the Abundance effect. Both are fixed, but Regrowth healing is being reduced by 20% alongside them, so it's likely a give-and-take correction rather than a straight buff. On the Holy Paladin side, the Season 2 Venomous Abyss 4-set is being adjusted to add a 60% mana cost increase to Holy Light (the set was making Holy Pally too mana-efficient), but that's offset by a 5% across-the-board healing increase. Mistweaver also takes a 60% reduction to Morning Breeze, which Blizzard notes is intended to offset Mastery buffs coming in the patch so the talent lands at roughly the same effective value.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "The Resto Druid Abundance fix comes with a 20% Regrowth healing nerf attached — does that feel like a genuine balance correction or more like Blizzard nerfing a bug they let sit too long?",
+    "The Holy Paladin tier set is getting a mana cost increase on Holy Light to rein in efficiency — is mana being a limiting factor for healers in Season 2 something you want to see, or does it just make the game feel slower?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Patch 12.1 PTR Development Notes: Class Bug Fixes",
+     "url": "https://www.wowhead.com/news/patch-12-1-ptr-development-notes-class-bug-fixes-382249"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "12.1 PTR Datamined Class Tuning",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Dataminers have found additional spell tuning on the 12.1 PTR, with notable changes to the Subtlety Rogue Season 1 2-piece tier set and further adjustments to the Holy Paladin tier bonus on top of the dev notes already released this week.",
+   "points": [
+    {
+     "text": "Highlights from the datamined tuning:",
+     "sub": ""
+    },
+    {
+     "text": "Subtlety Rogue 2pc (Season 1): Finishing move damage bonus per combo point reduced — the multiplier is being tuned down, likely a late-season correction heading into the Season 2 transition.",
+     "sub": ""
+    },
+    {
+     "text": "Holy Paladin 4pc (Season 2): Confirms the Holy Light mana cost increase from the dev notes; the set now has Holy Light granting Infusion of Light at 100% proc rate but at that increased mana cost.",
+     "sub": ""
+    },
+    {
+     "text": "Windwalker Monk: Spinning Crane Kick damage modifier tuned up, and both Jade Ignition and Whirling Dragon Punch are seeing damage increases — looks like a notable buff for the spec.",
+     "sub": ""
+    },
+    {
+     "text": "Devourer Demon Hunter: Reap and Eradicate spell power coefficients adjusted downward slightly; Collapsing Star getting a small bump up.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Windwalker Monk is picking up what looks like a meaningful AoE buff between Spinning Crane Kick and Jade Ignition — if those numbers hold through the PTR, how does that change your expectations for the Mythic+ melee meta heading into Season 2?",
+    "Subtlety Rogue is getting its Season 1 2-piece nerfed right as the season is ending — does late-season tuning like this feel pointless to you, or do you think there's a reason Blizzard still makes these changes so close to a season flip?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Patch 12.1 PTR Datamined Class Tuning and Tier Set Changes",
+     "url": "https://www.wowhead.com/news/patch-12-1-ptr-datamined-class-tuning-and-tier-set-changes-sub-rogue-holy-382254"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "12.0.7 Naigtal Story Sets Up Possible Draenei Zone",
+   "tab": "",
+   "category": "News",
+   "synopsis": "The Naigtal storyline from patch 12.0.7 wrapped up this week, and it ends with a cliffhanger that heavily implies the next piece of draenei content — and possibly an entirely new draenei zone — is on the way, centered around a lost colony world called Nashabor.",
+   "points": [
+    {
+     "text": "The story follows the Hal'hadar, a group of ethereals trying to place their souls into ancient Lightforged draenei Warframes using a device called a Soul Lattice. Players stop the immediate threat in the Naigtal zone, but the ethereal researcher escapes with the remaining Vigilant bodies — and worse, acquires a hologem map of every planet the draenei visited during their exodus from Argus. That map leads directly to Nashabor, a draenei colony world that players met refugees from during the Voidstorm questline. The zone wraps with Tula'mar, a leader of those Nashabor draenei, reluctantly agreeing to meet Velen to coordinate a response.",
+     "sub": ""
+    },
+    {
+     "text": "The article speculates this is most likely setting up a sub-patch zone in the style of Naigtal and Val rather than a major new zone on the scale of Undermine or the Coiled Isle — but the more exciting possibility is that it could tie into a full draenei zone, especially since the draenei heritage quests ended with Velen promising to build a new capital city on Azeroth. Midnight has already leaned hard into Burning Crusade nostalgia with the return to Quel'thalas and Zul'Aman, and a Draenei-side counterpart to the revamped Silvermoon would fit that pattern well.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "The draenei have been getting a serious story glow-up since Dragonflight — does the Nashabor setup feel like Blizzard is building toward something big for them, or does it read more like side content that'll stay relatively small in scale?",
+    "The Hal'hadar ethereals stealing draenei Warframe technology to put their own souls in essentially-indestructible bodies is a pretty wild concept — does that feel like a compelling new villain faction to you, or does it not land without more context?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Are We Getting a New Draenei Zone Soon? 12.0.7 Naigtal Story Summary",
+     "url": "https://www.wowhead.com/news/are-we-getting-a-new-draenei-zone-soon-12-0-7-naigtal-story-summary-382185"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Midnight Season 1 Is Ending Soon",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Blizzard has officially announced that Midnight Season 1 is coming to an end — no specific date was given, but a wide range of achievements, mounts, titles, and rewards will be gone or significantly harder to obtain once Season 2 launches.",
+   "points": [
+    {
+     "text": "The big categories to be aware of: Ahead of the Curve and Cutting Edge achievements for all three Season 1 raids (The Dreamrift, The Voidspire, and March on Quel'Danas) are going away along with their housing trophy drops. All Mythic+ seasonal achievements from Keystone Explorer through Umbral Champion (Top 1%) are also expiring, as are Keystone Hero teleports for timing a +10 in each dungeon. On the PvP side, ranked titles, gladiator mounts, and seasonal feat achievements all have their end-of-season clocks ticking. Additionally, some Temple of Sethraliss-specific achievements will be removed when that dungeon leaves the pool for Season 2.",
+     "sub": ""
+    },
+    {
+     "text": "Time-sensitive rewards to flag before the deadline:",
+     "sub": ""
+    },
+    {
+     "text": "Cutting Edge: Crown of the Cosmos — requires Mythic The Voidspire final boss clear during Season 1.",
+     "sub": ""
+    },
+    {
+     "text": "Calamitous Carrion / Convalescent Carrion mounts — require Keystone Master (2000 rating) and Keystone Legend (3000 rating) respectively, both expiring at season end.",
+     "sub": ""
+    },
+    {
+     "text": "Umbral Champion mount — top 1% Mythic+ rating at end of season; this one is a hard cutoff.",
+     "sub": ""
+    },
+    {
+     "text": "Galactic Gladiator's Goredrake mount — 50 wins at 2300+ rating in 3v3 before the season closes.",
+     "sub": ""
+    },
+    {
+     "text": "Dungeon teleports — timing a +10 in each Season 1 dungeon; these do not carry over to Season 2.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "With Season 1 winding down and second attempt sitting at 5/10 Mythic, is there any part of the Season 1 checklist — a kill, an achievement, a mount — that the guild is still actively going after before the deadline, or is the focus fully shifting toward Season 2 prep?",
+    "Blizzard announced the season is ending without giving a specific end date — does that kind of vague urgency actually motivate you to get things done, or does it mostly just create anxiety with no clear target to aim at?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Midnight Season 1 Officially Ending Soon",
+     "url": "https://www.wowhead.com/news/midnight-season-1-officially-ending-soon-many-achievements-and-rewards-no-longer-382259"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Patch 12.1 Release Date Pointing to August 11th",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Multiple data points are converging on August 11th as the Patch 12.1 release date, with the new single-boss raid lair Tidebound Grotto showing an August 18th unlock date on the PTR — which would align with Season 2 launching the following week.",
+   "points": [
+    {
+     "text": "The evidence stacking up for August 11th includes the Turbulent Timeways event ending on that date (historically one of the most reliable patch timing indicators), the standard 8-week cadence after patch 12.0.7 landing on that same date, and a now-edited LinkedIn post from Method that appeared to confirm the date. The PTR discovery of Tidebound Grotto — a flex 15-25 Mythic single-boss raid lair featuring Nymrissa Wavecaller, similar in format to Sporefall — scheduled for August 18th adds another piece to the puzzle. None of this has been officially confirmed by Blizzard, but the community consensus is landing firmly on August 11th for the patch and August 18th for Season 2.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "If Patch 12.1 drops August 11th, that gives the guild roughly three weeks of notice — how does that affect the roster and prep conversation heading into a new season of Mythic raiding?",
+    "The single-boss raid lair format (Sporefall, and now Tidebound Grotto) seems to be becoming a regular part of the patch cycle — do you like having these smaller self-contained raid experiences between major tiers, or do they feel like filler?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Tidebound Grotto Noted to Release on August 18th on the 12.1 PTR",
+     "url": "https://www.wowhead.com/news/tidebound-grotto-noted-to-release-on-august-18th-on-the-12-1-ptr-382240"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Jimothy the Raccoon Is Coming to Azeroth",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Warcraft's official social media account has teased that Jimothy — the viral Seattle raccoon with a spinal deformity who became an internet celebrity for being a weird-looking little goblin-creature that's still cute — is coming to the game as an earnable in-game reward.",
+   "points": [
+    {
+     "text": "Jimothy is a real raccoon spotted by Seattle locals who went viral because of his distinctive look caused by a spinal deformity — somebody dubbed him Jimothy because, quote, \"he looked like a Jimothy,\" and the internet ran with it. Warcraft teased his arrival late Thursday night on social media, and a Reddit post confirmed he'll be earnable in-game rather than a cash shop item. No further details on what type of reward he'll be — pet, mount, or something else — but the fact that a real-life neighborhood raccoon is apparently crossing over into Azeroth is absolutely unhinged in the best possible way.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "WoW has done real-world crossovers before (the Noblegarden rabbit, various animal cameos), but a specific viral internet animal feels different — where do you land on Blizzard reaching into IRL meme culture for in-game content: fun and unexpected, or does it break immersion for you?",
+    "They confirmed Jimothy will be earnable in-game — what do you think he ends up being? Pet seems most obvious, but could you see them going weirder with it?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Warcraft Teases Viral Sensation \"Jimothy\" Coming to Azeroth",
+     "url": "https://www.wowhead.com/news/warcraft-teases-viral-sensation-jimothy-coming-to-azeroth-382258"
+    }
+   ],
+   "media": []
+  }
+ ]
+}

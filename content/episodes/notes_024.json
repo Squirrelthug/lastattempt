@@ -1,0 +1,249 @@
+{
+ "episode": "024",
+ "date": "2026-07-19",
+ "subtitle": "",
+ "source": "legacy-html",
+ "intro": {
+  "heads_up": "",
+  "rundown": []
+ },
+ "items": [
+  {
+   "title": "Mythic+ Tooltips Now Show Enemy Forces Contribution on PTR",
+   "tab": "",
+   "category": "News",
+   "synopsis": "The Patch 12.1 PTR adds enemy forces percentage directly to enemy tooltips in Mythic+ dungeons — a native quality-of-life upgrade that chips away at addon dependency for route planning.",
+   "points": [
+    {
+     "text": "Each enemy now shows its individual contribution to the dungeon's total count, displayed to a tenth of a percent — precise enough to cross-check third-party route planners. The feature benefits everyone from newer players trying to understand pulls on the fly to experienced groups who occasionally miscount mid-run. It won't replace dedicated route addons for pre-planned pushes, but it does mean you're no longer flying blind without one, and unlike addons it won't break mid-pull during a patch transition. Blizzard has framed this as part of a broader effort to raise the quality of the base UI so that addons feel like enhancements rather than requirements.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "With the base UI continuing to close the gap on addon functionality, do you think there's a point where the \"must-have addon\" list for Mythic+ actually gets meaningfully shorter — or do players just shift their expectations upward?",
+    "The count is shown as a percentage, not a raw number — does that feel complete to you, or is the missing raw value the kind of thing that would still send you back to an addon mid-run?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Mythic+ Tooltips Include Mob Count on Patch 12.1 PTR",
+     "url": "https://www.wowhead.com/news/mythic-tooltips-include-mob-count-on-patch-12-1-ptr-382186"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Ion Hazzikostas Portal Room Q&A",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Senior Game Director Ion Hazzikostas held a public Q&A on the WoW Community Discord, covering the eight-week patch cadence, guild tools, housing, PvP, professions, and the road ahead to BlizzCon.",
+   "points": [
+    {
+     "text": "The Q&A ran roughly an hour and fielded over 350 submitted questions. On the eight-week cadence, Ion says surveys show 50% of players find it just right, with 25% wanting it faster and 25% wanting it slower — so the pacing is staying put for now. The Discord guild integration arriving in 12.1 is explicitly a starting point rather than a finished product, and Ion said they're interested in hearing what other community features players would want to see built on top of it.",
+     "sub": ""
+    },
+    {
+     "text": "Other highlights from the Q&A:",
+     "sub": ""
+    },
+    {
+     "text": "Housing showcase: A browsing and search feature for player homes is in the works; mounts and transmog mannequins are planned for the future.",
+     "sub": ""
+    },
+    {
+     "text": "PvP: MMR inconsistencies are acknowledged; PvP talent updates are on the horizon but won't land in Season 2.",
+     "sub": ""
+    },
+    {
+     "text": "Professions: Secondary professions are overdue for a look; Archaeology's gameplay loop is being reconsidered entirely for The Last Titan.",
+     "sub": ""
+    },
+    {
+     "text": "BlizzCon: Ion teased there's more to the current story thread than it appears, and said to expect big reveals at BlizzCon.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Ion said the eight-week cadence data supports the majority of their playerbase — but 25% consistently say it's too fast. As a guild that raids three nights a week, where does that tension land for you between progression raiders and more casual players?",
+    "The Discord guild integration in 12.1 is framed as just the beginning — what would actually have to be in a future version of that feature for it to change how Second Attempt operates?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Portal Room Q&A with Senior Game Director Ion Hazzikostas",
+     "url": "https://www.wowhead.com/news/portal-room-q-a-with-senior-game-director-ion-hazzikostas-liveblog-382198"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Addon Trials Community Contest: Winners Announced",
+   "tab": "",
+   "category": "News",
+   "synopsis": "The CurseForge Addon Trials community contest has wrapped up with community voting complete — ten addons took the top spots across categories ranging from UI overhauls to housing catalogues.",
+   "points": [
+    {
+     "text": "Top finishers from the community vote:",
+     "sub": ""
+    },
+    {
+     "text": "EllesmereUI — Fully modular UI suite for players who want complete interface control.",
+     "sub": ""
+    },
+    {
+     "text": "Danders Frames — Custom party and raid frames with total control over group frame layout.",
+     "sub": ""
+    },
+    {
+     "text": "Coolinator — A more customizable cooldown manager.",
+     "sub": ""
+    },
+    {
+     "text": "EasyFind — Fast command bar that lets you search anything in WoW.",
+     "sub": ""
+    },
+    {
+     "text": "Housing Decor Guide — A full housing catalogue covering every decoration in the game.",
+     "sub": ""
+    },
+    {
+     "text": "RetroRuns — Solo legacy raid navigator with routing, directions, and tracking.",
+     "sub": ""
+    },
+    {
+     "text": "W2UI — Full UI overhaul inspired by the visual aesthetic of Bastion.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Looking at this list, what jumps out to you — is there anything here you'd actually install, or does your personal addon stack feel pretty locked in at this point?",
+    "A housing catalogue and a legacy raid navigator both made the top ten — does that tell us something about where the WoW playerbase's energy is right now outside of current content?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — The Addon Trials Community Contest Winners",
+     "url": "https://www.wowhead.com/news/the-addon-trials-community-contest-winners-382190"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Unhalted Raid Frames Shuts Down After Developer Harassment",
+   "tab": "",
+   "category": "News",
+   "synopsis": "The Unhalted Raid Frames addon — one of the most downloaded addons of the Midnight cycle with over a million downloads — has ceased development after its solo developer was subjected to sustained harassment following a buggy update.",
+   "points": [
+    {
+     "text": "The developer pushed a large update that added party and raid frames, ready-check indicators, and threat display, but the update also broke core functionality. What followed was a wave of abusive comments across the addon's CurseForge page, Discord server, and direct messages. A few hours later, the developer announced they were done — not just with the update, but with the project entirely.",
+     "sub": ""
+    },
+    {
+     "text": "In their parting message, the developer reminded the community that addon authors do this work for free, in their personal time, as a passion project — and that no one should be subjected to abuse for it, broken release or not. The Wowhead article echoed that sentiment, noting that Midnight's rapid patch cadence makes addon breakage more likely and patience more important than ever. This is a good reminder that the people maintaining these tools are real people, and how the community responds to bugs matters.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "This isn't the first time we've seen an addon developer walk away because of community behavior — do you think the WoW playerbase has gotten worse about this, or is it just more visible now with Discord and social media amplifying every reaction?",
+    "From a raider's perspective — what's the move when a core addon like raid frames breaks the night before progression? Does this story change how you think about your own dependencies?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Unhalted Raid Frames Halts Development Updates Due to Abuse and Harassment",
+     "url": "https://www.wowhead.com/news/unhalted-raid-frames-halts-development-updates-due-to-abuse-and-harassment-382193"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "BlizzCon 2026 Will Have Live Captioning After All",
+   "tab": "",
+   "category": "News",
+   "synopsis": "After an initial response from the BlizzCon team indicated no live captioning would be provided, Blizzard has reversed course — CART-style real-time captioning will be available at BlizzCon 2026.",
+   "points": [
+    {
+     "text": "The story came to light when Liane from Undaunted — WoW's largest deaf guild — shared a BlizzCon team response stating captioning wouldn't be offered, despite the event website previously suggesting it would be. She also pointed out that ASL isn't a universal solution, particularly for European deaf and hard-of-hearing attendees, and that CART captioning — where a trained professional provides real-time speech-to-text — had been available at BlizzCon 2023. Community attention on the issue appears to have pushed Blizzard toward a correction. It's not yet clear exactly which stages and panels will be covered, but at minimum the Main and Legends stages are expected to have the service.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "This one got fixed, but it took public pressure to get there — does Blizzard's track record on accessibility feel like something they genuinely prioritize, or more like they respond when it becomes visible?",
+    "BlizzCon is coming up — beyond the captioning news, what are you actually hoping to see announced? What would make it feel like a big show for WoW specifically?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Blizzard to Offer Live Captioning at BlizzCon 2026",
+     "url": "https://www.wowhead.com/news/blizzard-to-offer-live-captioning-at-blizzcon-2026-382201"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Raider.IO Break the Meta Event + Daily Bounties",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Raider.IO's Break the Meta event for Midnight Season 1 is running now through next week, with a new daily Bounty system layering comp-specific challenges — and real prizes — on top of the usual off-meta key push.",
+   "points": [
+    {
+     "text": "The core event works by restricting the most-played specs in each role, pushing players toward combinations that don't normally see competitive play. Over 6,100 qualifying runs were completed in the first few days. The Bounty system is a new wrinkle this year: each day has a specific composition challenge where only one team wins — the group with the highest scoring keystone in a 24-hour window across NA, EU, and KR/TW combined.",
+     "sub": ""
+    },
+    {
+     "text": "Remaining bounties this week:",
+     "sub": ""
+    },
+    {
+     "text": "Kitty Committee (July 19–20) — Highest key with 3+ Feral Druids. Prize: Sandbox Storm Gryphon.",
+     "sub": ""
+    },
+    {
+     "text": "It's a Miracle! (July 20–21) — Highest key with only Healer specs. Prize: 500 Hearthsteel.",
+     "sub": ""
+    },
+    {
+     "text": "All Gas No Brakes (July 20–21) — Highest key with only DPS specs. Prize: 14 Days Gametime.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Break the Meta is fun in concept, but the spec restrictions are always a little contentious — have you ever actually jumped into an event like this, and if so did it genuinely feel refreshing or more like a chore to qualify?",
+    "The \"All Gas No Brakes\" bounty — a full DPS group with no tank or healer — is basically a speedrun gimmick comp. Do you think events like this help players actually understand underplayed specs better, or is it really just a novelty?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Claim Daily Bounties and Break the Meta with Raider.IO",
+     "url": "https://www.wowhead.com/news/claim-daily-bounties-and-break-the-meta-with-raider-io-382202"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Xbox Restructure: 3,200 Cuts, Studio Spin-offs, and ZeniMax Leadership Gone",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Xbox head Asha Bhatt announced what she called \"the most significant restructure in Xbox history\" — approximately 3,200 job cuts across FY27, four studios leaving Xbox management, and a sweeping internal reset. ZeniMax Online Studios, developer of Elder Scrolls Online, lost its entire senior leadership team in the process.",
+   "points": [
+    {
+     "text": "The restructure memo, sent to all Xbox employees on July 6, was unusually blunt: Asha stated directly that \"our business today is not healthy,\" citing margins 3–10x below comparable platform and publishing businesses, a smaller Gen 9 install base, and Game Pass growth that didn't hit targets. Compulsion Games and Double Fine are being spun off as independent studios with their IP. Ninja Theory and Undead Labs have entered terms with new ownership to finish Senua's Saga and State of Decay 3. In France, Arkane Lyon — currently working on a Marvel Blade game — entered a works council consultation process that could end in sale, shutdown, or divestment. A new COO role, filled by Helen Chiang, is being created to unify P&L across content, hardware, platform, and services for the first time.",
+     "sub": ""
+    },
+    {
+     "text": "For ZeniMax Online specifically, Game File reported that over 200 of the 379 Maryland ZeniMax jobs cut last week came from ZOS — and a WARN letter filed with the state confirmed the studio head role was among them. Studio head Joe Burba, ESO executive producer Susan Kath, game director Rich Lambert, and production director Ala Diaz are all departing. ZOS will now be led by Josh Henderson and newly promoted game director Nick Giacomini. The outgoing leadership framed it as a handoff to promoted veterans, with ESO content development expected to continue through Update 51 and beyond — though with 200+ cuts and the entire creative leadership gone, questions about ESO's long-term viability are very much on the table. This is worth watching closely as a bellwether for how deeply this restructure reaches into studios Microsoft acquired.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Asha's memo says Xbox lost 64 cents on every dollar invested in a typical year — that's a striking number to put in writing. Does that level of transparency change how you think about Microsoft's long-term commitment to live service games like WoW, or is Blizzard too profitable to be in the same risk bucket as ZOS?",
+    "ZeniMax Online just lost its studio head, executive producer, game director, and production director all at once — ESO is a live service MMO that depends on content momentum. What's your read on whether ESO survives this intact, and does it make you think differently about WoW's position under Microsoft at all?"
+   ],
+   "sources": [
+    {
+     "label": "Xbox News — Resetting Xbox (Full Announcement)",
+     "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/"
+    },
+    {
+     "label": "Game File — ZeniMax Online Studio Head Out",
+     "url": "https://www.gamefile.news/p/zenimax-online-studio-head-out"
+    }
+   ],
+   "media": []
+  }
+ ]
+}

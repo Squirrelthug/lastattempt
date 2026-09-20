@@ -1,0 +1,348 @@
+{
+ "episode": "029",
+ "date": "2026-08-22",
+ "subtitle": "",
+ "source": "legacy-html",
+ "intro": {
+  "heads_up": "",
+  "rundown": []
+ },
+ "items": [
+  {
+   "title": "The Venomous Abyss Race to World First",
+   "tab": "",
+   "category": "News",
+   "synopsis": "The race for Venomous Abyss is underway and it has been a strange one — a brutal opening, server problems across the board, and the longest-lived first boss in recent race history.",
+   "points": [
+    {
+     "text": "Dratnos and Tettles are back with the daily recap videos, recorded after Liquid finishes raiding and going up around 2am Pacific. The usual crowd is out in force — Liquid running an eight-caster event, Echo with twelve raiders and seven casters raising for Games for Love, Method with twelve casters of their own. On the Chinese side, the ¥2.2 million prize planned for this race went unclaimed and is being reallocated to the wider player community, though the first fifty Chinese guilds to clear it on Mythic still get physical trophies.",
+     "sub": ""
+    },
+    {
+     "text": "How the week actually went:",
+     "sub": ""
+    },
+    {
+     "text": "Day 0 — comp predictions and the Liquid dynasty: the setup video, mostly about how guilds were going to handle what everybody was already calling the wildest gearing in a Race to World First so far.",
+     "sub": ""
+    },
+    {
+     "text": "Day 1 — a tough start: raid tuning on Normal and Heroic, massive lag for the NA teams, and a pile of bugs. Liquid was fighting the raid and the splits at the same time, and progress was slower than usual across the board.",
+     "sub": ""
+    },
+    {
+     "text": "Day 2 — still no Mythic bosses down: Heroic Ula'tek hadn't fallen either, and Coiled Altar was hard enough that barely a handful of guilds had the penultimate boss. Server stability was the loudest complaint of the day, with login issues across regions.",
+     "sub": ""
+    },
+    {
+     "text": "Day 4 — Heroic Ula'tek dies and Mythic starts: killed first by 清水 once the nerfs landed, which opened the door to more splits. Mythic bosses are finally dropping now, but it's unlikely the race ends this week.",
+     "sub": ""
+    },
+    {
+     "text": "The first two Mythic kills: Consequence took Nek'zali the Soulcoiler in a single pull while most of the top guilds were still gearing in Heroic, then xD leapfrogged them on The Lost Explorers in 28 pulls, finishing with two Blood Death Knight tanks as the only survivors.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Most of the top guilds spent the first three days gearing in Heroic instead of pushing Mythic. Is that just the smart play now, or does it make the opening of the race worse to watch?",
+    "Have either of you actually been able to follow this one live, or are we both catching up on the recaps after the fact?"
+   ],
+   "sources": [
+    {
+     "label": "Source — The Venomous Abyss Race to World First: Livestreams and Coverage (Wowhead)",
+     "url": "https://www.wowhead.com/news/the-venomous-abyss-race-to-world-first-livestreams-coverage-and-news-382351?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — Race to World First Day 0 Recap: Comp Predictions and Gearing (Wowhead)",
+     "url": "https://www.wowhead.com/news/venomous-abyss-race-to-world-first-day-0-recap-raid-comp-predictions-gearing-382504?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — Race to World First Day 1 Recap: A Tough Start (Wowhead)",
+     "url": "https://www.wowhead.com/news/venomous-abyss-race-to-world-first-day-1-recap-a-tough-start-382521?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — Race to World First Day 2 Recap: No Mythic Bosses Down Yet (Wowhead)",
+     "url": "https://www.wowhead.com/news/venomous-abyss-race-to-world-first-day-2-recap-no-mythic-bosses-down-yet-382540?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — Race to World First Day 4 Recap: Mythic Begins, Ula'tek Killed (Wowhead)",
+     "url": "https://www.wowhead.com/news/venomous-abyss-race-to-world-first-day-4-recap-mythic-begins-ulatek-killed-and-382569?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — World First Nek'zali the Soulcoiler by Consequence (Wowhead)",
+     "url": "https://www.wowhead.com/news/world-first-nekzali-the-soulcoiler-by-consequence-382493?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — World First Mythic Lost Explorers by xD (Wowhead)",
+     "url": "https://www.wowhead.com/news/world-first-mythic-lost-explorers-by-xd-382496?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Coiled Altar Massively Nerfed",
+   "tab": "",
+   "category": "News",
+   "synopsis": "The Coiled Altar was badly out of line — a harder fight on Normal than Normal Ula'tek — and a hotfix has cut its hidden health buffs down by more than half.",
+   "points": [
+    {
+     "text": "The problem is a pair of hidden modifiers called [DNT] Increase Max Health that kick in when the encounter reaches the Intermission at the end of Phase 2 and hand the bosses a big pile of extra health. The hotfix pulls roughly ninety-five to a hundred percentage points off each of them on every difficulty. That matters more than the raw health number makes it look, because Ghastly Regeneration heals off a percentage of max health — smaller pools mean less healing, so the final phase should move a lot faster now.",
+     "sub": ""
+    },
+    {
+     "text": "The actual numbers:",
+     "sub": ""
+    },
+    {
+     "text": "Malacrass health bonus: Normal is now 38% (was 133%), Heroic is now 87% (was 180%), Mythic is now 35% (was 135%).",
+     "sub": ""
+    },
+    {
+     "text": "Zul'jan health bonus: Normal is now 120% (was 220%), Heroic is now 155% (was 246%), Mythic is now 160% (was 260%).",
+     "sub": ""
+    },
+    {
+     "text": "What that means for you: if you bounced off this one in a pug earlier in the week, it's a genuinely different fight now and it's worth going back in.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "A boss on Normal being harder than the last boss on Normal — is that a tuning miss, or just what happens when a raid gets tested by geared guilds first?",
+    "Do nerfs this big this early bother you, or would you rather they fix it fast and move on?"
+   ],
+   "sources": [
+    {
+     "label": "Source — Coiled Altar Massively Nerfed: Venomous Abyss Raid Tuning Hotfixes (Wowhead)",
+     "url": "https://www.wowhead.com/news/coiled-altar-massively-nerfed-venomous-abyss-raid-tuning-hotfixes-382517?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Week One Gearing: Rings, Crests, Sparks, and a PvP Chain",
+   "tab": "",
+   "category": "News",
+   "synopsis": "There's a real pile of easy gear sitting in the first week of Season 2, and one Spark bug that might be quietly eating yours.",
+   "points": [
+    {
+     "text": "Worth doing this week:",
+     "sub": ""
+    },
+    {
+     "text": "A Champion-track ring from the campaign: Chapter 5 of The Curse of Ula'tek sends you into the raid on any difficulty, and turning it in gets you a choice between Ula'tek's Bind and Gore Rattler Coil at item level 292, plus 10 Champion Mistcrests and 1500 Zul'jarra's Forces reputation. Story Mode isn't up until the week of August 25th on NA — Seh'ka the Sturdy is the NPC who'll queue you in, standing outside the raid entrance near the summoning stone.",
+     "sub": ""
+    },
+    {
+     "text": "20 Hero and 20 Myth Mistcrests that don't count against your cap: loot the Cracked Keystone from the end chests of a Tier 11 Delve, then complete any Mythic+ dungeon at +2 or higher. That's the whole quest. If you don't have a keystone, Lindormi in Silvermoon City will hand you one.",
+     "sub": ""
+    },
+    {
+     "text": "Hero-track jewelry from a three-week PvP chain: Week 1 of 3: Gladiator's Distinction has to be done in training grounds matches with PvP trinkets equipped, and the quest gives you the trinkets to do it with. Three weeks in you pick a Hero-track neck or ring. It stacks with A Call to Battle for extra conquest, and training ground matches are pretty hard to lose.",
+     "sub": ""
+    },
+    {
+     "text": "Start the bonus roll questline now: bonus rolls aren't available outside the Great Vault until Week 8, but In the Catalyst's Shadow from Decimus in the Voidstorm starts the chain, and the follow-up Prismatic Potential wants 10 quest items off Season 2 content. Pick it up before you grind, not after.",
+     "sub": ""
+    },
+    {
+     "text": "The one to watch out for is Sparks. After last week's mess, Blizzard's fix was to let everybody get four this week — and now there are reports across the forums and Discord that the fix itself is bugged. Affected characters get two Spark of Tides, and then the Tidal Spark Dust currency that tracks your count jumps straight to four and cuts you off. So if you're planning a craft around having four of them, check your actual Spark count before you commit to anything.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Two weeks in a row of Spark problems now. At what point does the catch-up system need a rethink instead of another hotfix?",
+    "Of everything on that list, what's actually worth your limited playtime in week one — the uncapped crests, or the ring?"
+   ],
+   "sources": [
+    {
+     "label": "Source — Earn a Champion-Track Ring from The Venomous Abyss Campaign Quest (Wowhead)",
+     "url": "https://www.wowhead.com/news/earn-a-champion-track-ring-from-the-venomous-abyss-campaign-quest-382518?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — Cracked Keystone Quest Rewards 20 Uncapped Myth and Hero Mistcrests (Wowhead)",
+     "url": "https://www.wowhead.com/news/cracked-keystone-quest-rewards-20-uncapped-myth-and-hero-mistcrests-382534?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — Earn Hero-Track Jewelry from Three Week PvP Quest Chain (Wowhead)",
+     "url": "https://www.wowhead.com/news/earn-hero-track-jewelry-from-three-week-pvp-quest-chain-382526?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — Start the Season 2 Bonus Roll Questline This Week (Wowhead)",
+     "url": "https://www.wowhead.com/news/start-the-season-2-bonus-roll-questline-this-week-382515?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — Players Reporting Being Unable to Get 4 Sparks This Week (Wowhead)",
+     "url": "https://www.wowhead.com/news/players-reporting-being-unable-to-get-4-sparks-this-week-382524?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Nightmare Prey, and a Permanent Portal to the Coiled Isle",
+   "tab": "",
+   "category": "News",
+   "synopsis": "The Prey intro questline hands you a permanent portal to the Coiled Isle, and it sits right on top of a guaranteed piece of Hero-track Delve loot.",
+   "points": [
+    {
+     "text": "It's a long flight out to the Coiled Isle, so this one is worth knocking out early. Prey: A Slithering Threat asks you to kill any of the new Prey targets on Nightmare — and it does not have to be on the Coiled Isle, so you can knock it out alongside A Nightmarish Task. From there the main chain starts with Prey: Anguish Island, introduces you to Ral'kala, and unlocks a portal inside Astalor's Sanctum in Silvermoon.",
+     "sub": ""
+    },
+    {
+     "text": "While you're in there:",
+     "sub": ""
+    },
+    {
+     "text": "A Nightmarish Task, from Astalor Bloodsworn in Silvermoon City: three Prey Hunts on Nightmare, which is open to everybody immediately. Pays out 20 Remnant of Anguish, 500 Voidlight Marl, 20 Hero Mistcrest, and a Scalebound Herald's Flute.",
+     "sub": ""
+    },
+    {
+     "text": "The flute is the good part: take it into a Delve, get down to the Empowered Restoration Stone — you can't use it before that — and it summons Azta'rec. Killing him drops a guaranteed Trovehunter's Bounty, which turns your next Tier 8 Delve into Hero-track loot.",
+     "sub": ""
+    },
+    {
+     "text": "Nightmare hunts also drop Coffer Key Shards: more keys means more Tier 8 Bountiful Delves, which is the cheapest Champion-track gear going at the start of a season.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "A portal as a questline reward instead of just being there on day one — good design, or should the zone have just had one?",
+    "Are Delves still where you'd send someone who's starting the season behind on gear?"
+   ],
+   "sources": [
+    {
+     "label": "Source — Prey Questline Provides Permanent Portal to the Coiled Isle (Wowhead)",
+     "url": "https://www.wowhead.com/news/prey-questline-provides-permanent-portal-to-the-coiled-isle-382509?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — Nightmare Prey Now Available: Earn a Guaranteed Trovehunter's Bounty Map (Wowhead)",
+     "url": "https://www.wowhead.com/news/nightmare-prey-now-available-earn-a-guaranteed-trovehunters-bounty-map-382513?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Corrosive Souls Across Your Alts, and a Toy That Keeps Score",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Corrosive Souls are earnable per character, and that's the difference between filling out the Corrosive Codex this season and grinding at it for eleven weeks on one character.",
+   "points": [
+    {
+     "text": "The Corrosive Codex sits at the Altar of Corrosion inside the Vaults of Atal'Utek, and it trades Corrosive Souls for Corrosive Gifts — passive power boosts for open-world content and Delves. A Gift costs eight Souls, and there are six guaranteed Souls per level 90 character: two from the Purging the Vaults weekly, three from the first weekly kill of the lair boss Nymrissa Wavecaller, and one from the first weekly kill of the Ancient Foe in the Vaults. Rares on the Coiled Isle can drop them too, but at around a 5% chance you don't want to be planning around that. The number that matters is eight different Gifts, because that's when you can equip two at once — and eight Gifts is 64 Souls, which is roughly eleven weeks if you're only running one character.",
+     "sub": ""
+    },
+    {
+     "text": "Separately, the Corrosive Victory toy has a hidden perk that last season's version didn't have. Anyone can get the toy — it's the reward at the end of the seasonal nemesis questline, the quest is Fangs for the Memories, and it's available at any point in the season. But if you earn Fabled Let Me Solo Him: Azta'rec during this first week of Season 2, the toy records your Hall of Fame rank and displays it to everyone, every single time you use it. It's not a power thing at all, just a permanent receipt for having done it before the weekly reset closed the window.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Eleven weeks on a single character to fill out the Codex — is spreading it across alts a nice option, or is it really the only option?",
+    "Does a rank displayed on a toy actually make you want to chase a solo achievement, or is that only motivating if you were already going to do it?"
+   ],
+   "sources": [
+    {
+     "label": "Source — Get 6 Extra Corrosive Souls Per 90 Character (Wowhead)",
+     "url": "https://www.wowhead.com/news/get-6-extra-corrosive-souls-per-90-character-unlock-extra-power-for-delve-boss-382477?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — Corrosive Victory Toy Displays Delve Hall of Fame Rank for Everyone (Wowhead)",
+     "url": "https://www.wowhead.com/news/corrosive-victory-toy-displays-delve-hall-of-fame-rank-for-everyone-382556?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "A Rough Week for Evokers, and a World Quest That Slowed Your Camera",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Evokers are disconnecting every few minutes and Blizzard has pinned it on Battle Visage, and a Coiled Isle world quest has been quietly wrecking people's turn speed.",
+   "points": [
+    {
+     "text": "The disconnects are the serious one — players reporting getting dropped to the login screen every five to ten minutes on an Evoker and not at all on their other characters. Blizzard has confirmed through private channels that it's Battle Visage related, and the pattern is pretty specific: Visage is active, and you disconnect on Hover, on Deep Breath or its landing, occasionally on glide, and sometimes when casting Hover during Disintegrate. It isn't addons and it isn't your CVars, so you don't need to reset your UI. The Evoker Discord's advice until there's a fix is to disable Battle Visage in your spell book and live in dragon form. There's also a second, funnier one where Disintegrate beams just persist — two, three, or more of them hanging off you until the target despawns or you get about 500 yards away.",
+     "sub": ""
+    },
+    {
+     "text": "The other one is sneaky enough to be worth explaining. The Swift of Foot world quest on the Coiled Isle puts you into a vehicle version of your character and sets your TurnSpeed CVar to 65, and it doesn't set it back when you leave. It doesn't even take effect until you fully restart the client, so you log in some other day and your character just feels sluggish for no reason you can trace. Blizzard hotfixed the quest, but at least one player reports still being stuck with it, which suggests the fix stopped it happening without restoring anybody's setting. If that's you, run /run SetCVar(\"TurnSpeed\", 180), or edit the Turn Speed value in Config.WTF from 65.0 back to 180.0.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Being told to turn off Battle Visage — that's a cosmetic a lot of Evokers rolled the class for. How long is that an acceptable workaround?",
+    "Have either of you ever had one of these silent CVar bugs and just assumed it was your hardware or your connection?"
+   ],
+   "sources": [
+    {
+     "label": "Source — Evokers Are Having Disconnect and Disintegrate Bugs (Wowhead)",
+     "url": "https://www.wowhead.com/news/evokers-are-having-disconnect-and-disintegrate-bugs-382562?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — Coiled Isle World Quest Causing Reduced Turning Speed Hotfixed (Wowhead)",
+     "url": "https://www.wowhead.com/news/coiled-isle-world-quest-causing-reduced-turning-speed-hotfixed-382546?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Jimothy Isn't Actually in the Game",
+   "tab": "",
+   "category": "News",
+   "synopsis": "The secret finders spent a week hunting for Jimothy, and Blizzard has now confirmed he isn't in the game at all.",
+   "points": [
+    {
+     "text": "Jimothy got datamined on the Patch 12.1 PTR and was teased as a secret in an interview with Paul Kubit and Rachel Vought, where they couldn't say much about him. The Pet Journal entry for J'imothy says he got into a spot of trouble digging through magical garbage in Silvermoon, which was enough of a breadcrumb that the Secret Finding Discord went looking. A week of searching turned up nothing, and then one of the mods pinned a message saying they'd received private confirmation from Blizzard that Jimothy is not currently available in the game. No word on when he will be — the guess is either with the launch of Season 2 or sometime later on.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Datamining a secret and then having Blizzard confirm it isn't in yet — does that spoil the hunt, or is that just how secret finding works now?",
+    "Is there a secret you've actually gone out and chased yourself, or do you wait for the Discord to solve it?"
+   ],
+   "sources": [
+    {
+     "label": "Source — Jimothy Not Currently Available in Game According to Secret Finding Discord (Wowhead)",
+     "url": "https://www.wowhead.com/news/jimothy-not-currently-available-in-game-according-to-secret-finding-discord-382501?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "BlizzCon Legends, and a McDonald's Portable Bakery",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Blizzard has named the \"Legends\" coming to BlizzCon 2026, and IGN says a McDonald's promotion with Xbox is handing out a World of Warcraft reward.",
+   "points": [
+    {
+     "text": "BlizzCon 2026 — Anaheim, September 12th and 13th:",
+     "sub": ""
+    },
+    {
+     "text": "Announced in a tweet: Simu Liu, T-Pain, YOASOBI, LE SSERAFIM, deadmau5, Duke Dennis, and Khleo Thomas.",
+     "sub": ""
+    },
+    {
+     "text": "What \"Legends\" actually means: Blizzard hasn't spelled that out beyond the names, so we're reading the same list you are.",
+     "sub": ""
+    },
+    {
+     "text": "The other one is a promo. IGN reported that McDonald's is partnering with Xbox on in-game rewards for a handful of their games — Halo, Fallout, and World of Warcraft — and the WoW reward is the Red Hot Portable Bakery. How you actually get it hasn't been announced yet, so file this one under \"know it's coming\" rather than anything you can go do.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "A music and celebrity lineup announced before the game panels — is that BlizzCon leaning into being a festival, or just the easy announcement to make first?",
+    "Would you go buy a Happy Meal for a toy in WoW? Be honest."
+   ],
+   "sources": [
+    {
+     "label": "Source — Blizzard Reveals \"Legends\" for BlizzCon 2026: Simu Liu, deadmau5 and More (Wowhead)",
+     "url": "https://www.wowhead.com/news/blizzard-reveals-legends-for-blizzcon-2026-simu-liu-deadmau5-and-more-382543?utm_source=discord-webhook"
+    },
+    {
+     "label": "Source — World of Warcraft Reward from McDonalds x Xbox Promotion According to IGN (Wowhead)",
+     "url": "https://www.wowhead.com/news/world-of-warcraft-reward-from-mcdonalds-x-xbox-promotion-according-to-ign-382482?utm_source=discord-webhook"
+    }
+   ],
+   "media": []
+  }
+ ]
+}

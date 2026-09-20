@@ -1,0 +1,156 @@
+{
+ "episode": "023",
+ "date": "2026-07-11",
+ "subtitle": "",
+ "source": "legacy-html",
+ "intro": {
+  "heads_up": "",
+  "rundown": []
+ },
+ "items": [
+  {
+   "title": "Patch 12.1 PTR: New Housing Exteriors & Artisanal Room Interiors",
+   "tab": "",
+   "category": "News",
+   "synopsis": "This week's 12.1 PTR datamine turned up two mystery house exteriors and sixteen premade \"artisanal\" room interiors for Player Housing — and full visual previews of the rooms are now out.",
+   "points": [
+    {
+     "text": "Two new exterior options appear in the housing editor, though selecting either one currently swallows your entire plot in a giant pink cube. Blizzard confirmed these will be earnable in-game, not shop items. Notably, they're listed under house type alongside the racial options — separate from the large houses unlocking at Housing Level 12 — which points to entirely new exterior designs.",
+     "sub": ""
+    },
+    {
+     "text": "The artisanal rooms:",
+     "sub": ""
+    },
+    {
+     "text": "Sixteen rooms, four styles: Bel'ameth, Orgrimmar, Silvermoon, and Stormwind themes — bedrooms, armories, theaters, a grand hall, even a Stormwind kitchen",
+     "sub": ""
+    },
+    {
+     "text": "What they are: premade room templates, empty of decor but ornamented to match their theme — less manual wall-and-floor work to get a style going",
+     "sub": ""
+    },
+    {
+     "text": "How to get them: sold by the neighborhood General Contractors and smuggler \"Fen\" Rucket for ~50 Community Coupons each; contractors sell their own faction's styles, the smuggler sells the opposite faction's",
+     "sub": ""
+    },
+    {
+     "text": "Not testable yet: everything here is datamined — none of it is live on the PTR",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Premade rooms are aimed at people intimidated by decorating from scratch — does this actually get either of you to touch housing, or is it still a raid-night casualty?",
+    "One commenter quit decorating entirely because better rooms keep dropping a patch later. Is the slow drip of housing content keeping the feature alive, or punishing the people who invested early?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — New Housing Exteriors and Artisanal Room Interiors Discovered on the Patch 12.1 PTR",
+     "url": "https://www.wowhead.com/news/new-housing-exteriors-and-artisanal-room-interiors-discovered-on-the-patch-12-1-382123"
+    },
+    {
+     "label": "Wowhead — Patch 12.1 Datamined Artisanal Interior Room Previews for Player Housing",
+     "url": "https://www.wowhead.com/news/patch-12-1-artisanal-interior-room-previews-for-player-housing-382143"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Vote in the Addon Trials Finals by CurseForge",
+   "tab": "",
+   "category": "News",
+   "synopsis": "CurseForge's Addon Trials contest is down to ten finalists, and the community vote decides the final standings — winners are announced July 15, so voting closes fast.",
+   "points": [
+    {
+     "text": "A panel of CurseForge judges picked the ten based on originality, user experience, and design. The community now ranks them via a drag-and-drop form, and that ranking determines who takes first through tenth place prizes. Notably, the contest rules explicitly allowed AI-assisted \"vibecoded\" addons, and the comment section is at war over it.",
+     "sub": ""
+    },
+    {
+     "text": "Finalist highlights:",
+     "sub": ""
+    },
+    {
+     "text": "Coolinator: a far more customizable Cooldown Manager with drag-and-drop layouts",
+     "sub": ""
+    },
+    {
+     "text": "Danders Frames: fully custom party/raid frames with an Aura Designer and built-in click casting",
+     "sub": ""
+    },
+    {
+     "text": "EasyFind: a command bar that searches everything — settings, mounts, transmog, housing decor",
+     "sub": ""
+    },
+    {
+     "text": "Housing Decor Guide: full housing catalogue with 3D previews and a blueprint canvas for room planning",
+     "sub": ""
+    },
+    {
+     "text": "W2UI / EllesmereUI: two full UI overhauls, one styled after Bastion",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Several finalists are openly AI-assisted, and the rules allowed it — if the addon is genuinely good, does vibecoding matter? Would you install one?",
+    "Which of these ten actually earns a slot in your raid UI — and what's the one dead addon you'd resurrect over any of them?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Vote in The Addon Trials Community Contest Finals by Curseforge",
+     "url": "https://www.wowhead.com/news/vote-in-the-addon-trials-community-contest-finals-by-curseforge-382136"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "WoW Portal Room Q&A with Ion Hazzikostas Next Friday",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Blizzard is hosting a Q&A with Game Director Ion Hazzikostas next Friday, July 17, at 11:00 AM Pacific in the WoW Portal Room Discord.",
+   "points": [
+    {
+     "text": "Questions won't be collected in the Portal Room itself — they have to come through Blizzard's partnered community Discords, each using its own submission format. As a Portal Room Ambassador, Wowhead is gathering questions in the #ion-interview-questions channel of its Discord and will submit the best of them.",
+     "sub": ""
+    },
+    {
+     "text": "Blizzard's own disclaimer: with questions pouring in from many communities, the vast majority won't be answered. This lands mid-12.1 PTR cycle, with class changes, Midnight Season 2 loot, and housing all live topics — so there's plenty on the table if the right questions get through.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "If you could guarantee Ion answers exactly one question from you, what are you asking?",
+    "The Discord-only submission format filters the drive-by rage, but it also lets Blizzard curate the hard questions away — is this real community engagement or PR theater?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — WoW Portal Room Q&A with Ion Hazzikostas Next Friday",
+     "url": "https://www.wowhead.com/news/wow-portal-room-q-a-with-ion-hazzikostas-next-friday-382142"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Physics Support Comes to Wowhead's Model Viewer",
+   "tab": "",
+   "category": "News",
+   "synopsis": "Wowhead's Model Viewer now simulates in-game physics — the first site ever to pull it off — so Lor'themar's ponytail finally obeys gravity.",
+   "points": [
+    {
+     "text": "The upgrade is live across the site's database pages via the View in 3D button, covering cloth and hair physics on NPCs, items, and armor. A Wowhead dev in the comments says the simulation costs about 1% of a single CPU core, with a WebGPU refactor of the whole viewer planned in the next 6–12 months. The team also teased that more site features are on the way.",
+     "sub": ""
+    }
+   ],
+   "questions": [
+    "Be honest — how much time do you actually sink into the model viewer and dressing room playing dress-up between pulls?",
+    "Wowhead keeps out-engineering everyone on tooling — what's the next fan-site or addon-ecosystem upgrade you'd actually want?"
+   ],
+   "sources": [
+    {
+     "label": "Wowhead — Physics Support Now Enabled in Wowhead's Model Viewer",
+     "url": "https://www.wowhead.com/news/physics-support-now-enabled-in-wowheads-model-viewer-382125"
+    }
+   ],
+   "media": []
+  }
+ ]
+}
