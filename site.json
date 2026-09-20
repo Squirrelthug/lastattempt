@@ -31,22 +31,17 @@
     {
       "key": "instagram",
       "label": "Instagram",
-      "url": "https://www.instagram.com/the_last.attempt/"
+      "url": "https://www.instagram.com/lastattemptpod/"
     },
     {
       "key": "x",
       "label": "X",
-      "url": ""
+      "url": "https://x.com/LastAttemptPod"
     },
     {
       "key": "tiktok",
       "label": "TikTok",
-      "url": ""
-    },
-    {
-      "key": "bluesky",
-      "label": "Bluesky",
-      "url": ""
+      "url": "https://www.tiktok.com/@lastattemptpod"
     }
   ],
   "nav": [

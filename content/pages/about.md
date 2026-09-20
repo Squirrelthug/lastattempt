@@ -38,7 +38,7 @@ Last Attempt is not one guild. The host raids with Second Attempt, and the show'
 - **Articles:** published here, with an [RSS feed](/feed.xml).
 - **Episode pages:** show notes, segment breakdowns, and audio for every episode in the [archive](/episodes/).
 - **Guilds:** the [Guild Spotlight](/guilds/).
-- **Elsewhere:** [YouTube](https://www.youtube.com/@LastAttemptPod), [Discord](https://discord.gg/7hrBH5G7Hf), [Twitch](https://www.twitch.tv/squirrelthug_), [Instagram](https://www.instagram.com/the_last.attempt/).
+- **Elsewhere:** [YouTube](https://www.youtube.com/@LastAttemptPod), [Discord](https://discord.gg/7hrBH5G7Hf), [Twitch](https://www.twitch.tv/squirrelthug_), [Instagram](https://www.instagram.com/lastattemptpod/), [X](https://x.com/LastAttemptPod), [TikTok](https://www.tiktok.com/@lastattemptpod).
 
 ## Independence
 
