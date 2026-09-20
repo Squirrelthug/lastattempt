@@ -1,0 +1,121 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div>
+      <span class="eyebrow">Warcraft media · Podcast · Commentary</span>
+      <h1>Warcraft, discussed by <span>people who actually play it.</span></h1>
+      <p class="lede">{{ site.name }} is a weekly World of Warcraft guildcast and a home for written commentary on Retail, WoW Forever, and the community around both — from a guild that raids, pushes keys, and reads every patch note.</p>
+      <div class="btn-row">
+        <a class="btn btn-primary" href="/listen/">Listen to the show</a>
+        <a class="btn" href="/articles/">Read the latest</a>
+      </div>
+      <div class="hero-stats">
+        <div><strong>{{ stats.episode_count }}</strong> episodes</div>
+        <div><strong>Weekly</strong> since {{ stats.first_episode_date|date('short') }}</div>
+        <div><strong>{{ site.guild }}</strong> the guild behind it</div>
+      </div>
+    </div>
+    <div class="hero-logo"><img src="/img/logo-full.png" alt="{{ site.name }} — A WoW Guildcast" width="360" height="495"></div>
+  </div>
+</section>
+
+<div class="wrap home-grid">
+  <div>
+    <section class="section" style="padding-top:0">
+      <div class="section-head"><h2>Articles</h2><a href="/articles/">All articles →</a></div>
+      {% if articles %}
+      <div class="article-list grid-2">
+        {% for a in articles %}
+        <article class="card article-card {% if loop.first %}featured{% endif %}">
+          {% if a.hero %}<a class="thumb" href="{{ a.url }}" style="background-image:url('{{ a.hero }}')" aria-hidden="true"></a>{% endif %}
+          <div class="body">
+            {% if a.tags %}<span class="eyebrow">{{ a.tags[0] }}</span>{% endif %}
+            <h3><a href="{{ a.url }}">{{ a.title }}</a></h3>
+            <p>{{ a.summary }}</p>
+            <div class="meta"><span>{{ a.author }}</span><span>{{ a.date|date('short') }}</span><span>{{ a.reading_time }} min read</span></div>
+          </div>
+        </article>
+        {% endfor %}
+      </div>
+      {% else %}
+      <div class="empty">The first {{ site.name }} articles — starting with BlizzCon 2026 — are on the way. Until then, the show below is where the discussion lives.</div>
+      {% endif %}
+    </section>
+
+    {% if latest_with_notes and latest_with_notes.notes.segments %}
+    <section class="section">
+      <div class="section-head">
+        <h2>On the latest show</h2>
+        <a href="{{ latest_with_notes.url }}">Episode {{ latest_with_notes.number }} →</a>
+      </div>
+      <div class="topic-grid">
+        {% for t in latest_with_notes.notes.segments[:6] %}
+        <article class="card topic">
+          <span class="eyebrow">{{ t.category }}</span>
+          <h3><a href="{{ latest_with_notes.url }}#{{ t.slug }}">{{ t.title }}</a></h3>
+          <p>{{ t.synopsis|excerpt(150) }}</p>
+        </article>
+        {% endfor %}
+      </div>
+    </section>
+    {% endif %}
+  </div>
+
+  <aside class="sidebar">
+    {% if latest %}
+    <section>
+      <div class="section-head"><h2>Latest episode</h2></div>
+      <article class="card episode-feature">
+        {% if show.image %}<img class="art" src="{{ show.image }}" alt="" width="300" height="300" loading="lazy">{% endif %}
+        <div>
+          <div class="meta"><span>Episode {{ latest.number }}</span>{% if latest.date %}<span>{{ latest.date|date('short') }}</span>{% endif %}{% if latest.duration %}<span>{{ latest.duration }}</span>{% endif %}</div>
+          <h3><a href="{{ latest.url }}">{{ latest.headline }}</a></h3>
+          {% if latest.audio_url %}
+          <audio class="audio" controls preload="none" src="{{ latest.audio_url }}"></audio>
+          {% else %}
+          <p><span class="pill pill-soon">Publishing soon</span></p>
+          {% endif %}
+          <p class="desc">{{ latest.summary|excerpt(180) }}</p>
+          <div class="btn-row">
+            <a class="btn" href="{{ latest.url }}">Show notes</a>
+            {% if latest.spotify_url %}<a class="btn" href="{{ latest.spotify_url }}" rel="noopener">Spotify</a>{% endif %}
+          </div>
+        </div>
+      </article>
+    </section>
+    {% endif %}
+
+    <section>
+      <div class="section-head"><h2>Where to listen</h2></div>
+      <div class="listen-links">
+        <a href="{{ site.spotify_show_url }}" rel="noopener">Spotify <small>Follow</small></a>
+        <a href="{{ site.apple_url }}" rel="noopener">Apple Podcasts <small>Subscribe</small></a>
+        {% for s in site.socials if s.key == 'youtube' %}<a href="{{ s.url }}" rel="noopener">YouTube <small>Watch</small></a>{% endfor %}
+        <a href="{{ site.feed_url }}">RSS <small>Any app</small></a>
+      </div>
+    </section>
+
+    {% if recent %}
+    <section>
+      <div class="section-head"><h2>Recent episodes</h2><a href="/episodes/">Archive →</a></div>
+      <ul class="episode-rows">
+        {% for e in recent %}
+        <li>
+          <span class="num">{{ e.number }}</span>
+          <div><a href="{{ e.url }}">{{ e.headline }}</a><span class="meta"><span>{{ e.date|date('short') }}</span><span>{{ e.duration }}</span></span></div>
+        </li>
+        {% endfor %}
+      </ul>
+    </section>
+    {% endif %}
+
+    {% if site.socials %}
+    <section>
+      <div class="section-head"><h2>Follow</h2></div>
+      <ul class="chips">{% for s in site.socials %}<li><a href="{{ s.url }}" rel="me noopener">{{ s.label }}</a></li>{% endfor %}</ul>
+    </section>
+    {% endif %}
+  </aside>
+</div>
+{% endblock %}

@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% set title = article.title %}
+{% set description = article.summary %}
+{% set og_type = "article" %}
+{% set image = (site.url ~ article.hero) if article.hero else None %}
+{% block head %}
+<meta property="article:published_time" content="{{ article.date|date('iso') }}">
+<meta property="article:author" content="{{ article.author }}">
+{% for t in article.tags %}<meta property="article:tag" content="{{ t }}">{% endfor %}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Article","headline":{{ article.title|tojson }},"datePublished":"{{ article.date|date('iso') }}","author":{"@type":"Person","name":{{ article.author|tojson }}},"publisher":{"@type":"Organization","name":"{{ site.name }}","logo":{"@type":"ImageObject","url":"{{ site.url }}/img/logo-mark.png"}},{% if article.hero %}"image":"{{ site.url }}{{ article.hero }}",{% endif %}"description":{{ article.summary|tojson }},"mainEntityOfPage":"{{ site.url }}{{ article.url }}"}
+</script>
+{% endblock %}
+{% block content %}
+<article>
+  <div class="wrap">
+    <header class="article-header">
+      {% if article.tags %}<span class="eyebrow">{{ article.tags|join(' · ') }}</span>{% endif %}
+      <h1>{{ article.title }}</h1>
+      {% if article.summary %}<p class="standfirst">{{ article.summary }}</p>{% endif %}
+      <div class="meta"><span>By {{ article.author }}</span><span>{{ article.date|date }}</span><span>{{ article.reading_time }} min read</span>{% if article.draft %}<span class="pill pill-soon">Draft</span>{% endif %}</div>
+    </header>
+    {% if article.hero %}
+    <figure class="article-hero">
+      <img src="{{ article.hero }}" alt="{{ article.hero_alt }}" width="1600" height="900">
+      {% if article.hero_credit %}<figcaption>{{ article.hero_credit }}</figcaption>{% endif %}
+    </figure>
+    {% endif %}
+    <div class="prose">
+      {{ article.body_html|safe }}
+    </div>
+    <footer class="article-footer">
+      <div class="author-box">
+        <img src="/img/logo-mark.png" alt="">
+        <p><strong>{{ article.author }}</strong> hosts the {{ site.show_name }}. Corrections and disagreements are welcome — <a href="/contact/">get in touch</a>.</p>
+      </div>
+    </footer>
+  </div>
+</article>
+{% endblock %}

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="{{ site.language }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{% set page_title = (title ~ ' — ' ~ site.name) if title else (site.name ~ ' — ' ~ site.tagline) %}
+{% set page_desc = description or site.description %}
+{% set page_image = image or (site.url ~ '/img/og-default.png') %}
+<title>{{ page_title }}</title>
+<meta name="description" content="{{ page_desc }}">
+<link rel="canonical" href="{{ site.url }}{{ path }}">
+<meta property="og:site_name" content="{{ site.name }}">
+<meta property="og:type" content="{{ og_type or 'website' }}">
+<meta property="og:title" content="{{ title or site.name }}">
+<meta property="og:description" content="{{ page_desc }}">
+<meta property="og:url" content="{{ site.url }}{{ path }}">
+<meta property="og:image" content="{{ page_image }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ title or site.name }}">
+<meta name="twitter:description" content="{{ page_desc }}">
+<meta name="twitter:image" content="{{ page_image }}">
+<meta name="theme-color" content="#0c0a0f">
+<link rel="icon" href="/img/favicon.ico" sizes="any">
+<link rel="icon" href="/img/favicon.png" type="image/png">
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<link rel="alternate" type="application/rss+xml" title="{{ site.name }} — Articles" href="/feed.xml">
+<link rel="alternate" type="application/rss+xml" title="{{ site.show_name }} — Podcast" href="{{ site.feed_url }}">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/site.css">
+{% block head %}{% endblock %}
+</head>
+<body class="{{ body_class or '' }}">
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="/" aria-label="{{ site.name }} home">
+      <img src="/img/logo-mark.png" alt="" width="44" height="44">
+      <span class="brand-text"><span class="brand-name">Last Attempt</span><span class="brand-sub">Warcraft media</span></span>
+    </a>
+    <button class="nav-toggle" aria-expanded="false" aria-controls="nav" onclick="var n=document.getElementById('nav');var o=n.classList.toggle('open');this.setAttribute('aria-expanded',o)">Menu</button>
+    <nav id="nav" class="nav" aria-label="Primary">
+      {% for item in site.nav %}
+      <a href="{{ item.href }}" {% if path.startswith(item.href) %}aria-current="page"{% endif %}>{{ item.label }}</a>
+      {% endfor %}
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+{% block content %}{% endblock %}
+</main>
+
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div class="footer-brand">
+      <img src="/img/logo-mark.png" alt="" width="56" height="56">
+      <p><strong>{{ site.name }}</strong><br>{{ site.tagline }}</p>
+    </div>
+    <div>
+      <h4>Listen</h4>
+      <ul>
+        <li><a href="{{ site.spotify_show_url }}" rel="noopener">Spotify</a></li>
+        <li><a href="{{ site.apple_url }}" rel="noopener">Apple Podcasts</a></li>
+        <li><a href="{{ site.feed_url }}">Podcast RSS</a></li>
+        <li><a href="/feed.xml">Articles RSS</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Follow</h4>
+      <ul>
+        {% for s in site.socials %}<li><a href="{{ s.url }}" rel="me noopener">{{ s.label }}</a></li>{% endfor %}
+      </ul>
+    </div>
+    <div>
+      <h4>Site</h4>
+      <ul>
+        <li><a href="/about/">About</a></li>
+        <li><a href="/cast/">Cast</a></li>
+        <li><a href="/press/">Press kit</a></li>
+        <li><a href="/contact/">Contact</a></li>
+        <li><a href="/legal/">Legal &amp; privacy</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="wrap footer-legal">
+    <p>&copy; {{ now.year }} {{ site.name }}. World of Warcraft, Warcraft, and Blizzard Entertainment are trademarks or registered trademarks of Blizzard Entertainment, Inc. in the U.S. and/or other countries. {{ site.name }} is an independent fan-made project and is not affiliated with or endorsed by Blizzard Entertainment.</p>
+  </div>
+</footer>
+{% if site.analytics_token %}
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ site.analytics_token }}"}'></script>
+{% endif %}
+</body>
+</html>

@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+{% set title = "Articles" %}
+{% set description = "Commentary on Retail World of Warcraft, WoW Forever, and the Warcraft community from Last Attempt." %}
+{% block content %}
+<div class="wrap">
+  <header class="page-head">
+    <span class="eyebrow">Commentary</span>
+    <h1>Articles</h1>
+    <p class="lede">Confirmed information, our own reaction, what the community is saying, and what nobody knows yet — kept separate on purpose.</p>
+  </header>
+  <section class="section" style="padding-top:.5rem">
+    {% if articles %}
+    <div class="article-list grid-2">
+      {% for a in articles %}
+      <article class="card article-card {% if loop.first %}featured{% endif %}">
+        {% if a.hero %}<a class="thumb" href="{{ a.url }}" style="background-image:url('{{ a.hero }}')" aria-hidden="true"></a>{% endif %}
+        <div class="body">
+          {% if a.tags %}<span class="eyebrow">{{ a.tags|join(' · ') }}</span>{% endif %}
+          <h3><a href="{{ a.url }}">{{ a.title }}</a></h3>
+          <p>{{ a.summary }}</p>
+          <div class="meta"><span>{{ a.author }}</span><span>{{ a.date|date('short') }}</span><span>{{ a.reading_time }} min read</span></div>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+    {% else %}
+    <div class="empty">Nothing published yet. The BlizzCon 2026 series is first up.</div>
+    {% endif %}
+  </section>
+</div>
+{% endblock %}

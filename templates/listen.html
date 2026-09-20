@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+{% set title = "Listen" %}
+{% set description = "Where to listen to the " ~ site.show_name ~ ": Spotify, Apple Podcasts, RSS, and more." %}
+{% block content %}
+<div class="wrap">
+  <header class="page-head">
+    <span class="eyebrow">{{ site.show_name }}</span>
+    <h1>Listen</h1>
+    <p class="lede">New episodes weekly. The show is hosted on Spotify and distributed everywhere podcasts are — pick your app.</p>
+  </header>
+  <div class="two-col">
+    <div>
+      <iframe class="spotify-embed tall" src="https://open.spotify.com/embed/show/{{ site.spotify_show_id }}?utm_source=generator&theme=0" title="{{ site.show_name }} on Spotify" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+      <section class="section">
+        <div class="section-head"><h2>About the show</h2></div>
+        <div class="description">{{ show.description.replace('\n\n', '</p><p>')|safe if show.description else '' }}</div>
+      </section>
+    </div>
+    <aside class="sidebar">
+      <section>
+        <div class="section-head"><h2>Apps</h2></div>
+        <div class="listen-links">
+          <a href="{{ site.spotify_show_url }}" rel="noopener">Spotify <small>Follow</small></a>
+          <a href="{{ site.apple_url }}" rel="noopener">Apple Podcasts <small>Subscribe</small></a>
+          {% for s in site.socials if s.key == 'youtube' %}<a href="{{ s.url }}" rel="noopener">YouTube <small>Watch</small></a>{% endfor %}
+          <a href="{{ site.feed_url }}">RSS feed <small>Paste into any app</small></a>
+        </div>
+      </section>
+      {% if latest %}
+      <section>
+        <div class="section-head"><h2>Latest</h2></div>
+        <ul class="episode-rows"><li><span class="num">{{ latest.number }}</span><div><a href="{{ latest.url }}">{{ latest.headline }}</a><span class="meta"><span>{{ latest.date|date('short') }}</span></span></div></li></ul>
+        <p><a href="/episodes/">Full archive →</a></p>
+      </section>
+      {% endif %}
+    </aside>
+  </div>
+</div>
+{% endblock %}
