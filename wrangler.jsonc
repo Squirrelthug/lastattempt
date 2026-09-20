@@ -1,0 +1,11 @@
+{
+  // Used only if Cloudflare builds this as a Worker with static assets.
+  // The Pages flow ignores this file and uses the dashboard build settings instead.
+  "name": "lastattempt",
+  "compatibility_date": "2026-09-01",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "404-page",
+    "html_handling": "auto-trailing-slash"
+  }
+}

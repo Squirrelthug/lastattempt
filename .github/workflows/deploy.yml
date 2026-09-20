@@ -1,22 +1,20 @@
-name: Build and deploy
+name: Refresh feed data
+
+# Cloudflare builds and deploys the site itself on every push (Git integration).
+# This workflow only keeps the cached podcast feed and Raider.IO data fresh:
+# twice a day it rebuilds, and if the cached data changed it commits it, which
+# triggers a Cloudflare deploy. No Cloudflare secrets needed.
 
 on:
-  push:
-    branches: [main]
   schedule:
-    # Twice a day (UTC) so a new podcast episode shows up without a commit.
     - cron: "17 6,18 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: read
-
-concurrency:
-  group: deploy
-  cancel-in-progress: true
+  contents: write
 
 jobs:
-  deploy:
+  refresh:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -24,11 +22,16 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install -r requirements.txt
-      - name: Build site (fetches the podcast feed)
+      - name: Rebuild (fetches feed + Raider.IO)
         run: python build.py
-      - name: Deploy to Cloudflare Pages
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy dist --project-name=lastattempt --branch=main --commit-dirty=true
+      - name: Commit refreshed data if it changed
+        run: |
+          git config user.name "lastattempt-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "Refresh feed and guild data"
+            git push
+          fi
