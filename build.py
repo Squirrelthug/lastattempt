@@ -183,7 +183,7 @@ def parse_feed(xml_text: str, site: dict) -> tuple[dict, dict[str, dict]]:
         enc = it.find("enclosure")
         pub = it.findtext("pubDate")
         date = email.utils.parsedate_to_datetime(pub) if pub else None
-        desc = it.findtext("description") or it.findtext("itunes:summary", "", NS) or ""
+        desc = clean_description_html(it.findtext("description") or it.findtext("itunes:summary", "", NS) or "")
         episodes[num] = {
             "number": num,
             "feed_title": title,
@@ -201,6 +201,18 @@ def parse_feed(xml_text: str, site: dict) -> tuple[dict, dict[str, dict]]:
 
 
 # ---------------------------------------------------------------- content
+
+def clean_description_html(desc: str) -> str:
+    """Repair links in Spotify descriptions: strip invisible joiners glued onto URLs and add a
+    scheme to bare domains, which would otherwise resolve relative to our own site."""
+    def fix(m):
+        href = re.sub(r"[\u2060-\u2069\u200b\ufeff]", "", m.group(1)).strip()
+        if href and not re.match(r"^(https?:|mailto:|#|/)", href, re.I):
+            href = "https://" + href
+        return f'<a href="{href}" rel="noopener"'
+    desc = re.sub(r'<a\s+href="([^"]*)"', fix, desc or "")
+    return re.sub(r"[\u2060-\u2069\u200b\ufeff]", "", desc)
+
 
 def feed_topics(description_html: str) -> list[str]:
     """Pull the bullet list under "Topics:" out of a Spotify episode description.
