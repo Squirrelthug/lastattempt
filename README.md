@@ -36,7 +36,7 @@ Preview: `cd dist && python -m http.server 8471` → http://127.0.0.1:8471/
 
 1. Record and publish the episode as usual (Spotify is the source of truth for audio).
 2. `python tools/import_notes.py NNN` — pulls `notes_NNN.json` into `content/episodes/`.
-3. Commit + push. The workflow builds and deploys. The feed is also re-fetched twice a day on a
+3. Commit + push. Cloudflare builds and deploys. The feed is also re-fetched twice a day on a
    schedule, so an episode published to Spotify appears on the site without a commit.
 
 ## Writing an article
@@ -77,23 +77,20 @@ screenshots; never another site's captures.
 
 ## Deploying
 
-### First time / manual (fastest way to be online)
+The site is a Cloudflare **Worker with static assets**, built from this repo by Cloudflare's Git
+integration (project `lastattempt`, account Squirrelthug). Every push to `main` triggers a build:
 
-1. `python build.py`
-2. Cloudflare dashboard → Workers & Pages → Create → Pages → **Upload assets** → project name
-   `lastattempt` → drag the *contents* of `dist/` in.
-3. Custom domains → add `lastattempt.net` (and `www`, redirected).
+- Build command: `pip install -r requirements.txt && python build.py`
+- Deploy command: `npx wrangler deploy` (reads `wrangler.jsonc`, which serves `dist/`)
+- Build variable: `PYTHON_VERSION=3.12`
+- Domains: `lastattempt.net`, `www.lastattempt.net` (Worker → Domains tab)
+- Fallback URL: https://lastattempt.squirrelthug.workers.dev
 
-### Automatic (GitHub Actions → Cloudflare Pages)
+No API tokens live in GitHub. `.github/workflows/deploy.yml` only runs on a schedule (twice a day):
+it rebuilds, and if the cached podcast feed or Raider.IO data changed it commits `data/`, which in
+turn triggers a Cloudflare build. `gh workflow run deploy.yml` forces a refresh.
 
-The workflow in `.github/workflows/deploy.yml` builds on every push to `main`, and on a schedule.
-It needs two repository secrets:
-
-- `CLOUDFLARE_ACCOUNT_ID` — dashboard → Workers & Pages → right sidebar "Account ID".
-- `CLOUDFLARE_API_TOKEN` — dashboard → My Profile → API Tokens → Create Token → template
-  "Edit Cloudflare Workers" (or custom: Account · Cloudflare Pages · Edit). Copy it once.
-
-The Pages project must already exist (create it via the manual upload above, name `lastattempt`).
+Build logs: Cloudflare dashboard → Workers & Pages → lastattempt → Deployments.
 
 ## Site config to fill in
 
