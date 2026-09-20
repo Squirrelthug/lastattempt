@@ -27,7 +27,7 @@
     {
       "name": "Daddy",
       "role": "guest",
-      "title": "Recurring guest",
+      "title": "Recurring guest · DPS / Heal, Second Attempt",
       "bio": "",
       "links": [
         {
@@ -35,6 +35,13 @@
           "url": "https://x.com/sheWARCRAFT"
         }
       ]
+    },
+    {
+      "name": "Kyressa",
+      "role": "guest",
+      "title": "Recurring guest · RPer, Fish Enthusiast, Druid expert",
+      "bio": "",
+      "links": []
     },
     {
       "name": "Syles",
