@@ -58,6 +58,10 @@
       "href": "/guilds/"
     },
     {
+      "label": "Cast",
+      "href": "/cast/"
+    },
+    {
       "label": "Listen",
       "href": "/listen/"
     },
