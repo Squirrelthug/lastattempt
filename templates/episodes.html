@@ -18,7 +18,27 @@
           {% if not e.published %} <span class="pill pill-soon">Publishing soon</span>{% endif %}
           <span class="meta">{% if e.date %}<span>{{ e.date|date('short') }}</span>{% endif %}{% if e.duration %}<span>{{ e.duration }}</span>{% endif %}</span>
           {% if e.summary %}<p class="summary">{{ e.summary|excerpt(200) }}</p>{% endif %}
-          {% if e.topics %}<ul class="chips">{% for t in e.topics[:6] %}<li>{{ t }}</li>{% endfor %}</ul>{% endif %}
+          {% if e.topics %}
+          <ul class="topic-list">
+            {% for t in e.topics %}
+            <li>
+              {% if t.synopsis or t.points %}
+              <details>
+                <summary>{{ t.title }}</summary>
+                <div class="topic-body">
+                  {% if t.category %}<span class="eyebrow">{{ t.category }}</span>{% endif %}
+                  {% if t.synopsis %}<p>{{ t.synopsis }}</p>{% endif %}
+                  {% if t.points %}<ul>{% for p in t.points %}<li>{{ p.text }}{% if p.sub %}<small>{{ p.sub }}</small>{% endif %}</li>{% endfor %}</ul>{% endif %}
+                  <a href="{{ e.url }}#{{ t.slug }}">Open in the episode →</a>
+                </div>
+              </details>
+              {% else %}
+              <span class="topic-title">{{ t.title }}</span>
+              {% endif %}
+            </li>
+            {% endfor %}
+          </ul>
+          {% endif %}
         </div>
       </li>
       {% endfor %}
