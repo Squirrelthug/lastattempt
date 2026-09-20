@@ -142,13 +142,13 @@ blockquote { margin: 1.5rem 0; padding: .5rem 0 .5rem 1.25rem; border-left: 3px 
 @media (min-width: 560px) and (max-width: 959px) { .episode-feature { grid-template-columns: 180px 1fr; } }
 .audio { width: 100%; margin: .75rem 0; filter: invert(.92) hue-rotate(180deg) saturate(.6); border-radius: 999px; }
 .episode-rows { list-style: none; margin: 0; padding: 0; }
-.episode-rows li { display: grid; grid-template-columns: 3.2rem 1fr; gap: .8rem; padding: .8rem 0; border-top: 1px solid var(--line); align-items: start; }
-.episode-rows li:first-child { border-top: 0; }
+.episode-rows > li { display: grid; grid-template-columns: 3.2rem 1fr; gap: .8rem; padding: .8rem 0; border-top: 1px solid var(--line); align-items: start; }
+.episode-rows > li:first-child { border-top: 0; }
 .episode-rows .num { font-family: var(--font-display); color: var(--gold); font-weight: 700; font-size: 1.05rem; padding-top: .1rem; }
 .episode-rows a { color: var(--text); font-weight: 500; }
 .episode-rows a:hover { color: var(--gold-2); text-decoration: none; }
 .episode-rows .meta { display: block; margin-top: .15rem; }
-.episode-archive .episode-rows li { grid-template-columns: 3.5rem 1fr; padding: 1.1rem 0; }
+.episode-archive .episode-rows > li { grid-template-columns: 3.5rem 1fr; padding: 1.1rem 0; }
 .episode-archive .summary { color: var(--text-2); font-size: .95rem; margin: .35rem 0 .5rem; }
 
 /* ---------- topics from the show */
@@ -299,3 +299,21 @@ blockquote { margin: 1.5rem 0; padding: .5rem 0 .5rem 1.25rem; border-left: 3px 
 .bar.mythic i::before { background: var(--ember); }
 .bar b { font-weight: 500; text-align: right; color: var(--text-2); }
 .prog-ranks { margin-top: .6rem; }
+
+/* ---------- archive topic lists */
+.topic-list { list-style: none; margin: .6rem 0 0; padding: 0; border-top: 1px solid var(--line); font-size: .92rem; }
+.topic-list > li { border-bottom: 1px solid var(--line); }
+.topic-list .topic-title, .topic-list summary { display: block; padding: .45rem 0 .45rem 1.1rem; color: var(--text-2); position: relative; }
+.topic-list .topic-title::before, .topic-list summary::before { content: "•"; position: absolute; left: .1rem; color: var(--gold-dim); }
+.topic-list summary { cursor: pointer; list-style: none; color: var(--text); }
+.topic-list summary::-webkit-details-marker { display: none; }
+.topic-list summary::before { content: "+"; color: var(--gold); font-weight: 600; }
+.topic-list details[open] summary::before { content: "–"; }
+.topic-list summary:hover { color: var(--gold-2); }
+.topic-body { padding: .2rem 0 .9rem 1.1rem; color: var(--text-2); }
+.topic-body .eyebrow { margin-bottom: .2rem; }
+.topic-body p { margin: 0 0 .5rem; }
+.topic-body ul { margin: 0 0 .6rem; padding-left: 1.1rem; }
+.topic-body li + li { margin-top: .25rem; }
+.topic-body li small { display: block; color: var(--muted); }
+.topic-body a { font-size: .85rem; }

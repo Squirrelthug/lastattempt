@@ -201,6 +201,27 @@ def parse_feed(xml_text: str, site: dict) -> tuple[dict, dict[str, dict]]:
 
 # ---------------------------------------------------------------- content
 
+def feed_topics(description_html: str) -> list[str]:
+    """Pull the bullet list under "Topics:" out of a Spotify episode description.
+
+    Descriptions vary: sometimes one <p> per bullet, sometimes every bullet jammed into one
+    paragraph with the ___ separator inline. Working on stripped text handles both.
+    """
+    text = re.sub(r"</p>|<br\s*/?>", "\n", description_html or "", flags=re.I)
+    text = html.unescape(re.sub(r"<[^>]+>", "", text))
+    m = re.search(r"Topics:\s*(.*?)(?:_{3,}|If you.re looking for|Raid schedule|$)", text, flags=re.S)
+    if not m:
+        return []
+    parts = re.split(r"[•\u2022\n]+|\s[-–—]\s(?=[A-Z0-9])", m.group(1))
+    out = []
+    for t in parts:
+        t = re.sub(r"[⁦-⁩​]", "", t)
+        t = re.sub(r"\s+", " ", t).strip(" -–—•:")
+        if len(t) > 2 and not t.lower().startswith("topics"):
+            out.append(t)
+    return out
+
+
 def load_notes() -> dict[str, dict]:
     notes: dict[str, dict] = {}
     for p in sorted((CONTENT / "episodes").glob("notes_*.json")):
@@ -255,13 +276,14 @@ def merge_episodes(feed_eps: dict[str, dict], notes: dict[str, dict]) -> list[di
         }
         if not ep["summary"] and nt and nt["rundown"]:
             ep["summary"] = "This week: " + "; ".join(nt["rundown"][:3]) + "."
-        # Topic chips: notes items if we have them, else the "Topics:" list Spotify descriptions carry.
-        topics = [it["title"] for it in nt["segments"]] if nt else []
-        if not topics and f:
-            m = re.search(r"Topics:(.*?)(?:<p>_{3,}|$)", f["description_html"], flags=re.S)
-            if m:
-                topics = [t for t in (strip_tags(x) for x in re.split(r"</p>", m.group(1))) if t and t not in ("Topics:",)]
-                topics = [re.sub(r"^[•\-–—]\s*", "", t) for t in topics]
+        # Topic list for the archive: full segments if we have notes, else the bare
+        # "Topics:" titles Spotify descriptions carry (no detail to expand).
+        if nt:
+            topics = [{"title": it["title"], "synopsis": it["synopsis"], "points": it["points"],
+                       "category": it["category"], "slug": it["slug"]} for it in nt["segments"]]
+        else:
+            topics = [{"title": t, "synopsis": "", "points": [], "category": "", "slug": slugify(t)}
+                      for t in (feed_topics(f["description_html"]) if f else [])]
         ep["topics"] = topics
         out.append(ep)
     return out
