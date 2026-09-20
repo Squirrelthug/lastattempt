@@ -5,7 +5,7 @@
     <div>
       <span class="eyebrow">Warcraft media · Podcast · Commentary</span>
       <h1>Warcraft, discussed by <span>people who actually play it.</span></h1>
-      <p class="lede">{{ site.name }} is a weekly World of Warcraft guildcast and a home for written commentary on Retail, WoW Forever, and the community around both — from a guild that raids, pushes keys, and reads every patch note.</p>
+      <p class="lede">{{ site.name }} is a weekly World of Warcraft guildcast, written commentary on Retail and WoW Forever, and a community that makes room for guilds — run by people who raid, push keys, and read every patch note.</p>
       <div class="btn-row">
         <a class="btn btn-primary" href="/listen/">Listen to the show</a>
         <a class="btn" href="/articles/">Read the latest</a>
@@ -13,7 +13,7 @@
       <div class="hero-stats">
         <div><strong>{{ stats.episode_count }}</strong> episodes</div>
         <div><strong>Weekly</strong> since {{ stats.first_episode_date|date('short') }}</div>
-        <div><strong>{{ site.guild }}</strong> the guild behind it</div>
+        <div><strong>{{ stats.guild_count }}</strong> <a href="/guilds/">guild spotlights</a></div>
       </div>
     </div>
     <div class="hero-logo"><img src="/img/logo-full.png" alt="{{ site.name }} — A WoW Guildcast" width="360" height="495"></div>
@@ -95,6 +95,17 @@
         <a href="{{ site.feed_url }}">RSS <small>Any app</small></a>
       </div>
     </section>
+
+    {% if guilds %}
+    <section>
+      <div class="section-head"><h2>Guild spotlight</h2><a href="/guilds/">All →</a></div>
+      <ul class="episode-rows">
+        {% for g in guilds[:4] %}
+        <li><span class="num" style="font-size:.8rem;padding-top:.3rem">{{ g.faction[:1] }}</span><div><a href="{{ g.url }}">{{ g.name }}</a><span class="meta"><span>{{ g.realm }}</span>{% if g.current %}<span>{{ g.current.name|truncate(22, true, '…') }} {{ g.current.summary }}</span>{% endif %}</span></div></li>
+        {% endfor %}
+      </ul>
+    </section>
+    {% endif %}
 
     {% if recent %}
     <section>

@@ -1,0 +1,79 @@
+{% extends "base.html" %}
+{% set title = guild.name ~ " — Guild Spotlight" %}
+{% set description = guild.summary %}
+{% block content %}
+<div class="wrap">
+  <header class="page-head">
+    <span class="eyebrow">Guild Spotlight · {{ guild.badge }}</span>
+    <h1>{{ guild.name }}</h1>
+    <div class="meta" style="margin-bottom:.75rem"><span>{{ guild.faction }}</span><span>{{ guild.realm }} ({{ guild.region|upper }})</span>{% if guild.member_count %}<span>{{ guild.member_count }} characters</span>{% endif %}</div>
+    <p class="lede">{{ guild.summary }}</p>
+  </header>
+
+  <div class="two-col">
+    <div>
+      <section class="section" style="padding-top:0">
+        <div class="section-head"><h2>Raid progression</h2>{% if guild.crawled %}<span class="meta">Raider.IO · updated {{ guild.crawled|date('short') }}</span>{% endif %}</div>
+        {% if guild.progression %}
+        <div class="prog-table">
+          {% for r in guild.progression %}
+          <div class="prog {% if loop.first %}current{% endif %}">
+            <div class="prog-top">
+              <span class="prog-name">{{ r.name }}{% if loop.first %} <span class="pill pill-live">Current</span>{% endif %}</span>
+              <span class="prog-summary {{ r.difficulty }}">{{ r.summary }}</span>
+            </div>
+            <div class="prog-bars">
+              <div class="bar"><span>N</span><i style="--p:{{ (r.normal / r.total * 100)|round if r.total else 0 }}%"></i><b>{{ r.normal }}/{{ r.total }}</b></div>
+              <div class="bar heroic"><span>H</span><i style="--p:{{ (r.heroic / r.total * 100)|round if r.total else 0 }}%"></i><b>{{ r.heroic }}/{{ r.total }}</b></div>
+              <div class="bar mythic"><span>M</span><i style="--p:{{ (r.mythic / r.total * 100)|round if r.total else 0 }}%"></i><b>{{ r.mythic }}/{{ r.total }}</b></div>
+            </div>
+            {% if r.world %}<div class="meta prog-ranks"><span>{{ r.difficulty|capitalize }} rank</span><span>World {{ "{:,}".format(r.world) }}</span><span>{{ guild.region|upper }} {{ "{:,}".format(r.region_rank) }}</span><span>Realm {{ r.realm_rank }}</span></div>{% endif %}
+          </div>
+          {% endfor %}
+        </div>
+        {% else %}
+        <p class="description">Progression data isn't available for this guild yet.</p>
+        {% endif %}
+      </section>
+
+      <section class="section prose" style="max-width:none">
+        {{ guild.body_html|safe }}
+      </section>
+
+      {% if guild.sources %}
+      <p class="meta" style="margin-top:1rem">Sources: {{ guild.sources }}. Progression and roster figures come from Raider.IO's public API and refresh with every site build; everything else is from the guild's own public posts.</p>
+      {% endif %}
+    </div>
+
+    <aside class="sidebar">
+      {% if guild.raid_schedule or guild.recruiting %}
+      <section>
+        <div class="section-head"><h2>Raiding</h2></div>
+        <ul class="facts">
+          {% if guild.raid_schedule %}<li><span>Schedule</span><span>{{ guild.raid_schedule }}</span></li>{% endif %}
+          {% if guild.recruiting %}<li><span>Recruiting</span><span>{{ guild.recruiting }}</span></li>{% endif %}
+          {% if guild.apply %}<li><span>Apply</span><span><a href="{{ guild.apply }}" rel="noopener">{{ guild.apply.replace('https://','') }}</a></span></li>{% endif %}
+        </ul>
+      </section>
+      {% endif %}
+      {% if guild.links %}
+      <section>
+        <div class="section-head"><h2>Find them</h2></div>
+        <div class="listen-links">
+          {% for l in guild.links %}<a href="{{ l.url }}" rel="noopener">{{ l.label }} <small>{{ l.url.replace('https://','').replace('http://','').replace('www.','')|truncate(34, true, '…') }}</small></a>{% endfor %}
+        </div>
+      </section>
+      {% endif %}
+      <section>
+        <div class="section-head"><h2>Other guilds</h2></div>
+        <ul class="episode-rows">
+          {% for g in guilds if g.slug != guild.slug %}
+          <li><span class="num" style="font-size:.8rem;padding-top:.3rem">{{ g.faction[:1] }}</span><div><a href="{{ g.url }}">{{ g.name }}</a><span class="meta"><span>{{ g.realm }}</span>{% if g.current %}<span>{{ g.current.summary }}</span>{% endif %}</span></div></li>
+          {% endfor %}
+        </ul>
+        <p style="margin-top:.75rem"><a href="/guilds/">All spotlights →</a></p>
+      </section>
+    </aside>
+  </div>
+</div>
+{% endblock %}
