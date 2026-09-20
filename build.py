@@ -212,7 +212,7 @@ def feed_topics(description_html: str) -> list[str]:
     m = re.search(r"Topics:\s*(.*?)(?:_{3,}|If you.re looking for|Raid schedule|$)", text, flags=re.S)
     if not m:
         return []
-    parts = re.split(r"[•\u2022\n]+|\s[-–—]\s(?=[A-Z0-9])", m.group(1))
+    parts = re.split(r"[•\u2022\n]+", m.group(1))
     out = []
     for t in parts:
         t = re.sub(r"[⁦-⁩​]", "", t)
