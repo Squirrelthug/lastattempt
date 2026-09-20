@@ -327,3 +327,13 @@ blockquote { margin: 1.5rem 0; padding: .5rem 0 .5rem 1.25rem; border-left: 3px 
 .sources { margin: .6rem 0 0; font-size: .8rem; color: var(--muted); }
 .sources a { color: var(--text-2); }
 .sources a:hover { color: var(--gold-2); }
+
+/* ---------- home: latest-show card */
+.show-card { padding: 1.4rem 1.6rem 1.5rem; }
+.show-card h3 { font-size: 1.45rem; margin: .3rem 0 .8rem; }
+.show-card h3 a { color: var(--text); }
+.show-card h3 a:hover { color: var(--gold-2); text-decoration: none; }
+.show-card .heads-up { color: var(--text-2); font-size: .95rem; padding: .6rem .9rem; border-left: 3px solid var(--gold-dim); background: var(--surface-2); border-radius: 0 6px 6px 0; }
+.show-card .show-lede { color: var(--text-2); margin-bottom: .5rem; }
+.rundown-list { margin: 0 0 1.1rem; padding-left: 1.3rem; color: var(--text-2); }
+.rundown-list li + li { margin-top: .3rem; }

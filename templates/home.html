@@ -43,21 +43,27 @@
       {% endif %}
     </section>
 
-    {% if latest_with_notes and latest_with_notes.notes.segments %}
+    {% if latest %}
     <section class="section">
       <div class="section-head">
         <h2>On the latest show</h2>
-        <a href="{{ latest_with_notes.url }}">Episode {{ latest_with_notes.number }} →</a>
+        <a href="/episodes/">All episodes →</a>
       </div>
-      <div class="topic-grid">
-        {% for t in latest_with_notes.notes.segments[:6] %}
-        <article class="card topic">
-          <span class="eyebrow">{{ t.category }}</span>
-          <h3><a href="{{ latest_with_notes.url }}#{{ t.slug }}">{{ t.title }}</a></h3>
-          <p>{{ t.synopsis|excerpt(150) }}</p>
-        </article>
-        {% endfor %}
-      </div>
+      <article class="card show-card">
+        <div class="meta"><span>Episode {{ latest.number }}</span>{% if latest.date %}<span>{{ latest.date|date('short') }}</span>{% endif %}{% if latest.duration %}<span>{{ latest.duration }}</span>{% endif %}</div>
+        <h3><a href="{{ latest.url }}">{{ latest.headline }}</a></h3>
+        {% if latest.notes and latest.notes.heads_up %}<p class="heads-up">{{ latest.notes.heads_up }}</p>{% endif %}
+        {% if latest.notes and latest.notes.rundown %}
+        <p class="show-lede">This week:</p>
+        <ol class="rundown-list">{% for r in latest.notes.rundown %}<li>{{ r }}</li>{% endfor %}</ol>
+        {% elif latest.summary %}
+        <p class="show-lede">{{ latest.summary }}</p>
+        {% endif %}
+        <div class="btn-row">
+          <a class="btn btn-primary" href="{{ latest.url }}">Show notes</a>
+          {% if latest.spotify_url %}<a class="btn" href="{{ latest.spotify_url }}" rel="noopener">Listen on Spotify</a>{% endif %}
+        </div>
+      </article>
     </section>
     {% endif %}
   </div>
