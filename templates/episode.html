@@ -22,6 +22,7 @@
         {% if episode.spotify_url %}<a class="btn btn-primary" href="{{ episode.spotify_url }}" rel="noopener">Listen on Spotify</a>{% endif %}
         <a class="btn" href="{{ site.apple_url }}" rel="noopener">Apple Podcasts</a>
         {% for s in site.socials if s.key == 'youtube' %}<a class="btn" href="{{ s.url }}" rel="noopener">YouTube</a>{% endfor %}
+        <a class="btn" href="{{ site.feed_url }}">RSS</a>
       </div>
     </div>
   </header>
@@ -43,7 +44,7 @@
           {% for it in episode.notes.segments %}
           <details id="{{ it.slug }}" {% if loop.first %}open{% endif %}>
             <summary>
-              <span class="eyebrow">{{ it.category }}</span>
+              <span class="eyebrow">Episode Topic {{ loop.index }}{% if it.category and it.category not in ("News", "Preview") %} · {{ it.category }}{% endif %}</span>
               <h3>{{ it.title }}</h3>
               <p>{{ it.synopsis }}</p>
             </summary>
@@ -72,14 +73,6 @@
     </div>
 
     <aside class="sidebar">
-      <section>
-        <div class="section-head"><h2>Where to listen</h2></div>
-        <div class="listen-links">
-          <a href="{{ site.spotify_show_url }}" rel="noopener">Spotify <small>Follow the show</small></a>
-          <a href="{{ site.apple_url }}" rel="noopener">Apple Podcasts <small>Subscribe</small></a>
-          <a href="{{ site.feed_url }}">RSS <small>Any podcast app</small></a>
-        </div>
-      </section>
       <section>
         <div class="section-head"><h2>About the show</h2></div>
         <p class="description">{{ show.description|excerpt(260) }}</p>
