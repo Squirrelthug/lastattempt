@@ -65,8 +65,8 @@
     "realm": 3
    },
    "heroic": {
-    "world": 7851,
-    "region": 2494,
+    "world": 7874,
+    "region": 2495,
     "realm": 16
    },
    "mythic": {
@@ -4821,7 +4821,7 @@
     "achievement_points": 26095,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-09-18T06:31:16.000Z",
+    "last_crawled_at": "2026-09-20T19:16:24.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Gealtachta",
     "profile_banner": "alliancebanner18"
    }

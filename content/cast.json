@@ -6,7 +6,10 @@
       "title": "Host · Founder",
       "bio": "Started in Wrath of the Lich King, has been on every launch since, and hasn't missed a month since Shadowlands. Raids and pushes keys with Second Attempt, plays most of the roster as alts, and writes WoW addons on the side. Runs the show, the site, the Last Attempt community, and the pipeline behind all of it.",
       "links": [
-        {"label": "Twitch", "url": "https://www.twitch.tv/squirrelthug_"}
+        {
+          "label": "Twitch",
+          "url": "https://www.twitch.tv/squirrelthug_"
+        }
       ]
     },
     {
@@ -15,32 +18,23 @@
       "title": "Co-host",
       "bio": "Guildmate and the show's most frequent second chair. Raid-night perspective, patch-note skeptic, and the reason at least one segment a week runs long.",
       "links": [
-        {"label": "thehumandistraction.com", "url": "https://thehumandistraction.com"}
+        {
+          "label": "thehumandistraction.com",
+          "url": "https://thehumandistraction.com"
+        }
       ]
-    },
-    {
-      "name": "Shakatan",
-      "role": "cohost",
-      "title": "Co-host",
-      "bio": "Recurring co-host and guildmate. Streams under Shakatan and makes music as Diggyspiff.",
-      "links": [
-        {"label": "Twitch", "url": "https://www.twitch.tv/shakatan_360"},
-        {"label": "SoundCloud", "url": "https://soundcloud.com/diggyspiff"}
-      ]
-    },
-    {
-      "name": "Cane",
-      "role": "guest",
-      "title": "Recurring guest",
-      "bio": "",
-      "links": [{"label": "Twitch", "url": "https://www.twitch.tv/kaynadian1337"}]
     },
     {
       "name": "Daddy",
       "role": "guest",
       "title": "Recurring guest",
       "bio": "",
-      "links": [{"label": "X", "url": "https://x.com/sheWARCRAFT"}]
+      "links": [
+        {
+          "label": "X",
+          "url": "https://x.com/sheWARCRAFT"
+        }
+      ]
     },
     {
       "name": "Syles",

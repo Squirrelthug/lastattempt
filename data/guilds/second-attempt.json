@@ -65,7 +65,7 @@
     "realm": 58
    },
    "heroic": {
-    "world": 8414,
+    "world": 8433,
     "region": 2764,
     "realm": 108
    },
@@ -1175,14 +1175,14 @@
     "name": "Heavenss",
     "race": "Night Elf",
     "class": "Priest",
-    "active_spec_name": "Shadow",
-    "active_spec_role": "DPS",
+    "active_spec_name": "Holy",
+    "active_spec_role": "HEALING",
     "gender": "female",
     "faction": "alliance",
     "achievement_points": 10795,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-08-12T04:30:47.000Z",
+    "last_crawled_at": "2026-09-20T19:16:18.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Heavenss",
     "profile_banner": "alliancebanner1"
    }
