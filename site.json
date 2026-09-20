@@ -8,30 +8,78 @@
   "author": "Squirrelthug",
   "contact_email": "hello@lastattempt.net",
   "press_email": "press@lastattempt.net",
-  "guild": "Second Attempt",
-
   "feed_url": "https://anchor.fm/s/10ee80918/podcast/rss",
   "spotify_show_id": "7DeyxVjwhWHW4K7UyLCiZT",
   "spotify_show_url": "https://open.spotify.com/show/7DeyxVjwhWHW4K7UyLCiZT",
   "apple_url": "https://podcasts.apple.com/us/podcast/last-attempt-a-world-of-warcraft-guildcast/id1876268344",
-
   "socials": [
-    {"key": "youtube", "label": "YouTube", "url": ""},
-    {"key": "twitch", "label": "Twitch", "url": "https://www.twitch.tv/squirrelthug_"},
-    {"key": "x", "label": "X", "url": ""},
-    {"key": "tiktok", "label": "TikTok", "url": ""},
-    {"key": "discord", "label": "Discord", "url": ""},
-    {"key": "bluesky", "label": "Bluesky", "url": ""}
+    {
+      "key": "youtube",
+      "label": "YouTube",
+      "url": "https://www.youtube.com/@LastAttemptPod"
+    },
+    {
+      "key": "discord",
+      "label": "Discord",
+      "url": "https://discord.gg/7hrBH5G7Hf"
+    },
+    {
+      "key": "twitch",
+      "label": "Twitch",
+      "url": "https://www.twitch.tv/squirrelthug_"
+    },
+    {
+      "key": "instagram",
+      "label": "Instagram",
+      "url": "https://www.instagram.com/the_last.attempt/"
+    },
+    {
+      "key": "x",
+      "label": "X",
+      "url": ""
+    },
+    {
+      "key": "tiktok",
+      "label": "TikTok",
+      "url": ""
+    },
+    {
+      "key": "bluesky",
+      "label": "Bluesky",
+      "url": ""
+    }
   ],
-
   "nav": [
-    {"label": "Articles", "href": "/articles/"},
-    {"label": "Episodes", "href": "/episodes/"},
-    {"label": "Listen", "href": "/listen/"},
-    {"label": "About", "href": "/about/"},
-    {"label": "Press", "href": "/press/"},
-    {"label": "Contact", "href": "/contact/"}
+    {
+      "label": "Articles",
+      "href": "/articles/"
+    },
+    {
+      "label": "Episodes",
+      "href": "/episodes/"
+    },
+    {
+      "label": "Guilds",
+      "href": "/guilds/"
+    },
+    {
+      "label": "Listen",
+      "href": "/listen/"
+    },
+    {
+      "label": "About",
+      "href": "/about/"
+    },
+    {
+      "label": "Press",
+      "href": "/press/"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact/"
+    }
   ],
-
-  "analytics_token": ""
+  "analytics_token": "",
+  "community_code": "5pRrZnqfXMl",
+  "github_repo": "https://github.com/Squirrelthug/lastattempt"
 }

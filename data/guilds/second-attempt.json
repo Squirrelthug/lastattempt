@@ -1,0 +1,4755 @@
+{
+ "name": "Second Attempt",
+ "displayName": null,
+ "faction": "alliance",
+ "region": "us",
+ "realm": "Sargeras",
+ "last_crawled_at": "2026-09-18T09:15:17.000Z",
+ "profile_url": "https://raider.io/guilds/us/sargeras/Second%20Attempt",
+ "raid_rankings": {
+  "tier-mn-1": {
+   "normal": {
+    "world": 4102,
+    "region": 2318,
+    "realm": 88
+   },
+   "heroic": {
+    "world": 5815,
+    "region": 2472,
+    "realm": 103
+   },
+   "mythic": {
+    "world": 4867,
+    "region": 1552,
+    "realm": 69
+   }
+  },
+  "sporefall": {
+   "normal": {
+    "world": 0,
+    "region": 0,
+    "realm": 0
+   },
+   "heroic": {
+    "world": 11726,
+    "region": 5044,
+    "realm": 157
+   },
+   "mythic": {
+    "world": 6186,
+    "region": 2047,
+    "realm": 82
+   }
+  },
+  "the-tidebound-grotto": {
+   "normal": {
+    "world": 0,
+    "region": 0,
+    "realm": 0
+   },
+   "heroic": {
+    "world": 7265,
+    "region": 2559,
+    "realm": 97
+   },
+   "mythic": {
+    "world": 0,
+    "region": 0,
+    "realm": 0
+   }
+  },
+  "the-venomous-abyss": {
+   "normal": {
+    "world": 2841,
+    "region": 1222,
+    "realm": 58
+   },
+   "heroic": {
+    "world": 8414,
+    "region": 2764,
+    "realm": 108
+   },
+   "mythic": {
+    "world": 0,
+    "region": 0,
+    "realm": 0
+   }
+  }
+ },
+ "raid_progression": {
+  "tier-mn-1": {
+   "summary": "5/9 M",
+   "total_bosses": 9,
+   "normal_bosses_killed": 9,
+   "heroic_bosses_killed": 9,
+   "mythic_bosses_killed": 5
+  },
+  "sporefall": {
+   "summary": "1/1 M",
+   "total_bosses": 1,
+   "normal_bosses_killed": 0,
+   "heroic_bosses_killed": 1,
+   "mythic_bosses_killed": 1
+  },
+  "the-tidebound-grotto": {
+   "summary": "1/1 H",
+   "total_bosses": 1,
+   "normal_bosses_killed": 0,
+   "heroic_bosses_killed": 1,
+   "mythic_bosses_killed": 0
+  },
+  "the-venomous-abyss": {
+   "summary": "6/8 H",
+   "total_bosses": 8,
+   "normal_bosses_killed": 8,
+   "heroic_bosses_killed": 6,
+   "mythic_bosses_killed": 0
+  }
+ },
+ "members": [
+  {
+   "rank": 7,
+   "character": {
+    "name": "Senfaria",
+    "race": "Draenei",
+    "class": "Paladin",
+    "active_spec_name": "Protection",
+    "active_spec_role": "TANK",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 15760,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-05-22T17:39:57.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Senfaria",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Chanaa",
+    "race": "Void Elf",
+    "class": "Warrior",
+    "active_spec_name": "Arms",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 16355,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-20T06:45:16.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Chanaa",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Dragonschild",
+    "race": "Draenei",
+    "class": "Shaman",
+    "active_spec_name": "Restoration",
+    "active_spec_role": "HEALING",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 26245,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-18T09:50:12.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Dragonschild",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 3,
+   "character": {
+    "name": "Zephyroz",
+    "race": "Night Elf",
+    "class": "Druid",
+    "active_spec_name": "Restoration",
+    "active_spec_role": "HEALING",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 17970,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2025-12-08T22:19:03.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Zephyroz",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 2,
+   "character": {
+    "name": "Ryapunch",
+    "race": "Human",
+    "class": "Monk",
+    "active_spec_name": "Windwalker",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 30295,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-07-30T04:57:36.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Ryapunch",
+    "profile_banner": "classbanner_monk1"
+   }
+  },
+  {
+   "rank": 2,
+   "character": {
+    "name": "Ryagas",
+    "race": "Night Elf",
+    "class": "Demon Hunter",
+    "active_spec_name": "Devourer",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 30980,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-20T05:39:34.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Ryagas",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 2,
+   "character": {
+    "name": "Ryagass",
+    "race": "Mechagnome",
+    "class": "Hunter",
+    "active_spec_name": "Beast Mastery",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 30980,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-14T08:10:26.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Ryagass",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Staticaster",
+    "race": "Void Elf",
+    "class": "Mage",
+    "active_spec_name": "Arcane",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 18665,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-07-19T08:40:28.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Staticaster",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 2,
+   "character": {
+    "name": "Ryagana",
+    "race": "Dark Iron Dwarf",
+    "class": "Shaman",
+    "active_spec_name": "Elemental",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 30980,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-14T08:10:26.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Ryagana",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Absin",
+    "race": "Night Elf",
+    "class": "Demon Hunter",
+    "active_spec_name": "Havoc",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 19075,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-14T05:51:21.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Absin",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 7,
+   "character": {
+    "name": "Coskong",
+    "race": "Night Elf",
+    "class": "Demon Hunter",
+    "active_spec_name": "Vengeance",
+    "active_spec_role": "TANK",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 21495,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-08-05T04:29:35.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Coskong",
+    "profile_banner": "classbanner_demon-hunter1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Ryadarka",
+    "race": "Draenei",
+    "class": "Death Knight",
+    "active_spec_name": "Frost",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 30850,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-08-01T23:37:46.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Ryadarka",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 7,
+   "character": {
+    "name": "Eulen",
+    "race": "Gnome",
+    "class": "Rogue",
+    "active_spec_name": "Assassination",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 19105,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2025-10-24T14:11:39.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Eulen",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 7,
+   "character": {
+    "name": "Neth",
+    "race": "Night Elf",
+    "class": "Demon Hunter",
+    "active_spec_name": "Devourer",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 15750,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-05-14T00:36:03.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Neth",
+    "profile_banner": "classbanner_demon-hunter1"
+   }
+  },
+  {
+   "rank": 7,
+   "character": {
+    "name": "Alkurt",
+    "race": "Night Elf",
+    "class": "Demon Hunter",
+    "active_spec_name": "Vengeance",
+    "active_spec_role": "TANK",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 16875,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-06-26T21:23:13.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Alkurt",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 0,
+   "character": {
+    "name": "Indofear",
+    "race": "Human",
+    "class": "Death Knight",
+    "active_spec_name": "Frost",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 21785,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-16T08:53:53.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Indofear",
+    "profile_banner": "classbanner_death-knight1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Mahlera",
+    "race": "Worgen",
+    "class": "Druid",
+    "active_spec_name": "Feral",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 20050,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-09T08:25:49.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Mahlera",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Boezoh",
+    "race": "Human",
+    "class": "Death Knight",
+    "active_spec_name": "Frost",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 11800,
+    "region": "us",
+    "realm": "Stormrage",
+    "last_crawled_at": "2025-10-24T14:19:06.000Z",
+    "profile_url": "https://raider.io/characters/us/stormrage/Boezoh",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Treegu\u00ff",
+    "race": "Troll",
+    "class": "Druid",
+    "active_spec_name": "Restoration",
+    "active_spec_role": "HEALING",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 17350,
+    "region": "us",
+    "realm": "Illidan",
+    "last_crawled_at": "2025-10-24T14:18:41.000Z",
+    "profile_url": "https://raider.io/characters/us/illidan/Treegu\u00ff",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 7,
+   "character": {
+    "name": "S\u00fdo",
+    "race": "Worgen",
+    "class": "Druid",
+    "active_spec_name": "Balance",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 16255,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2025-10-24T14:12:53.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/S\u00fdo",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 7,
+   "character": {
+    "name": "Pallby",
+    "race": "Human",
+    "class": "Paladin",
+    "active_spec_name": "Protection",
+    "active_spec_role": "TANK",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 14750,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-05-11T10:11:49.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Pallby",
+    "profile_banner": "classbanner_warrior1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Smaugg",
+    "race": "Night Elf",
+    "class": "Demon Hunter",
+    "active_spec_name": "Devourer",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 7090,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-06-01T06:10:54.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Smaugg",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Ryagax",
+    "race": "Kul Tiran",
+    "class": "Warrior",
+    "active_spec_name": "Arms",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 30980,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-16T12:07:55.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Ryagax",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 7,
+   "character": {
+    "name": "Coviideah",
+    "race": "Night Elf",
+    "class": "Demon Hunter",
+    "active_spec_name": "Havoc",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 2435,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2025-12-08T22:18:57.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Coviideah",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Ryalocke",
+    "race": "Void Elf",
+    "class": "Warlock",
+    "active_spec_name": "Demonology",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 30190,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-07-30T04:57:34.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Ryalocke",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 2,
+   "character": {
+    "name": "Konimii",
+    "race": "Night Elf",
+    "class": "Druid",
+    "active_spec_name": "Restoration",
+    "active_spec_role": "HEALING",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 18760,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-18T09:50:20.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Konimii",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 2,
+   "character": {
+    "name": "\u00dfraumeister",
+    "race": "Dark Iron Dwarf",
+    "class": "Monk",
+    "active_spec_name": "Mistweaver",
+    "active_spec_role": "HEALING",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 21385,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-05-30T22:22:36.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/\u00dfraumeister",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Nyll",
+    "race": "Void Elf",
+    "class": "Priest",
+    "active_spec_name": "Discipline",
+    "active_spec_role": "HEALING",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 20035,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-02-28T00:46:29.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Nyll",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Morningfrost",
+    "race": "Void Elf",
+    "class": "Death Knight",
+    "active_spec_name": "Frost",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 15685,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-05-14T00:36:07.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Morningfrost",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Shellbilly",
+    "race": "Worgen",
+    "class": "Hunter",
+    "active_spec_name": "Beast Mastery",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 29425,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-04-22T14:49:15.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Shellbilly",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Umilock",
+    "race": "Void Elf",
+    "class": "Warlock",
+    "active_spec_name": "Demonology",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 15780,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-08-05T04:29:35.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Umilock",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Aniren",
+    "race": "Void Elf",
+    "class": "Mage",
+    "active_spec_name": "Arcane",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 24275,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-08-23T12:01:25.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Aniren",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Magibilly",
+    "race": "Human",
+    "class": "Mage",
+    "active_spec_name": "Fire",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 26360,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2025-10-24T14:15:08.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Magibilly",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Baked",
+    "race": "Human",
+    "class": "Rogue",
+    "active_spec_name": "Outlaw",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 25280,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-04-22T14:49:20.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Baked",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Deathsdeal",
+    "race": "Void Elf",
+    "class": "Warlock",
+    "active_spec_name": "Demonology",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 16110,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-09T07:44:46.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Deathsdeal",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Ix\u00fbnn",
+    "race": "Troll",
+    "class": "Shaman",
+    "active_spec_name": "Elemental",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "horde",
+    "achievement_points": 11575,
+    "region": "us",
+    "realm": "Mal'Ganis",
+    "last_crawled_at": "2026-03-10T21:39:54.000Z",
+    "profile_url": "https://raider.io/characters/us/malganis/Ix\u00fbnn",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 7,
+   "character": {
+    "name": "Kazixs",
+    "race": "Dwarf",
+    "class": "Warlock",
+    "active_spec_name": "Demonology",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 14475,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-03-18T06:50:37.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Kazixs",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "D\u00ebkuscrub",
+    "race": "Night Elf",
+    "class": "Druid",
+    "active_spec_name": "Restoration",
+    "active_spec_role": "HEALING",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 13390,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-07-19T08:40:29.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/D\u00ebkuscrub",
+    "profile_banner": "covenantbanner_venthyr"
+   }
+  },
+  {
+   "rank": 7,
+   "character": {
+    "name": "Codependent",
+    "race": "Human",
+    "class": "Priest",
+    "active_spec_name": "Shadow",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 19235,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-06-02T19:16:45.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Codependent",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Provok\u00e8r",
+    "race": "Draenei",
+    "class": "Shaman",
+    "active_spec_name": "Enhancement",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 22775,
+    "region": "us",
+    "realm": "Eonar",
+    "last_crawled_at": "2026-07-19T08:40:29.000Z",
+    "profile_url": "https://raider.io/characters/us/eonar/Provok\u00e8r",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 7,
+   "character": {
+    "name": "Karox",
+    "race": "Human",
+    "class": "Priest",
+    "active_spec_name": "Shadow",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 9800,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2025-10-24T14:15:08.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Karox",
+    "profile_banner": "classbanner_priest1"
+   }
+  },
+  {
+   "rank": 7,
+   "character": {
+    "name": "Vulchur",
+    "race": "Human",
+    "class": "Warrior",
+    "active_spec_name": "Arms",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 9750,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2025-10-24T14:15:15.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Vulchur",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 2,
+   "character": {
+    "name": "S\u00f9per",
+    "race": "Human",
+    "class": "Paladin",
+    "active_spec_name": "Retribution",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 13760,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-01-28T05:48:49.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/S\u00f9per",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Palladyn",
+    "race": "Draenei",
+    "class": "Paladin",
+    "active_spec_name": "Retribution",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 11490,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-07-19T08:40:28.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Palladyn",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Nojessebolts",
+    "race": "Dwarf",
+    "class": "Warlock",
+    "active_spec_name": "Destruction",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 12075,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-01-28T05:48:49.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Nojessebolts",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 2,
+   "character": {
+    "name": "Igl\u00f3w",
+    "race": "Night Elf",
+    "class": "Demon Hunter",
+    "active_spec_name": "Vengeance",
+    "active_spec_role": "TANK",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 13760,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-01-28T05:48:49.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Igl\u00f3w",
+    "profile_banner": "classbanner_demon-hunter1"
+   }
+  },
+  {
+   "rank": 7,
+   "character": {
+    "name": "Brittykitty",
+    "race": "Tauren",
+    "class": "Druid",
+    "active_spec_name": "Balance",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "horde",
+    "achievement_points": 11145,
+    "region": "us",
+    "realm": "Mal'Ganis",
+    "last_crawled_at": "2026-07-19T08:40:30.000Z",
+    "profile_url": "https://raider.io/characters/us/malganis/Brittykitty",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 2,
+   "character": {
+    "name": "Ryablast",
+    "race": "Mechagnome",
+    "class": "Mage",
+    "active_spec_name": "Arcane",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 30980,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-16T12:08:34.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Ryablast",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Alegacybear",
+    "race": "Tauren",
+    "class": "Druid",
+    "active_spec_name": "Guardian",
+    "active_spec_role": "TANK",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 7110,
+    "region": "us",
+    "realm": "Illidan",
+    "last_crawled_at": "2026-09-18T09:51:11.000Z",
+    "profile_url": "https://raider.io/characters/us/illidan/Alegacybear",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Icetrap",
+    "race": "Void Elf",
+    "class": "Hunter",
+    "active_spec_name": "Marksmanship",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 32250,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-08-30T18:01:44.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Icetrap",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Darkarmel",
+    "race": "Night Elf",
+    "class": "Demon Hunter",
+    "active_spec_name": "Havoc",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 13540,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-02-20T05:43:08.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Darkarmel",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Kypdurran",
+    "race": "Worgen",
+    "class": "Death Knight",
+    "active_spec_name": "Blood",
+    "active_spec_role": "TANK",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 9125,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2025-10-24T14:12:19.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Kypdurran",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Dasham",
+    "race": "Pandaren",
+    "class": "Shaman",
+    "active_spec_name": "Restoration",
+    "active_spec_role": "HEALING",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 31835,
+    "region": "us",
+    "realm": "Hydraxis",
+    "last_crawled_at": "2026-04-16T12:26:16.000Z",
+    "profile_url": "https://raider.io/characters/us/hydraxis/Dasham",
+    "profile_banner": "alliancebanner12"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Brogdem",
+    "race": "Dwarf",
+    "class": "Hunter",
+    "active_spec_name": "Beast Mastery",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 8205,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-03-20T07:12:56.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Brogdem",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Dracania",
+    "race": "Draenei",
+    "class": "Shaman",
+    "active_spec_name": "Enhancement",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 22030,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-04-29T00:13:57.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Dracania",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Sinmir",
+    "race": "Dark Iron Dwarf",
+    "class": "Shaman",
+    "active_spec_name": "Elemental",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 9830,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2025-10-24T14:15:48.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Sinmir",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Ladex",
+    "race": "Dracthyr",
+    "class": "Evoker",
+    "active_spec_name": "Preservation",
+    "active_spec_role": "HEALING",
+    "gender": "female",
+    "faction": "horde",
+    "achievement_points": 13095,
+    "region": "us",
+    "realm": "Area 52",
+    "last_crawled_at": "2025-10-24T14:19:15.000Z",
+    "profile_url": "https://raider.io/characters/us/area-52/Ladex",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 1,
+   "character": {
+    "name": "Ryadraca",
+    "race": "Dracthyr",
+    "class": "Evoker",
+    "active_spec_name": "Devastation",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 30980,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-16T12:08:44.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Ryadraca",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Psyralbite",
+    "race": "Dracthyr",
+    "class": "Evoker",
+    "active_spec_name": "Devastation",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 26860,
+    "region": "us",
+    "realm": "Area 52",
+    "last_crawled_at": "2025-10-24T14:19:17.000Z",
+    "profile_url": "https://raider.io/characters/us/area-52/Psyralbite",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Heavenss",
+    "race": "Night Elf",
+    "class": "Priest",
+    "active_spec_name": "Shadow",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 10795,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-08-12T04:30:47.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Heavenss",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Justize",
+    "race": "Blood Elf",
+    "class": "Paladin",
+    "active_spec_name": "Holy",
+    "active_spec_role": "HEALING",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 19935,
+    "region": "us",
+    "realm": "Emerald Dream",
+    "last_crawled_at": "2026-09-18T09:50:23.000Z",
+    "profile_url": "https://raider.io/characters/us/emerald-dream/Justize",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Breakawayy",
+    "race": "Dracthyr",
+    "class": "Evoker",
+    "active_spec_name": "Augmentation",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 7285,
+    "region": "us",
+    "realm": "Illidan",
+    "last_crawled_at": "2025-10-24T14:19:07.000Z",
+    "profile_url": "https://raider.io/characters/us/illidan/Breakawayy",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Raffu",
+    "race": "Night Elf",
+    "class": "Warrior",
+    "active_spec_name": "Fury",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 17645,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-05-17T00:56:12.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Raffu",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Zaelthras",
+    "race": "Blood Elf",
+    "class": "Priest",
+    "active_spec_name": "Shadow",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 20635,
+    "region": "us",
+    "realm": "Zul'jin",
+    "last_crawled_at": "2026-03-30T22:02:06.000Z",
+    "profile_url": "https://raider.io/characters/us/zuljin/Zaelthras",
+    "profile_banner": "hordebanner21"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Fenixia",
+    "race": "Draenei",
+    "class": "Shaman",
+    "active_spec_name": "Restoration",
+    "active_spec_role": "HEALING",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 19070,
+    "region": "us",
+    "realm": "Korgath",
+    "last_crawled_at": "2026-09-16T12:07:13.000Z",
+    "profile_url": "https://raider.io/characters/us/korgath/Fenixia",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 7,
+   "character": {
+    "name": "Tangerineguy",
+    "race": "Worgen",
+    "class": "Druid",
+    "active_spec_name": "Balance",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 6935,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-01-27T07:59:05.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Tangerineguy",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 2,
+   "character": {
+    "name": "Shakatan",
+    "race": "Orc",
+    "class": "Monk",
+    "active_spec_name": "Windwalker",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "horde",
+    "achievement_points": 21245,
+    "region": "us",
+    "realm": "Zul'jin",
+    "last_crawled_at": "2026-09-18T08:20:12.000Z",
+    "profile_url": "https://raider.io/characters/us/zuljin/Shakatan",
+    "profile_banner": "classbanner_monk1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Quiggins",
+    "race": "Dark Iron Dwarf",
+    "class": "Paladin",
+    "active_spec_name": "Retribution",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 24965,
+    "region": "us",
+    "realm": "Blood Furnace",
+    "last_crawled_at": "2026-09-20T11:12:19.000Z",
+    "profile_url": "https://raider.io/characters/us/blood-furnace/Quiggins",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 3,
+   "character": {
+    "name": "Astralbubble",
+    "race": "Draenei",
+    "class": "Paladin",
+    "active_spec_name": "Holy",
+    "active_spec_role": "HEALING",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 19070,
+    "region": "us",
+    "realm": "Korgath",
+    "last_crawled_at": "2026-09-17T11:55:20.000Z",
+    "profile_url": "https://raider.io/characters/us/korgath/Astralbubble",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Furzz",
+    "race": "Dwarf",
+    "class": "Paladin",
+    "active_spec_name": "Protection",
+    "active_spec_role": "TANK",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 21410,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-07-19T08:40:30.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Furzz",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Wetshot",
+    "race": "Pandaren",
+    "class": "Hunter",
+    "active_spec_name": "Beast Mastery",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 21490,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2025-12-31T06:16:20.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Wetshot",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Sh\u00edftyc\u00e9nt",
+    "race": "Night Elf",
+    "class": "Druid",
+    "active_spec_name": "Feral",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 21410,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-07-19T08:40:30.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Sh\u00edftyc\u00e9nt",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Rellegos",
+    "race": "Dracthyr",
+    "class": "Evoker",
+    "active_spec_name": "Preservation",
+    "active_spec_role": "HEALING",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 19125,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-08-23T08:22:22.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Rellegos",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Squiffy",
+    "race": "Dracthyr",
+    "class": "Evoker",
+    "active_spec_name": "Preservation",
+    "active_spec_role": "HEALING",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 19340,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-05-16T10:56:06.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Squiffy",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 3,
+   "character": {
+    "name": "Wr\u00e9kx",
+    "race": "Orc",
+    "class": "Shaman",
+    "active_spec_name": "Elemental",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "horde",
+    "achievement_points": 19880,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-06-14T05:45:24.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Wr\u00e9kx",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Whizzleb\u00e4ng",
+    "race": "Goblin",
+    "class": "Shaman",
+    "active_spec_name": "Elemental",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 20635,
+    "region": "us",
+    "realm": "Zul'jin",
+    "last_crawled_at": "2026-03-29T20:37:09.000Z",
+    "profile_url": "https://raider.io/characters/us/zuljin/Whizzleb\u00e4ng",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 3,
+   "character": {
+    "name": "S\u00eamyaz",
+    "race": "Blood Elf",
+    "class": "Rogue",
+    "active_spec_name": "Outlaw",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "horde",
+    "achievement_points": 25050,
+    "region": "us",
+    "realm": "Stormrage",
+    "last_crawled_at": "2026-09-18T09:51:16.000Z",
+    "profile_url": "https://raider.io/characters/us/stormrage/S\u00eamyaz",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Thorbjorn",
+    "race": "Dwarf",
+    "class": "Death Knight",
+    "active_spec_name": "Frost",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 2835,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2025-10-24T14:16:21.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Thorbjorn",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Donswald",
+    "race": "Draenei",
+    "class": "Paladin",
+    "active_spec_name": "Protection",
+    "active_spec_role": "TANK",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 20150,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2025-10-24T14:09:23.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Donswald",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Kaziest",
+    "race": "Void Elf",
+    "class": "Priest",
+    "active_spec_name": "Discipline",
+    "active_spec_role": "HEALING",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 14150,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2025-10-24T14:15:14.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Kaziest",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Sinadori",
+    "race": "Blood Elf",
+    "class": "Monk",
+    "active_spec_name": "Windwalker",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "horde",
+    "achievement_points": 37040,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-02-21T11:41:45.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Sinadori",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Aleora",
+    "race": "Human",
+    "class": "Warlock",
+    "active_spec_name": "Destruction",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 13820,
+    "region": "us",
+    "realm": "Illidan",
+    "last_crawled_at": "2026-09-18T09:51:11.000Z",
+    "profile_url": "https://raider.io/characters/us/illidan/Aleora",
+    "profile_banner": "alliancebanner3"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Joxx",
+    "race": "Void Elf",
+    "class": "Priest",
+    "active_spec_name": "Discipline",
+    "active_spec_role": "HEALING",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 18395,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-03-09T00:46:50.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Joxx",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Nhelara",
+    "race": "Human",
+    "class": "Paladin",
+    "active_spec_name": "Retribution",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 13820,
+    "region": "us",
+    "realm": "Illidan",
+    "last_crawled_at": "2026-09-18T08:08:21.000Z",
+    "profile_url": "https://raider.io/characters/us/illidan/Nhelara",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Ttvzippsolo",
+    "race": "Human",
+    "class": "Paladin",
+    "active_spec_name": "Holy",
+    "active_spec_role": "HEALING",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 14585,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2025-10-24T14:14:30.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Ttvzippsolo",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Monktrera",
+    "race": "Worgen",
+    "class": "Monk",
+    "active_spec_name": "Mistweaver",
+    "active_spec_role": "HEALING",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 19120,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2025-10-24T14:17:30.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Monktrera",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 3,
+   "character": {
+    "name": "Skath\u00ed",
+    "race": "Void Elf",
+    "class": "Hunter",
+    "active_spec_name": "Beast Mastery",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 19520,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-20T10:18:24.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Skath\u00ed",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Bucksshadow",
+    "race": "Blood Elf",
+    "class": "Priest",
+    "active_spec_name": "Holy",
+    "active_spec_role": "HEALING",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 9860,
+    "region": "us",
+    "realm": "Emerald Dream",
+    "last_crawled_at": "2026-09-20T05:39:34.000Z",
+    "profile_url": "https://raider.io/characters/us/emerald-dream/Bucksshadow",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Dragontrera",
+    "race": "Dracthyr",
+    "class": "Evoker",
+    "active_spec_name": "Devastation",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "horde",
+    "achievement_points": 19795,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-02-20T05:43:08.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Dragontrera",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 7,
+   "character": {
+    "name": "Dagerexizez",
+    "race": "Night Elf",
+    "class": "Rogue",
+    "active_spec_name": "Outlaw",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 7940,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-08-12T04:30:45.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Dagerexizez",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Moistdog",
+    "race": "Dracthyr",
+    "class": "Evoker",
+    "active_spec_name": "Devastation",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 21430,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-07-19T08:40:30.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Moistdog",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 2,
+   "character": {
+    "name": "Jhewjitsu",
+    "race": "Dwarf",
+    "class": "Monk",
+    "active_spec_name": "Mistweaver",
+    "active_spec_role": "HEALING",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 18760,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-18T09:50:24.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Jhewjitsu",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Nilana",
+    "race": "Vulpera",
+    "class": "Mage",
+    "active_spec_name": "Arcane",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "horde",
+    "achievement_points": 8740,
+    "region": "us",
+    "realm": "Hakkar",
+    "last_crawled_at": "2026-01-28T05:48:49.000Z",
+    "profile_url": "https://raider.io/characters/us/hakkar/Nilana",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Ottrera",
+    "race": "Dwarf",
+    "class": "Priest",
+    "active_spec_name": "Shadow",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 19905,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-03-16T14:17:30.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Ottrera",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Cinria",
+    "race": "Human",
+    "class": "Paladin",
+    "active_spec_name": "Holy",
+    "active_spec_role": "HEALING",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 24670,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-07-19T08:40:31.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Cinria",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Canedi",
+    "race": "Gnome",
+    "class": "Warrior",
+    "active_spec_name": "Arms",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 28635,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-20T06:30:24.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Canedi",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Jezuit",
+    "race": "Worgen",
+    "class": "Death Knight",
+    "active_spec_name": "Frost",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 25315,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-03-28T18:19:52.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Jezuit",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 2,
+   "character": {
+    "name": "Ryazett",
+    "race": "Dark Iron Dwarf",
+    "class": "Paladin",
+    "active_spec_name": "Retribution",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 30535,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-07-30T04:57:35.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Ryazett",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 2,
+   "character": {
+    "name": "Scourgedh",
+    "race": "Blood Elf",
+    "class": "Demon Hunter",
+    "active_spec_name": "Vengeance",
+    "active_spec_role": "TANK",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 30450,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-08-04T07:36:38.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Scourgedh",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Scourgemonk",
+    "race": "Zandalari Troll",
+    "class": "Monk",
+    "active_spec_name": "Brewmaster",
+    "active_spec_role": "TANK",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 29425,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-02-28T00:46:29.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Scourgemonk",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Mordecay",
+    "race": "Human",
+    "class": "Death Knight",
+    "active_spec_name": "Unholy",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 14730,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-01-17T18:26:02.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Mordecay",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 2,
+   "character": {
+    "name": "Scourgeless",
+    "race": "Goblin",
+    "class": "Death Knight",
+    "active_spec_name": "Blood",
+    "active_spec_role": "TANK",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 30530,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-14T08:10:31.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Scourgeless",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 2,
+   "character": {
+    "name": "Ryagath",
+    "race": "Night Elf",
+    "class": "Druid",
+    "active_spec_name": "Feral",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 30535,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-07-30T04:57:34.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Ryagath",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Highbear",
+    "race": "Kul Tiran",
+    "class": "Druid",
+    "active_spec_name": "Balance",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 21710,
+    "region": "us",
+    "realm": "Alleria",
+    "last_crawled_at": "2026-09-18T09:50:23.000Z",
+    "profile_url": "https://raider.io/characters/us/alleria/Highbear",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 7,
+   "character": {
+    "name": "Olvrcrks",
+    "race": "Dwarf",
+    "class": "Warrior",
+    "active_spec_name": "Protection",
+    "active_spec_role": "TANK",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 20085,
+    "region": "us",
+    "realm": "Proudmoore",
+    "last_crawled_at": "2026-07-19T08:40:30.000Z",
+    "profile_url": "https://raider.io/characters/us/proudmoore/Olvrcrks",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Fawg",
+    "race": "Draenei",
+    "class": "Priest",
+    "active_spec_name": "Discipline",
+    "active_spec_role": "HEALING",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 5785,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2025-10-24T14:12:17.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Fawg",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Gigamoose",
+    "race": "Human",
+    "class": "Monk",
+    "active_spec_name": "Windwalker",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 19930,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2025-10-24T14:18:07.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Gigamoose",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Ladex",
+    "race": "Void Elf",
+    "class": "Mage",
+    "active_spec_name": "Frost",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 13070,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2025-10-24T14:18:09.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Ladex",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Arcade",
+    "race": "Gnome",
+    "class": "Mage",
+    "active_spec_name": "Arcane",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 5625,
+    "region": "us",
+    "realm": "Mannoroth",
+    "last_crawled_at": "2025-10-24T14:19:52.000Z",
+    "profile_url": "https://raider.io/characters/us/mannoroth/Arcade",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Logardi",
+    "race": "Earthen",
+    "class": "Paladin",
+    "active_spec_name": "Retribution",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 20635,
+    "region": "us",
+    "realm": "Zul'jin",
+    "last_crawled_at": "2026-07-19T08:40:29.000Z",
+    "profile_url": "https://raider.io/characters/us/zuljin/Logardi",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 7,
+   "character": {
+    "name": "Phalmydia",
+    "race": "Human",
+    "class": "Paladin",
+    "active_spec_name": "Retribution",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 5785,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2025-10-24T14:12:43.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Phalmydia",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Jabuster",
+    "race": "Dark Iron Dwarf",
+    "class": "Warrior",
+    "active_spec_name": "Arms",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 6025,
+    "region": "us",
+    "realm": "Moon Guard",
+    "last_crawled_at": "2026-09-16T02:11:13.000Z",
+    "profile_url": "https://raider.io/characters/us/moon-guard/Jabuster",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Bucksdk",
+    "race": "Undead",
+    "class": "Death Knight",
+    "active_spec_name": "Blood",
+    "active_spec_role": "TANK",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 9860,
+    "region": "us",
+    "realm": "Winterhoof",
+    "last_crawled_at": "2026-09-18T09:50:20.000Z",
+    "profile_url": "https://raider.io/characters/us/winterhoof/Bucksdk",
+    "profile_banner": "hordebanner12"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "R\u00e9dwings",
+    "race": "Draenei",
+    "class": "Death Knight",
+    "active_spec_name": "Blood",
+    "active_spec_role": "TANK",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 21330,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2025-10-24T14:09:36.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/R\u00e9dwings",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Shellwayne",
+    "race": "Mechagnome",
+    "class": "Death Knight",
+    "active_spec_name": "Unholy",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 28760,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-05-13T09:54:41.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Shellwayne",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Ladez",
+    "race": "Lightforged Draenei",
+    "class": "Death Knight",
+    "active_spec_name": "Frost",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 12525,
+    "region": "us",
+    "realm": "Area 52",
+    "last_crawled_at": "2025-10-24T14:19:30.000Z",
+    "profile_url": "https://raider.io/characters/us/area-52/Ladez",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 3,
+   "character": {
+    "name": "Panzzr",
+    "race": "Human",
+    "class": "Paladin",
+    "active_spec_name": "Retribution",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 13975,
+    "region": "us",
+    "realm": "Emerald Dream",
+    "last_crawled_at": "2026-01-28T05:48:49.000Z",
+    "profile_url": "https://raider.io/characters/us/emerald-dream/Panzzr",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Firehot",
+    "race": "Vulpera",
+    "class": "Mage",
+    "active_spec_name": "Fire",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 3355,
+    "region": "us",
+    "realm": "Tichondrius",
+    "last_crawled_at": "2025-10-24T14:19:30.000Z",
+    "profile_url": "https://raider.io/characters/us/tichondrius/Firehot",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Phazel",
+    "race": "Blood Elf",
+    "class": "Demon Hunter",
+    "active_spec_name": "Havoc",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "horde",
+    "achievement_points": 20635,
+    "region": "us",
+    "realm": "Zul'jin",
+    "last_crawled_at": "2026-07-19T08:40:30.000Z",
+    "profile_url": "https://raider.io/characters/us/zuljin/Phazel",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Morg\u00e4na",
+    "race": "Void Elf",
+    "class": "Warlock",
+    "active_spec_name": "Demonology",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 19515,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-16T12:09:07.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Morg\u00e4na",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 3,
+   "character": {
+    "name": "Canedk",
+    "race": "Human",
+    "class": "Death Knight",
+    "active_spec_name": "Unholy",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 28635,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-20T06:30:26.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Canedk",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Belyste",
+    "race": "Blood Elf",
+    "class": "Death Knight",
+    "active_spec_name": "Blood",
+    "active_spec_role": "TANK",
+    "gender": "female",
+    "faction": "horde",
+    "achievement_points": 14415,
+    "region": "us",
+    "realm": "Eonar",
+    "last_crawled_at": "2025-10-24T14:09:21.000Z",
+    "profile_url": "https://raider.io/characters/us/eonar/Belyste",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Whomstdve",
+    "race": "Void Elf",
+    "class": "Warlock",
+    "active_spec_name": "Demonology",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 16230,
+    "region": "us",
+    "realm": "Bleeding Hollow",
+    "last_crawled_at": "2026-09-04T11:01:38.000Z",
+    "profile_url": "https://raider.io/characters/us/bleeding-hollow/Whomstdve",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Kriv",
+    "race": "Dracthyr",
+    "class": "Evoker",
+    "active_spec_name": "Augmentation",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 4930,
+    "region": "us",
+    "realm": "Aegwynn",
+    "last_crawled_at": "2025-10-24T14:10:39.000Z",
+    "profile_url": "https://raider.io/characters/us/aegwynn/Kriv",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Canesneakz",
+    "race": "Human",
+    "class": "Rogue",
+    "active_spec_name": "Subtlety",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 28635,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-20T11:01:15.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Canesneakz",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Crimsonkitty",
+    "race": "Night Elf",
+    "class": "Druid",
+    "active_spec_name": "Balance",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 9985,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-07-19T08:40:30.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Crimsonkitty",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 7,
+   "character": {
+    "name": "Saetorie",
+    "race": "Draenei",
+    "class": "Hunter",
+    "active_spec_name": "Beast Mastery",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 14670,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2025-10-24T14:18:22.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Saetorie",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 7,
+   "character": {
+    "name": "Isokat",
+    "race": "Night Elf",
+    "class": "Druid",
+    "active_spec_name": "Balance",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 17820,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2025-10-24T14:18:20.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Isokat",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 3,
+   "character": {
+    "name": "Nightshadez",
+    "race": "Night Elf",
+    "class": "Hunter",
+    "active_spec_name": "Beast Mastery",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 13040,
+    "region": "us",
+    "realm": "Proudmoore",
+    "last_crawled_at": "2026-01-28T05:48:49.000Z",
+    "profile_url": "https://raider.io/characters/us/proudmoore/Nightshadez",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "M\u00f4saic",
+    "race": "Pandaren",
+    "class": "Monk",
+    "active_spec_name": "Windwalker",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 10610,
+    "region": "us",
+    "realm": "Korgath",
+    "last_crawled_at": "2026-07-16T01:00:12.000Z",
+    "profile_url": "https://raider.io/characters/us/korgath/M\u00f4saic",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Oichii",
+    "race": "Night Elf",
+    "class": "Druid",
+    "active_spec_name": "Balance",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 12890,
+    "region": "us",
+    "realm": "Proudmoore",
+    "last_crawled_at": "2025-10-24T14:10:20.000Z",
+    "profile_url": "https://raider.io/characters/us/proudmoore/Oichii",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Gunessey",
+    "race": "Worgen",
+    "class": "Death Knight",
+    "active_spec_name": "Frost",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 12725,
+    "region": "us",
+    "realm": "Anetheron",
+    "last_crawled_at": "2025-10-24T14:09:34.000Z",
+    "profile_url": "https://raider.io/characters/us/anetheron/Gunessey",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Deitydaniel",
+    "race": "Draenei",
+    "class": "Paladin",
+    "active_spec_name": "Protection",
+    "active_spec_role": "TANK",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 13390,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-07-19T08:40:31.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Deitydaniel",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Menuki",
+    "race": "Lightforged Draenei",
+    "class": "Priest",
+    "active_spec_name": "Holy",
+    "active_spec_role": "HEALING",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 12890,
+    "region": "us",
+    "realm": "Proudmoore",
+    "last_crawled_at": "2025-10-24T14:19:24.000Z",
+    "profile_url": "https://raider.io/characters/us/proudmoore/Menuki",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Pathran",
+    "race": "Night Elf",
+    "class": "Hunter",
+    "active_spec_name": "Marksmanship",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 5515,
+    "region": "us",
+    "realm": "Azshara",
+    "last_crawled_at": "2026-05-29T05:30:18.000Z",
+    "profile_url": "https://raider.io/characters/us/azshara/Pathran",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 7,
+   "character": {
+    "name": "Slygone",
+    "race": "Human",
+    "class": "Rogue",
+    "active_spec_name": "Subtlety",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 11705,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-03-01T12:55:01.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Slygone",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Pawsyosborne",
+    "race": "Night Elf",
+    "class": "Druid",
+    "active_spec_name": "Restoration",
+    "active_spec_role": "HEALING",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 25745,
+    "region": "us",
+    "realm": "Zul'jin",
+    "last_crawled_at": "2026-09-18T09:51:11.000Z",
+    "profile_url": "https://raider.io/characters/us/zuljin/Pawsyosborne",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Summonher",
+    "race": "Blood Elf",
+    "class": "Warlock",
+    "active_spec_name": "Affliction",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "horde",
+    "achievement_points": 11925,
+    "region": "us",
+    "realm": "Area 52",
+    "last_crawled_at": "2026-07-16T01:00:12.000Z",
+    "profile_url": "https://raider.io/characters/us/area-52/Summonher",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Zarena",
+    "race": "Void Elf",
+    "class": "Warlock",
+    "active_spec_name": "Destruction",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 7785,
+    "region": "us",
+    "realm": "Area 52",
+    "last_crawled_at": "2026-01-22T07:14:41.000Z",
+    "profile_url": "https://raider.io/characters/us/area-52/Zarena",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Akary",
+    "race": "Human",
+    "class": "Warlock",
+    "active_spec_name": "Destruction",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 36940,
+    "region": "us",
+    "realm": "Shadowsong",
+    "last_crawled_at": "2026-01-24T07:23:06.000Z",
+    "profile_url": "https://raider.io/characters/us/shadowsong/Akary",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Gardabe",
+    "race": "Dwarf",
+    "class": "Hunter",
+    "active_spec_name": "Beast Mastery",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 14515,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-01-25T03:15:57.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Gardabe",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Nethertank",
+    "race": "Dark Iron Dwarf",
+    "class": "Paladin",
+    "active_spec_name": "Protection",
+    "active_spec_role": "TANK",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 22265,
+    "region": "us",
+    "realm": "Dalaran",
+    "last_crawled_at": "2026-09-20T02:45:17.000Z",
+    "profile_url": "https://raider.io/characters/us/dalaran/Nethertank",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Ravfu",
+    "race": "Human",
+    "class": "Monk",
+    "active_spec_name": "Windwalker",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 28655,
+    "region": "us",
+    "realm": "Stormrage",
+    "last_crawled_at": "2026-09-16T12:10:47.000Z",
+    "profile_url": "https://raider.io/characters/us/stormrage/Ravfu",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 7,
+   "character": {
+    "name": "Vykanse",
+    "race": "Night Elf",
+    "class": "Druid",
+    "active_spec_name": "Guardian",
+    "active_spec_role": "TANK",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 33915,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2025-10-24T14:15:23.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Vykanse",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Icrityou",
+    "race": "Blood Elf",
+    "class": "Priest",
+    "active_spec_name": "Shadow",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 14650,
+    "region": "us",
+    "realm": "Mal'Ganis",
+    "last_crawled_at": "2025-10-24T14:13:46.000Z",
+    "profile_url": "https://raider.io/characters/us/malganis/Icrityou",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Beefpriestt",
+    "race": "Night Elf",
+    "class": "Priest",
+    "active_spec_name": "Holy",
+    "active_spec_role": "HEALING",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 20270,
+    "region": "us",
+    "realm": "Tichondrius",
+    "last_crawled_at": "2026-09-14T13:42:31.000Z",
+    "profile_url": "https://raider.io/characters/us/tichondrius/Beefpriestt",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Bonesdaily",
+    "race": "Blood Elf",
+    "class": "Mage",
+    "active_spec_name": "Frost",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 14440,
+    "region": "us",
+    "realm": "Blackrock",
+    "last_crawled_at": "2026-07-19T08:40:31.000Z",
+    "profile_url": "https://raider.io/characters/us/blackrock/Bonesdaily",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Baomao",
+    "race": "Void Elf",
+    "class": "Death Knight",
+    "active_spec_name": "Unholy",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 16080,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-08T22:35:45.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Baomao",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Pr\u00e6charound",
+    "race": "Dracthyr",
+    "class": "Priest",
+    "active_spec_name": "Holy",
+    "active_spec_role": "HEALING",
+    "gender": "female",
+    "faction": "horde",
+    "achievement_points": 8970,
+    "region": "us",
+    "realm": "Bleeding Hollow",
+    "last_crawled_at": "2026-09-08T01:44:26.000Z",
+    "profile_url": "https://raider.io/characters/us/bleeding-hollow/Pr\u00e6charound",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Jzxlol",
+    "race": "Human",
+    "class": "Monk",
+    "active_spec_name": "Brewmaster",
+    "active_spec_role": "TANK",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 29895,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-04-22T14:49:42.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Jzxlol",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Romanof",
+    "race": "Human",
+    "class": "Warrior",
+    "active_spec_name": "Arms",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 8000,
+    "region": "us",
+    "realm": "Illidan",
+    "last_crawled_at": "2026-09-18T09:51:12.000Z",
+    "profile_url": "https://raider.io/characters/us/illidan/Romanof",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Canehuntz",
+    "race": "Void Elf",
+    "class": "Hunter",
+    "active_spec_name": "Beast Mastery",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 28585,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-20T06:30:23.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Canehuntz",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 3,
+   "character": {
+    "name": "Beaujob",
+    "race": "Orc",
+    "class": "Hunter",
+    "active_spec_name": "Beast Mastery",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 9025,
+    "region": "us",
+    "realm": "Bleeding Hollow",
+    "last_crawled_at": "2026-09-20T05:29:15.000Z",
+    "profile_url": "https://raider.io/characters/us/bleeding-hollow/Beaujob",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Ravix",
+    "race": "Human",
+    "class": "Warlock",
+    "active_spec_name": "Demonology",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 28655,
+    "region": "us",
+    "realm": "Lightbringer",
+    "last_crawled_at": "2026-09-16T12:07:59.000Z",
+    "profile_url": "https://raider.io/characters/us/lightbringer/Ravix",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 2,
+   "character": {
+    "name": "Bearlydies",
+    "race": "Night Elf",
+    "class": "Druid",
+    "active_spec_name": "Restoration",
+    "active_spec_role": "HEALING",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 13760,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-01-28T05:48:49.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Bearlydies",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Stepdaddys",
+    "race": "Dracthyr",
+    "class": "Hunter",
+    "active_spec_name": "Beast Mastery",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 23280,
+    "region": "us",
+    "realm": "Tichondrius",
+    "last_crawled_at": "2026-08-05T04:29:35.000Z",
+    "profile_url": "https://raider.io/characters/us/tichondrius/Stepdaddys",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 3,
+   "character": {
+    "name": "Pearlsham",
+    "race": "Highmountain Tauren",
+    "class": "Shaman",
+    "active_spec_name": "Restoration",
+    "active_spec_role": "HEALING",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 26005,
+    "region": "us",
+    "realm": "Ner'zhul",
+    "last_crawled_at": "2026-09-18T08:12:29.000Z",
+    "profile_url": "https://raider.io/characters/us/nerzhul/Pearlsham",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 7,
+   "character": {
+    "name": "Wynnana",
+    "race": "Lightforged Draenei",
+    "class": "Rogue",
+    "active_spec_name": "Outlaw",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 6465,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2025-10-24T14:18:32.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Wynnana",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Seamorebutts",
+    "race": "Undead",
+    "class": "Rogue",
+    "active_spec_name": "Outlaw",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 14310,
+    "region": "us",
+    "realm": "Blackrock",
+    "last_crawled_at": "2026-05-09T05:18:43.000Z",
+    "profile_url": "https://raider.io/characters/us/blackrock/Seamorebutts",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Birchplease",
+    "race": "Kul Tiran",
+    "class": "Druid",
+    "active_spec_name": "Guardian",
+    "active_spec_role": "TANK",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 8965,
+    "region": "us",
+    "realm": "Bleeding Hollow",
+    "last_crawled_at": "2026-09-07T10:08:31.000Z",
+    "profile_url": "https://raider.io/characters/us/bleeding-hollow/Birchplease",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Pewssyfart",
+    "race": "Zandalari Troll",
+    "class": "Priest",
+    "active_spec_name": "Holy",
+    "active_spec_role": "HEALING",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 13715,
+    "region": "us",
+    "realm": "Blackrock",
+    "last_crawled_at": "2026-01-31T05:54:51.000Z",
+    "profile_url": "https://raider.io/characters/us/blackrock/Pewssyfart",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 3,
+   "character": {
+    "name": "Straam",
+    "race": "Goblin",
+    "class": "Shaman",
+    "active_spec_name": "Restoration",
+    "active_spec_role": "HEALING",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 11810,
+    "region": "us",
+    "realm": "Frostwolf",
+    "last_crawled_at": "2026-09-19T00:25:14.000Z",
+    "profile_url": "https://raider.io/characters/us/frostwolf/Straam",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Lichpleas\u00eb",
+    "race": "Dark Iron Dwarf",
+    "class": "Death Knight",
+    "active_spec_name": "Blood",
+    "active_spec_role": "TANK",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 8975,
+    "region": "us",
+    "realm": "Bleeding Hollow",
+    "last_crawled_at": "2026-09-11T18:11:35.000Z",
+    "profile_url": "https://raider.io/characters/us/bleeding-hollow/Lichpleas\u00eb",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 2,
+   "character": {
+    "name": "Superpoly",
+    "race": "Human",
+    "class": "Mage",
+    "active_spec_name": "Arcane",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 13760,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-01-28T05:48:49.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Superpoly",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 2,
+   "character": {
+    "name": "Dowdoww",
+    "race": "Worgen",
+    "class": "Mage",
+    "active_spec_name": "Frost",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 33070,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-19T23:58:17.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Dowdoww",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 2,
+   "character": {
+    "name": "Illyaanaa",
+    "race": "Draenei",
+    "class": "Shaman",
+    "active_spec_name": "Enhancement",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 33070,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-19T23:13:16.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Illyaanaa",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 2,
+   "character": {
+    "name": "Templrivanho",
+    "race": "Human",
+    "class": "Paladin",
+    "active_spec_name": "Protection",
+    "active_spec_role": "TANK",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 33070,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-19T03:46:32.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Templrivanho",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Mark\u00fas",
+    "race": "Worgen",
+    "class": "Death Knight",
+    "active_spec_name": "Unholy",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 13520,
+    "region": "us",
+    "realm": "Ragnaros",
+    "last_crawled_at": "2026-09-18T09:50:12.000Z",
+    "profile_url": "https://raider.io/characters/us/ragnaros/Mark\u00fas",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 3,
+   "character": {
+    "name": "Soh\u00ecgh",
+    "race": "Dwarf",
+    "class": "Mage",
+    "active_spec_name": "Arcane",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 21710,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-19T09:32:14.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Soh\u00ecgh",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Scythelin",
+    "race": "Void Elf",
+    "class": "Hunter",
+    "active_spec_name": "Marksmanship",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 13630,
+    "region": "us",
+    "realm": "Illidan",
+    "last_crawled_at": "2026-08-31T13:05:50.000Z",
+    "profile_url": "https://raider.io/characters/us/illidan/Scythelin",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 2,
+   "character": {
+    "name": "Shaannaa",
+    "race": "Gnome",
+    "class": "Warrior",
+    "active_spec_name": "Protection",
+    "active_spec_role": "TANK",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 33070,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-20T00:09:19.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Shaannaa",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Dlm",
+    "race": "Human",
+    "class": "Mage",
+    "active_spec_name": "Arcane",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 22230,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-19T20:21:16.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Dlm",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Djorgx",
+    "race": "Worgen",
+    "class": "Death Knight",
+    "active_spec_name": "Frost",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 4195,
+    "region": "us",
+    "realm": "Ragnaros",
+    "last_crawled_at": "2026-09-18T09:51:16.000Z",
+    "profile_url": "https://raider.io/characters/us/ragnaros/Djorgx",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Nojessepally",
+    "race": "Human",
+    "class": "Paladin",
+    "active_spec_name": "Protection",
+    "active_spec_role": "TANK",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 12075,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-01-28T05:48:49.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Nojessepally",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Grotesque",
+    "race": "Draenei",
+    "class": "Death Knight",
+    "active_spec_name": "Blood",
+    "active_spec_role": "TANK",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 6645,
+    "region": "us",
+    "realm": "Vashj",
+    "last_crawled_at": "2026-01-28T05:48:49.000Z",
+    "profile_url": "https://raider.io/characters/us/vashj/Grotesque",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Makoo",
+    "race": "Human",
+    "class": "Warlock",
+    "active_spec_name": "Demonology",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 13520,
+    "region": "us",
+    "realm": "Ragnaros",
+    "last_crawled_at": "2026-09-16T12:06:40.000Z",
+    "profile_url": "https://raider.io/characters/us/ragnaros/Makoo",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Shadowmoonn",
+    "race": "Haranir",
+    "class": "Druid",
+    "active_spec_name": "Guardian",
+    "active_spec_role": "TANK",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 17740,
+    "region": "us",
+    "realm": "Nagrand",
+    "last_crawled_at": "2026-09-18T09:51:13.000Z",
+    "profile_url": "https://raider.io/characters/us/nagrand/Shadowmoonn",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Dlpally",
+    "race": "Earthen",
+    "class": "Paladin",
+    "active_spec_name": "Retribution",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 20825,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-10T13:20:00.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Dlpally",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Gadjet",
+    "race": "Lightforged Draenei",
+    "class": "Warlock",
+    "active_spec_name": "Affliction",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 8495,
+    "region": "us",
+    "realm": "Tichondrius",
+    "last_crawled_at": "2026-09-08T16:48:22.000Z",
+    "profile_url": "https://raider.io/characters/us/tichondrius/Gadjet",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Scourgelock",
+    "race": "Goblin",
+    "class": "Warlock",
+    "active_spec_name": "Demonology",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 29425,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-03-16T14:18:19.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Scourgelock",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Freepali",
+    "race": "Blood Elf",
+    "class": "Paladin",
+    "active_spec_name": "Retribution",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 8765,
+    "region": "us",
+    "realm": "Blackrock",
+    "last_crawled_at": "2026-06-07T06:10:42.000Z",
+    "profile_url": "https://raider.io/characters/us/blackrock/Freepali",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Devourya",
+    "race": "Blood Elf",
+    "class": "Demon Hunter",
+    "active_spec_name": "Havoc",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "horde",
+    "achievement_points": 30525,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-07-30T04:58:34.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Devourya",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Riptidepodd",
+    "race": "Troll",
+    "class": "Shaman",
+    "active_spec_name": "Elemental",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "horde",
+    "achievement_points": 9005,
+    "region": "us",
+    "realm": "Bleeding Hollow",
+    "last_crawled_at": "2026-09-18T09:51:18.000Z",
+    "profile_url": "https://raider.io/characters/us/bleeding-hollow/Riptidepodd",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Pheathers",
+    "race": "Worgen",
+    "class": "Druid",
+    "active_spec_name": "Balance",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 20570,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-07-19T08:40:31.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Pheathers",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Felhigh",
+    "race": "Blood Elf",
+    "class": "Demon Hunter",
+    "active_spec_name": "Vengeance",
+    "active_spec_role": "TANK",
+    "gender": "female",
+    "faction": "horde",
+    "achievement_points": 18360,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-05-10T09:03:34.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Felhigh",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Pheathers",
+    "race": "Worgen",
+    "class": "Druid",
+    "active_spec_name": "Balance",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 20570,
+    "region": "us",
+    "realm": "Moon Guard",
+    "last_crawled_at": "2026-03-29T10:26:49.000Z",
+    "profile_url": "https://raider.io/characters/us/moon-guard/Pheathers",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Nitagrith",
+    "race": "Dracthyr",
+    "class": "Mage",
+    "active_spec_name": "Arcane",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 20825,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-10T13:20:02.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Nitagrith",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Norayle",
+    "race": "Blood Elf",
+    "class": "Paladin",
+    "active_spec_name": "Retribution",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "horde",
+    "achievement_points": 20850,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-10T13:20:01.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Norayle",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Vamprya",
+    "race": "Void Elf",
+    "class": "Death Knight",
+    "active_spec_name": "Blood",
+    "active_spec_role": "TANK",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 30190,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-07-30T04:57:34.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Vamprya",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Harleequinn",
+    "race": "Undead",
+    "class": "Death Knight",
+    "active_spec_name": "Unholy",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "horde",
+    "achievement_points": 21630,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-14T19:50:03.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Harleequinn",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Ophelium",
+    "race": "Blood Elf",
+    "class": "Demon Hunter",
+    "active_spec_name": "Devourer",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "horde",
+    "achievement_points": 18775,
+    "region": "us",
+    "realm": "Azshara",
+    "last_crawled_at": "2026-03-01T01:45:33.000Z",
+    "profile_url": "https://raider.io/characters/us/azshara/Ophelium",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Snaomeiddab",
+    "race": "Blood Elf",
+    "class": "Demon Hunter",
+    "active_spec_name": "Vengeance",
+    "active_spec_role": "TANK",
+    "gender": "female",
+    "faction": "horde",
+    "achievement_points": 20770,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-10T13:20:03.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Snaomeiddab",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Bonenose",
+    "race": "Goblin",
+    "class": "Shaman",
+    "active_spec_name": "Elemental",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 22230,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-20T13:50:17.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Bonenose",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Sydnesweknee",
+    "race": "Nightborne",
+    "class": "Priest",
+    "active_spec_name": "Shadow",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "horde",
+    "achievement_points": 20855,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-10T13:20:02.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Sydnesweknee",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Crshbndicoot",
+    "race": "Vulpera",
+    "class": "Mage",
+    "active_spec_name": "Frost",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "horde",
+    "achievement_points": 20765,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-10T13:20:03.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Crshbndicoot",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Doitfrombhin",
+    "race": "Human",
+    "class": "Rogue",
+    "active_spec_name": "Assassination",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 20765,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-10T13:20:03.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Doitfrombhin",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Khee",
+    "race": "Pandaren",
+    "class": "Shaman",
+    "active_spec_name": "Restoration",
+    "active_spec_role": "HEALING",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 22230,
+    "region": "us",
+    "realm": "Uldum",
+    "last_crawled_at": "2026-09-20T13:33:16.000Z",
+    "profile_url": "https://raider.io/characters/us/uldum/Khee",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Medieval",
+    "race": "Dracthyr",
+    "class": "Priest",
+    "active_spec_name": "Discipline",
+    "active_spec_role": "HEALING",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 19220,
+    "region": "us",
+    "realm": "Bleeding Hollow",
+    "last_crawled_at": "2026-07-19T08:40:31.000Z",
+    "profile_url": "https://raider.io/characters/us/bleeding-hollow/Medieval",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Dlwarlock",
+    "race": "Void Elf",
+    "class": "Warlock",
+    "active_spec_name": "Destruction",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 20875,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-10T13:20:01.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Dlwarlock",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Gaiijin",
+    "race": "Zandalari Troll",
+    "class": "Warrior",
+    "active_spec_name": "Arms",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 20855,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-10T13:20:03.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Gaiijin",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Battlebear",
+    "race": "Highmountain Tauren",
+    "class": "Druid",
+    "active_spec_name": "Guardian",
+    "active_spec_role": "TANK",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 20770,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-10T13:20:02.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Battlebear",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Owlkast",
+    "race": "Tauren",
+    "class": "Druid",
+    "active_spec_name": "Balance",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "horde",
+    "achievement_points": 20770,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-10T13:20:01.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Owlkast",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Dldruid",
+    "race": "Worgen",
+    "class": "Druid",
+    "active_spec_name": "Guardian",
+    "active_spec_role": "TANK",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 20770,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-10T13:20:03.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Dldruid",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Praystreesus",
+    "race": "Zandalari Troll",
+    "class": "Druid",
+    "active_spec_name": "Balance",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "horde",
+    "achievement_points": 20770,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-10T13:20:03.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Praystreesus",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Purrfekshon",
+    "race": "Kul Tiran",
+    "class": "Druid",
+    "active_spec_name": "Feral",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 20770,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-10T13:20:02.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Purrfekshon",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Rootsofevil",
+    "race": "Night Elf",
+    "class": "Druid",
+    "active_spec_name": "Restoration",
+    "active_spec_role": "HEALING",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 20770,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-10T13:20:04.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Rootsofevil",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Zuldancer",
+    "race": "Troll",
+    "class": "Druid",
+    "active_spec_name": "Balance",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "horde",
+    "achievement_points": 20770,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-10T13:20:01.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Zuldancer",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Rottlegore",
+    "race": "Undead",
+    "class": "Rogue",
+    "active_spec_name": "Outlaw",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 20855,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-10T13:20:01.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Rottlegore",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Dlmhunter",
+    "race": "Mechagnome",
+    "class": "Hunter",
+    "active_spec_name": "Beast Mastery",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 20855,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-10T13:20:01.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Dlmhunter",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Dlmonk",
+    "race": "Lightforged Draenei",
+    "class": "Monk",
+    "active_spec_name": "Brewmaster",
+    "active_spec_role": "TANK",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 20875,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-10T13:20:00.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Dlmonk",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 3,
+   "character": {
+    "name": "Daddy",
+    "race": "Highmountain Tauren",
+    "class": "Shaman",
+    "active_spec_name": "Restoration",
+    "active_spec_role": "HEALING",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 23290,
+    "region": "us",
+    "realm": "Auchindoun",
+    "last_crawled_at": "2026-09-14T08:11:37.000Z",
+    "profile_url": "https://raider.io/characters/us/auchindoun/Daddy",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Docthejacka",
+    "race": "Highmountain Tauren",
+    "class": "Druid",
+    "active_spec_name": "Balance",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 14680,
+    "region": "us",
+    "realm": "Blackrock",
+    "last_crawled_at": "2026-08-24T08:07:36.000Z",
+    "profile_url": "https://raider.io/characters/us/blackrock/Docthejacka",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Pamilynn",
+    "race": "Human",
+    "class": "Priest",
+    "active_spec_name": "Shadow",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 20825,
+    "region": "us",
+    "realm": "Uldum",
+    "last_crawled_at": "2026-09-10T13:20:01.000Z",
+    "profile_url": "https://raider.io/characters/us/uldum/Pamilynn",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Daethpally",
+    "race": "Draenei",
+    "class": "Paladin",
+    "active_spec_name": "Retribution",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 19485,
+    "region": "us",
+    "realm": "Dawnbringer",
+    "last_crawled_at": "2026-06-01T06:10:55.000Z",
+    "profile_url": "https://raider.io/characters/us/dawnbringer/Daethpally",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Abithy",
+    "race": "Worgen",
+    "class": "Druid",
+    "active_spec_name": "Balance",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 20850,
+    "region": "us",
+    "realm": "Uldum",
+    "last_crawled_at": "2026-09-10T13:20:00.000Z",
+    "profile_url": "https://raider.io/characters/us/uldum/Abithy",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 3,
+   "character": {
+    "name": "Calam\u00ecty",
+    "race": "Blood Elf",
+    "class": "Rogue",
+    "active_spec_name": "Outlaw",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "horde",
+    "achievement_points": 20385,
+    "region": "us",
+    "realm": "Eredar",
+    "last_crawled_at": "2026-09-16T12:10:14.000Z",
+    "profile_url": "https://raider.io/characters/us/eredar/Calam\u00ecty",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Sofeeuh",
+    "race": "Draenei",
+    "class": "Monk",
+    "active_spec_name": "Windwalker",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 20855,
+    "region": "us",
+    "realm": "Uldum",
+    "last_crawled_at": "2026-09-10T13:20:01.000Z",
+    "profile_url": "https://raider.io/characters/us/uldum/Sofeeuh",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Jayyb",
+    "race": "Human",
+    "class": "Paladin",
+    "active_spec_name": "Retribution",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 5015,
+    "region": "us",
+    "realm": "Silvermoon",
+    "last_crawled_at": "2026-09-17T11:55:35.000Z",
+    "profile_url": "https://raider.io/characters/us/silvermoon/Jayyb",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Opha",
+    "race": "Draenei",
+    "class": "Death Knight",
+    "active_spec_name": "Unholy",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 20845,
+    "region": "us",
+    "realm": "Uldum",
+    "last_crawled_at": "2026-09-10T13:20:01.000Z",
+    "profile_url": "https://raider.io/characters/us/uldum/Opha",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Dldemon",
+    "race": "Night Elf",
+    "class": "Demon Hunter",
+    "active_spec_name": "Havoc",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 20865,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-10T13:20:00.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Dldemon",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Lmd",
+    "race": "Undead",
+    "class": "Warlock",
+    "active_spec_name": "Demonology",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "horde",
+    "achievement_points": 20865,
+    "region": "us",
+    "realm": "Uldum",
+    "last_crawled_at": "2026-09-10T13:20:00.000Z",
+    "profile_url": "https://raider.io/characters/us/uldum/Lmd",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Pap\u00e4",
+    "race": "Tauren",
+    "class": "Druid",
+    "active_spec_name": "Guardian",
+    "active_spec_role": "TANK",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 15290,
+    "region": "us",
+    "realm": "Shadowsong",
+    "last_crawled_at": "2026-07-06T13:12:10.000Z",
+    "profile_url": "https://raider.io/characters/us/shadowsong/Pap\u00e4",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Haarro",
+    "race": "Goblin",
+    "class": "Priest",
+    "active_spec_name": "Shadow",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 11800,
+    "region": "us",
+    "realm": "Frostwolf",
+    "last_crawled_at": "2026-09-19T19:20:22.000Z",
+    "profile_url": "https://raider.io/characters/us/frostwolf/Haarro",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Renlee",
+    "race": "Void Elf",
+    "class": "Warrior",
+    "active_spec_name": "Arms",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 17480,
+    "region": "us",
+    "realm": "Moon Guard",
+    "last_crawled_at": "2026-07-16T04:23:01.000Z",
+    "profile_url": "https://raider.io/characters/us/moon-guard/Renlee",
+    "profile_banner": "classbanner_death-knight1"
+   }
+  },
+  {
+   "rank": 3,
+   "character": {
+    "name": "Deathran",
+    "race": "Undead",
+    "class": "Warlock",
+    "active_spec_name": "Demonology",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 5855,
+    "region": "us",
+    "realm": "Azshara",
+    "last_crawled_at": "2026-09-20T05:22:26.000Z",
+    "profile_url": "https://raider.io/characters/us/azshara/Deathran",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Angryhigh",
+    "race": "Lightforged Draenei",
+    "class": "Warrior",
+    "active_spec_name": "Fury",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 20875,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-05-10T09:03:31.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Angryhigh",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Shellwain",
+    "race": "Draenei",
+    "class": "Shaman",
+    "active_spec_name": "Enhancement",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 28760,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-03-07T17:47:22.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Shellwain",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Kegstandzz",
+    "race": "Pandaren",
+    "class": "Monk",
+    "active_spec_name": "Brewmaster",
+    "active_spec_role": "TANK",
+    "gender": "female",
+    "faction": "horde",
+    "achievement_points": 9005,
+    "region": "us",
+    "realm": "Bleeding Hollow",
+    "last_crawled_at": "2026-09-17T05:58:01.000Z",
+    "profile_url": "https://raider.io/characters/us/bleeding-hollow/Kegstandzz",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Bigsal",
+    "race": "Blood Elf",
+    "class": "Paladin",
+    "active_spec_name": "Protection",
+    "active_spec_role": "TANK",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 8870,
+    "region": "us",
+    "realm": "Wyrmrest Accord",
+    "last_crawled_at": "2026-09-18T09:50:23.000Z",
+    "profile_url": "https://raider.io/characters/us/wyrmrest-accord/Bigsal",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Rav",
+    "race": "Human",
+    "class": "Paladin",
+    "active_spec_name": "Retribution",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 28665,
+    "region": "us",
+    "realm": "Scarlet Crusade",
+    "last_crawled_at": "2026-09-20T05:39:36.000Z",
+    "profile_url": "https://raider.io/characters/us/scarlet-crusade/Rav",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Painbrinnger",
+    "race": "Human",
+    "class": "Paladin",
+    "active_spec_name": "Retribution",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 12010,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-05-27T05:36:55.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Painbrinnger",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Dashara",
+    "race": "Haranir",
+    "class": "Shaman",
+    "active_spec_name": "Elemental",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 31735,
+    "region": "us",
+    "realm": "Hydraxis",
+    "last_crawled_at": "2026-07-19T08:40:32.000Z",
+    "profile_url": "https://raider.io/characters/us/hydraxis/Dashara",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Onlyfats",
+    "race": "Blood Elf",
+    "class": "Demon Hunter",
+    "active_spec_name": "Devourer",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 12460,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-03-18T10:31:44.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Onlyfats",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Blinktwice",
+    "race": "Void Elf",
+    "class": "Mage",
+    "active_spec_name": "Arcane",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 5015,
+    "region": "us",
+    "realm": "Azshara",
+    "last_crawled_at": "2026-09-11T13:43:47.000Z",
+    "profile_url": "https://raider.io/characters/us/azshara/Blinktwice",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Darksarker",
+    "race": "Orc",
+    "class": "Death Knight",
+    "active_spec_name": "Frost",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 1380,
+    "region": "us",
+    "realm": "Mannoroth",
+    "last_crawled_at": "2026-03-23T05:02:23.000Z",
+    "profile_url": "https://raider.io/characters/us/mannoroth/Darksarker",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Lockkdaddy",
+    "race": "Dark Iron Dwarf",
+    "class": "Warlock",
+    "active_spec_name": "Destruction",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 8955,
+    "region": "us",
+    "realm": "Bleeding Hollow",
+    "last_crawled_at": "2026-08-31T13:06:36.000Z",
+    "profile_url": "https://raider.io/characters/us/bleeding-hollow/Lockkdaddy",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 3,
+   "character": {
+    "name": "Daneglesack",
+    "race": "Human",
+    "class": "Warrior",
+    "active_spec_name": "Arms",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 14925,
+    "region": "us",
+    "realm": "Blackrock",
+    "last_crawled_at": "2026-09-18T08:08:24.000Z",
+    "profile_url": "https://raider.io/characters/us/blackrock/Daneglesack",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Forgefiend",
+    "race": "Human",
+    "class": "Death Knight",
+    "active_spec_name": "Unholy",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 15540,
+    "region": "us",
+    "realm": "Area 52",
+    "last_crawled_at": "2026-08-24T08:08:04.000Z",
+    "profile_url": "https://raider.io/characters/us/area-52/Forgefiend",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Airmet",
+    "race": "Worgen",
+    "class": "Warrior",
+    "active_spec_name": "Fury",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 14655,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-08-18T17:00:04.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Airmet",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Chadweck",
+    "race": "Pandaren",
+    "class": "Monk",
+    "active_spec_name": "Brewmaster",
+    "active_spec_role": "TANK",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 24650,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-17T08:01:08.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Chadweck",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Blackjeezy",
+    "race": "Human",
+    "class": "Paladin",
+    "active_spec_name": "Holy",
+    "active_spec_role": "HEALING",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 9015,
+    "region": "us",
+    "realm": "Bleeding Hollow",
+    "last_crawled_at": "2026-09-20T02:59:29.000Z",
+    "profile_url": "https://raider.io/characters/us/bleeding-hollow/Blackjeezy",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Dazzlenovak",
+    "race": "Haranir",
+    "class": "Hunter",
+    "active_spec_name": "Beast Mastery",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 20725,
+    "region": "us",
+    "realm": "Zul'jin",
+    "last_crawled_at": "2026-08-05T04:29:35.000Z",
+    "profile_url": "https://raider.io/characters/us/zuljin/Dazzlenovak",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Canedru",
+    "race": "Night Elf",
+    "class": "Druid",
+    "active_spec_name": "Balance",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 28635,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-20T06:30:26.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Canedru",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Pirri",
+    "race": "Night Elf",
+    "class": "Druid",
+    "active_spec_name": "Guardian",
+    "active_spec_role": "TANK",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 10590,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-08-05T04:29:35.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Pirri",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Lamorakk",
+    "race": "Blood Elf",
+    "class": "Warrior",
+    "active_spec_name": "Fury",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "horde",
+    "achievement_points": 11770,
+    "region": "us",
+    "realm": "Frostwolf",
+    "last_crawled_at": "2026-09-05T16:25:15.000Z",
+    "profile_url": "https://raider.io/characters/us/frostwolf/Lamorakk",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Odeinn",
+    "race": "Draenei",
+    "class": "Shaman",
+    "active_spec_name": "Restoration",
+    "active_spec_role": "HEALING",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 14925,
+    "region": "us",
+    "realm": "Blackrock",
+    "last_crawled_at": "2026-09-16T12:08:14.000Z",
+    "profile_url": "https://raider.io/characters/us/blackrock/Odeinn",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 2,
+   "character": {
+    "name": "Lockenroll",
+    "race": "Pandaren",
+    "class": "Warlock",
+    "active_spec_name": "Demonology",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 18730,
+    "region": "us",
+    "realm": "Kil'jaeden",
+    "last_crawled_at": "2026-08-30T23:33:40.000Z",
+    "profile_url": "https://raider.io/characters/us/kiljaeden/Lockenroll",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Grandpa",
+    "race": "Dracthyr",
+    "class": "Evoker",
+    "active_spec_name": "Preservation",
+    "active_spec_role": "HEALING",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 23290,
+    "region": "us",
+    "realm": "Auchindoun",
+    "last_crawled_at": "2026-08-05T04:29:35.000Z",
+    "profile_url": "https://raider.io/characters/us/auchindoun/Grandpa",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Tooperina",
+    "race": "Night Elf",
+    "class": "Demon Hunter",
+    "active_spec_name": "Devourer",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 14255,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-08-05T04:29:35.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Tooperina",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Sovoked",
+    "race": "Dracthyr",
+    "class": "Evoker",
+    "active_spec_name": "Augmentation",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 21565,
+    "region": "us",
+    "realm": "Alleria",
+    "last_crawled_at": "2026-08-24T07:06:48.000Z",
+    "profile_url": "https://raider.io/characters/us/alleria/Sovoked",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Tooperocks",
+    "race": "Orc",
+    "class": "Warlock",
+    "active_spec_name": "Affliction",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "horde",
+    "achievement_points": 14055,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-08-05T04:29:35.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Tooperocks",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Sneakyhigh",
+    "race": "Mechagnome",
+    "class": "Rogue",
+    "active_spec_name": "Subtlety",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 21315,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-07-24T06:01:22.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Sneakyhigh",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 2,
+   "character": {
+    "name": "Girthkong",
+    "race": "Kul Tiran",
+    "class": "Druid",
+    "active_spec_name": "Balance",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 21495,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-07-27T12:20:23.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Girthkong",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Oldcroc",
+    "race": "Human",
+    "class": "Warrior",
+    "active_spec_name": "Arms",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 15650,
+    "region": "us",
+    "realm": "Area 52",
+    "last_crawled_at": "2026-09-19T13:13:27.000Z",
+    "profile_url": "https://raider.io/characters/us/area-52/Oldcroc",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Dew",
+    "race": "Haranir",
+    "class": "Shaman",
+    "active_spec_name": "Elemental",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 6765,
+    "region": "us",
+    "realm": "Windrunner",
+    "last_crawled_at": "2026-09-19T11:30:45.000Z",
+    "profile_url": "https://raider.io/characters/us/windrunner/Dew",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Rakurd",
+    "race": "Dwarf",
+    "class": "Warlock",
+    "active_spec_name": "Demonology",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 18935,
+    "region": "us",
+    "realm": "Sargeras",
+    "last_crawled_at": "2026-09-16T12:08:37.000Z",
+    "profile_url": "https://raider.io/characters/us/sargeras/Rakurd",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 6,
+   "character": {
+    "name": "Ravth",
+    "race": "Human",
+    "class": "Mage",
+    "active_spec_name": "Arcane",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 28665,
+    "region": "us",
+    "realm": "Stormrage",
+    "last_crawled_at": "2026-09-18T22:34:15.000Z",
+    "profile_url": "https://raider.io/characters/us/stormrage/Ravth",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 9,
+   "character": {
+    "name": "Anthonpro",
+    "race": "Worgen",
+    "class": "Warrior",
+    "active_spec_name": "Fury",
+    "active_spec_role": "DPS",
+    "gender": "male",
+    "faction": "alliance",
+    "achievement_points": 575,
+    "region": "us",
+    "realm": "Ragnaros",
+    "last_crawled_at": "2026-09-18T09:51:11.000Z",
+    "profile_url": "https://raider.io/characters/us/ragnaros/Anthonpro",
+    "profile_banner": "alliancebanner1"
+   }
+  }
+ ]
+}

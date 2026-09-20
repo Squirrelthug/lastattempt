@@ -26,6 +26,7 @@ import json
 import re
 import shutil
 import sys
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
@@ -304,6 +305,100 @@ def load_pages() -> dict[str, dict]:
     return pages
 
 
+# ---------------------------------------------------------------- guilds
+
+RAIDERIO = "https://raider.io/api/v1"
+MIDNIGHT_EXPANSION_ID = 11
+
+
+def _get_json(url: str, cache: Path, offline: bool):
+    """Fetch JSON with a committed cache, same contract as the podcast feed."""
+    if not offline:
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "lastattempt.net build"})
+            with urllib.request.urlopen(req, timeout=20) as r:
+                raw = r.read()
+            data = json.loads(raw)
+            cache.parent.mkdir(parents=True, exist_ok=True)
+            cache.write_text(json.dumps(data, indent=1), encoding="utf-8")
+            return data
+        except Exception as e:  # noqa: BLE001
+            log(f"fetch failed for {url} ({e}); using cache")
+    if cache.exists():
+        return json.loads(cache.read_text(encoding="utf-8"))
+    return None
+
+
+def load_raid_names(offline: bool) -> dict[str, dict]:
+    data = _get_json(f"{RAIDERIO}/raiding/static-data?expansion_id={MIDNIGHT_EXPANSION_ID}",
+                     DATA / "raids.json", offline) or {}
+    out = {}
+    for i, r in enumerate(data.get("raids", [])):
+        name = r["name"].replace("MN Tier 1", "Midnight Tier 1")
+        out[r["slug"]] = {"name": name, "order": i, "bosses": len(r.get("encounters", []))}
+    return out
+
+
+def load_guilds(offline: bool, raids: dict[str, dict]) -> list[dict]:
+    guilds = []
+    for p in sorted((CONTENT / "guilds").glob("*.md")):
+        meta, body = parse_front_matter(p.read_text(encoding="utf-8"))
+        slug = meta.get("slug") or p.stem
+        q = urllib.parse.urlencode({"region": meta["region"], "realm": meta["realm"], "name": meta["name"],
+                                    "fields": "raid_progression,raid_rankings,members"})
+        prof = _get_json(f"{RAIDERIO}/guilds/profile?{q}", DATA / "guilds" / f"{slug}.json", offline) or {}
+        progression = []
+        for raid_slug, prog in (prof.get("raid_progression") or {}).items():
+            rank = (prof.get("raid_rankings") or {}).get(raid_slug, {})
+            # Best difficulty reached, and its ranks.
+            if prog.get("mythic_bosses_killed"):
+                diff = "mythic"
+            elif prog.get("heroic_bosses_killed"):
+                diff = "heroic"
+            else:
+                diff = "normal"
+            info = raids.get(raid_slug, {"name": raid_slug.replace("-", " ").title(), "order": 99})
+            progression.append({
+                "slug": raid_slug,
+                "name": info["name"],
+                "order": info["order"],
+                "summary": prog.get("summary", ""),
+                "total": prog.get("total_bosses", 0),
+                "normal": prog.get("normal_bosses_killed", 0),
+                "heroic": prog.get("heroic_bosses_killed", 0),
+                "mythic": prog.get("mythic_bosses_killed", 0),
+                "difficulty": diff,
+                "world": rank.get(diff, {}).get("world", 0),
+                "region_rank": rank.get(diff, {}).get("region", 0),
+                "realm_rank": rank.get(diff, {}).get("realm", 0),
+            })
+        progression.sort(key=lambda r: r["order"], reverse=True)  # newest tier first
+        members = prof.get("members") or []
+        crawled = prof.get("last_crawled_at")
+        links = [(k, meta[k]) for k in ("website", "discord", "twitch", "youtube", "x", "raiderio",
+                                        "wowprogress", "warcraftlogs", "guildsofwow", "armory") if meta.get(k)]
+        labels = {"website": "Website", "discord": "Discord", "twitch": "Twitch", "youtube": "YouTube", "x": "X",
+                  "raiderio": "Raider.IO", "wowprogress": "WoWProgress", "warcraftlogs": "Warcraft Logs",
+                  "guildsofwow": "Guilds of WoW", "armory": "Armory"}
+        guilds.append({
+            **meta,
+            "slug": slug,
+            "url": f"/guilds/{slug}/",
+            "order": int(meta.get("order", 99)),
+            "body_html": md(body),
+            "progression": progression,
+            "current": progression[0] if progression else None,
+            "member_count": len(members),
+            "faction": prof.get("faction", meta.get("faction", "")).title(),
+            "realm": prof.get("realm", meta.get("realm")),
+            "profile_url": prof.get("profile_url", meta.get("raiderio", "")),
+            "crawled": dt.datetime.fromisoformat(crawled.replace("Z", "+00:00")) if crawled else None,
+            "links": [{"key": k, "label": labels[k], "url": u} for k, u in links],
+        })
+    guilds.sort(key=lambda g: g["order"])
+    return guilds
+
+
 # ---------------------------------------------------------------- render
 
 def make_env(site: dict) -> Environment:
@@ -341,6 +436,8 @@ def build(offline: bool, drafts: bool) -> None:
     episodes = merge_episodes(feed_eps, notes)
     articles = load_articles(drafts)
     pages = load_pages()
+    raids = load_raid_names(offline)
+    guilds = load_guilds(offline, raids)
 
     published = [e for e in episodes if e["published"]]
     stats = {
@@ -348,6 +445,7 @@ def build(offline: bool, drafts: bool) -> None:
         "first_episode_date": min((e["date"] for e in published), default=None),
         "latest_episode_date": max((e["date"] for e in published), default=None),
         "article_count": len(articles),
+        "guild_count": len(guilds),
     }
     latest = episodes[0] if episodes else None
     latest_with_notes = next((e for e in episodes if e["notes"]), None)
@@ -359,7 +457,7 @@ def build(offline: bool, drafts: bool) -> None:
     shutil.copytree(STATIC, DIST, dirs_exist_ok=True)
 
     env = make_env(site)
-    ctx = {"show": show, "stats": stats, "cast": cast}
+    ctx = {"show": show, "stats": stats, "cast": cast, "guilds": guilds}
 
     def render(template: str, path: str, **kw) -> None:
         tpl = env.get_template(template)
@@ -374,6 +472,9 @@ def build(offline: bool, drafts: bool) -> None:
     for e in episodes:
         render("episode.html", e["url"], episode=e)
     render("listen.html", "/listen/", latest=latest)
+    render("guilds.html", "/guilds/")
+    for g in guilds:
+        render("guild.html", g["url"], guild=g)
     render("press.html", "/press/")
     render("contact.html", "/contact/")
     render("cast.html", "/cast/")
@@ -384,12 +485,13 @@ def build(offline: bool, drafts: bool) -> None:
     # Article RSS feed
     render("feed.xml", "/feed.xml", articles=articles[:20], rfc2822=rfc2822)
     # Sitemap
-    urls = ["/", "/articles/", "/episodes/", "/listen/", "/press/", "/contact/", "/cast/"]
+    urls = ["/", "/articles/", "/episodes/", "/guilds/", "/listen/", "/press/", "/contact/", "/cast/"]
     urls += [f"/{s}/" for s in pages] + [a["url"] for a in articles] + [e["url"] for e in episodes]
+    urls += [g["url"] for g in guilds]
     render("sitemap.xml", "/sitemap.xml", urls=urls)
 
     log(f"built {len(articles)} articles, {len(episodes)} episodes ({stats['episode_count']} published), "
-        f"{len(pages)} pages -> {DIST}")
+        f"{len(pages)} pages, {len(guilds)} guilds -> {DIST}")
 
 
 if __name__ == "__main__":

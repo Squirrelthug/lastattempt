@@ -16,12 +16,12 @@
         <h3>One line</h3>
         <div class="boilerplate"><p>{{ site.name }} is a World of Warcraft media project built around a weekly guildcast and written commentary from players who raid, push keys, and follow the game closely.</p></div>
         <h3 style="margin-top:1.5rem">Short</h3>
-        <div class="boilerplate"><p>{{ site.name }} started in February 2026 as the {{ site.show_name }}, a weekly World of Warcraft podcast hosted by {{ site.author }} and recorded with members of the guild {{ site.guild }}. Each episode covers the week's Warcraft news, the Race to World First and esports, patch and expansion updates, and the practical reality of mythic progression — from the perspective of people actually doing it. {{ site.name }} has since expanded into written commentary on Retail WoW, World of Warcraft: Forever, and the wider Warcraft community at lastattempt.net.</p></div>
+        <div class="boilerplate"><p>{{ site.name }} started in February 2026 as the {{ site.show_name }}, a weekly World of Warcraft podcast hosted by {{ site.author }} with co-hosts and guests from the Last Attempt community. Each episode covers the week's Warcraft news, the Race to World First and esports, patch and expansion updates, and the practical reality of raiding and Mythic+ — from the perspective of people actually doing it. {{ site.name }} has since expanded into written commentary on Retail WoW and World of Warcraft: Forever, and a Guild Spotlight that gives guilds across the community a place to tell their story, at lastattempt.net.</p></div>
         <h3 style="margin-top:1.5rem">Long</h3>
         <div class="boilerplate">
-          <p>{{ site.name }} is an independent World of Warcraft media project. It began in February 2026 as the {{ site.show_name }}, a weekly show hosted by {{ site.author }} with co-hosts and guests drawn from the guild {{ site.guild }}. The show's premise is simple: cover the week in Warcraft — news, patch notes, developer communication, the Race to World First, Mythic+ and PvP esports, and community discussion — through the eyes of a guild that is living it every raid night.</p>
+          <p>{{ site.name }} is an independent World of Warcraft media project. It began in February 2026 as the {{ site.show_name }}, a weekly show hosted by {{ site.author }} with co-hosts and guests from the Last Attempt community. The show's premise is simple: cover the week in Warcraft — news, patch notes, developer communication, the Race to World First, Mythic+ and PvP esports, and community discussion — through the eyes of people who are living it every raid night.</p>
           <p>{{ site.name }}'s editorial approach is to separate what Blizzard has confirmed, what the hosts think, what the community is saying, and what nobody knows yet. It aims to contextualize Warcraft information rather than repeat announcements, and to be candid about the difference between understanding a system and having personally theorycrafted it.</p>
-          <p>{{ site.name }} publishes the podcast on Spotify, Apple Podcasts, and other podcast platforms, and written articles at lastattempt.net. It is not affiliated with or endorsed by Blizzard Entertainment.</p>
+          <p>{{ site.name }} is a community first: an open Discord, an in-game community, and a Guild Spotlight on the site that features guilds of every kind — progression, social, stream-anchored — rather than promoting one. The podcast is published on Spotify, Apple Podcasts, YouTube and other platforms, with written articles at lastattempt.net. {{ site.name }} is not affiliated with or endorsed by Blizzard Entertainment.</p>
         </div>
       </section>
 
@@ -70,8 +70,8 @@
           <li><span>First episode</span><span>{{ stats.first_episode_date|date }}</span></li>
           <li><span>Episodes</span><span>{{ stats.episode_count }} (as of {{ stats.latest_episode_date|date('short') }})</span></li>
           <li><span>Host</span><span>{{ site.author }}</span></li>
-          <li><span>Guild</span><span>{{ site.guild }}</span></li>
-          <li><span>Platforms</span><span><a href="{{ site.spotify_show_url }}" rel="noopener">Spotify</a>, <a href="{{ site.apple_url }}" rel="noopener">Apple Podcasts</a>, RSS</span></li>
+          <li><span>Community</span><span><a href="{{ (site.socials|selectattr('key','equalto','discord')|first).url }}" rel="noopener">Discord</a> · in-game code {{ site.community_code }}</span></li>
+          <li><span>Platforms</span><span><a href="{{ site.spotify_show_url }}" rel="noopener">Spotify</a>, <a href="{{ site.apple_url }}" rel="noopener">Apple Podcasts</a>, <a href="https://www.youtube.com/@LastAttemptPod" rel="noopener">YouTube</a>, RSS</span></li>
           <li><span>Website</span><span>lastattempt.net</span></li>
           <li><span>Press</span><span><a href="mailto:{{ site.press_email }}">{{ site.press_email }}</a></span></li>
         </ul>

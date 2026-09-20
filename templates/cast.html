@@ -6,7 +6,7 @@
   <header class="page-head">
     <span class="eyebrow">Who you're listening to</span>
     <h1>Cast</h1>
-    <p class="lede">The show is recorded with members and friends of the guild {{ site.guild }}. Regulars below; guests rotate week to week.</p>
+    <p class="lede">The show is recorded with players from across the Last Attempt community. Regulars below; guests rotate week to week.</p>
   </header>
   {% for group in ['host', 'cohost', 'guest'] %}
   {% set people = cast.people|selectattr('role', 'equalto', group)|list %}

@@ -7,7 +7,7 @@ description: Last Attempt is an independent World of Warcraft media project buil
 
 ## The short version
 
-Last Attempt started in February 2026 as the **Last Attempt Guildcast**: a weekly show recorded with members of the guild **Second Attempt**, covering the week in Warcraft from inside a mythic progression guild. Thirty-odd episodes later it is still weekly, and it has grown a second output — the articles on this site.
+Last Attempt started in February 2026 as the **Last Attempt Guildcast**: a weekly show covering the week in Warcraft from inside the game — raid nights, keys, patch notes, and the community around all of it. Thirty-odd episodes later it is still weekly, and it has grown into more: the articles on this site, a [Guild Spotlight](/guilds/), and a community Discord.
 
 The show covers what happened in Warcraft that week: news, patch notes, developer communication, the Race to World First, Mythic+ and PvP esports, community discussion, and whatever our own raid nights taught us. The articles are where we slow down and think about one thing at a time.
 
@@ -28,12 +28,17 @@ We try to keep four things visibly separate:
 
 We also try to be honest about expertise. The host started in Wrath of the Lich King and has played every expansion since; the whole cast knows the game's systems well. But knowing enough to analyze what a change means is not the same as having personally run the simulations that settle the optimal answer. When the answer belongs to a specialist, we'll point at the specialist.
 
+## The community
+
+Last Attempt is not one guild. The host raids with Second Attempt, and the show's name comes from a Vanilla-era guild in that family tree — but the point of the community is to make room for *every* guild: progression, social, RP, stream-anchored, keys-only. The [Guild Spotlight](/guilds/) exists to tell those stories, with live progression data and the guild's own words. The [Discord](https://discord.gg/7hrBH5G7Hf) and the in-game community (code `5pRrZnqfXMl`) are open to anyone.
+
 ## Where things live
 
 - **Podcast:** hosted on Spotify, distributed to Apple Podcasts and everywhere else. This site links to it rather than re-hosting it. See [Listen](/listen/).
 - **Articles:** published here, with an [RSS feed](/feed.xml).
 - **Episode pages:** show notes, segment breakdowns, and audio for every episode in the [archive](/episodes/).
-- **Elsewhere:** see the [contact page](/contact/) for social links.
+- **Guilds:** the [Guild Spotlight](/guilds/).
+- **Elsewhere:** [YouTube](https://www.youtube.com/@LastAttemptPod), [Discord](https://discord.gg/7hrBH5G7Hf), [Twitch](https://www.twitch.tv/squirrelthug_), [Instagram](https://www.instagram.com/the_last.attempt/).
 
 ## Independence
 

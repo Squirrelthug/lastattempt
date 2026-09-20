@@ -270,3 +270,32 @@ blockquote { margin: 1.5rem 0; padding: .5rem 0 .5rem 1.25rem; border-left: 3px 
 .site-footer li a:hover { color: var(--gold-2); }
 .footer-legal { margin-top: 2rem; padding-top: 1.25rem; border-top: 1px solid var(--line); }
 .footer-legal p { color: var(--muted); font-size: .8rem; margin: 0; }
+
+/* ---------- guild spotlight */
+.guild-grid { display: grid; gap: 1.25rem; }
+@media (min-width: 720px) { .guild-grid { grid-template-columns: 1fr 1fr; } }
+.guild-card { padding: 1.4rem 1.5rem; display: flex; flex-direction: column; gap: .9rem; }
+.guild-card h2 { margin: .2rem 0 .3rem; font-size: 1.5rem; }
+.guild-card h2 a { color: var(--text); }
+.guild-card h2 a:hover { color: var(--gold-2); text-decoration: none; }
+.guild-card .tagline { color: var(--text-2); margin: 0; flex: 1; }
+.guild-card .btn { align-self: flex-start; }
+.prog-row { display: flex; justify-content: space-between; align-items: center; gap: 1rem; padding: .6rem .9rem; background: var(--surface-2); border-radius: 8px; font-size: .92rem; }
+.prog-name { font-weight: 600; }
+.prog-summary { font-family: var(--font-display); font-weight: 700; letter-spacing: .04em; white-space: nowrap; }
+.prog-summary.normal { color: var(--text-2); }
+.prog-summary.heroic { color: var(--gold-2); }
+.prog-summary.mythic { color: var(--ember); }
+.prog-table { display: grid; gap: .75rem; }
+.prog { padding: 1rem 1.1rem; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); }
+.prog.current { border-color: var(--gold-dim); }
+.prog-top { display: flex; justify-content: space-between; align-items: center; gap: 1rem; margin-bottom: .7rem; flex-wrap: wrap; }
+.prog-top .pill { margin-left: .4rem; vertical-align: middle; }
+.prog-bars { display: grid; gap: .35rem; }
+.bar { display: grid; grid-template-columns: 1.2rem 1fr 3rem; align-items: center; gap: .6rem; font-size: .8rem; color: var(--muted); }
+.bar i { display: block; height: 8px; background: var(--line); border-radius: 999px; position: relative; overflow: hidden; }
+.bar i::before { content: ""; position: absolute; top: 0; left: 0; bottom: 0; width: var(--p, 0%); background: var(--text-2); border-radius: 999px; }
+.bar.heroic i::before { background: var(--gold); }
+.bar.mythic i::before { background: var(--ember); }
+.bar b { font-weight: 500; text-align: right; color: var(--text-2); }
+.prog-ranks { margin-top: .6rem; }
