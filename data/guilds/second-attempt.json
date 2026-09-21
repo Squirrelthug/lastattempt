@@ -53,8 +53,8 @@
     "realm": 97
    },
    "mythic": {
-    "world": 2332,
-    "region": 707,
+    "world": 2414,
+    "region": 710,
     "realm": 35
    }
   },
@@ -65,8 +65,8 @@
     "realm": 58
    },
    "heroic": {
-    "world": 8684,
-    "region": 2847,
+    "world": 8826,
+    "region": 2850,
     "realm": 112
    },
    "mythic": {
@@ -2673,10 +2673,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 28655,
+    "achievement_points": 28665,
     "region": "us",
     "realm": "Stormrage",
-    "last_crawled_at": "2026-09-16T12:10:47.000Z",
+    "last_crawled_at": "2026-09-21T19:08:37.000Z",
     "profile_url": "https://raider.io/characters/us/stormrage/Ravfu",
     "profile_banner": "alliancebanner1"
    }
@@ -2975,14 +2975,14 @@
     "name": "Birchplease",
     "race": "Kul Tiran",
     "class": "Druid",
-    "active_spec_name": "Guardian",
-    "active_spec_role": "TANK",
+    "active_spec_name": "Balance",
+    "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 8965,
+    "achievement_points": 9015,
     "region": "us",
     "realm": "Bleeding Hollow",
-    "last_crawled_at": "2026-09-07T10:08:31.000Z",
+    "last_crawled_at": "2026-09-21T19:15:35.000Z",
     "profile_url": "https://raider.io/characters/us/bleeding-hollow/Birchplease",
     "profile_banner": "alliancebanner1"
    }
@@ -3195,10 +3195,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 22265,
+    "achievement_points": 22285,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-09-20T23:06:39.000Z",
+    "last_crawled_at": "2026-09-21T19:40:18.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Dlm",
     "profile_banner": "alliancebanner1"
    }
@@ -3645,10 +3645,10 @@
     "active_spec_role": "HEALING",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 22230,
+    "achievement_points": 22285,
     "region": "us",
     "realm": "Uldum",
-    "last_crawled_at": "2026-09-20T13:33:16.000Z",
+    "last_crawled_at": "2026-09-21T20:13:18.000Z",
     "profile_url": "https://raider.io/characters/us/uldum/Khee",
     "profile_banner": "alliancebanner1"
    }
