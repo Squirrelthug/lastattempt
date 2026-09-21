@@ -12,10 +12,10 @@
    "title": "Season 2 Great Vault & Mythic 0 Changes",
    "tab": "",
    "category": "News",
-   "synopsis": "Blizzard has locked in exactly how loot works during Season 2's pre-season week — and the old \"skip the vault for a bonus roll\" trick is dead.",
+   "synopsis": "Blizzard has locked in exactly how loot works during Season 2's pre-season week, and the old \"skip the vault for a bonus roll\" trick is dead.",
    "points": [
     {
-     "text": "Patch 12.1 launches August 11 with a pre-season week before Season 2 formally begins August 18, and Blizzard has confirmed exactly how loot works during that gap. The first Great Vault won't offer Bonus Rolls, closing the loophole where players skipped a low-item-level vault slot for another shot at loot — the World row caps at Champion 3/6 that week. Bonus Rolls return the following week (August 25) once you've unlocked at least three panes.",
+     "text": "Patch 12.1 launches August 11 with a pre-season week before Season 2 formally begins August 18, and Blizzard has confirmed exactly how loot works during that gap. The first Great Vault won't offer Bonus Rolls, closing the loophole where players skipped a low-item-level vault slot for another shot at loot: the World row caps at Champion 3/6 that week. Bonus Rolls return the following week (August 25) once you've unlocked at least three panes.",
      "sub": ""
     },
     {
@@ -23,7 +23,7 @@
      "sub": ""
     },
     {
-     "text": "Week of Aug 11 (pre-season): Heroic & Mythic 0 dungeons live, Mythic 0 on a weekly lockout dropping Champion 1/6 (292 ilvl) gear; Delves 1–11 plus \"?\" Nemesis difficulty open (no Bountiful Delves yet); Great Vault credit starts accruing.",
+     "text": "Week of Aug 11 (pre-season): Heroic & Mythic 0 dungeons live, Mythic 0 on a weekly lockout dropping Champion 1/6 (292 ilvl) gear; Delves 1 to 11 plus \"?\" Nemesis difficulty open (no Bountiful Delves yet); Great Vault credit starts accruing.",
      "sub": ""
     },
     {
@@ -37,15 +37,15 @@
    ],
    "questions": [
     "With no Bonus Roll on the first vault, is it even worth doing extra vault activities that week, or should the guild just coast into raid lockouts?",
-    "Mythic 0 only resets weekly for that first week — does that change how we approach alt gearing before Season 2 fully opens?"
+    "Mythic 0 only resets weekly for that first week. Does that change how we approach alt gearing before Season 2 fully opens?"
    ],
    "sources": [
     {
-     "label": "Source — No Bonus Rolls from First Season 2 Great Vault (Wowhead)",
+     "label": "Source, No Bonus Rolls from First Season 2 Great Vault (Wowhead)",
      "url": "https://www.wowhead.com/news/no-bonus-rolls-from-first-season-2-great-vault-more-season-2-unlock-information-382333?utm_source=discord-webhook"
     },
     {
-     "label": "Source — Mythic 0 and Great Vault Clarifications (Wowhead)",
+     "label": "Source: Mythic 0 and Great Vault Clarifications (Wowhead)",
      "url": "https://www.wowhead.com/news/mythic-0-and-great-vault-clarifications-during-week-0-of-midnight-season-2-382296?utm_source=discord-webhook"
     }
    ],
@@ -55,10 +55,10 @@
    "title": "The Venomous Abyss Raid Preview",
    "tab": "",
    "category": "News",
-   "synopsis": "The Venomous Abyss, Midnight's next raid, opens August 18 with eight bosses across five difficulties — but Story Mode won't be available until the following week.",
+   "synopsis": "The Venomous Abyss, Midnight's next raid, opens August 18 with eight bosses across five difficulties, but Story Mode won't be available until the following week.",
    "points": [
     {
-     "text": "Blizzard confirmed the full unlock schedule: Normal, Heroic, Mythic, and Raid Finder Wing 1 go live August 18, with Story Mode and RF Wing 2 following August 25, and the remaining RF wings staggering out through September 8. The raid picks up right where the patch's story leaves off — Zul'jan has freed Ula'tek's broods from their ancient prison, and it's on players to stop her before she's fully unleashed. Raid Finder requires a minimum item level of 273 to queue.",
+     "text": "Blizzard confirmed the full unlock schedule: Normal, Heroic, Mythic, and Raid Finder Wing 1 go live August 18, with Story Mode and RF Wing 2 following August 25, and the remaining RF wings staggering out through September 8. The raid picks up right where the patch's story leaves off: Zul'jan has freed Ula'tek's broods from their ancient prison, and it's on players to stop her before she's fully unleashed. Raid Finder requires a minimum item level of 273 to queue.",
      "sub": ""
     },
     {
@@ -74,21 +74,21 @@
      "sub": ""
     },
     {
-     "text": "Tier sets are up: full class armor previews are live — Resto Druid's is Bark of the Enigmatic Dreamwatcher.",
+     "text": "Tier sets are up: full class armor previews are live, Resto Druid's is Bark of the Enigmatic Dreamwatcher.",
      "sub": ""
     }
    ],
    "questions": [
-    "Story Mode getting held back a week — good call from Blizzard to protect the Mythic race, or an annoying delay for folks who just want the story?",
-    "Eight bosses again, same as Voidspire — are we ready to call this tier's difficulty yet, or is that a Hall of Fame conversation for later?"
+    "Story Mode getting held back a week: good call from Blizzard to protect the Mythic race, or an annoying delay for folks who just want the story?",
+    "Eight bosses again, same as Voidspire. Are we ready to call this tier's difficulty yet, or is that a Hall of Fame conversation for later?"
    ],
    "sources": [
     {
-     "label": "Source — The Venomous Abyss Raid Preview and Schedule (Wowhead)",
+     "label": "Source: The Venomous Abyss Raid Preview and Schedule (Wowhead)",
      "url": "https://www.wowhead.com/news/the-venomous-abyss-raid-preview-and-schedule-story-mode-delayed-one-week-382291?utm_source=discord-webhook"
     },
     {
-     "label": "Source — Curse of Ula'tek: The Venomous Abyss Raid Goes Live August 18 (Blizzard)",
+     "label": "Source, Curse of Ula'tek: The Venomous Abyss Raid Goes Live August 18 (Blizzard)",
      "url": "https://worldofwarcraft.blizzard.com/en-us/news/24294062"
     }
    ],
@@ -98,10 +98,10 @@
    "title": "New Lairs Feature: Tidebound Grotto",
    "tab": "",
    "category": "News",
-   "synopsis": "Lairs — Blizzard's new spin on world bosses — debut with the Tidebound Grotto, but Blizzard had to walk back an early Mythic-loot exploit before it even launched.",
+   "synopsis": "Lairs, Blizzard's new spin on world bosses, debut with the Tidebound Grotto, but Blizzard had to walk back an early Mythic-loot exploit before it even launched.",
    "points": [
     {
-     "text": "Lairs are instanced, scalable world boss fights: solo players can queue into World difficulty and get folded into a group of 5–40, while premade groups can tackle Normal, Heroic, or a flexible 15–25 player Mythic. The first one, Tidebound Grotto, has players swim beneath the Coiled Isle to fight the naga sorceress Nymrissa Wavecaller. Blizzard originally listed all difficulties as available August 11 — which would have let split-raid guilds grab Mythic-quality loot a full week before Season 2 began — but that's now been corrected so only World difficulty unlocks August 11, with Normal through Mythic following August 18.",
+     "text": "Lairs are instanced, scalable world boss fights: solo players can queue into World difficulty and get folded into a group of 5 to 40, while premade groups can tackle Normal, Heroic, or a flexible 15 to 25 player Mythic. The first one, Tidebound Grotto, has players swim beneath the Coiled Isle to fight the naga sorceress Nymrissa Wavecaller. Blizzard originally listed all difficulties as available August 11, which would have let split-raid guilds grab Mythic-quality loot a full week before Season 2 began, but that's now been corrected so only World difficulty unlocks August 11, with Normal through Mythic following August 18.",
      "sub": ""
     },
     {
@@ -123,15 +123,15 @@
    ],
    "questions": [
     "Now that the early-Mythic-loot window is closed, does Tidebound Grotto matter for our comp, or is it just an alt-gearing errand?",
-    "Solo-queueing into a 40-person World-difficulty pug sounds chaotic — anyone actually excited to try that, or is everyone doing the premade Mythic version?"
+    "Solo-queueing into a 40-person World-difficulty pug sounds chaotic, anyone actually excited to try that, or is everyone doing the premade Mythic version?"
    ],
    "sources": [
     {
-     "label": "Source — Lairs Preview in Patch 12.1 (Wowhead)",
+     "label": "Source: Lairs Preview in Patch 12.1 (Wowhead)",
      "url": "https://www.wowhead.com/news/lairs-preview-in-patch-12-1-world-difficulty-solo-queue-382309?utm_source=discord-webhook"
     },
     {
-     "label": "Source — [Updated] Flexible Mythic Raid Lair NOT Available Before Season 2 Begins (Wowhead)",
+     "label": "Source: [Updated] Flexible Mythic Raid Lair NOT Available Before Season 2 Begins (Wowhead)",
      "url": "https://www.wowhead.com/news/flexible-mythic-raid-available-before-season-2-begins-382289?utm_source=discord-webhook"
     }
    ],
@@ -144,25 +144,25 @@
    "synopsis": "Patch 12.1 makes housing more shareable with a new Blueprints system, and adds two more Silvermoon campsites to unlock through weekly quests.",
    "points": [
     {
-     "text": "Blueprints let players save and import full housing layouts through a dedicated UI button, with up to 50 saved per account and automatic backups whenever you import something new. Exterior and full-build blueprints stay faction-specific, but interiors are universal and can be shared across the divide. The catch: blueprint codes aren't permanent — they're just a server-side reference, so if the original creator deletes their blueprint, everyone else's copy of that code stops working.",
+     "text": "Blueprints let players save and import full housing layouts through a dedicated UI button, with up to 50 saved per account and automatic backups whenever you import something new. Exterior and full-build blueprints stay faction-specific, but interiors are universal and can be shared across the divide. The catch: blueprint codes aren't permanent, they're just a server-side reference, so if the original creator deletes their blueprint, everyone else's copy of that code stops working.",
      "sub": ""
     },
     {
-     "text": "Separately, two new Warband campsites are unlockable in Silvermoon City through weekly quests already familiar to most players. The bright version comes from repeating Lady Liadrin's \"Unity Against the Void\" quest for Silvermoon Citizen's Emblems, while the void-tinged version comes from Vareesa Windrunner's new \"Trailing Xal'atath\" collection quest — each needs four turn-ins to unlock.",
+     "text": "Separately, two new Warband campsites are unlockable in Silvermoon City through weekly quests already familiar to most players. The bright version comes from repeating Lady Liadrin's \"Unity Against the Void\" quest for Silvermoon Citizen's Emblems, while the void-tinged version comes from Vareesa Windrunner's new \"Trailing Xal'atath\" collection quest, each needs four turn-ins to unlock.",
      "sub": ""
     }
    ],
    "questions": [
     "Anyone actually planning to build and share a blueprint, or is this mostly going to get used to grab someone else's build off Wowhead?",
-    "The void-tinged Silvermoon campsite sounds like a fun cosmetic chase — worth the weekly quest grind for you?"
+    "The void-tinged Silvermoon campsite sounds like a fun cosmetic chase, worth the weekly quest grind for you?"
    ],
    "sources": [
     {
-     "label": "Source — Using Blueprints to Save and Share Housing Layouts (Wowhead)",
+     "label": "Source: Using Blueprints to Save and Share Housing Layouts (Wowhead)",
      "url": "https://www.wowhead.com/news/using-blueprints-to-save-and-share-housing-layouts-in-patch-12-1-382303?utm_source=discord-webhook"
     },
     {
-     "label": "Source — Unlock New Warband Campsites from Weekly Quests (Wowhead)",
+     "label": "Source: Unlock New Warband Campsites from Weekly Quests (Wowhead)",
      "url": "https://www.wowhead.com/news/unlock-new-warband-campsites-from-weekly-quests-in-patch-12-1-382316?utm_source=discord-webhook"
     }
    ],
@@ -183,7 +183,7 @@
      "sub": ""
     },
     {
-     "text": "Player power: a handful of profession recipes and a couple of points for the Altar of Corrosion's outdoor talent system — basically the only non-cosmetic gain on the whole track.",
+     "text": "Player power: a handful of profession recipes and a couple of points for the Altar of Corrosion's outdoor talent system, basically the only non-cosmetic gain on the whole track.",
      "sub": ""
     },
     {
@@ -193,11 +193,11 @@
    ],
    "questions": [
     "With almost nothing but cosmetics on this track, is anyone actually going to grind it out day one, or does it wait until we're bored?",
-    "Which of the new mounts is everyone actually chasing — Skyfang, the Coiled Horror, or the spirit questline mount?"
+    "Which of the new mounts is everyone actually chasing: Skyfang, the Coiled Horror, or the spirit questline mount?"
    ],
    "sources": [
     {
-     "label": "Source — Patch 12.1 Faction Spotlight: Zul'Jarra's Forces (Wowhead)",
+     "label": "Source, Patch 12.1 Faction Spotlight: Zul'Jarra's Forces (Wowhead)",
      "url": "https://www.wowhead.com/news/patch-12-1-faction-spotlight-zuljarras-forces-382305?utm_source=discord-webhook"
     }
    ],
@@ -216,11 +216,11 @@
    ],
    "questions": [
     "Does anyone actually read these tie-in comics, or is this the first you're hearing Zul'jan's backstory?",
-    "A \"mysterious mentor\" pushing a young troll toward forbidden power — anyone want to guess who that is before we find out in-game?"
+    "A \"mysterious mentor\" pushing a young troll toward forbidden power, anyone want to guess who that is before we find out in-game?"
    ],
    "sources": [
     {
-     "label": "Source — Legacy of Rage: New World of Warcraft: Midnight Comic (Wowhead)",
+     "label": "Source, Legacy of Rage: New World of Warcraft: Midnight Comic (Wowhead)",
      "url": "https://www.wowhead.com/news/legacy-of-rage-new-world-of-warcraft-midnight-comic-382320?utm_source=discord-webhook"
     }
    ],
@@ -230,20 +230,20 @@
    "title": "Project Camelot Moves to Vendor Server",
    "tab": "",
    "category": "News",
-   "synopsis": "The mysterious Project Camelot build — widely believed to be a new take on WoW Classic — just moved from Blizzard's internal dev servers to a vendor server, a step usually reserved for external compatibility testing.",
+   "synopsis": "The mysterious Project Camelot build, widely believed to be a new take on WoW Classic, just moved from Blizzard's internal dev servers to a vendor server, a step usually reserved for external compatibility testing.",
    "points": [
     {
-     "text": "Dataminers have tracked this \"1.60 build\" since October 2025, and the move to a vendor server suggests Blizzard may be preparing to let outside partners test hardware and software compatibility — often a late-stage production signal. It's fueling speculation that a playable version could show up at BlizzCon 2026, similar to how Season of Discovery was showcased there in 2023.",
+     "text": "Dataminers have tracked this \"1.60 build\" since October 2025, and the move to a vendor server suggests Blizzard may be preparing to let outside partners test hardware and software compatibility, often a late-stage production signal. It's fueling speculation that a playable version could show up at BlizzCon 2026, similar to how Season of Discovery was showcased there in 2023.",
      "sub": ""
     }
    ],
    "questions": [
     "If Project Camelot really is \"Classic 2.0,\" what era or twist would actually get you to reroll?",
-    "BlizzCon reveal or not — is anyone even hyped for another Classic iteration at this point, or is Classic fatigue setting in?"
+    "BlizzCon reveal or not. Is anyone even hyped for another Classic iteration at this point, or is Classic fatigue setting in?"
    ],
    "sources": [
     {
-     "label": "Source — Project Camelot Moves From Dev Server to Vendor Server (Wowhead)",
+     "label": "Source: Project Camelot Moves From Dev Server to Vendor Server (Wowhead)",
      "url": "https://www.wowhead.com/classic/news/project-camelot-moves-from-dev-server-to-vendor-server-is-blizzard-planning-a-382310?utm_source=discord-webhook"
     }
    ],

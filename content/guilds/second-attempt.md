@@ -14,7 +14,7 @@ raiderio: https://raider.io/guilds/us/sargeras/Second%20Attempt
 wowprogress: https://www.wowprogress.com/guild/us/sargeras/Second+Attempt
 guildsofwow: https://guildsofwow.com/secondattempt
 armory: https://worldofwarcraft.blizzard.com/en-us/guild/us/sargeras/second-attempt
-raid_schedule: Tuesday–Thursday, 9:00–11:30 PM Pacific (Late Night team)
+raid_schedule: Tuesday to Thursday, 9:00 to 11:30 PM Pacific (Late Night team)
 recruiting: Open recruitment, all roles | consistent raiders who want a focused-but-chill Mythic group that is still pushing.
 apply: https://discord.gg/7hrBH5G7Hf
 sources: raider.io (progression, roster), Guilds of WoW profile (history, recruitment post), Last Attempt episode notes (schedule)
@@ -28,9 +28,9 @@ Like most guilds that old, it has had more than one life. A chunk of the roster 
 
 ## What it is now
 
-A Cutting Edge–focused twenty-man Mythic team that raids late: three nights a week, two hours a night, Tuesday through Thursday. That schedule is the guild's whole pitch — clear the current tier's Mythic while it's relevant without giving up your evenings. It is also, per the recruitment post, a guild that has historically fielded multiple raid teams and is open to absorbing a team that raids at a different time.
+A Cutting Edge focused twenty-man Mythic team that raids late: three nights a week, two hours a night, Tuesday through Thursday. That schedule is the guild's whole pitch: clear the current tier's Mythic while it's relevant without giving up your evenings. It is also, per the recruitment post, a guild that has historically fielded multiple raid teams and is open to absorbing a team that raids at a different time.
 
 Outside progression it behaves like a community: alt runs, friends-and-family nights, transmog farms, PvP. The show's host raids and pushes keys here, which is why the Guildcast opens with how the week's raid nights went.
 
 !!! open "Recruiting"
-    All roles are open going into Midnight Season 2. If you're a consistent raider who wants a focused-but-chill group that's still pushing, the fastest route is the Last Attempt Discord — the application link is pinned there — or reach out in game.
+    All roles are open going into Midnight Season 2. If you're a consistent raider who wants a focused-but-chill group that's still pushing, the fastest route is the Last Attempt Discord, the application link is pinned there, or reach out in game.

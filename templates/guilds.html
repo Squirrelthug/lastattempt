@@ -1,12 +1,12 @@
 {% extends "base.html" %}
 {% set title = "Guild Spotlight" %}
-{% set description = "Guilds we play in, guilds we admire, and guilds with a story worth telling — with live progression from Raider.IO." %}
+{% set description = "Guilds we play in, guilds we admire, and guilds with a story worth telling, with live progression from Raider.IO." %}
 {% block content %}
 <div class="wrap">
   <header class="page-head">
     <span class="eyebrow">Community</span>
     <h1>Guild Spotlight</h1>
-    <p class="lede">Last Attempt is a community, not a single guild. This is where we make room for the guilds in it — their history, how they raid, what they're recruiting for — with progression pulled from Raider.IO on every build. Want your guild here? <a href="/contact/">Tell us about it.</a></p>
+    <p class="lede">Last Attempt is a community, not a single guild. This is where we make room for the guilds in it: their history, how they raid, what they're recruiting for, with progression pulled from Raider.IO on every build. Want your guild here? <a href="/contact/">Tell us about it.</a></p>
   </header>
   <section class="section" style="padding-top:.5rem">
     <div class="guild-grid">
@@ -32,7 +32,7 @@
   <section class="section">
     <div class="card" style="padding:1.25rem 1.5rem">
       <h3>Get your guild featured</h3>
-      <p class="description">We're building this out one guild at a time. Progression guilds, community guilds, RP guilds, guilds that only run keys — if there's a story, we want it. Send the guild name, realm, and a couple of sentences about what makes it what it is to <a href="mailto:{{ site.contact_email }}?subject=Guild%20spotlight">{{ site.contact_email }}</a>, or drop it in the <a href="{{ (site.socials|selectattr('key','equalto','discord')|first).url if site.socials|selectattr('key','equalto','discord')|list else '/contact/' }}">Last Attempt Discord</a>.</p>
+      <p class="description">We're building this out one guild at a time. Progression guilds, community guilds, RP guilds, guilds that only run keys. If there's a story, we want it. Send the guild name, realm, and a couple of sentences about what makes it what it is to <a href="mailto:{{ site.contact_email }}?subject=Guild%20spotlight">{{ site.contact_email }}</a>, or drop it in the <a href="{{ (site.socials|selectattr('key','equalto','discord')|first).url if site.socials|selectattr('key','equalto','discord')|list else '/contact/' }}">Last Attempt Discord</a>.</p>
     </div>
   </section>
 </div>

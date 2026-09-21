@@ -5,13 +5,13 @@
 
 Two sources, same output shape:
 
-  1. NNN/docs/notes_NNN.json  (episodes 032+, written by the notes pipeline) — copied as-is.
-  2. NNN/docs/episode-notes_YYYY-MM-DD.html  (episodes 005–031, the old printed-notes page) —
+  1. NNN/docs/notes_NNN.json  (episodes 032+, written by the notes pipeline), copied over.
+  2. NNN/docs/episode-notes_YYYY-MM-DD.html  (episodes 005 to 031, the old printed-notes page),
      parsed into the JSON shape. Blue "News Item" cards become segments; gold (intro, roundtable,
      recruitment), purple (guild raiding) and green (outro) cards are skipped. The intro card's
      "Today we've got" list becomes the rundown.
 
-Then: python build.py, commit, push.
+Both go through tools/dedash.py on the way in. Then: python build.py, commit, push.
 """
 from __future__ import annotations
 
@@ -22,6 +22,9 @@ import re
 import shutil
 import sys
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from dedash import rewrite_file  # noqa: E402
 
 VODS = Path("G:/My Drive/LAVods")
 DEST = Path(__file__).resolve().parents[1] / "content" / "episodes"
@@ -114,13 +117,16 @@ def convert_html(path: Path, ep: str) -> dict:
 def import_episode(n: str) -> str:
     ep = n.zfill(3)
     src_json = VODS / ep / "docs" / f"notes_{ep}.json"
+    dest = DEST / f"notes_{ep}.json"
     if src_json.exists():
-        shutil.copy2(src_json, DEST / src_json.name)
+        shutil.copy2(src_json, dest)
+        rewrite_file(dest)  # the notes pipeline writes dashes; the site never shows them
         return f"{ep}: copied notes_{ep}.json"
     htmls = sorted(glob.glob(str(VODS / ep / "docs" / "episode-notes_*.html")))
     if htmls:
         data = convert_html(Path(htmls[0]), ep)
-        (DEST / f"notes_{ep}.json").write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
+        dest.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
+        rewrite_file(dest)
         return f"{ep}: converted {Path(htmls[0]).name} -> {len(data['items'])} segments, {len(data['intro']['rundown'])} rundown lines"
     return f"{ep}: nothing to import"
 

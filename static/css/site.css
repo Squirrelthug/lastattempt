@@ -216,7 +216,7 @@ blockquote { margin: 1.5rem 0; padding: .5rem 0 .5rem 1.25rem; border-left: 3px 
 .segments summary::-webkit-details-marker { display: none; }
 .segments summary h3 { margin: 0; font-family: var(--font-body); font-weight: 600; font-size: 1.05rem; }
 .segments summary h3::after { content: "+"; float: right; color: var(--gold); font-weight: 400; }
-.segments details[open] summary h3::after { content: "–"; }
+.segments details[open] summary h3::after { content: "×"; }
 .segments summary p { margin: 0; color: var(--text-2); font-size: .95rem; }
 .segments ul { margin: .75rem 0 0; color: var(--text-2); font-size: .95rem; }
 .segments li + li { margin-top: .35rem; }
@@ -308,7 +308,7 @@ blockquote { margin: 1.5rem 0; padding: .5rem 0 .5rem 1.25rem; border-left: 3px 
 .topic-list summary { cursor: pointer; list-style: none; color: var(--text); }
 .topic-list summary::-webkit-details-marker { display: none; }
 .topic-list summary::before { content: "+"; color: var(--gold); font-weight: 600; }
-.topic-list details[open] summary::before { content: "–"; }
+.topic-list details[open] summary::before { content: "×"; }
 .topic-list summary:hover { color: var(--gold-2); }
 .topic-body { padding: .2rem 0 .9rem 1.1rem; color: var(--text-2); }
 .topic-body .eyebrow { margin-bottom: .2rem; }

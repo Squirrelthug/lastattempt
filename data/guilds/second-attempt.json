@@ -14,7 +14,7 @@
     "realm": 88
    },
    "heroic": {
-    "world": 5815,
+    "world": 5816,
     "region": 2472,
     "realm": 103
    },
@@ -65,9 +65,9 @@
     "realm": 58
    },
    "heroic": {
-    "world": 8462,
-    "region": 2764,
-    "realm": 108
+    "world": 8646,
+    "region": 2823,
+    "realm": 111
    },
    "mythic": {
     "world": 0,
@@ -138,7 +138,7 @@
     "achievement_points": 16355,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-09-20T06:45:16.000Z",
+    "last_crawled_at": "2026-09-21T02:40:26.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Chanaa",
     "profile_banner": "alliancebanner1"
    }
@@ -1323,10 +1323,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 24965,
+    "achievement_points": 24975,
     "region": "us",
     "realm": "Blood Furnace",
-    "last_crawled_at": "2026-09-20T11:12:19.000Z",
+    "last_crawled_at": "2026-09-20T22:15:17.000Z",
     "profile_url": "https://raider.io/characters/us/blood-furnace/Quiggins",
     "profile_banner": "alliancebanner1"
    }
@@ -1611,10 +1611,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 13820,
+    "achievement_points": 13935,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-09-18T08:08:21.000Z",
+    "last_crawled_at": "2026-09-21T00:55:20.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Nhelara",
     "profile_banner": "alliancebanner1"
    }
@@ -2352,7 +2352,7 @@
     "achievement_points": 28635,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-09-20T11:01:15.000Z",
+    "last_crawled_at": "2026-09-21T03:53:22.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Canesneakz",
     "profile_banner": "alliancebanner1"
    }
@@ -2781,10 +2781,10 @@
     "active_spec_role": "HEALING",
     "gender": "female",
     "faction": "horde",
-    "achievement_points": 8970,
+    "achievement_points": 9025,
     "region": "us",
     "realm": "Bleeding Hollow",
-    "last_crawled_at": "2026-09-08T01:44:26.000Z",
+    "last_crawled_at": "2026-09-20T22:08:23.000Z",
     "profile_url": "https://raider.io/characters/us/bleeding-hollow/Pr\u00e6charound",
     "profile_banner": "hordebanner1"
    }
@@ -2856,7 +2856,7 @@
     "achievement_points": 9025,
     "region": "us",
     "realm": "Bleeding Hollow",
-    "last_crawled_at": "2026-09-20T05:29:15.000Z",
+    "last_crawled_at": "2026-09-20T23:36:29.000Z",
     "profile_url": "https://raider.io/characters/us/bleeding-hollow/Beaujob",
     "profile_banner": "alliancebanner1"
    }
@@ -3195,10 +3195,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 22230,
+    "achievement_points": 22265,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-09-19T20:21:16.000Z",
+    "last_crawled_at": "2026-09-20T23:06:39.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Dlm",
     "profile_banner": "alliancebanner1"
    }
@@ -4692,7 +4692,7 @@
     "achievement_points": 6765,
     "region": "us",
     "realm": "Windrunner",
-    "last_crawled_at": "2026-09-19T11:30:45.000Z",
+    "last_crawled_at": "2026-09-21T01:14:31.000Z",
     "profile_url": "https://raider.io/characters/us/windrunner/Dew",
     "profile_banner": "alliancebanner1"
    }

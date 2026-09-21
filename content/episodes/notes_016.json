@@ -19,11 +19,11 @@
      "sub": ""
     },
     {
-     "text": "Sporefall test window: Mythic Sporefall PTR test, 1:00–2:00 PM PDT the day after the notes dropped.",
+     "text": "Sporefall test window: Mythic Sporefall PTR test, 1:00 to 2:00 PM PDT the day after the notes dropped.",
      "sub": ""
     },
     {
-     "text": "Dragonflight Timewalking dungeons: Algeth'ar Academy, Halls of Infusion, Neltharus, Ruby Life Pools, The Azure Vault, Brackenhide Hollow — all six DF dungeons now available for testing.",
+     "text": "Dragonflight Timewalking dungeons: Algeth'ar Academy, Halls of Infusion, Neltharus, Ruby Life Pools, The Azure Vault, Brackenhide Hollow, all six DF dungeons now available for testing.",
      "sub": ""
     },
     {
@@ -32,12 +32,12 @@
     }
    ],
    "questions": [
-    "Of those six Dragonflight Timewalking dungeons, which one are you actually excited to revisit — and which one are you praying never pops up in your queue?",
+    "Of those six Dragonflight Timewalking dungeons, which one are you actually excited to revisit, and which one are you praying never pops up in your queue?",
     "Timewalking weeks are kind of a love-it-or-skip-it event for a lot of players. Does it pull either of you back into the game when nothing else is going on, or is it just background noise at this point?"
    ],
    "sources": [
     {
-     "label": "Wowhead — Patch 12.0.7 Development Notes for May 13th",
+     "label": "Wowhead: Patch 12.0.7 Development Notes for May 13th",
      "url": "https://www.wowhead.com/news/patch-12-0-7-development-notes-for-march-13th-381608"
     }
    ],
@@ -47,7 +47,7 @@
    "title": "Heroic Sporefall Raid Testing on May 21st",
    "tab": "",
    "category": "News",
-   "synopsis": "Blizzard has scheduled a one-hour Heroic Sporefall test on the 12.0.7 PTR, running 1–2 PM PDT on Thursday, May 21st.",
+   "synopsis": "Blizzard has scheduled a one-hour Heroic Sporefall test on the 12.0.7 PTR, running 1 to 2 PM PDT on Thursday, May 21st.",
    "points": [
     {
      "text": "This follows the Mythic Sporefall test from earlier in the week and lets PTR participants experience the full raid on Heroic difficulty. It's a short window, so anyone planning to drop in will want their PTR characters ready and the raid finder open at the top of the hour.",
@@ -56,11 +56,11 @@
    ],
    "questions": [
     "Are any of you actually planning to hop on the PTR for the Heroic test, or do you wait for live and go in blind to keep the experience fresh?",
-    "\"Sporefall\" is a pretty evocative name for a raid. Based on what we've seen of the zone so far, what's the read on the theme — is this a body-horror fungal raid, or more of a whimsical mushroom kingdom vibe?"
+    "\"Sporefall\" is a pretty evocative name for a raid. Based on what we've seen of the zone so far, what's the read on the theme. Is this a body-horror fungal raid, or more of a whimsical mushroom kingdom vibe?"
    ],
    "sources": [
     {
-     "label": "Wowhead — Heroic Sporefall Raid Testing on May 21st",
+     "label": "Wowhead: Heroic Sporefall Raid Testing on May 21st",
      "url": "https://www.wowhead.com/news/heroic-sporefall-raid-testing-on-may-21st-381619"
     }
    ],
@@ -70,10 +70,10 @@
    "title": "Heroic Invasions Add Roaming Elites and Creature Affixes",
    "tab": "",
    "category": "News",
-   "synopsis": "Defeating the invasion point bosses in 12.0.7 unlocks a Heroic version of the invasion zones — recommended 274 item level, with creature affixes, elite overseers, and named patrolling mercenaries that actively hunt you down as you rack up kills.",
+   "synopsis": "Defeating the invasion point bosses in 12.0.7 unlocks a Heroic version of the invasion zones: recommended 274 item level, with creature affixes, elite overseers, and named patrolling mercenaries that actively hunt you down as you rack up kills.",
    "points": [
     {
-     "text": "The Heroic version layers a big ilvl jump over the Normal 217 recommendation and adds rotating weekly modifiers — current rotation is Creature Affixes, Elite Overseers, and Elite Presence. Creatures get random ability buffs (everything from Slumber Spores to Glacial Spike to Mushroomancy), defeating them sometimes drops a temporary 5-minute power buff like Astral Acceleration or Shatterstrike, and four named elite Warp Riders patrol Naigtal looking for trouble. The wrinkle: kill enough zone mobs and you accumulate a Stalked debuff, then Hunted, and one of the Warp Riders pulls into your current fight whether you like it or not. Val gets the same treatment from the Blackstar Legion.",
+     "text": "The Heroic version layers a big ilvl jump over the Normal 217 recommendation and adds rotating weekly modifiers: current rotation is Creature Affixes, Elite Overseers, and Elite Presence. Creatures get random ability buffs (everything from Slumber Spores to Glacial Spike to Mushroomancy), defeating them sometimes drops a temporary 5-minute power buff like Astral Acceleration or Shatterstrike, and four named elite Warp Riders patrol Naigtal looking for trouble. The wrinkle: kill enough zone mobs and you accumulate a Stalked debuff, then Hunted, and one of the Warp Riders pulls into your current fight whether you like it or not. Val gets the same treatment from the Blackstar Legion.",
      "sub": ""
     },
     {
@@ -85,7 +85,7 @@
      "sub": ""
     },
     {
-     "text": "Renegade Kulivero: the most annoying of the bunch — chains Slice and Dice, Gouge, and Backstab.",
+     "text": "Renegade Kulivero: the most annoying of the bunch, chains Slice and Dice, Gouge, and Backstab.",
      "sub": ""
     },
     {
@@ -98,12 +98,12 @@
     }
    ],
    "questions": [
-    "Archimtiros's read is that Heroic might not actually be hard enough — particularly for tanks, who can chew through two or three rares at a time. Is that fair criticism, or is \"scalable open world for all skill levels\" actually the right design call here?",
+    "Archimtiros's read is that Heroic might not actually be hard enough, particularly for tanks, who can chew through two or three rares at a time. Is that fair criticism, or is \"scalable open world for all skill levels\" actually the right design call here?",
     "The \"kill stuff and you eventually get hunted by an ambient elite\" loop is a really old-school mechanic. Would you want something like that pulled into regular world content, or is it strictly a Heroic-difficulty flavor thing?"
    ],
    "sources": [
     {
-     "label": "Wowhead — Heroic Invasions Introduce Roaming Elites and Creature Affixes",
+     "label": "Wowhead: Heroic Invasions Introduce Roaming Elites and Creature Affixes",
      "url": "https://www.wowhead.com/news/heroic-invasions-in-patch-12-0-7-introduce-roaming-elites-and-creature-affixes-381576"
     }
    ],
@@ -113,7 +113,7 @@
    "title": "New Mounts from Void Assault Meta Achievements",
    "tab": "",
    "category": "News",
-   "synopsis": "Two new 12.0.7 mounts are tied to Void Assault Invasion meta achievements — a void surfboard from Val and a void-infused mechsuit from Naigtal — and notably, neither meta requires Heroic difficulty to complete.",
+   "synopsis": "Two new 12.0.7 mounts are tied to Void Assault Invasion meta achievements, a void surfboard from Val and a void-infused mechsuit from Naigtal, and notably, neither meta requires Heroic difficulty to complete.",
    "points": [
     {
      "text": "The two mounts:",
@@ -124,21 +124,21 @@
      "sub": ""
     },
     {
-     "text": "Starmech Cosmic-Collapser (Naigtal): a void-infused take on Legion's Lightforged Warframe, unlocked by A Trip Through the Stars — same achievement shape but in Naigtal.",
+     "text": "Starmech Cosmic-Collapser (Naigtal): a void-infused take on Legion's Lightforged Warframe, unlocked by A Trip Through the Stars, same achievement shape but in Naigtal.",
      "sub": ""
     },
     {
-     "text": "The catch: the two metas share crossover criteria (questlines from both worlds), so neither will be a one-week unlock — but there are no \"do 50 of these\" grinds in the criteria either.",
+     "text": "The catch: the two metas share crossover criteria (questlines from both worlds), so neither will be a one-week unlock, but there are no \"do 50 of these\" grinds in the criteria either.",
      "sub": ""
     }
    ],
    "questions": [
     "A void surfboard is a wild flavor pick. Does this fit the tone of Midnight for you, or does it feel like Blizzard pulling a Battle for Azeroth shoulder-mounted lobster moment?",
-    "Achievement-meta mounts that don't require the hard difficulty — does that make you more likely to chase them, or less, since the prestige is gone?"
+    "Achievement-meta mounts that don't require the hard difficulty. Does that make you more likely to chase them, or less, since the prestige is gone?"
    ],
    "sources": [
     {
-     "label": "Wowhead — Earn New Mounts from Void Assault Invasion Meta Achievements",
+     "label": "Wowhead: Earn New Mounts from Void Assault Invasion Meta Achievements",
      "url": "https://www.wowhead.com/news/earn-new-mounts-from-void-assault-invasion-meta-achievements-in-patch-12-0-7-381610"
     }
    ],
@@ -148,14 +148,14 @@
    "title": "Patch 12.0.5 Hotfixes: Voidspire Skip Teleport + Crafted Weapons Round Two",
    "tab": "",
    "category": "News",
-   "synopsis": "Two hotfix posts worth flagging this week — Blizzard added a teleport pad to fix the Voidspire skip locking groups out of remaining bosses, and they're deploying a second hotfix for the crafted weapons that the first hotfix missed.",
+   "synopsis": "Two hotfix posts worth flagging this week: Blizzard added a teleport pad to fix the Voidspire skip locking groups out of remaining bosses, and they're deploying a second hotfix for the crafted weapons that the first hotfix missed.",
    "points": [
     {
      "text": "From the May 15 hotfix notes:",
      "sub": ""
     },
     {
-     "text": "Voidspire teleport: a teleport pad now appears on the Isle of Quel'Danas for raid groups that used the raid shortcut and still have bosses to defeat — fixes the long-running issue of skip groups getting locked out.",
+     "text": "Voidspire teleport: a teleport pad now appears on the Isle of Quel'Danas for raid groups that used the raid shortcut and still have bosses to defeat, fixes the long-running issue of skip groups getting locked out.",
      "sub": ""
     },
     {
@@ -179,21 +179,21 @@
      "sub": ""
     },
     {
-     "text": "Crafted weapons — second hotfix: the original hotfix for crafted weapons that couldn't be upgraded with Ascendant Voidcores missed any weapons that were mid-recraft or sitting in a mailbox when the fix went out. Blizzard confirmed a second hotfix without that limitation is currently being deployed, so affected items should be upgradable shortly if they aren't already.",
+     "text": "Crafted weapons, second hotfix: the original hotfix for crafted weapons that couldn't be upgraded with Ascendant Voidcores missed any weapons that were mid-recraft or sitting in a mailbox when the fix went out. Blizzard confirmed a second hotfix without that limitation is currently being deployed, so affected items should be upgradable shortly if they aren't already.",
      "sub": ""
     }
    ],
    "questions": [
     "The Voidspire shortcut + teleport patch is a pretty specific edge case. How often does our guild actually use raid shortcuts mid-week, and is this the kind of fix that affects us or mostly affects pug groups?",
-    "Two hotfix passes on the same crafted-weapons bug — does that shake your confidence in the crafted gear pipeline, or is that just the normal launch tempo for a system this complicated?"
+    "Two hotfix passes on the same crafted-weapons bug. Does that shake your confidence in the crafted gear pipeline, or is that just the normal launch tempo for a system this complicated?"
    ],
    "sources": [
     {
-     "label": "Wowhead — Patch 12.0.5 Hotfixes for May 15th (Voidspire teleport)",
+     "label": "Wowhead: Patch 12.0.5 Hotfixes for May 15th (Voidspire teleport)",
      "url": "https://www.wowhead.com/news/new-teleport-to-fix-skip-in-voidspire-patch-12-0-5-hotfixes-for-march-15th-381637"
     },
     {
-     "label": "Wowhead — Second Hotfix for Bugged Crafted Weapons Coming Soon",
+     "label": "Wowhead: Second Hotfix for Bugged Crafted Weapons Coming Soon",
      "url": "https://www.wowhead.com/news/second-hotfix-for-bugged-crafted-weapons-coming-soon-381621"
     }
    ],
@@ -203,18 +203,18 @@
    "title": "Mythic L'ura Bugs That May Affect Your Progression",
    "tab": "",
    "category": "News",
-   "synopsis": "Squishei put together a writeup of three rare-but-known Mythic L'ura bugs — all of which can wipe a fully prepared raid through no fault of the players — for guilds pushing through what averages out to a 300+ pull boss.",
+   "synopsis": "Squishei put together a writeup of three rare-but-known Mythic L'ura bugs, all of which can wipe a fully prepared raid through no fault of the players, for guilds pushing through what averages out to a 300+ pull boss.",
    "points": [
     {
      "text": "The three bugs:",
      "sub": ""
     },
     {
-     "text": "Phase 2 Galvanize jerk: the standard strat is four cores hit by Galvanize in an X pattern to pull the raid centerward before an AoE spread. The bug causes the pull effect to stutter, yanking players to off-center positions and making them drop cosmic-damage crystals in the wrong spot — usually a wipe.",
+     "text": "Phase 2 Galvanize jerk: the standard strat is four cores hit by Galvanize in an X pattern to pull the raid centerward before an AoE spread. The bug causes the pull effect to stutter, yanking players to off-center positions and making them drop cosmic-damage crystals in the wrong spot, usually a wipe.",
      "sub": ""
     },
     {
-     "text": "Phase 3 stuck crystal: when players are knocked out of the Darkwell at the start of Phase 3, a crystal will occasionally not fly the full distance and stays inside the well. No recovery — guaranteed wipe.",
+     "text": "Phase 3 stuck crystal: when players are knocked out of the Darkwell at the start of Phase 3, a crystal will occasionally not fly the full distance and stays inside the well. No recovery: guaranteed wipe.",
      "sub": ""
     },
     {
@@ -224,11 +224,11 @@
    ],
    "questions": [
     "Have any of you hit these bugs on our L'ura pulls, or seen them on streams from RWF or progression guilds?",
-    "When you're 200+ pulls into a Mythic boss and a known bug randomly costs you a wipe, what's the right call as a raid leader — keep pushing through, call the pull and reset, or actually stop and submit a bug report?"
+    "When you're 200+ pulls into a Mythic boss and a known bug randomly costs you a wipe, what's the right call as a raid leader: keep pushing through, call the pull and reset, or actually stop and submit a bug report?"
    ],
    "sources": [
     {
-     "label": "Wowhead — Mythic L'ura Bugs that May Affect Your Progression",
+     "label": "Wowhead: Mythic L'ura Bugs that May Affect Your Progression",
      "url": "https://www.wowhead.com/news/mythic-lura-bugs-that-may-affect-your-progression-381605"
     }
    ],
@@ -238,10 +238,10 @@
    "title": "Tier 5 Ritual Sites Are the Best Heroic Crest Farm",
    "tab": "",
    "category": "News",
-   "synopsis": "Tier 5 Ritual Sites award 20 Hero Dawncrests per run — averaging under a minute per crest — and have officially dethroned Delves as the most efficient Heroic crest farm in 12.0.5.",
+   "synopsis": "Tier 5 Ritual Sites award 20 Hero Dawncrests per run, averaging under a minute per crest, and have officially dethroned Delves as the most efficient Heroic crest farm in 12.0.5.",
    "points": [
     {
-     "text": "Ritual Sites have quietly become the swiss-army-knife activity of the patch — they're already a strong source of Voidlight Marl and Field Accolades, they award the highest-rank Great Vault gear for non-raiders, and now they're the fastest crest farm too. They also award 4-of-6 Hero from the Vault, three upgrades higher than what Nightmare Prey hunts or Delves give you.",
+     "text": "Ritual Sites have quietly become the swiss-army-knife activity of the patch: they're already a strong source of Voidlight Marl and Field Accolades, they award the highest-rank Great Vault gear for non-raiders, and now they're the fastest crest farm too. They also award 4-of-6 Hero from the Vault, three upgrades higher than what Nightmare Prey hunts or Delves give you.",
      "sub": ""
     },
     {
@@ -261,7 +261,7 @@
      "sub": ""
     },
     {
-     "text": "No lockout: unlike Delves with Restored Coffer Keys and a Bountiful daily cap, Ritual Sites just keep paying out. In 12.0.7, Tier 6 Ritual Sites will also award Myth Crests with no lockout — versus four Gilded Stashes per week capping out at 20 Myth Dawncrests from Delves.",
+     "text": "No lockout: unlike Delves with Restored Coffer Keys and a Bountiful daily cap, Ritual Sites just keep paying out. In 12.0.7, Tier 6 Ritual Sites will also award Myth Crests with no lockout: versus four Gilded Stashes per week capping out at 20 Myth Dawncrests from Delves.",
      "sub": ""
     }
    ],
@@ -271,7 +271,7 @@
    ],
    "sources": [
     {
-     "label": "Wowhead — The Most Efficient Farm for Heroic Upgrade Crests",
+     "label": "Wowhead: The Most Efficient Farm for Heroic Upgrade Crests",
      "url": "https://www.wowhead.com/news/the-most-efficient-farm-for-heroic-upgrade-crests-381611"
     }
    ],
@@ -281,7 +281,7 @@
    "title": "Valeera Will Solo Nullaeus For You",
    "tab": "",
    "category": "News",
-   "synopsis": "The Delve companion Valeera turns out to be a stealth-mode answer to the Nullaeus Nemesis fight — capable of kicking, handling intermission adds, face-tanking with support, and even auto-Assassinating the boss at 5% HP.",
+   "synopsis": "The Delve companion Valeera turns out to be a stealth-mode answer to the Nullaeus Nemesis fight: capable of kicking, handling intermission adds, face-tanking with support, and even auto-Assassinating the boss at 5% HP.",
    "points": [
     {
      "text": "She doesn't even need to be especially high level for the strat to work, although a few levels make the fight noticeably easier. She nails every kick with Dagger to the Throat, handles the intermission adds solo, and acts as a competent DPS or off-tank depending on the player's role.",
@@ -300,21 +300,21 @@
      "sub": ""
     },
     {
-     "text": "Melee and tanks: the hardest spec to run this strat — you can't just kite. Strong self-sustain specs can keep Valeera on DPS to burn the boss faster; otherwise, switch her to Healer (she'll auto-dispel Devouring Essence) and you handle the Emptiness of the Void kicks yourself.",
+     "text": "Melee and tanks: the hardest spec to run this strat, you can't just kite. Strong self-sustain specs can keep Valeera on DPS to burn the boss faster; otherwise, switch her to Healer (she'll auto-dispel Devouring Essence) and you handle the Emptiness of the Void kicks yourself.",
      "sub": ""
     },
     {
-     "text": "What she's not good at: actually tanking — she holds less threat than her DPS spec and still needs you to keep her alive.",
+     "text": "What she's not good at: actually tanking, she holds less threat than her DPS spec and still needs you to keep her alive.",
      "sub": ""
     }
    ],
    "questions": [
     "Have any of you tried the Valeera carry strat, or did you brute-force Nullaeus before this got popular?",
-    "\"The NPC companion is stronger than the player\" outcomes in solo content — is that a cool emergent design moment, or does it undermine the point of the fight?"
+    "\"The NPC companion is stronger than the player\" outcomes in solo content. Is that a cool emergent design moment, or does it undermine the point of the fight?"
    ],
    "sources": [
     {
-     "label": "Wowhead — Take Advantage of Valeera In Order to Defeat Nullaeus",
+     "label": "Wowhead: Take Advantage of Valeera In Order to Defeat Nullaeus",
      "url": "https://www.wowhead.com/news/the-best-method-for-defeating-nullaeus-is-already-by-your-side-381624"
     }
    ],
@@ -324,24 +324,24 @@
    "title": "BlizzardCS on Cursing: One F-Bomb, A Report, and a Walk-Back",
    "tab": "",
    "category": "News",
-   "synopsis": "The official @BlizzardCS account told an X user this week that dropping an \"F bomb\" plus a report was enough to get a player suspended — sparking immediate backlash about reporting-system abuse — and then walked the messaging back the next day, saying context actually does matter.",
+   "synopsis": "The official @BlizzardCS account told an X user this week that dropping an \"F bomb\" plus a report was enough to get a player suspended, sparking immediate backlash about reporting-system abuse, and then walked the messaging back the next day, saying context actually does matter.",
    "points": [
     {
-     "text": "The original exchange had the BlizzardCS account replying that \"you aren't allowed to curse in our games. Do so, get reported, there are consequences.\" That kicked off the predictable conversation about WoW's automated reporting system, which players have long suspected can be weaponized — there's a years-deep trail of Reddit posts from players claiming accounts have been actioned (chat bans, forced name changes, suspensions) over Mythic+ runs, guild names, and Crafting Cartel-style coordinated reports. The original in-game Code of Conduct never specifically calls out swear words; it talks about offensive, vulgar, or obscene language, which BlizzardCS appeared to be interpreting very broadly.",
+     "text": "The original exchange had the BlizzardCS account replying that \"you aren't allowed to curse in our games. Do so, get reported, there are consequences.\" That kicked off the predictable conversation about WoW's automated reporting system, which players have long suspected can be weaponized: there's a years-deep trail of Reddit posts from players claiming accounts have been actioned (chat bans, forced name changes, suspensions) over Mythic+ runs, guild names, and Crafting Cartel-style coordinated reports. The original in-game Code of Conduct never specifically calls out swear words; it talks about offensive, vulgar, or obscene language, which BlizzardCS appeared to be interpreting very broadly.",
      "sub": ""
     },
     {
-     "text": "The walk-back came from \"KAL\" on the BlizzardCS team, acknowledging that the engagement on the original post wasn't the quality Blizzard expects of itself. The clarification: cursing is not blanket-punished, context matters, and in this specific case the action was upheld because the context warranted it. They committed to communicating with more clarity going forward — but didn't actually publish what the contextual thresholds are, which leaves the underlying reporting-abuse concern basically untouched.",
+     "text": "The walk-back came from \"KAL\" on the BlizzardCS team, acknowledging that the engagement on the original post wasn't the quality Blizzard expects of itself. The clarification: cursing is not blanket-punished, context matters, and in this specific case the action was upheld because the context warranted it. They committed to communicating with more clarity going forward, but didn't actually publish what the contextual thresholds are, which leaves the underlying reporting-abuse concern basically untouched.",
      "sub": ""
     }
    ],
    "questions": [
-    "How do you read this — was BlizzardCS just being clumsy on Twitter, or is \"F-bomb plus a report equals a suspension\" actually how the system works when it isn't being scrutinized?",
+    "How do you read this. Was BlizzardCS just being clumsy on Twitter, or is \"F-bomb plus a report equals a suspension\" actually how the system works when it isn't being scrutinized?",
     "The reporting-system-can-be-abused conversation has been around for years at this point. Does an incident like this actually push Blizzard to be more transparent about how reports are weighted, or is this just going to blow over in a week?"
    ],
    "sources": [
     {
-     "label": "Wowhead — Blizzard Confirms Swearing One Time Can Get You Suspended (with update)",
+     "label": "Wowhead: Blizzard Confirms Swearing One Time Can Get You Suspended (with update)",
      "url": "https://www.wowhead.com/news/blizzard-confirms-swearing-one-time-can-get-you-suspended-381627"
     }
    ],

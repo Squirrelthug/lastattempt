@@ -12,14 +12,14 @@
    "title": "BlizzCon 2026 Community Night Lineup Revealed",
    "tab": "",
    "category": "News",
-   "synopsis": "Blizzard has unveiled the host and judging panel for BlizzCon 2026 Community Night, with voice actor Darin De Paul returning as Master of Ceremonies and five master cosplayers tapped as Cosplay Contest judges. Submissions close May 15, and BlizzCon itself returns physically September 12–13 at the Anaheim Convention Center.",
+   "synopsis": "Blizzard has unveiled the host and judging panel for BlizzCon 2026 Community Night, with voice actor Darin De Paul returning as Master of Ceremonies and five master cosplayers tapped as Cosplay Contest judges. Submissions close May 15, and BlizzCon itself returns physically September 12 to 13 at the Anaheim Convention Center.",
    "points": [
     {
      "text": "The lineup:",
      "sub": ""
     },
     {
-     "text": "Darin De Paul: Master of Ceremonies — voice of Reinhardt, N'Zoth, Blackhand, Tyr, and Gallywix.",
+     "text": "Darin De Paul: Master of Ceremonies, voice of Reinhardt, N'Zoth, Blackhand, Tyr, and Gallywix.",
      "sub": ""
     },
     {
@@ -44,12 +44,12 @@
     }
    ],
    "questions": [
-    "Either of you planning to make it to BlizzCon this year — in person, virtually, or skipping it?",
-    "Darin De Paul has played N'Zoth, Reinhardt, and Gallywix — which of his characters is your favorite, and what makes him such a draw at these conventions?"
+    "Either of you planning to make it to BlizzCon this year, in person, virtually, or skipping it?",
+    "Darin De Paul has played N'Zoth, Reinhardt, and Gallywix, which of his characters is your favorite, and what makes him such a draw at these conventions?"
    ],
    "sources": [
     {
-     "label": "Wowhead — Presenting the BlizzCon 2026 Community Night Host and Contest Judges",
+     "label": "Wowhead: Presenting the BlizzCon 2026 Community Night Host and Contest Judges",
      "url": "https://www.wowhead.com/news/presenting-the-blizzcon-2026-community-night-host-and-contest-judges-381553"
     }
    ],
@@ -72,7 +72,7 @@
    ],
    "sources": [
     {
-     "label": "Wowhead — Tier 6 Ritual Sites Award Myth Crests in Patch 12.0.7",
+     "label": "Wowhead: Tier 6 Ritual Sites Award Myth Crests in Patch 12.0.7",
      "url": "https://www.wowhead.com/news/tier-6-ritual-sites-award-myth-crests-in-patch-12-0-7-381499"
     }
    ],
@@ -82,20 +82,20 @@
    "title": "Reserve the Arcantina for Your Own Private Party",
    "tab": "",
    "category": "News",
-   "synopsis": "As of Patch 12.0.5, players can pay Bartender Bob 5 gold to phase the Arcantina into a fully private version of the tavern — no other players, no NPCs, no quest givers — perfect for roleplay or small guild gatherings.",
+   "synopsis": "As of Patch 12.0.5, players can pay Bartender Bob 5 gold to phase the Arcantina into a fully private version of the tavern, no other players, no NPCs, no quest givers, perfect for roleplay or small guild gatherings.",
    "points": [
     {
-     "text": "The private phase clears everyone from the tavern except Bob himself, who keeps serving food and drink. Group and raid members can opt into the same private instance by speaking to Bob individually, letting the tavern function as a real private meeting space. Consumables like Savory Deviate Delight and interactables like the Undermine Electrician's Practice Board still work, and rejoining the public phase is free — just talk to Bob again, or step out and back in. It's a small QoL feature, but as Wowhead points out, WoW has surprisingly few genuinely private gathering spaces outside of player housing, so this fills a niche for RP communities and small events.",
+     "text": "The private phase clears everyone from the tavern except Bob himself, who keeps serving food and drink. Group and raid members can opt into the same private instance by speaking to Bob individually, letting the tavern function as a real private meeting space. Consumables like Savory Deviate Delight and interactables like the Undermine Electrician's Practice Board still work, and rejoining the public phase is free, just talk to Bob again, or step out and back in. It's a small QoL feature, but as Wowhead points out, WoW has surprisingly few genuinely private gathering spaces outside of player housing, so this fills a niche for RP communities and small events.",
      "sub": ""
     }
    ],
    "questions": [
     "Are either of you tempted to use this for guild events, or does it feel like a pure RP feature?",
-    "What's the most creative use of player housing — or now this private Arcantina — that you've seen the community come up with that you didn't expect?"
+    "What's the most creative use of player housing, or now this private Arcantina, that you've seen the community come up with that you didn't expect?"
    ],
    "sources": [
     {
-     "label": "Wowhead — Reserve the Arcantina for Your Own Private Party",
+     "label": "Wowhead: Reserve the Arcantina for Your Own Private Party",
      "url": "https://www.wowhead.com/news/reserve-the-arcantina-for-your-own-private-party-381540"
     }
    ],
@@ -105,14 +105,14 @@
    "title": "Two Hotfix Rounds Plus Tank Tuning Coming May 12",
    "tab": "",
    "category": "News",
-   "synopsis": "Two waves of class and dungeon hotfixes hit on May 6 and May 8, and Blizzard has previewed a major tank tuning pass deploying with weekly maintenance on May 12 — buffing every tank except Brewmaster, with the stated goal of bridging the gap to the dominant Brew meta.",
+   "synopsis": "Two waves of class and dungeon hotfixes hit on May 6 and May 8, and Blizzard has previewed a major tank tuning pass deploying with weekly maintenance on May 12: buffing every tank except Brewmaster, with the stated goal of bridging the gap to the dominant Brew meta.",
    "points": [
     {
      "text": "Hotfix highlights, May 6 and May 8: The May 6 round addressed a Restoration Druid bug where Tree of Life's duration wasn't tracked in the cooldown manager when talented into Reforestation, fixed Brewmaster threat generation for Flurry Strikes, patched several Affliction and Destruction Warlock issues including Wither failing to replace Corruption, and added clearer telegraphing for Latch's Heaving Yank in Windrunner Spire's Derelict Duo encounter. The May 8 follow-up fixed Mistweaver's Rushing Wind Kick heal failing intermittently, resolved the Voidspire raid skip teleport bug, and patched a Magisters' Terrace issue where Gemellus could stop using abilities mid-fight if a player died during Astral Grasp. Decor Duel groups can also now queue through the Group Finder.",
      "sub": ""
     },
     {
-     "text": "The May 12 tank pass — passive mitigation and cooldown uptime:",
+     "text": "The May 12 tank pass, passive mitigation and cooldown uptime:",
      "sub": ""
     },
     {
@@ -132,7 +132,7 @@
      "sub": ""
     },
     {
-     "text": "Brewmaster Monk: Notably absent — already considered overtuned in the current Mythic+ meta.",
+     "text": "Brewmaster Monk: Notably absent, already considered overtuned in the current Mythic+ meta.",
      "sub": ""
     },
     {
@@ -141,24 +141,24 @@
     }
    ],
    "questions": [
-    "Templri, you're tanking on us — how do these changes land for your spec specifically? Does this fix what's been frustrating you in higher keys, or is the gap between you and Brewmaster still going to feel obvious?",
-    "Buffing every other tank up to Brewmaster's level instead of nerfing Brew — is that actually healthier for the meta, or are we just inflating numbers across the board and trading one tuning problem for another?"
+    "Templri, you're tanking on us. How do these changes land for your spec specifically? Does this fix what's been frustrating you in higher keys, or is the gap between you and Brewmaster still going to feel obvious?",
+    "Buffing every other tank up to Brewmaster's level instead of nerfing Brew. Is that actually healthier for the meta, or are we just inflating numbers across the board and trading one tuning problem for another?"
    ],
    "sources": [
     {
-     "label": "Wowhead — Restoration Druid, Brewmaster Monk, and Warlock Updates: May 6 Hotfixes",
+     "label": "Wowhead, Restoration Druid, Brewmaster Monk, and Warlock Updates: May 6 Hotfixes",
      "url": "https://www.wowhead.com/news/world-of-warcraft-midnight-hotfixes-may-6-2026-381549"
     },
     {
-     "label": "Wowhead — May 8th Hotfixes: Rushing Wind Kick, Depth Grease, Voidspire Raid Skip",
+     "label": "Wowhead, May 8th Hotfixes: Rushing Wind Kick, Depth Grease, Voidspire Raid Skip",
      "url": "https://www.wowhead.com/news/may-8th-hotfixes-rushing-wind-kick-depth-grease-voidspire-raid-skip-381565"
     },
     {
-     "label": "Blizzard Forums — Tank Adjustments Incoming, May 12",
+     "label": "Blizzard Forums: Tank Adjustments Incoming, May 12",
      "url": "https://us.forums.blizzard.com/en/wow/t/tank-adjustments-incoming-%E2%80%93-may-12/2303865"
     },
     {
-     "label": "Icy Veins — Tank Changes Incoming: Passive Mitigation and Cooldown Buffs",
+     "label": "Icy Veins, Tank Changes Incoming: Passive Mitigation and Cooldown Buffs",
      "url": "https://www.icy-veins.com/wow/news/wow-tank-changes-incoming-passive-mitigation-and-cooldowns-getting-major-buffs/"
     }
    ],
@@ -171,17 +171,17 @@
    "synopsis": "Following their Midnight Season 1 World First, Team Liquid has released a behind-the-scenes documentary covering their players, community casters, and production staff through one of the more unusual races in recent memory.",
    "points": [
     {
-     "text": "Midnight Season 1 was a unique RWF for being split across three separate raids — The Voidspire, The Dreamrift, and March on Quel'Danas — and the race itself was a roller coaster. It started off oddly easy, dragged competitors through long, mind-numbing splits, then snapped into the genuine challenges, and capped off with a secret Mythic phase that surprised the guild and their competitors alike. The documentary leans into the humor and chemistry between teammates, which makes it a more engaging watch than the usual progression highlight reel — even if you watched the race live or already know the outcome.",
+     "text": "Midnight Season 1 was a unique RWF for being split across three separate raids, The Voidspire, The Dreamrift, and March on Quel'Danas, and the race itself was a roller coaster. It started off oddly easy, dragged competitors through long, mind-numbing splits, then snapped into the genuine challenges, and capped off with a secret Mythic phase that surprised the guild and their competitors alike. The documentary leans into the humor and chemistry between teammates, which makes it a more engaging watch than the usual progression highlight reel, even if you watched the race live or already know the outcome.",
      "sub": ""
     }
    ],
    "questions": [
     "Now that we're a few weeks out, has your read of how Midnight S1 played out as a competitive race changed at all?",
-    "The \"secret Mythic phase\" format clearly worked as a dramatic moment — should Blizzard build a surprise mechanic into every tier going forward, or does that trick only land once?"
+    "The \"secret Mythic phase\" format clearly worked as a dramatic moment. Should Blizzard build a surprise mechanic into every tier going forward, or does that trick only land once?"
    ],
    "sources": [
     {
-     "label": "Wowhead — Liquid Guild vs Midnight Season 1 Race to World First Documentary",
+     "label": "Wowhead: Liquid Guild vs Midnight Season 1 Race to World First Documentary",
      "url": "https://www.wowhead.com/news/liquid-guild-vs-midnight-season-1-race-to-world-first-documentary-381541"
     }
    ],
@@ -191,10 +191,10 @@
    "title": "Microsoft's Record Quarter and First-Ever Buyout Program",
    "tab": "",
    "category": "News",
-   "synopsis": "Microsoft posted a record-breaking Q3 FY26 — $82.9 billion in revenue, up 18 percent — but the stock fell on a $190 billion capex guide for calendar 2026, and on April 23 the company opened its first voluntary retirement program in 51 years, targeting roughly 8,750 US employees.",
+   "synopsis": "Microsoft posted a record-breaking Q3 FY26, $82.9 billion in revenue, up 18 percent, but the stock fell on a $190 billion capex guide for calendar 2026, and on April 23 the company opened its first voluntary retirement program in 51 years, targeting roughly 8,750 US employees.",
    "points": [
     {
-     "text": "The headline numbers and the capex problem: Operating income hit $38.4 billion (+20%), Azure grew 40% in constant currency, and the AI business surpassed a $37 billion annual run rate. But Xbox hardware revenue fell 33% year over year, total gaming revenue dropped $380 million or 7%, and CFO Amy Hood guided to roughly $190 billion in 2026 capex against a Wall Street consensus of $154.6 billion — about two-thirds of that going to short-lived assets, primarily GPUs and CPUs. Analyst Ben Reitzes had already downgraded Microsoft to Hold in February, telling CNBC he was \"floored\" that Copilot only had 15 million paid users after three years of promotion. Mizuho is now modeling negative free cash flow for 2027 and 2028.",
+     "text": "The headline numbers and the capex problem: Operating income hit $38.4 billion (+20%), Azure grew 40% in constant currency, and the AI business surpassed a $37 billion annual run rate. But Xbox hardware revenue fell 33% year over year, total gaming revenue dropped $380 million or 7%, and CFO Amy Hood guided to roughly $190 billion in 2026 capex against a Wall Street consensus of $154.6 billion, about two-thirds of that going to short-lived assets, primarily GPUs and CPUs. Analyst Ben Reitzes had already downgraded Microsoft to Hold in February, telling CNBC he was \"floored\" that Copilot only had 15 million paid users after three years of promotion. Mizuho is now modeling negative free cash flow for 2027 and 2028.",
      "sub": ""
     },
     {
@@ -206,7 +206,7 @@
      "sub": ""
     },
     {
-     "text": "Scale: Roughly 8,750 people qualify — about 7% of Microsoft's US workforce.",
+     "text": "Scale: Roughly 8,750 people qualify, about 7% of Microsoft's US workforce.",
      "sub": ""
     },
     {
@@ -222,21 +222,21 @@
      "sub": ""
     },
     {
-     "text": "Context: Same day, April 23, Meta announced 8,000 layoffs (10% of workforce) — making Microsoft's \"voluntary\" framing look more strategic than generous.",
+     "text": "Context: Same day, April 23, Meta announced 8,000 layoffs (10% of workforce), making Microsoft's \"voluntary\" framing look more strategic than generous.",
      "sub": ""
     }
    ],
    "questions": [
-    "When the same company is reporting record profits and asking 7% of its US workforce to please consider retiring, how are we as players supposed to read that — is the buyout structural or cosmetic?",
-    "The Rule of 70 specifically targets long-tenured, mid-level senior workers — the demographic that tends to include senior game devs and QA leads. Does that worry you for Blizzard's institutional knowledge over the next 12 months?"
+    "When the same company is reporting record profits and asking 7% of its US workforce to please consider retiring, how are we as players supposed to read that. Is the buyout structural or cosmetic?",
+    "The Rule of 70 specifically targets long-tenured, mid-level senior workers: the demographic that tends to include senior game devs and QA leads. Does that worry you for Blizzard's institutional knowledge over the next 12 months?"
    ],
    "sources": [
     {
-     "label": "CNBC — Microsoft Q3 Earnings Report 2026",
+     "label": "CNBC: Microsoft Q3 Earnings Report 2026",
      "url": "https://www.cnbc.com/2026/04/29/microsoft-msft-q3-earnings-report-2026.html"
     },
     {
-     "label": "Microsoft Investor Relations — FY26 Q3 Earnings Press Release",
+     "label": "Microsoft Investor Relations: FY26 Q3 Earnings Press Release",
      "url": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q3/press-release-webcast"
     }
    ],
@@ -249,33 +249,33 @@
    "synopsis": "GitHub logged 257 incidents in 12 months and lost a high-profile veteran user who declared the platform \"no longer for serious work.\" A week later, on May 5, new Xbox CEO Asha Sharma imported four CoreAI and GitHub leaders into the gaming org and confirmed Xbox is winding down its Copilot for Gaming initiative.",
    "points": [
     {
-     "text": "The GitHub side: GitHub's reliability has cratered as the platform absorbs explosive AI agent traffic. CTO Vlad Fedorov posted on April 29 that the company started a 10x capacity expansion plan in October 2025, then realized by February 2026 that it needed to design for 30x today's scale. Mitchell Hashimoto — GitHub user 1299, HashiCorp co-founder, and creator of the Ghostty terminal — pulled Ghostty off GitHub on April 28, writing that the platform \"blocks you out for hours per day, every day.\" His post hit Hacker News at 3,000+ points. SemiAnalysis projects that Claude Code alone will author 20%+ of all daily GitHub commits by year-end.",
+     "text": "The GitHub side: GitHub's reliability has cratered as the platform absorbs explosive AI agent traffic. CTO Vlad Fedorov posted on April 29 that the company started a 10x capacity expansion plan in October 2025, then realized by February 2026 that it needed to design for 30x today's scale. Mitchell Hashimoto, GitHub user 1299, HashiCorp co-founder, and creator of the Ghostty terminal, pulled Ghostty off GitHub on April 28, writing that the platform \"blocks you out for hours per day, every day.\" His post hit Hacker News at 3,000+ points. SemiAnalysis projects that Claude Code alone will author 20%+ of all daily GitHub commits by year-end.",
      "sub": ""
     },
     {
-     "text": "The Xbox side: Asha Sharma — who took over Microsoft Gaming from Phil Spencer in February — restructured Xbox leadership on May 5, bringing in Jared Palmer (former CoreAI VP and senior VP at GitHub) as VP of engineering and technical advisor; Tim Allen (CoreAI/GitHub design VP) as head of design; Jonathan McKay (former head of growth for ChatGPT at OpenAI) as Xbox head of growth; and Evan Chaki and David Schloss in supporting roles. Veteran Xbox VPs Kevin Gammill and Roanne Sones are out or stepping back. Sharma also confirmed Xbox is winding down Copilot on console and mobile, publicly reversing one of Microsoft's loudest AI-in-gaming pitches of the past year.",
+     "text": "The Xbox side: Asha Sharma, who took over Microsoft Gaming from Phil Spencer in February, restructured Xbox leadership on May 5, bringing in Jared Palmer (former CoreAI VP and senior VP at GitHub) as VP of engineering and technical advisor; Tim Allen (CoreAI/GitHub design VP) as head of design; Jonathan McKay (former head of growth for ChatGPT at OpenAI) as Xbox head of growth; and Evan Chaki and David Schloss in supporting roles. Veteran Xbox VPs Kevin Gammill and Roanne Sones are out or stepping back. Sharma also confirmed Xbox is winding down Copilot on console and mobile, publicly reversing one of Microsoft's loudest AI-in-gaming pitches of the past year.",
      "sub": ""
     }
    ],
    "questions": [
-    "If a senior VP at GitHub is being moved to Xbox a week after the platform's worst reliability stretch in years, what does that signal — promotion, demotion, or \"we need someone to fix something here too\"?",
-    "Microsoft is openly killing Copilot for Gaming while pushing AI everywhere else in the company — does that mean the AI-on-console pitch was just bad, or that Sharma is buying Blizzard and the rest of gaming some breathing room from the corporate AI push?"
+    "If a senior VP at GitHub is being moved to Xbox a week after the platform's worst reliability stretch in years, what does that signal: promotion, demotion, or \"we need someone to fix something here too\"?",
+    "Microsoft is openly killing Copilot for Gaming while pushing AI everywhere else in the company. Does that mean the AI-on-console pitch was just bad, or that Sharma is buying Blizzard and the rest of gaming some breathing room from the corporate AI push?"
    ],
    "sources": [
     {
-     "label": "Mitchell Hashimoto — Ghostty Is Leaving GitHub",
+     "label": "Mitchell Hashimoto: Ghostty Is Leaving GitHub",
      "url": "https://mitchellh.com/writing/ghostty-leaving-github"
     },
     {
-     "label": "The Register — Hashimoto Says GitHub \"No Longer for Serious Work\"",
+     "label": "The Register: Hashimoto Says GitHub \"No Longer for Serious Work\"",
      "url": "https://www.theregister.com/2026/04/29/mitchell_hashimoto_ghostty_quitting_github/"
     },
     {
-     "label": "CNBC — Microsoft's New Xbox CEO Asha Sharma Overhauls Leadership Team",
+     "label": "CNBC: Microsoft's New Xbox CEO Asha Sharma Overhauls Leadership Team",
      "url": "https://www.cnbc.com/2026/05/05/microsoft-xbox-ceo-asha-sharma-executive-overhaul.html"
     },
     {
-     "label": "Tom's Hardware — Xbox CEO Asha Sharma Kills Copilot for Gaming",
+     "label": "Tom's Hardware: Xbox CEO Asha Sharma Kills Copilot for Gaming",
      "url": "https://www.tomshardware.com/video-games/xbox/xbox-ceo-asha-sharma-kills-copilot-for-gaming"
     }
    ],

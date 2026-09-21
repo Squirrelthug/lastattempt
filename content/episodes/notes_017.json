@@ -12,10 +12,10 @@
    "title": "Patch 12.0.7 PTR Roundup & Release Delay",
    "tab": "",
    "category": "News",
-   "synopsis": "Patch 12.0.7 is shaping up on the PTR with a huge content slate, but Turbulent Timeways’ date just slipped from June 16 to June 30 — possibly Blizzard taking extra time to avoid another 12.0.5-style launch.",
+   "synopsis": "Patch 12.0.7 is shaping up on the PTR with a huge content slate, but Turbulent Timeways’ date just slipped from June 16 to June 30: possibly Blizzard taking extra time to avoid another 12.0.5-style launch.",
    "points": [
     {
-     "text": "The 12.0.7 release date hasn’t been officially announced, but the community had been pegging it around June 16 based on the original Turbulent Timeways start date on the PTR. The latest PTR build pushed that event back two full weeks to June 30. Paired with Blizzard’s public apology for the 12.0.5 launch, this looks like a deliberate decision to slow the 8-week content cadence in favor of quality. The patch itself is genuinely big — first-ever flexible mythic raid difficulty, Heroic-difficulty world content, and a new player power system in the Omnium Folio.",
+     "text": "The 12.0.7 release date hasn’t been officially announced, but the community had been pegging it around June 16 based on the original Turbulent Timeways start date on the PTR. The latest PTR build pushed that event back two full weeks to June 30. Paired with Blizzard’s public apology for the 12.0.5 launch, this looks like a deliberate decision to slow the 8-week content cadence in favor of quality. The patch itself is genuinely big: first-ever flexible mythic raid difficulty, Heroic-difficulty world content, and a new player power system in the Omnium Folio.",
      "sub": ""
     },
     {
@@ -23,7 +23,7 @@
      "sub": ""
     },
     {
-     "text": "Sporefall Raid: First-ever flexible mythic difficulty boss. Raid gear now drops with fixed stats instead of randomized, and Sporefused pieces sit 9 item levels above their regular upgrade tracks — likely BiS or near-BiS for most slots in Season 1.",
+     "text": "Sporefall Raid: First-ever flexible mythic difficulty boss. Raid gear now drops with fixed stats instead of randomized, and Sporefused pieces sit 9 item levels above their regular upgrade tracks, likely BiS or near-BiS for most slots in Season 1.",
      "sub": ""
     },
     {
@@ -31,11 +31,11 @@
      "sub": ""
     },
     {
-     "text": "Invasion Zones: Two new zones — Naigtal and Val — with a new Heroic World Tier and two new world bosses.",
+     "text": "Invasion Zones: Two new zones, Naigtal and Val, with a new Heroic World Tier and two new world bosses.",
      "sub": ""
     },
     {
-     "text": "Heroic World Tier Quest: “Knocking Off the Top” from Decimus asks for 4 Void Commander’s Emblems from the new world bosses on Heroic. Reward is a choice of Myth 1/6 cloak, belt, or bracers — first time Myth-track gear is available from open world content.",
+     "text": "Heroic World Tier Quest: “Knocking Off the Top” from Decimus asks for 4 Void Commander’s Emblems from the new world bosses on Heroic. Reward is a choice of Myth 1/6 cloak, belt, or bracers: first time Myth-track gear is available from open world content.",
      "sub": ""
     },
     {
@@ -48,28 +48,28 @@
     }
    ],
    "questions": [
-    "First-ever flexible mythic difficulty boss in Sporefall — does this actually change how a 20-man guild like Second Attempt plans progression, or is it really aimed at smaller guilds that can’t field a hard 20?",
-    "Heroic World Tier handing out Myth-track gear from a 4-week world boss quest — is open-world Myth gear the start of something bigger, or a footnote because it’s only cloak, belt, and bracers?"
+    "First-ever flexible mythic difficulty boss in Sporefall. Does this actually change how a 20-man guild like Second Attempt plans progression, or is it really aimed at smaller guilds that can’t field a hard 20?",
+    "Heroic World Tier handing out Myth-track gear from a 4-week world boss quest. Is open-world Myth gear the start of something bigger, or a footnote because it’s only cloak, belt, and bracers?"
    ],
    "sources": [
     {
-     "label": "Wowhead — 12.0.7 Splash Screen: Sporefall, Omnium Folio, and Invasion Zones",
+     "label": "Wowhead, 12.0.7 Splash Screen: Sporefall, Omnium Folio, and Invasion Zones",
      "url": "https://www.wowhead.com/news/patch-12-0-7-splash-screen-sporefall-omnium-folio-and-invasion-zones-381674"
     },
     {
-     "label": "Wowhead — Sporefall Raid Gear Has New Stats in 12.0.7",
+     "label": "Wowhead: Sporefall Raid Gear Has New Stats in 12.0.7",
      "url": "https://www.wowhead.com/news/sporefall-raid-gear-has-new-stats-in-patch-12-0-7-381697"
     },
     {
-     "label": "Wowhead — Heroic World Tier Quest Awards Myth Track Gear in 12.0.7",
+     "label": "Wowhead: Heroic World Tier Quest Awards Myth Track Gear in 12.0.7",
      "url": "https://www.wowhead.com/news/heroic-world-tier-quest-awards-myth-track-gear-in-patch-12-0-7-381677"
     },
     {
-     "label": "Wowhead — Help Hatch Jan’alai’s New Eggs on the 12.0.7 PTR",
+     "label": "Wowhead: Help Hatch Jan’alai’s New Eggs on the 12.0.7 PTR",
      "url": "https://www.wowhead.com/news/help-hatch-janalais-new-eggs-on-the-patch-12-0-7-ptr-381699"
     },
     {
-     "label": "Wowhead — Turbulent Timeways Dates Changed on PTR",
+     "label": "Wowhead: Turbulent Timeways Dates Changed on PTR",
      "url": "https://www.wowhead.com/news/turbulent-timeways-dates-changed-on-ptr-381707"
     }
    ],
@@ -79,20 +79,20 @@
    "title": "Crest Caps Removed",
    "tab": "",
    "category": "News",
-   "synopsis": "Blizzard removed the weekly Hero Dawncrest and Myth Dawncrest caps with this week’s reset — no more 1,000-per-week ceiling on either.",
+   "synopsis": "Blizzard removed the weekly Hero Dawncrest and Myth Dawncrest caps with this week’s reset, no more 1,000-per-week ceiling on either.",
    "points": [
     {
-     "text": "The cap removal coincides with the Voidforge dropping Myth gear into the loot pool, so the idea is to let people upgrade more freely as the season tail begins. There’s no crest acquisition buff yet, though, so actually accumulating Myth Crests in volume is still going to take real time — the upgrade itself is just no longer gated. This rolls out alongside the rest of the weekly Hotfixes Update.",
+     "text": "The cap removal coincides with the Voidforge dropping Myth gear into the loot pool, so the idea is to let people upgrade more freely as the season tail begins. There’s no crest acquisition buff yet, though, so actually accumulating Myth Crests in volume is still going to take real time: the upgrade itself is just no longer gated. This rolls out alongside the rest of the weekly Hotfixes Update.",
      "sub": ""
     }
    ],
    "questions": [
-    "Late-season cap removal — does this actually help guilds gear alts and bench players, or is it too late in the season for most people to care?",
+    "Late-season cap removal. Does this actually help guilds gear alts and bench players, or is it too late in the season for most people to care?",
     "Should Blizzard have paired this with a crest acquisition buff at the same time? When’s the right point in the season to flip both switches?"
    ],
    "sources": [
     {
-     "label": "Wowhead — Crest Caps Removed Starting This Week",
+     "label": "Wowhead: Crest Caps Removed Starting This Week",
      "url": "https://www.wowhead.com/news/crest-caps-removed-starting-this-week-381670"
     }
    ],
@@ -111,11 +111,11 @@
    ],
    "questions": [
     "Are any of you actively playing MoP Classic right now? Would a WotLK Anniversary launch pull you off retail Midnight, or would it sit alongside?",
-    "Anniversary servers versus continuing the linear Classic progression past Cataclysm — what’s the right approach for Blizzard?"
+    "Anniversary servers versus continuing the linear Classic progression past Cataclysm. What’s the right approach for Blizzard?"
    ],
    "sources": [
     {
-     "label": "Wowhead — Could This New Mount Be Another Hint That WotLK is Coming to Anniversary Servers?",
+     "label": "Wowhead. Could This New Mount Be Another Hint That WotLK is Coming to Anniversary Servers?",
      "url": "https://www.wowhead.com/news/could-this-new-mount-be-another-hint-that-wrath-of-the-lich-king-is-coming-to-381706"
     }
    ],
@@ -125,10 +125,10 @@
    "title": "Hero Talent Tuning Pass With Weekly Reset",
    "tab": "",
    "category": "News",
-   "synopsis": "A wide-ranging Hero Talent tuning pass lands at weekly reset — Feral Druid all damage up 4%, Holy Priest and Resto Shaman get mana relief, Deathstalker Rogue gets a heavy buff to close the gap on alternatives.",
+   "synopsis": "A wide-ranging Hero Talent tuning pass lands at weekly reset: Feral Druid all damage up 4%, Holy Priest and Resto Shaman get mana relief, Deathstalker Rogue gets a heavy buff to close the gap on alternatives.",
    "points": [
     {
-     "text": "The PvE side is mostly targeted at underperforming Hero Talents, with a separate batch of PvP-only changes layered on top. The notable absence from the healer mana relief list is Resto Druid — both Holy Priest and Resto Shaman get explicit mana cost cuts on their core casts, but no Resto Druid changes appear in the patch notes. Whether that means the spec is in a fine spot or just being overlooked is a worthwhile question for the show.",
+     "text": "The PvE side is mostly targeted at underperforming Hero Talents, with a separate batch of PvP-only changes layered on top. The notable absence from the healer mana relief list is Resto Druid, both Holy Priest and Resto Shaman get explicit mana cost cuts on their core casts, but no Resto Druid changes appear in the patch notes. Whether that means the spec is in a fine spot or just being overlooked is a worthwhile question for the show.",
      "sub": ""
     },
     {
@@ -148,7 +148,7 @@
      "sub": ""
     },
     {
-     "text": "Mage Frost (Frostfire): Big push — Duality Pyroblast +25%, Dualcasting Adept Shatter bonus up to 40%, Heat Sink Flurry bonus up to 25%, Blast Radius Comet Storm bonus up to 50%.",
+     "text": "Mage Frost (Frostfire): Big push, Duality Pyroblast +25%, Dualcasting Adept Shatter bonus up to 40%, Heat Sink Flurry bonus up to 25%, Blast Radius Comet Storm bonus up to 50%.",
      "sub": ""
     },
     {
@@ -165,12 +165,12 @@
     }
    ],
    "questions": [
-    "Resto Druid getting nothing while Holy Priest and Resto Shaman get explicit mana relief — is the spec actually fine where it is, or quietly falling behind?",
-    "Kyressa — Feral picks up a flat 4% across the board with no Hero Talent gating. Does that actually move the meta, or is it cosmetic without addressing the spec’s deeper issues?"
+    "Resto Druid getting nothing while Holy Priest and Resto Shaman get explicit mana relief. Is the spec actually fine where it is, or quietly falling behind?",
+    "Kyressa: Feral picks up a flat 4% across the board with no Hero Talent gating. Does that actually move the meta, or is it cosmetic without addressing the spec’s deeper issues?"
    ],
    "sources": [
     {
-     "label": "Wowhead — Many Hero Talent Buffs Coming: Upcoming Class Tuning",
+     "label": "Wowhead, Many Hero Talent Buffs Coming: Upcoming Class Tuning",
      "url": "https://www.wowhead.com/news/many-hero-talent-buffs-coming-upcoming-class-tuning-with-weekly-reset-381709"
     }
    ],
@@ -180,20 +180,20 @@
    "title": "12.0.5 Hotfixes: Flourish + Tranquility Toned Down",
    "tab": "",
    "category": "News",
-   "synopsis": "This week’s 12.0.5 hotfix reduces the sound and visual overload from Resto Druid’s Flourish + Tranquility combo, plus fixes for Unholy DK, Disc Priest, and Prot Paladin — and the Bloody Tokens cap is gone.",
+   "synopsis": "This week’s 12.0.5 hotfix reduces the sound and visual overload from Resto Druid’s Flourish + Tranquility combo, plus fixes for Unholy DK, Disc Priest, and Prot Paladin, and the Bloody Tokens cap is gone.",
    "points": [
     {
-     "text": "The Flourish + Tranquility interaction had been a sensory wall — overlapping sound files stacked with the full Tranquility VFX on top of whatever else was firing in the raid. Blizzard reduced the number of sounds and visuals that play in that combination. Elsewhere: Unholy DK no longer has Forbidden Ritual aura stuck on permanently, Discipline Priest’s Master the Darkness can now be tracked in the cooldown manager, and Prot Paladin’s Guardian of the Forgotten Queen can be interrupted by CC effects as originally intended. The total Bloody Tokens cap was also removed.",
+     "text": "The Flourish + Tranquility interaction had been a sensory wall: overlapping sound files stacked with the full Tranquility VFX on top of whatever else was firing in the raid. Blizzard reduced the number of sounds and visuals that play in that combination. Elsewhere: Unholy DK no longer has Forbidden Ritual aura stuck on permanently, Discipline Priest’s Master the Darkness can now be tracked in the cooldown manager, and Prot Paladin’s Guardian of the Forgotten Queen can be interrupted by CC effects as originally intended. The total Bloody Tokens cap was also removed.",
      "sub": ""
     }
    ],
    "questions": [
-    "Flourish + Tranquility was genuinely overwhelming to look at and hear — is this the kind of audio/visual QoL Blizzard should prioritize more aggressively, or just nice-to-have cleanup?",
-    "Bloody Tokens cap removed late in the season — does anyone in the guild actually care about PvP catch-up at this point?"
+    "Flourish + Tranquility was genuinely overwhelming to look at and hear. Is this the kind of audio/visual QoL Blizzard should prioritize more aggressively, or just nice-to-have cleanup?",
+    "Bloody Tokens cap removed late in the season. Does anyone in the guild actually care about PvP catch-up at this point?"
    ],
    "sources": [
     {
-     "label": "Wowhead — DK, Druid & Priest Issues Resolved: 12.0.5 Hotfixes",
+     "label": "Wowhead, DK, Druid & Priest Issues Resolved: 12.0.5 Hotfixes",
      "url": "https://www.wowhead.com/news/death-knight-druid-and-priest-issues-resolved-midnight-patch-12-0-5-hotfixes-381710"
     }
    ],

@@ -9,7 +9,7 @@
  },
  "items": [
   {
-   "title": "Realm Instability — Recurring Outages Hit NA Servers",
+   "title": "Realm Instability: Recurring Outages Hit NA Servers",
    "tab": "",
    "category": "News",
    "synopsis": "WoW's realms went down three separate times this week, and Blizzard says the recurring culprit is hardware trouble at a third-party partner facility.",
@@ -41,15 +41,15 @@
    ],
    "sources": [
     {
-     "label": "Wowhead — Update: Servers Are Now Back Online",
+     "label": "Wowhead, Update: Servers Are Now Back Online",
      "url": "https://www.wowhead.com/news/all-wow-servers-down-due-to-emergency-maintenance-no-timeframe-provided-382355?utm_source=discord-webhook"
     },
     {
-     "label": "Blizzard Forums — \"Did servers go down?\" (official response)",
+     "label": "Blizzard Forums. \"Did servers go down?\" (official response)",
      "url": "https://us.forums.blizzard.com/en/wow/t/did-servers-go-down/2333563/138"
     },
     {
-     "label": "Icy Veins — Realm Outages Due to Recurring Hardware Issues at a Partner Facility",
+     "label": "Icy Veins: Realm Outages Due to Recurring Hardware Issues at a Partner Facility",
      "url": "https://www.icy-veins.com/wow/news/realm-outages-due-to-recurring-hardware-issues-at-a-partner-facility/"
     }
    ],
@@ -67,22 +67,22 @@
     }
    ],
    "questions": [
-    "Northrend and Ulduar again — are you excited for a callback like that, or would you rather the Saga stay forward-looking?",
-    "What's your read on \"Silithus\" here — a literal zone tease, a codename, or something else entirely? Did either of you catch wind of the leaks MrGM is hinting at?"
+    "Northrend and Ulduar again. Are you excited for a callback like that, or would you rather the Saga stay forward-looking?",
+    "What's your read on \"Silithus\" here: a literal zone tease, a codename, or something else entirely? Did either of you catch wind of the leaks MrGM is hinting at?"
    ],
    "sources": [
     {
-     "label": "MrGM on X — BlizzCon Metzen clip repost",
+     "label": "MrGM on X: BlizzCon Metzen clip repost",
      "url": "https://x.com/mrgmyt/status/2085302899496648753?s=12"
     }
    ],
    "media": []
   },
   {
-   "title": "China's 21st WoW Anniversary — BlizzCon Shanghai & Exclusive Rewards",
+   "title": "China's 21st WoW Anniversary: BlizzCon Shanghai & Exclusive Rewards",
    "tab": "",
    "category": "News",
-   "synopsis": "China is throwing its own BlizzCon to mark 21 years of WoW, complete with an RTX 5080 giveaway — and redirecting a long-unclaimed prize pool back into the community.",
+   "synopsis": "China is throwing its own BlizzCon to mark 21 years of WoW, complete with an RTX 5080 giveaway, and redirecting a long-unclaimed prize pool back into the community.",
    "points": [
     {
      "text": "Starting October 16th, the \"X Party\" convention in Shanghai is being billed as the largest offline WoW event in Chinese server history, with sales, giveaways, and a shot at a rare Thunder-Ridged Elekk through an online quiz. Total prizes across the celebration add up to roughly ¥6 million RMB (about $888,500 USD), including ten mounts and that RTX 5080.",
@@ -93,7 +93,7 @@
      "sub": ""
     },
     {
-     "text": "RWF prize redirected: the ¥2.2 million RMB planned for the Patch 12.1 Race to World First is instead going to the wider community — top-50 finisher rewards, guide-writing incentives, and international broadcast funding, since no Chinese guild has claimed the world-first prize since it started at ¥1 million in Nerub-ar Palace.",
+     "text": "RWF prize redirected: the ¥2.2 million RMB planned for the Patch 12.1 Race to World First is instead going to the wider community, top-50 finisher rewards, guide-writing incentives, and international broadcast funding, since no Chinese guild has claimed the world-first prize since it started at ¥1 million in Nerub-ar Palace.",
      "sub": ""
     },
     {
@@ -107,28 +107,28 @@
    ],
    "sources": [
     {
-     "label": "Wowhead — China Celebrates 21 Years of WoW with BlizzCon in Shanghai",
+     "label": "Wowhead: China Celebrates 21 Years of WoW with BlizzCon in Shanghai",
      "url": "https://www.wowhead.com/news/china-celebrates-21-years-of-wow-with-blizzcon-in-shanghai-382349#comments"
     },
     {
-     "label": "Wowhead — China Redistributes RWF Cash Prize to Community Incentives",
+     "label": "Wowhead: China Redistributes RWF Cash Prize to Community Incentives",
      "url": "https://www.wowhead.com/news/china-redistributes-2-2-million-race-to-world-first-cash-prize-to-community-382358?utm_source=discord-webhook"
     },
     {
-     "label": "Wowhead — Chinese-Exclusive Azure Dragon Varian Wrynn Transmog and Toy",
+     "label": "Wowhead: Chinese-Exclusive Azure Dragon Varian Wrynn Transmog and Toy",
      "url": "https://www.wowhead.com/news/chinese-exclusive-azure-dragon-varian-wyrnn-transmog-and-toy-models-382359?utm_source=discord-webhook"
     }
    ],
    "media": []
   },
   {
-   "title": "Patch 12.1 Raid Preview — Curse of Ula'tek",
+   "title": "Patch 12.1 Raid Preview: Curse of Ula'tek",
    "tab": "",
    "category": "News",
-   "synopsis": "Lead encounter designers confirmed Season 2's raid is a two-instance tier again — an eight-boss Venomous Abyss plus a one-boss Tidebound Grotto — with a familiar weekly power ramp for progression.",
+   "synopsis": "Lead encounter designers confirmed Season 2's raid is a two-instance tier again, an eight-boss Venomous Abyss plus a one-boss Tidebound Grotto, with a familiar weekly power ramp for progression.",
    "points": [
     {
-     "text": "In a joint interview with Wowhead, Raider.io, and Icy Veins, designers Andrew De Sousa and Taylor Sanders said the split-tier structure returns because Season 1's Dreamrift proved pugs and shorter play sessions could still get real raid progress in a bite-sized instance. Expect more of the \"non-standard gameplay\" callbacks too — deliberate homages to classics like the Naxxramas Frogger hallway and the Blackwing Lair trap room — alongside a raid arena built around a giant snake creature's brood, which is driving more two-target cleave than usual without it being a broader design pivot.",
+     "text": "In a joint interview with Wowhead, Raider.io, and Icy Veins, designers Andrew De Sousa and Taylor Sanders said the split-tier structure returns because Season 1's Dreamrift proved pugs and shorter play sessions could still get real raid progress in a bite-sized instance. Expect more of the \"non-standard gameplay\" callbacks too, deliberate homages to classics like the Naxxramas Frogger hallway and the Blackwing Lair trap room, alongside a raid arena built around a giant snake creature's brood, which is driving more two-target cleave than usual without it being a broader design pivot.",
      "sub": ""
     },
     {
@@ -140,17 +140,17 @@
      "sub": ""
     },
     {
-     "text": "Buff-over-nerf default: the team says it prefers giving players new power over nerfing encounters, reserving straight nerfs for reaction-time/mechanical checks — the L'ura glaive changes were called out as that exception.",
+     "text": "Buff-over-nerf default: the team says it prefers giving players new power over nerfing encounters, reserving straight nerfs for reaction-time/mechanical checks, the L'ura glaive changes were called out as that exception.",
      "sub": ""
     }
    ],
    "questions": [
     "As raiders, does knowing there's a scheduled weekly power ramp change how you feel about a rough night one or two of a new tier?",
-    "Which classic-raid callback are you hoping Venomous Abyss leans into hardest — something Frogger-hallway silly, or something BWL-trap-room brutal?"
+    "Which classic-raid callback are you hoping Venomous Abyss leans into hardest, something Frogger-hallway silly, or something BWL-trap-room brutal?"
    ],
    "sources": [
     {
-     "label": "Icy Veins — Blizzard Interview: Add-ons, Raid Design, and Mythic+ in Patch 12.1",
+     "label": "Icy Veins, Blizzard Interview: Add-ons, Raid Design, and Mythic+ in Patch 12.1",
      "url": "https://www.icy-veins.com/wow/news/blizzard-interview-add-ons-raid-design-and-mythic-in-patch-12-1/"
     }
    ],
@@ -160,7 +160,7 @@
    "title": "Mythic+ & the End of Computational Add-Ons",
    "tab": "",
    "category": "News",
-   "synopsis": "Starting in 12.1, add-ons lose direct access to Aura information — and a hotfix already broke the fully-automated Delve boss add-ons ahead of the patch.",
+   "synopsis": "Starting in 12.1, add-ons lose direct access to Aura information, and a hotfix already broke the fully-automated Delve boss add-ons ahead of the patch.",
    "points": [
     {
      "text": "Blizzard's stated goal is putting computational add-ons fully to rest so new and returning players don't feel like they need a huge add-on package just to function. It's already happening in practice: the Azta'rec Delve Boss memory game got hotfixed this week specifically to stop add-ons like Azta'rec Helper and Snake Says from tracking safe-spot coordinates and playing the mechanic back automatically. Designers say the payoff is more room for hidden-information mechanics like the Entombed Sentinels' debuff-matching fight, which would've previously just gotten offloaded to an add-on.",
@@ -179,7 +179,7 @@
      "sub": ""
     },
     {
-     "text": "No routing tool planned: Lindormi's Guidance stays targeted at brand-new tanks; an in-game mapping/routing tool for pushing keys isn't in the works, with the team pointing to existing community tools instead — though they didn't rule it out forever.",
+     "text": "No routing tool planned: Lindormi's Guidance stays targeted at brand-new tanks; an in-game mapping/routing tool for pushing keys isn't in the works, with the team pointing to existing community tools instead, though they didn't rule it out forever.",
      "sub": ""
     }
    ],
@@ -189,24 +189,24 @@
    ],
    "sources": [
     {
-     "label": "Icy Veins — Blizzard Interview: Add-ons, Raid Design, and Mythic+ in Patch 12.1",
+     "label": "Icy Veins, Blizzard Interview: Add-ons, Raid Design, and Mythic+ in Patch 12.1",
      "url": "https://www.icy-veins.com/wow/news/blizzard-interview-add-ons-raid-design-and-mythic-in-patch-12-1/"
     },
     {
-     "label": "Wowhead — Completely Automated Add-ons for Memory Game No Longer Work on Azta'rec",
+     "label": "Wowhead: Completely Automated Add-ons for Memory Game No Longer Work on Azta'rec",
      "url": "https://www.wowhead.com/news/completely-automated-addons-for-memory-game-broken-on-azratec-delve-boss-382356?utm_source=discord-webhook"
     }
    ],
    "media": []
   },
   {
-   "title": "Player Housing — Decor Duel's Last Call",
+   "title": "Player Housing: Decor Duel's Last Call",
    "tab": "",
    "category": "News",
-   "synopsis": "Decor Duel disappears the moment Patch 12.1 goes live, and Blizzard's only confirmed a safety net for some of its rewards — so this is your last chance to grab the rest.",
+   "synopsis": "Decor Duel disappears the moment Patch 12.1 goes live, and Blizzard's only confirmed a safety net for some of its rewards, so this is your last chance to grab the rest.",
    "points": [
     {
-     "text": "Blizzard confirmed Decor items themselves will remain purchasable from vendors in Silvermoon City using Voidlight Marl after the minigame is gone, but has stayed quiet on the fate of the mounts, transmog, and toys — Wowhead's advice is simple: get them now while you still can. Separately, datamining on the Patch 12.1 PTR turned up two new player housing exteriors landing with the update.",
+     "text": "Blizzard confirmed Decor items themselves will remain purchasable from vendors in Silvermoon City using Voidlight Marl after the minigame is gone, but has stayed quiet on the fate of the mounts, transmog, and toys, Wowhead's advice is simple: get them now while you still can. Separately, datamining on the Patch 12.1 PTR turned up two new player housing exteriors landing with the update.",
      "sub": ""
     },
     {
@@ -228,19 +228,19 @@
    ],
    "questions": [
     "Did either of you finish out the Decor Duel achievement list, or are we scrambling this weekend?",
-    "Autumnal or Springtime Westfall Barn — which one actually fits your housing plot?"
+    "Autumnal or Springtime Westfall Barn, which one actually fits your housing plot?"
    ],
    "sources": [
     {
-     "label": "Wowhead — Reminder: Decor Duel Ending Soon, Buy Rewards",
+     "label": "Wowhead, Reminder: Decor Duel Ending Soon, Buy Rewards",
      "url": "https://www.wowhead.com/news/reminder-decor-duel-ending-soon-buy-rewards-382363?utm_source=discord-webhook#rewards-toys"
     },
     {
-     "label": "Blizzard News — Join the Final Surge for Decor Duels",
+     "label": "Blizzard News: Join the Final Surge for Decor Duels",
      "url": "https://worldofwarcraft.blizzard.com/en-us/news/24271369"
     },
     {
-     "label": "Wowhead — Two New Housing Exteriors Added on Patch 12.1 PTR",
+     "label": "Wowhead: Two New Housing Exteriors Added on Patch 12.1 PTR",
      "url": "https://www.wowhead.com/news/two-new-housing-exteriors-added-on-patch-12-1-ptr-382357?utm_source=discord-webhook"
     }
    ],
@@ -253,7 +253,7 @@
    "synopsis": "The Ensemble: Sorcerer's Grassy Garb hat-and-cape set goes live as a Twitch Drop the same day Patch 12.1 launches.",
    "points": [
     {
-     "text": "The drop runs August 11th through September 8th — just watch four hours of eligible WoW content on Twitch across any channel in the category, no need to stick to one stream. It does require your Battle.net and Twitch accounts to already be linked through account.battle.net, and a fresh relink comes with a 7-day cooldown, so this is worth sorting out before launch day rather than during it.",
+     "text": "The drop runs August 11th through September 8th, just watch four hours of eligible WoW content on Twitch across any channel in the category, no need to stick to one stream. It does require your Battle.net and Twitch accounts to already be linked through account.battle.net, and a fresh relink comes with a 7-day cooldown, so this is worth sorting out before launch day rather than during it.",
      "sub": ""
     }
    ],
@@ -263,20 +263,20 @@
    ],
    "sources": [
     {
-     "label": "Wowhead — Sorcerer's Grassy Garb: New Twitch Drop on Patch 12.1 Launch",
+     "label": "Wowhead, Sorcerer's Grassy Garb: New Twitch Drop on Patch 12.1 Launch",
      "url": "https://www.wowhead.com/news/sorcerers-grassy-garb-new-twitch-drop-on-patch-12-1-launch-382369?utm_source=discord-webhook"
     }
    ],
    "media": []
   },
   {
-   "title": "Xbox's Q4 Earnings — The First Report Card Since the Layoffs",
+   "title": "Xbox's Q4 Earnings: The First Report Card Since the Layoffs",
    "tab": "",
    "category": "News",
-   "synopsis": "Microsoft's Q4 FY26 results landed July 30th — the first real financial checkpoint since July's Xbox restructuring — and both Satya Nadella and new Xbox CEO Asha Sharma went public with a \"return to growth by FY27\" promise.",
+   "synopsis": "Microsoft's Q4 FY26 results landed July 30th, the first real financial checkpoint since July's Xbox restructuring, and both Satya Nadella and new Xbox CEO Asha Sharma went public with a \"return to growth by FY27\" promise.",
    "points": [
     {
-     "text": "Xbox content and services revenue fell 10% year-over-year and hardware fell 13%, putting total Xbox revenue at $4.983 billion for the quarter — the lowest since Q1 2024. The quarter absorbed roughly $500 million in severance tied to July's cuts, and for the full fiscal year Xbox revenue finished down about $1.66–1.7 billion, roughly 7%. It's the fourth straight quarter of decline this fiscal year, and the trend is worth seeing laid out rather than just read as a headline number.",
+     "text": "Xbox content and services revenue fell 10% year-over-year and hardware fell 13%, putting total Xbox revenue at $4.983 billion for the quarter: the lowest since Q1 2024. The quarter absorbed roughly $500 million in severance tied to July's cuts, and for the full fiscal year Xbox revenue finished down about $1.66 to 1.7 billion, roughly 7%. It's the fourth straight quarter of decline this fiscal year, and the trend is worth seeing laid out rather than just read as a headline number.",
      "sub": ""
     },
     {
@@ -284,7 +284,7 @@
      "sub": ""
     },
     {
-     "text": "Asha Sharma (Xbox CEO): posted on X that Xbox brought in 200 million new players across FY26, but revenue didn't grow with that audience — and pledged to close that gap by investing in what players actually value, targeting a return to growth by the end of FY27.",
+     "text": "Asha Sharma (Xbox CEO): posted on X that Xbox brought in 200 million new players across FY26, but revenue didn't grow with that audience, and pledged to close that gap by investing in what players actually value, targeting a return to growth by the end of FY27.",
      "sub": ""
     },
     {
@@ -292,25 +292,25 @@
      "sub": ""
     },
     {
-     "text": "One stat worth having in your pocket if this comes up: U.S. subscription video-game spending — a category that specifically includes MMOs — was actually up 16% year-over-year in the first half of 2026, even as Xbox's own numbers slid. The sub model isn't the problem here.",
+     "text": "One stat worth having in your pocket if this comes up: U.S. subscription video-game spending, a category that specifically includes MMOs, was actually up 16% year-over-year in the first half of 2026, even as Xbox's own numbers slid. The sub model isn't the problem here.",
      "sub": ""
     }
    ],
    "questions": [
-    "Sharma's pledging a return to growth \"by FY27\" — does a promise like that make you more or less confident about WoW's future content cadence sitting inside this division?",
+    "Sharma's pledging a return to growth \"by FY27\". Does a promise like that make you more or less confident about WoW's future content cadence sitting inside this division?",
     "200 million new Xbox players didn't move the revenue needle this year. As WoW subscribers ourselves, does the subscription model feel more \"stable\" to you after seeing these numbers, or just differently exposed?"
    ],
    "sources": [
     {
-     "label": "Windows Central — Xbox and Microsoft CEOs Promise a Return to Growth by End of FY27",
+     "label": "Windows Central: Xbox and Microsoft CEOs Promise a Return to Growth by End of FY27",
      "url": "https://www.windowscentral.com/gaming/xbox/xbox-ceo-asha-sharma-and-microsoft-ceo-satya-nadella-promise-xbox-will-return-to-growth-by-the-end-of-fy27-what-went-wrong-last-fiscal"
     },
     {
-     "label": "CNBC — Microsoft's Xbox Chief Lays Out Plan to Pass Rivals on Margin by 2030",
+     "label": "CNBC: Microsoft's Xbox Chief Lays Out Plan to Pass Rivals on Margin by 2030",
      "url": "https://www.cnbc.com/2026/07/30/microsoft-xbox-asha-sharma-2030-plans.html"
     },
     {
-     "label": "Gaming Amigos — Xbox Revenue Falls Again, CEO Promises Return to Growth by FY27",
+     "label": "Gaming Amigos: Xbox Revenue Falls Again, CEO Promises Return to Growth by FY27",
      "url": "https://www.gamingamigos.com/post/xbox-q4-2026-results"
     },
     {
