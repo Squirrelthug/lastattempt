@@ -1,13 +1,13 @@
 ---
 title: About Last Attempt
 eyebrow: Who we are
-lede: A weekly World of Warcraft guildcast that grew into a media project. Run by people who raid, push keys, and read every patch note — not by a newsroom.
+lede: A weekly World of Warcraft guildcast that grew into a media project. Run by people who raid, push keys, and read every patch note.
 description: Last Attempt is an independent World of Warcraft media project built around the Last Attempt Guildcast and written commentary at lastattempt.net.
 ---
 
 ## The short version
 
-Last Attempt started in February 2026 as the **Last Attempt Guildcast**: a weekly show covering the week in Warcraft from inside the game — raid nights, keys, patch notes, and the community around all of it. Thirty-odd episodes later it is still weekly, and it has grown into more: the articles on this site, a [Guild Spotlight](/guilds/), and a community Discord.
+Last Attempt started in February 2026 as the **Last Attempt Guildcast**: a weekly show covering the week in Warcraft from inside the game — raid nights, keys, patch notes, and the community around all of it. Many episodes later it is still weekly, and it has grown into more: the articles on this site, a [Guild Spotlight](/guilds/), and a community Discord.
 
 The show covers what happened in Warcraft that week: news, patch notes, developer communication, the Race to World First, Mythic+ and PvP esports, community discussion, and whatever our own raid nights taught us. The articles are where we slow down and think about one thing at a time.
 
@@ -34,7 +34,7 @@ Last Attempt is not one guild. The host raids with Second Attempt, and the show'
 
 ## Where things live
 
-- **Podcast:** hosted on Spotify, distributed to Apple Podcasts and everywhere else. This site links to it rather than re-hosting it. See [Listen](/listen/).
+- **Podcast:** hosted on Spotify, distributed to Apple Podcasts and everywhere else. See [Listen](/listen/).
 - **Articles:** published here, with an [RSS feed](/feed.xml).
 - **Episode pages:** show notes, segment breakdowns, and audio for every episode in the [archive](/episodes/).
 - **Guilds:** the [Guild Spotlight](/guilds/).

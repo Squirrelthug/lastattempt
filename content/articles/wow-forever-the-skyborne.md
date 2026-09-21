@@ -30,7 +30,5 @@ Forever's team is small, and Blizzard does have to recoup some cost. Additional 
 !!! think "Where I land"
     I think this is a fair way to monetize, and I appreciate that the base game costs nothing beyond the sub. Being upset that part of the Forever release sits behind $30 is a short-sighted view. It's appropriate, it's healthy for the game, and I hope this exact pattern plays out with every future Forever expansion.
 
-!!! open "What nobody knows yet"
-    How the Skyborne racials actually shake out — Walk on Air, 1% haste, 5% to Elementals. Whether that's flavour or a spreadsheet problem is a question for the people who sim these things, once there's something to sim.
 
 A new race that belongs in the world, and a price tag that doesn't gate the world itself. If that's the shape of every Forever expansion, I'm fine with it.

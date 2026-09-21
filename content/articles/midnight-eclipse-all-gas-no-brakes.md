@@ -31,7 +31,4 @@ By the guilds' own account, the Season 2 Race to World First was a bit of a drag
 
 Spending that long on every boss makes it competitive, and for Liquid and Echo — always neck and neck — that's interesting. But lowering the difficulty doesn't just mean those two stumble through effortlessly. It means many other guilds get a chance to be competitive. Once a guild figures a boss out and gets a kill, the technique is known, and others can follow if they execute well enough. I'd like to see the race tuned toward that kind of progression.
 
-!!! open "What nobody knows yet"
-    Whether Blizzard agrees with me about the race. Whether the 0.1% ladder stays global. And everything about the Worldcore beyond eight bosses and a name — which, given how the last two final bosses looked, I'm prepared to be patient about.
-
 Only time will tell. At the very least we can hope the raid is as visually compelling as the fight with Alleria in Season 1 was, and as the fight with Ula'tek was — because that one was genuinely exciting.

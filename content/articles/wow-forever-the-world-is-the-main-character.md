@@ -43,7 +43,4 @@ World of Warcraft can be played alone, and there's something to be said for that
 
 Add the 600 new recipes across every profession, crafted food that grants an XP bonus, and new quests in *all* the zones rather than just the new ones, and every piece of it goes toward the same thing: supporting the world as the main character. The more horizontal development we get, the more that pays off.
 
-!!! open "What nobody knows yet"
-    Whether people actually sit down. The campfire only works as a social system if enough players treat it as an invitation rather than a buff dispenser — and that's a culture question the beta can't answer.
-
 That's the bet. Friction was never the point; it was the cost of a world you had to move through. Forever is paying that cost on purpose, and the campfire is the first place we'll find out whether players still think it's worth it.
