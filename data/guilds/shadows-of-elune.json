@@ -65,8 +65,8 @@
     "realm": 3
    },
    "heroic": {
-    "world": 8119,
-    "region": 2577,
+    "world": 8285,
+    "region": 2583,
     "realm": 16
    },
    "mythic": {
@@ -2061,10 +2061,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 34075,
+    "achievement_points": 34085,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-09-20T11:58:33.000Z",
+    "last_crawled_at": "2026-09-21T20:42:31.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/W\u00f2rgen",
     "profile_banner": "alliancebanner1"
    }
@@ -4692,10 +4692,10 @@
     "active_spec_role": "TANK",
     "gender": "male",
     "faction": "horde",
-    "achievement_points": 22865,
+    "achievement_points": 22975,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-09-06T03:11:59.000Z",
+    "last_crawled_at": "2026-09-21T21:33:19.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Warrioreh",
     "profile_banner": "hordebanner1"
    }
@@ -9423,14 +9423,14 @@
     "name": "Markybenched",
     "race": "Dark Iron Dwarf",
     "class": "Shaman",
-    "active_spec_name": "Elemental",
-    "active_spec_role": "DPS",
+    "active_spec_name": "Restoration",
+    "active_spec_role": "HEALING",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 17285,
+    "achievement_points": 18450,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-09-06T03:12:03.000Z",
+    "last_crawled_at": "2026-09-21T16:53:34.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Markybenched",
     "profile_banner": "alliancebanner1"
    }
