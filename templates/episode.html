@@ -42,7 +42,7 @@
         <div class="section-head"><h2>Segments</h2></div>
         <div class="segments">
           {% for it in episode.notes.segments %}
-          <details id="{{ it.slug }}" {% if loop.first %}open{% endif %}>
+          <details id="{{ it.slug }}">
             <summary>
               <span class="eyebrow">Episode Topic {{ loop.index }}{% if it.category and it.category not in ("News", "Preview") %} · {{ it.category }}{% endif %}</span>
               <h3>{{ it.title }}</h3>
