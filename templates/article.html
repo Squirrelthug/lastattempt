@@ -31,7 +31,8 @@
     </div>
     <footer class="article-footer">
       <div class="author-box">
-        <img src="/img/logo-mark.png" alt="">
+        {% set ns = namespace(avatar="/img/logo-mark.png") %}{% for person in cast.people if person.avatar and person.name|lower == article.author|lower %}{% set ns.avatar = person.avatar %}{% endfor %}
+        <img src="{{ ns.avatar }}" alt="{{ article.author }}" width="56" height="56">
         <p><strong>{{ article.author }}</strong> hosts the {{ site.show_name }}. Corrections and disagreements are welcome. <a href="/contact/">get in touch</a>.</p>
       </div>
     </footer>
