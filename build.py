@@ -36,6 +36,8 @@ import markdown
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 ROOT = Path(__file__).resolve().parent
+sys.path.insert(0, str(ROOT / "tools"))
+from dedash import DASHES, dedash  # noqa: E402  (house style: no dashes as punctuation, anywhere)
 DIST = ROOT / "dist"
 CONTENT = ROOT / "content"
 DATA = ROOT / "data"
@@ -462,6 +464,11 @@ def write(path: str, content: str) -> None:
     else:
         out = DIST / path.strip("/")
     out.parent.mkdir(parents=True, exist_ok=True)
+    # Feed and Raider.IO text arrive with dashes; content/ is already clean. Either way, none
+    # reach the page.
+    content = dedash(content)
+    if any(d in content for d in DASHES):
+        log(f"warning: dash left in {path}")
     out.write_text(content, encoding="utf-8")
 
 

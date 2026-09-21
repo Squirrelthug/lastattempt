@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% set title = "Episode " ~ episode.number ~ " — " ~ episode.headline %}
+{% set title = "Episode " ~ episode.number ~ ": " ~ episode.headline %}
 {% set description = episode.summary|excerpt(200) %}
 {% set image = show.image or None %}
 {% block head %}

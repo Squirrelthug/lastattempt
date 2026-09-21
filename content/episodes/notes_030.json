@@ -41,15 +41,15 @@
    ],
    "sources": [
     {
-     "label": "Source — World First Nymrissa Wavecaller Defeated by Liquid (Wowhead)",
+     "label": "Source: World First Nymrissa Wavecaller Defeated by Liquid (Wowhead)",
      "url": "https://www.wowhead.com/news/world-first-nymrissa-wavecaller-defeated-by-liquid-382494?utm_source=discord-webhook"
     },
     {
-     "label": "Source — Race to World First Analysis: Slowest Week 1 Progression since Liberation of Undermine (Wowhead)",
+     "label": "Source, Race to World First Analysis: Slowest Week 1 Progression since Liberation of Undermine (Wowhead)",
      "url": "https://www.wowhead.com/news/race-to-world-first-analysis-slowest-week-1-progression-since-liberation-of-382634?utm_source=discord-webhook"
     },
     {
-     "label": "Source — Mythic Coiled Altar Nerfed - Race to World First (Wowhead)",
+     "label": "Source: Mythic Coiled Altar Nerfed: Race to World First (Wowhead)",
      "url": "https://www.wowhead.com/news/mythic-coiled-altar-nerfed-race-to-world-first-382658?utm_source=discord-webhook"
     }
    ],
@@ -83,20 +83,20 @@
     }
    ],
    "questions": [
-    "Feral and Balance Druids both got 4 to 5% baseline buffs this reset — is that enough to bring them up to tier-one raid slots, or do they still need work?",
+    "Feral and Balance Druids both got 4 to 5% baseline buffs this reset. Is that enough to bring them up to tier-one raid slots, or do they still need work?",
     "How are your Mythic+ routes feeling after the mob density cuts in Ruby Life Pools and Altar of Fangs?"
    ],
    "sources": [
     {
-     "label": "Source — Coiled Altar, Ula'tek and Nymrissa Tuning with Weekly Reset - Nerfs and Cheese Fixes (Wowhead)",
+     "label": "Source: Coiled Altar, Ula'tek and Nymrissa Tuning with Weekly Reset: Nerfs and Cheese Fixes (Wowhead)",
      "url": "https://www.wowhead.com/news/coiled-altar-ulatek-and-nymrissa-tuning-with-weekly-reset-nerfs-and-cheese-fixes-382610?utm_source=discord-webhook"
     },
     {
-     "label": "Source — Vashnik LFR Nerf - Patch 12.1 Hotfixes for August 27th (Wowhead)",
+     "label": "Source: Vashnik LFR Nerf: Patch 12.1 Hotfixes for August 27th (Wowhead)",
      "url": "https://www.wowhead.com/news/hotfixes-august-27-2026-world-of-warcraft-blizzard-news-382657?utm_source=discord-webhook"
     },
     {
-     "label": "Source — Boomkin, Feral Druid, Mistweaver Monk Buffs - Class Tuning Coming with Weekly Reset (Wowhead)",
+     "label": "Source: Boomkin, Feral Druid, Mistweaver Monk Buffs: Class Tuning Coming with Weekly Reset (Wowhead)",
      "url": "https://www.wowhead.com/news/boomkin-feral-druid-mistweaver-monk-buffs-class-tuning-coming-with-weekly-reset-382674?utm_source=discord-webhook"
     }
    ],
@@ -123,11 +123,11 @@
    ],
    "sources": [
     {
-     "label": "Source — Over 110,000 Players Defeated ?? Azta'rec Solo During First Week of Season 2 (Wowhead)",
+     "label": "Source, Over 110,000 Players Defeated ?? Azta'rec Solo During First Week of Season 2 (Wowhead)",
      "url": "https://www.wowhead.com/news/over-110-000-players-defeated-aztarec-solo-during-first-week-of-season-2-382605?utm_source=discord-webhook"
     },
     {
-     "label": "Source — Failed Crafting Orders Resulting in Lost Crests and Sparks for Some Players (Wowhead)",
+     "label": "Source: Failed Crafting Orders Resulting in Lost Crests and Sparks for Some Players (Wowhead)",
      "url": "https://www.wowhead.com/news/failed-crafting-orders-resulting-in-lost-crests-and-sparks-for-some-players-382651?utm_source=discord-webhook"
     }
    ],
@@ -166,19 +166,19 @@
    ],
    "sources": [
     {
-     "label": "Publication — Carve, Climb, and Cruise Through the Skies of Northrend",
+     "label": "Publication: Carve, Climb, and Cruise Through the Skies of Northrend",
      "url": "https://worldofwarcraft.blizzard.com/en-us/news/24295088"
     },
     {
-     "label": "Source — Earn the Dawn's Radiance Sword for Completing the Final Chapter of Patch 12.1 Campaign (Wowhead)",
+     "label": "Source: Earn the Dawn's Radiance Sword for Completing the Final Chapter of Patch 12.1 Campaign (Wowhead)",
      "url": "https://www.wowhead.com/news/earn-the-dawns-radiance-sword-for-completing-the-final-chapter-of-patch-12-1-382611?utm_source=discord-webhook"
     },
     {
-     "label": "Source — Black Temple and the Venomous Abyss Raids - This Week in WoW (Wowhead)",
+     "label": "Source: Black Temple and the Venomous Abyss Raids: This Week in WoW (Wowhead)",
      "url": "https://www.wowhead.com/news/black-temple-and-the-venomous-abyss-raids-this-week-in-wow-382662?utm_source=discord-webhook"
     },
     {
-     "label": "Source — Rock Climbing World Quests Return in Patch 12.1 on Coiled Isle (Wowhead)",
+     "label": "Source: Rock Climbing World Quests Return in Patch 12.1 on Coiled Isle (Wowhead)",
      "url": "https://www.wowhead.com/news/rock-climbing-world-quests-return-in-patch-12-1-on-coiled-isle-382676?utm_source=discord-webhook"
     }
    ],
@@ -217,15 +217,15 @@
    ],
    "sources": [
     {
-     "label": "Source — Too Much DPS in the Coiled Altar Intermission Might Bug the Boss (Wowhead)",
+     "label": "Source, Too Much DPS in the Coiled Altar Intermission Might Bug the Boss (Wowhead)",
      "url": "https://www.wowhead.com/news/too-much-dps-in-the-coiled-altar-intermission-might-bug-the-boss-382632?utm_source=discord-webhook"
     },
     {
-     "label": "Source — Bonus Rolls Cannot Be Used on Loot-Locked Bosses Next Week (Wowhead)",
+     "label": "Source: Bonus Rolls Cannot Be Used on Loot-Locked Bosses Next Week (Wowhead)",
      "url": "https://www.wowhead.com/news/bonus-rolls-cannot-be-used-on-loot-locked-bosses-next-week-382656?utm_source=discord-webhook"
     },
     {
-     "label": "Source — Bonus Roll Hotfix Applied Early: No More Loot from Locked Bosses (Wowhead)",
+     "label": "Source, Bonus Roll Hotfix Applied Early: No More Loot from Locked Bosses (Wowhead)",
      "url": "https://www.wowhead.com/news/bonus-roll-hotfix-applied-early-no-more-loot-from-locked-bosses-382677?utm_source=discord-webhook"
     }
    ],
@@ -252,11 +252,11 @@
    ],
    "sources": [
     {
-     "label": "Source — How to Get J'imothy Pet in World of Warcraft (Wowhead)",
+     "label": "Source: How to Get J'imothy Pet in World of Warcraft (Wowhead)",
      "url": "https://www.wowhead.com/news/how-to-get-jimothy-pet-in-world-of-warcraft-382648?utm_source=discord-webhook"
     },
     {
-     "label": "Source — Enter SoulSoBreezy's Player Housing Blueprint Challenge: Show Off Your Designs! (Wowhead)",
+     "label": "Source, Enter SoulSoBreezy's Player Housing Blueprint Challenge: Show Off Your Designs! (Wowhead)",
      "url": "https://www.wowhead.com/news/enter-soulsobreezys-player-housing-blueprint-challenge-show-off-your-designs-382653?utm_source=discord-webhook"
     }
    ],
@@ -295,15 +295,15 @@
    ],
    "sources": [
     {
-     "label": "Source — New Mount and Ensembles in In-Game Shop: $25 Mailbox Mount (Wowhead)",
+     "label": "Source, New Mount and Ensembles in In-Game Shop: $25 Mailbox Mount (Wowhead)",
      "url": "https://www.wowhead.com/news/new-mount-and-ensembles-in-in-game-shop-25-mailbox-mount-382612?utm_source=discord-webhook"
     },
     {
-     "label": "Source — McDonald's Red Hot Portable Bakery Transmog Now Available in Ireland & the UK (Wowhead)",
+     "label": "Source: McDonald's Red Hot Portable Bakery Transmog Now Available in Ireland & the UK (Wowhead)",
      "url": "https://www.wowhead.com/news/mcdonalds-red-hot-portable-bakery-transmog-now-available-in-ireland-and-the-uk-382619?utm_source=discord-webhook"
     },
     {
-     "label": "Source — Xbox Might be Pitching a World of Warcraft Series (Wowhead)",
+     "label": "Source: Xbox Might be Pitching a World of Warcraft Series (Wowhead)",
      "url": "https://www.wowhead.com/news/xbox-might-be-pitching-a-world-of-warcraft-series-382664?utm_source=discord-webhook"
     }
    ],

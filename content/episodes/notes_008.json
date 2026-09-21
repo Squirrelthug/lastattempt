@@ -52,16 +52,16 @@
     }
    ],
    "questions": [
-    "How do you feel about the voidcore system compared to previous bonus roll mechanics — is spending voidcores on a guaranteed drop better than the old coins?",
+    "How do you feel about the voidcore system compared to previous bonus roll mechanics. Is spending voidcores on a guaranteed drop better than the old coins?",
     "With the Voidforge being scaffolded in 12.0 and not fully online until 12.0.5, do you think Blizzard is doing a good job of pacing content rollout this expansion? Historically they scaffold a system like this before enabling it in a following patch, examples include Creation Catalyst in Shadowlands and Revival Catalyst in Dragonflight."
    ],
    "sources": [
     {
-     "label": "Wowhead — Demon Hunters Embrace the Void with New Eye Customizations in Patch 12.0.5",
+     "label": "Wowhead: Demon Hunters Embrace the Void with New Eye Customizations in Patch 12.0.5",
      "url": "https://www.wowhead.com/news/demon-hunters-embrace-the-void-with-new-eye-customizations-in-patch-12-0-5-380875?utm_source=discord-webhook"
     },
     {
-     "label": "Blizzard Forums — 12.0.5 PTR Development Notes",
+     "label": "Blizzard Forums: 12.0.5 PTR Development Notes",
      "url": "https://us.forums.blizzard.com/en/wow/t/1205-ptr-development-notes/2270121"
     }
    ],
@@ -88,14 +88,14 @@
    ],
    "sources": [
     {
-     "label": "Wowhead — Practice Midnight Season 1 Raid Encounters with Vellum: Raid Night Study Hall",
+     "label": "Wowhead, Practice Midnight Season 1 Raid Encounters with Vellum: Raid Night Study Hall",
      "url": "https://www.wowhead.com/news/practice-midnight-season-1-raid-encounters-with-vellum-raid-night-study-hall-380778?utm_source=discord-webhook"
     }
    ],
    "media": []
   },
   {
-   "title": "The Secret of the Felcycle Continues - 10th Orb Discovered",
+   "title": "The Secret of the Felcycle Continues: 10th Orb Discovered",
    "tab": "",
    "category": "News",
    "synopsis": "As part of their work behind discovering how to join the Mind-Seekers, the Secret Finding Discord had leads on an item called Oddsight Focus, believing it was a continuation of a previously discovered secret. They were right!",
@@ -111,11 +111,11 @@
    ],
    "questions": [
     "Do you follow the Secret Finding community at all, or do you prefer to stumble onto hidden content on your own?",
-    "Blizzard keeps burying these deep multi-step secrets in the game — do you think this kind of content adds lasting value, or does it only matter to a tiny niche of the playerbase?"
+    "Blizzard keeps burying these deep multi-step secrets in the game. Do you think this kind of content adds lasting value, or does it only matter to a tiny niche of the playerbase?"
    ],
    "sources": [
     {
-     "label": "Wowhead — The Secret of the Felcycle Continues - 10th Orb Discovered",
+     "label": "Wowhead: The Secret of the Felcycle Continues: 10th Orb Discovered",
      "url": "https://www.wowhead.com/news/the-secret-of-the-felcycle-continues-10th-orb-discovered-380840?utm_source=discord-webhook"
     }
    ],
@@ -133,19 +133,19 @@
     }
    ],
    "questions": [
-    "Where do you draw the line between taking advantage of a bug and exploiting — if the vendor lets you keep buying, is that on the player or on Blizzard?",
+    "Where do you draw the line between taking advantage of a bug and exploiting, if the vendor lets you keep buying, is that on the player or on Blizzard?",
     "Do you think bans are the right response here, or should Blizzard have just rolled back the knowledge points and called it a day?"
    ],
    "sources": [
     {
-     "label": "Wowhead — Players Report Bans Associated With Recent Knowledge Point Exploit",
+     "label": "Wowhead: Players Report Bans Associated With Recent Knowledge Point Exploit",
      "url": "https://www.wowhead.com/news/players-report-bans-associated-with-recent-knowledge-point-exploit-380848?utm_source=discord-webhook"
     }
    ],
    "media": []
   },
   {
-   "title": "Raid Buffs Can No Longer Be Removed Mid Combat - Midnight Hotfixes for March 18th",
+   "title": "Raid Buffs Can No Longer Be Removed Mid Combat: Midnight Hotfixes for March 18th",
    "tab": "",
    "category": "News",
    "synopsis": "Player-cast long term raid buffs can no longer be canceled while the player is in combat.",
@@ -192,19 +192,19 @@
     }
    ],
    "questions": [
-    "How do you feel about addon developers finding creative workarounds like this — is it impressive problem-solving or does it cross a line into undermining encounter design?",
+    "How do you feel about addon developers finding creative workarounds like this. Is it impressive problem-solving or does it cross a line into undermining encounter design?",
     "Should Blizzard be doing more to lock down what data addons can access during encounters, or is the cat-and-mouse game between developers and addon makers just part of WoW's DNA?"
    ],
    "sources": [
     {
-     "label": "Wowhead — Raid Buffs Can No Longer Be Removed Mid Combat - Midnight Hotfixes for March 18th",
+     "label": "Wowhead: Raid Buffs Can No Longer Be Removed Mid Combat: Midnight Hotfixes for March 18th",
      "url": "https://www.wowhead.com/news/raid-buffs-can-no-longer-be-removed-mid-combat-midnight-hotfixes-for-march-18th-380858?utm_source=discord-webhook"
     }
    ],
    "media": []
   },
   {
-   "title": "New Twitch Drop Starting on March 26th - Cuddly Void Grrgle Housing Decor",
+   "title": "New Twitch Drop Starting on March 26th: Cuddly Void Grrgle Housing Decor",
    "tab": "",
    "category": "News",
    "synopsis": "Watch any eligible World of Warcraft stream on Twitch.tv from March 26 at 3:00 pm PDT until April 23 at 3:00 pm PDT to claim the Cuddly Void Grrgle Housing decor item.",
@@ -220,7 +220,7 @@
    ],
    "sources": [
     {
-     "label": "Blizzard — New Twitch Drop Starting on March 26th",
+     "label": "Blizzard: New Twitch Drop Starting on March 26th",
      "url": "https://worldofwarcraft.blizzard.com/en-us/news/24271368"
     }
    ],
@@ -247,7 +247,7 @@
    ],
    "sources": [
     {
-     "label": "Wowhead — WoW Ambassador Q&A with Holly Longdale on March 30th",
+     "label": "Wowhead: WoW Ambassador Q&A with Holly Longdale on March 30th",
      "url": "https://www.wowhead.com/news/wow-ambassador-q-a-with-holly-longdale-on-march-30th-380862?utm_source=discord-webhook"
     }
    ],
@@ -320,7 +320,7 @@
    ],
    "sources": [
     {
-     "label": "Wowhead — Get Guaranteed Hero Track Gear from Trovehunter's Bounty",
+     "label": "Wowhead: Get Guaranteed Hero Track Gear from Trovehunter's Bounty",
      "url": "https://www.wowhead.com/news/get-guaranteed-hero-track-gear-from-trovehunters-bounty-380853?utm_source=discord-webhook"
     }
    ],

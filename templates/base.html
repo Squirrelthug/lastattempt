@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-{% set page_title = (title ~ ' — ' ~ site.name) if title else (site.name ~ ' — ' ~ site.tagline) %}
+{% set page_title = (title ~ ' | ' ~ site.name) if title else (site.name ~ ' | ' ~ site.tagline) %}
 {% set page_desc = description or site.description %}
 {% set page_image = image or (site.url ~ '/img/og-default.png') %}
 <title>{{ page_title }}</title>
@@ -23,8 +23,8 @@
 <link rel="icon" href="/img/favicon.ico" sizes="any">
 <link rel="icon" href="/img/favicon.png" type="image/png">
 <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
-<link rel="alternate" type="application/rss+xml" title="{{ site.name }} — Articles" href="/feed.xml">
-<link rel="alternate" type="application/rss+xml" title="{{ site.show_name }} — Podcast" href="{{ site.feed_url }}">
+<link rel="alternate" type="application/rss+xml" title="{{ site.name }} Articles" href="/feed.xml">
+<link rel="alternate" type="application/rss+xml" title="{{ site.show_name }} Podcast" href="{{ site.feed_url }}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">

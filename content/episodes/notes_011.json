@@ -15,66 +15,66 @@
    "synopsis": "Patch 12.0.5 launches April 21 with a large slate of new outdoor and group content for Midnight.",
    "points": [
     {
-     "text": "Void Assaults — Void Strikes rotate weekly through Eversong Woods and Zul'Aman. Completing enough Strikes triggers larger Void Incursion scenarios requiring many players.",
+     "text": "Void Assaults: Void Strikes rotate weekly through Eversong Woods and Zul'Aman. Completing enough Strikes triggers larger Void Incursion scenarios requiring many players.",
      "sub": ""
     },
     {
-     "text": "Ritual Sites — Small 1–5 player instances where you disrupt naga and Twilight's Blade cultists. Tiered difficulty with scaling rewards, and they count toward the Great Vault World row alongside Delves and Prey.",
+     "text": "Ritual Sites: Small 1 to 5 player instances where you disrupt naga and Twilight's Blade cultists. Tiered difficulty with scaling rewards, and they count toward the Great Vault World row alongside Delves and Prey.",
      "sub": ""
     },
     {
-     "text": "Voidforge — Help domanaar Decimus build a Voidforge to transmute Nebulous Voidcores (from raids, M+, Delves, and Nightmare Prey) into powerful gear. Unlocking the Ascendant Nilhammer lets you upgrade weapons and trinkets further with Ascendant Voidcores.",
+     "text": "Voidforge: Help domanaar Decimus build a Voidforge to transmute Nebulous Voidcores (from raids, M+, Delves, and Nightmare Prey) into powerful gear. Unlocking the Ascendant Nilhammer lets you upgrade weapons and trinkets further with Ascendant Voidcores.",
      "sub": ""
     },
     {
-     "text": "Decor Duels — A hide-and-seek PvP mini-game in Silvermoon City via Group Finder. One team hides as housing decor items, the other seeks. Rewards include a mount, toys, and decor.",
+     "text": "Decor Duels: A hide-and-seek PvP mini-game in Silvermoon City via Group Finder. One team hides as housing decor items, the other seeks. Rewards include a mount, toys, and decor.",
      "sub": ""
     },
     {
-     "text": "Abyss Anglers — Repeatable underwater fishing event off the coast of Zul'Aman. Spear fish, rack up points, earn dive equipment upgrades and cosmetics.",
+     "text": "Abyss Anglers: Repeatable underwater fishing event off the coast of Zul'Aman. Spear fish, rack up points, earn dive equipment upgrades and cosmetics.",
      "sub": ""
     },
     {
-     "text": "Field Accolades — New currency earned from Void Assaults and Ritual Sites, spent on Champion and Heroic quality gear.",
+     "text": "Field Accolades: New currency earned from Void Assaults and Ritual Sites, spent on Champion and Heroic quality gear.",
      "sub": ""
     }
    ],
    "questions": [
-    "Ritual Sites going into the Great Vault World row is huge — does that change how you plan your weekly vault lockouts, or are you still prioritizing raids and M+?",
-    "Decor Duels sounds wild — prop hunt in Silvermoon. Is this the kind of casual PvP content WoW has been missing, or is it a one-and-done novelty?"
+    "Ritual Sites going into the Great Vault World row is huge. Does that change how you plan your weekly vault lockouts, or are you still prioritizing raids and M+?",
+    "Decor Duels sounds wild: prop hunt in Silvermoon. Is this the kind of casual PvP content WoW has been missing, or is it a one-and-done novelty?"
    ],
    "sources": [
     {
-     "label": "Source — Blizzard: The 12.0.5 Content Update Goes Live April 21",
+     "label": "Source, Blizzard: The 12.0.5 Content Update Goes Live April 21",
      "url": "https://worldofwarcraft.blizzard.com/en-us/news/24266871"
     }
    ],
    "media": []
   },
   {
-   "title": "Midnight Hotfixes — April 9",
+   "title": "Midnight Hotfixes: April 9",
    "tab": "",
    "category": "News",
    "synopsis": "Blizzard pushed a significant round of class tuning and bug fixes on April 9.",
    "points": [
     {
-     "text": "Monk — Brewmaster nerfs: Vital Flame self-healing reduced from 50% to 40%. Shado-Pan Predictive Training damage reduction dropped from 10% to 8%. Devs note Brewmaster self-healing was too strong relative to other tanks.",
+     "text": "Monk, Brewmaster nerfs: Vital Flame self-healing reduced from 50% to 40%. Shado-Pan Predictive Training damage reduction dropped from 10% to 8%. Devs note Brewmaster self-healing was too strong relative to other tanks.",
      "sub": ""
     },
     {
-     "text": "Monk — Windwalker buff: Fists of Fury cleave damage increased from 54% to 60%.",
+     "text": "Monk, Windwalker buff: Fists of Fury cleave damage increased from 54% to 60%.",
      "sub": ""
     },
     {
-     "text": "Rogue — Assassination buffs: Garrote and Rupture damage up 5%. Fan of Knives and Crimson Tempest up 10%. Caustic Spatter up from 18% to 20%.",
+     "text": "Rogue, Assassination buffs: Garrote and Rupture damage up 5%. Fan of Knives and Crimson Tempest up 10%. Caustic Spatter up from 18% to 20%.",
      "sub": ""
     },
     {
-     "text": "Rogue — Outlaw adjustment: Overall damage up 4%, but Blade Flurry cleave reduced from 30% to 28%.",
+     "text": "Rogue, Outlaw adjustment: Overall damage up 4%, but Blade Flurry cleave reduced from 30% to 28%.",
      "sub": ""
     },
     {
-     "text": "Hunter — BM fix: Wild Instincts was doing more single-target damage than intended; now corrected.",
+     "text": "Hunter, BM fix: Wild Instincts was doing more single-target damage than intended; now corrected.",
      "sub": ""
     },
     {
@@ -95,12 +95,12 @@
     }
    ],
    "questions": [
-    "Brewmaster was clearly overperforming — do you think a 10% Vital Flame nerf and 2% Predictive Training cut is enough to bring them in line, or will they still be the top tank pick?",
-    "Assassination Rogue got some love across the board — does this move them up your M+ or raid comp tier list, or do they still need more?"
+    "Brewmaster was clearly overperforming. Do you think a 10% Vital Flame nerf and 2% Predictive Training cut is enough to bring them in line, or will they still be the top tank pick?",
+    "Assassination Rogue got some love across the board. Does this move them up your M+ or raid comp tier list, or do they still need more?"
    ],
    "sources": [
     {
-     "label": "Source — Blizzard: Hotfixes April 9, 2026",
+     "label": "Source, Blizzard: Hotfixes April 9, 2026",
      "url": "https://news.blizzard.com/en-us/article/24266320/hotfixes-april-9-2026"
     }
    ],
@@ -126,12 +126,12 @@
     }
    ],
    "questions": [
-    "This is a pretty significant quality-of-life change for Devour weeks — does knowing your class has a one-button fix change how you feel about the affix, or is Devour still the worst Bargain?",
+    "This is a pretty significant quality-of-life change for Devour weeks. Does knowing your class has a one-button fix change how you feel about the affix, or is Devour still the worst Bargain?",
     "Do you think this makes certain classes even more desirable in M+ comps now, or does it level the playing field since almost everyone has an option?"
    ],
    "sources": [
     {
-     "label": "Source — Wowhead: Devour Affix Now Includes Snare Effects Allowing For Easier Removal",
+     "label": "Source, Wowhead: Devour Affix Now Includes Snare Effects Allowing For Easier Removal",
      "url": "https://www.wowhead.com/news/devour-affix-now-includes-snare-effects-allowing-for-easier-removal-381158"
     }
    ],
@@ -144,7 +144,7 @@
    "synopsis": "Reaching Rank 9 in the Delver's Journey unlocks Hero (1/6) ilvl 259 gear from Tier 11 Bountiful Coffers and a new Delve vendor.",
    "points": [
     {
-     "text": "Tier 11 Bountiful Coffers now have a chance to drop Hero gear. If no Hero gear drops, you receive Untainted Mana-Crystals instead. Tiers 8–10 only drop crystals at lower quantities.",
+     "text": "Tier 11 Bountiful Coffers now have a chance to drop Hero gear. If no Hero gear drops, you receive Untainted Mana-Crystals instead. Tiers 8 to 10 only drop crystals at lower quantities.",
      "sub": ""
     },
     {
@@ -161,12 +161,12 @@
     }
    ],
    "questions": [
-    "Hero-track from Delves is a big deal for alt players — does this change your priority on which characters you push Journey progress on first?",
-    "The Mana-Crystal cap is pretty tight at 250/week with no catch-up — does that feel fair for the reward level, or should Blizzard have been more generous?"
+    "Hero-track from Delves is a big deal for alt players. Does this change your priority on which characters you push Journey progress on first?",
+    "The Mana-Crystal cap is pretty tight at 250/week with no catch-up. Does that feel fair for the reward level, or should Blizzard have been more generous?"
    ],
    "sources": [
     {
-     "label": "Source — Wowhead: Get Hero Track Gear from Delves from Journey Rank 9",
+     "label": "Source, Wowhead: Get Hero Track Gear from Delves from Journey Rank 9",
      "url": "https://www.wowhead.com/news/get-hero-track-gear-from-delves-from-journey-rank-9-381176"
     }
    ],
@@ -176,7 +176,7 @@
    "title": "L'ura Memory Game Addon via Northern Sky Raid Tools",
    "tab": "",
    "category": "News",
-   "synopsis": "The Northern Sky Raid Tools addon by Reloe now includes a L'ura Rune display module, bringing Race to World First–level tech to everyday raid groups.",
+   "synopsis": "The Northern Sky Raid Tools addon by Reloe now includes a L'ura Rune display module, bringing Race to World First level tech to everyday raid groups.",
    "points": [
     {
      "text": "During the Race to World First, top guilds built custom addons to handle L'ura's rune memory mechanic. Previously, guilds relied on typing, World Markers, or verbal callouts. This module makes that solution publicly available.",
@@ -192,12 +192,12 @@
     }
    ],
    "questions": [
-    "L'ura's memory mechanic was one of the more unique puzzles this tier — does having an addon solve it take away from the experience, or is it a welcome relief for prog guilds?",
+    "L'ura's memory mechanic was one of the more unique puzzles this tier. Does having an addon solve it take away from the experience, or is it a welcome relief for prog guilds?",
     "How much of your raid's success on a boss should come from addon tech vs. raw player communication and skill?"
    ],
    "sources": [
     {
-     "label": "Source — Wowhead: Bring Race to World First Tech to Raid Night with L'ura Memory Game Addon",
+     "label": "Source, Wowhead: Bring Race to World First Tech to Raid Night with L'ura Memory Game Addon",
      "url": "https://www.wowhead.com/news/bring-race-to-world-first-tech-to-raid-night-with-lura-memory-game-addon-381170"
     }
    ],
@@ -210,25 +210,25 @@
    "synopsis": "Voidbreaker Throggar, a lieutenant just before Belo'ren in March on Quel'Danas, can be farmed for Myth-track BoE drops on Mythic without killing any bosses.",
    "points": [
     {
-     "text": "Reaching Throggar requires splitting the raid to defeat Void and Light versions of Belo'ren on the entry bridges, then dropping down and clearing trash. Coordinated groups reach him in 5–10 minutes.",
+     "text": "Reaching Throggar requires splitting the raid to defeat Void and Light versions of Belo'ren on the entry bridges, then dropping down and clearing trash. Coordinated groups reach him in 5 to 10 minutes.",
      "sub": ""
     },
     {
-     "text": "Loot: Myth-track BoE armor across all armor types — cloth, leather, mail, and plate pieces including head, chest, shoulders, legs, waist, and feet slots.",
+     "text": "Loot: Myth-track BoE armor across all armor types, cloth, leather, mail, and plate pieces including head, chest, shoulders, legs, waist, and feet slots.",
      "sub": ""
     },
     {
-     "text": "Mythic BoEs are Bind-on-Equip and currently selling for roughly 2–4 million gold on the AH depending on stat rolls. Likely farmable once per character per week, though not officially confirmed.",
+     "text": "Mythic BoEs are Bind-on-Equip and currently selling for roughly 2 to 4 million gold on the AH depending on stat rolls. Likely farmable once per character per week, though not officially confirmed.",
      "sub": ""
     }
    ],
    "questions": [
-    "2–4 million gold for 10 minutes of work is insane value — are you planning to run alts through this, or do you think Blizzard will hotfix the no-boss-kill access?",
+    "2 to 4 million gold for 10 minutes of work is insane value. Are you planning to run alts through this, or do you think Blizzard will hotfix the no-boss-kill access?",
     "Does the existence of Myth-track BoEs on the AH cheapen the gear progression, or is it a healthy gold sink for the economy?"
    ],
    "sources": [
     {
-     "label": "Source — Wowhead: Make Easy Gold From Mythic BoEs in March on Quel'Danas",
+     "label": "Source, Wowhead: Make Easy Gold From Mythic BoEs in March on Quel'Danas",
      "url": "https://www.wowhead.com/news/make-easy-gold-from-mythic-boes-in-march-on-queldanas-381175"
     }
    ],
@@ -241,29 +241,29 @@
    "synopsis": "A wave of new weapon models was datamined on the 12.0.5 PTR, including void-themed redesigns inspired by Sunwell Plateau weapons from Burning Crusade.",
    "points": [
     {
-     "text": "Sunwalker Weapons — Tauren Paladin-inspired designs including 1H axes, 1H swords, and 2H swords.",
+     "text": "Sunwalker Weapons: Tauren Paladin-inspired designs including 1H axes, 1H swords, and 2H swords.",
      "sub": ""
     },
     {
-     "text": "Gilneas Loyalist Weapons — Fist weapons, bows, and 1H maces planned for a future Trading Post month.",
+     "text": "Gilneas Loyalist Weapons: Fist weapons, bows, and 1H maces planned for a future Trading Post month.",
      "sub": ""
     },
     {
-     "text": "Voidwell Weapons — Sunwell Plateau raid weapons recolored with a Void aesthetic.",
+     "text": "Voidwell Weapons: Sunwell Plateau raid weapons recolored with a Void aesthetic.",
      "sub": ""
     },
     {
-     "text": "Bonus: A new model matching the Valarjar Champion's Greatsword was datamined — the infamously oversized 2H sword from Legion.",
+     "text": "Bonus: A new model matching the Valarjar Champion's Greatsword was datamined, the infamously oversized 2H sword from Legion.",
      "sub": ""
     }
    ],
    "questions": [
-    "The Voidwell weapons are a BC nostalgia hit — are you excited to see Sunwell models return with a Void twist, or does it feel like recycled content?",
-    "The Valarjar Champion's Greatsword was already comically long — do you think they're bringing it back as a meme or actually fixing the scaling?"
+    "The Voidwell weapons are a BC nostalgia hit. Are you excited to see Sunwell models return with a Void twist, or does it feel like recycled content?",
+    "The Valarjar Champion's Greatsword was already comically long. Do you think they're bringing it back as a meme or actually fixing the scaling?"
    ],
    "sources": [
     {
-     "label": "Source — Wowhead: Darkwell-Style Weapons Datamined on Patch 12.0.5 PTR",
+     "label": "Source, Wowhead: Darkwell-Style Weapons Datamined on Patch 12.0.5 PTR",
      "url": "https://www.wowhead.com/news/darkwell-style-weapons-datamined-on-patch-12-0-5-ptr-380893"
     }
    ],
@@ -285,12 +285,12 @@
     }
    ],
    "questions": [
-    "Housing is still brand new and already getting 300+ new pieces — is Blizzard delivering on the post-launch support they promised, or is this expected baseline?",
+    "Housing is still brand new and already getting 300+ new pieces. Is Blizzard delivering on the post-launch support they promised, or is this expected baseline?",
     "Are you putting time into your house yet, or is it still on the back burner while you focus on raids and M+?"
    ],
    "sources": [
     {
-     "label": "Source — Wowhead: Over 300 New Decor Items Added in Patch 12.0.5",
+     "label": "Source, Wowhead: Over 300 New Decor Items Added in Patch 12.0.5",
      "url": "https://www.wowhead.com/news/over-300-new-decor-items-added-in-patch-12-0-5-380788"
     }
    ],
@@ -311,17 +311,17 @@
      "sub": ""
     },
     {
-     "text": "House XP is not Warband-wide — Horde and Alliance houses earn separately based on which Endeavor is active.",
+     "text": "House XP is not Warband-wide: Horde and Alliance houses earn separately based on which Endeavor is active.",
      "sub": ""
     }
    ],
    "questions": [
-    "No new Endeavors this cycle — is that disappointing, or are you still working through the ones that already exist?",
-    "Being able to shop other neighborhoods' vendors is a nice touch — have you been hunting decor from Endeavors your guild didn't pick?"
+    "No new Endeavors this cycle. Is that disappointing, or are you still working through the ones that already exist?",
+    "Being able to shop other neighborhoods' vendors is a nice touch. Have you been hunting decor from Endeavors your guild didn't pick?"
    ],
    "sources": [
     {
-     "label": "Source — Wowhead: New Endeavor Cycle Available Now — House XP, Community Coupons & New Decor",
+     "label": "Source, Wowhead: New Endeavor Cycle Available Now, House XP, Community Coupons & New Decor",
      "url": "https://www.wowhead.com/news/new-endeavor-cycle-available-now-house-xp-community-coupons-and-new-decor-381156"
     }
    ],
@@ -342,17 +342,17 @@
      "sub": ""
     },
     {
-     "text": "The accessibility angle is significant — many players already use controllers via community workarounds, and built-in support would lower the barrier for those who need it.",
+     "text": "The accessibility angle is significant, many players already use controllers via community workarounds, and built-in support would lower the barrier for those who need it.",
      "sub": ""
     }
    ],
    "questions": [
-    "Would you ever play WoW on a controller, even for casual content like transmog runs or fishing — or is keyboard and mouse too deeply wired into your muscle memory?",
+    "Would you ever play WoW on a controller, even for casual content like transmog runs or fishing, or is keyboard and mouse too deeply wired into your muscle memory?",
     "If controller support leads to a console port, does that excite you or worry you about the game being designed around simpler inputs?"
    ],
    "sources": [
     {
-     "label": "Source — Blizzard Watch: How much would you engage with World of Warcraft on a controller?",
+     "label": "Source, Blizzard Watch: How much would you engage with World of Warcraft on a controller?",
      "url": "https://blizzardwatch.com/2026/04/10/much-engage-world-warcraft-controller/"
     }
    ],
@@ -382,12 +382,12 @@
     }
    ],
    "questions": [
-    "Some of these QoL changes — like removing enchant rep requirements and consolidating currencies — would be huge in retail too. Which one do you most wish Blizzard would bring to the Western client?",
-    "Dynamic world boss loot that scales with eligible players is a genuinely clever system — should retail adopt something similar for world content?"
+    "Some of these QoL changes, like removing enchant rep requirements and consolidating currencies, would be huge in retail too. Which one do you most wish Blizzard would bring to the Western client?",
+    "Dynamic world boss loot that scales with eligible players is a genuinely clever system. Should retail adopt something similar for world content?"
    ],
    "sources": [
     {
-     "label": "Source — Icy Veins: China's Titan Reforged Realms Add Huge QoL Upgrades Western WoW Players Won't See",
+     "label": "Source, Icy Veins: China's Titan Reforged Realms Add Huge QoL Upgrades Western WoW Players Won't See",
      "url": "https://www.icy-veins.com/wow-classic/news/chinas-titan-reforged-realms-add-huge-qol-upgrades-western-wow-players-wont-see/"
     }
    ],
