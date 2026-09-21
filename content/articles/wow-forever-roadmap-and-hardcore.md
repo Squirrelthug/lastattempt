@@ -19,7 +19,7 @@ Five weeks after that, December 9, the raids unlock: a 10-man, a 20-man and a 40
 
 ## Then the cadence starts
 
-Spring brings more raids and dungeons, new quests and playable area, and a new Legendary — nobody has any idea what it is yet. Summer brings more major updates, including a revamped iconic raid. My guess, honestly, is Ragnaros. We'll see. More world content, two more dungeons.
+Spring brings more raids and dungeons, new quests and playable area, and a new Legendary — nobody has any idea what it is yet. Summer brings more major updates, including a revamped iconic raid. My guess, honestly, is Molten Core. We'll see. More world content, two more dungeons.
 
 And there's a pattern in there: PvP refreshes. Each major Forever patch looks like it brings a new PvP season and a resetting ladder. There's a lot of focus on PvP in this version of the game, and I think a lot of PvPers may find themselves enjoying Forever more than mainline WoW.
 
@@ -34,6 +34,6 @@ In a game that continuously expands horizontally, that problem goes away. You ca
 Tim Jones called Hardcore the purest form of Classic anyone can play, and I genuinely agree. There's something about the tension in every fight, every time you step into a cave not knowing if you'll walk out. It's a completely different emotion, and it demands a much more attentive player. Going AFK in the middle of the forest will not serve you well here.
 
 !!! open "What the roadmap leaves open"
-    What the revamped iconic raid is. What the Legendary is. Whether "PvP season refresh" means a ladder reset every patch or something more. And whether Hardcore, arriving after launch into a game with new content on the way, keeps its momentum this time — that's the thing to watch.
+    What the revamped iconic raid is. What the Legendary is. And whether Hardcore, arriving after launch into a game with new content on the way can keeps its momentum this time.
 
 Beyond Hardcore, Forever is shaping up as a genuinely exciting roadmap laid out across 2026 and 2027. The community is watching where it goes, and so are we — we'll report on updates as they land.
