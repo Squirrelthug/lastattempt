@@ -53,7 +53,7 @@
     "realm": 97
    },
    "mythic": {
-    "world": 2435,
+    "world": 2472,
     "region": 719,
     "realm": 35
    }
@@ -65,8 +65,8 @@
     "realm": 58
    },
    "heroic": {
-    "world": 8901,
-    "region": 2898,
+    "world": 8968,
+    "region": 2902,
     "realm": 115
    },
    "mythic": {
@@ -225,10 +225,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 30980,
+    "achievement_points": 31000,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-09-14T08:10:26.000Z",
+    "last_crawled_at": "2026-09-22T14:20:59.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Ryagass",
     "profile_banner": "alliancebanner1"
    }
@@ -1827,10 +1827,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 28635,
+    "achievement_points": 28640,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-09-22T01:27:22.000Z",
+    "last_crawled_at": "2026-09-22T18:58:11.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Canedi",
     "profile_banner": "alliancebanner1"
    }
@@ -2349,10 +2349,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 28635,
+    "achievement_points": 28640,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-09-21T09:08:20.000Z",
+    "last_crawled_at": "2026-09-22T18:56:16.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Canesneakz",
     "profile_banner": "alliancebanner1"
    }
@@ -2853,10 +2853,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 28635,
+    "achievement_points": 28640,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-09-22T02:44:47.000Z",
+    "last_crawled_at": "2026-09-22T18:43:02.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Canehuntz",
     "profile_banner": "alliancebanner1"
    }
@@ -3645,10 +3645,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 20765,
+    "achievement_points": 22285,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-09-10T13:20:03.000Z",
+    "last_crawled_at": "2026-09-22T20:28:59.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Doitfrombhin",
     "profile_banner": "alliancebanner1"
    }
@@ -4491,10 +4491,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 28635,
+    "achievement_points": 28640,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-09-22T01:25:37.000Z",
+    "last_crawled_at": "2026-09-22T20:35:01.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Canedru",
     "profile_banner": "alliancebanner1"
    }
