@@ -53,8 +53,8 @@
     "realm": 97
    },
    "mythic": {
-    "world": 2505,
-    "region": 743,
+    "world": 2542,
+    "region": 744,
     "realm": 37
    }
   },
@@ -65,8 +65,8 @@
     "realm": 58
    },
    "heroic": {
-    "world": 9064,
-    "region": 2975,
+    "world": 9129,
+    "region": 2983,
     "realm": 118
    },
    "mythic": {
@@ -138,7 +138,7 @@
     "achievement_points": 16355,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-09-23T06:48:12.000Z",
+    "last_crawled_at": "2026-09-23T20:44:16.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Chanaa",
     "profile_banner": "alliancebanner1"
    }
@@ -3177,10 +3177,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 13630,
+    "achievement_points": 13970,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-08-31T13:05:50.000Z",
+    "last_crawled_at": "2026-09-23T18:58:20.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Scythelin",
     "profile_banner": "alliancebanner1"
    }
@@ -3216,7 +3216,7 @@
     "achievement_points": 22285,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-09-23T01:04:07.000Z",
+    "last_crawled_at": "2026-09-23T20:54:38.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Dlm",
     "profile_banner": "alliancebanner1"
    }
