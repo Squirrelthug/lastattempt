@@ -53,8 +53,8 @@
     "realm": 97
    },
    "mythic": {
-    "world": 2607,
-    "region": 777,
+    "world": 2669,
+    "region": 779,
     "realm": 37
    }
   },
@@ -65,8 +65,8 @@
     "realm": 58
    },
    "heroic": {
-    "world": 8644,
-    "region": 2788,
+    "world": 8757,
+    "region": 2801,
     "realm": 107
    },
    "mythic": {
@@ -2676,7 +2676,7 @@
     "achievement_points": 22265,
     "region": "us",
     "realm": "Dalaran",
-    "last_crawled_at": "2026-09-20T02:45:17.000Z",
+    "last_crawled_at": "2026-09-24T21:10:45.000Z",
     "profile_url": "https://raider.io/characters/us/dalaran/Nethertank",
     "profile_banner": "alliancebanner1"
    }
@@ -4109,14 +4109,14 @@
     "name": "Pap\u00e4",
     "race": "Tauren",
     "class": "Druid",
-    "active_spec_name": "Guardian",
-    "active_spec_role": "TANK",
+    "active_spec_name": "Feral",
+    "active_spec_role": "DPS",
     "gender": "male",
     "faction": "horde",
-    "achievement_points": 15290,
+    "achievement_points": 15650,
     "region": "us",
     "realm": "Shadowsong",
-    "last_crawled_at": "2026-07-06T13:12:10.000Z",
+    "last_crawled_at": "2026-09-24T21:14:23.000Z",
     "profile_url": "https://raider.io/characters/us/shadowsong/Pap\u00e4",
     "profile_banner": "hordebanner1"
    }
