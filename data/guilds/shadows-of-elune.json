@@ -31,7 +31,7 @@
     "realm": 0
    },
    "heroic": {
-    "world": 12582,
+    "world": 12583,
     "region": 5362,
     "realm": 48
    },
@@ -65,8 +65,8 @@
     "realm": 3
    },
    "heroic": {
-    "world": 7138,
-    "region": 2418,
+    "world": 7194,
+    "region": 2420,
     "realm": 18
    },
    "mythic": {
@@ -3002,7 +3002,7 @@
     "achievement_points": 14635,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-09-25T02:09:22.000Z",
+    "last_crawled_at": "2026-09-25T11:58:33.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Konvicktion",
     "profile_banner": "classbanner_death-knight1"
    }
@@ -5106,10 +5106,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "horde",
-    "achievement_points": 41135,
+    "achievement_points": 41140,
     "region": "us",
     "realm": "Lothar",
-    "last_crawled_at": "2026-09-23T23:12:54.000Z",
+    "last_crawled_at": "2026-09-25T11:58:33.000Z",
     "profile_url": "https://raider.io/characters/us/lothar/Mobius",
     "profile_banner": "alliancebanner1"
    }
@@ -5973,7 +5973,7 @@
     "achievement_points": 43650,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-09-25T02:09:22.000Z",
+    "last_crawled_at": "2026-09-25T11:58:34.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Glaivewaifu",
     "profile_banner": "alliancebanner1"
    }
@@ -12886,7 +12886,7 @@
     "achievement_points": 18465,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-09-24T06:00:37.000Z",
+    "last_crawled_at": "2026-09-25T19:27:30.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Markymaxxing",
     "profile_banner": "alliancebanner1"
    }
