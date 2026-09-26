@@ -65,8 +65,8 @@
     "realm": 3
    },
    "heroic": {
-    "world": 7241,
-    "region": 2450,
+    "world": 7291,
+    "region": 2457,
     "realm": 18
    },
    "mythic": {
@@ -405,10 +405,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "horde",
-    "achievement_points": 26235,
+    "achievement_points": 26245,
     "region": "us",
     "realm": "Area 52",
-    "last_crawled_at": "2026-09-26T02:10:35.000Z",
+    "last_crawled_at": "2026-09-26T18:38:30.000Z",
     "profile_url": "https://raider.io/characters/us/area-52/Dlonzo",
     "profile_banner": "hordebanner1"
    }
@@ -714,7 +714,7 @@
     "achievement_points": 31260,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-09-23T06:13:06.000Z",
+    "last_crawled_at": "2026-09-26T16:05:35.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Keneka",
     "profile_banner": "alliancebanner1"
    }
@@ -1668,7 +1668,7 @@
     "achievement_points": 31260,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-09-25T00:06:23.000Z",
+    "last_crawled_at": "2026-09-26T16:59:29.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Klaszy",
     "profile_banner": "alliancebanner1"
    }
@@ -1773,10 +1773,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 31225,
+    "achievement_points": 31260,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-09-08T22:26:25.000Z",
+    "last_crawled_at": "2026-09-26T13:57:24.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Banari",
     "profile_banner": "alliancebanner1"
    }
@@ -4334,7 +4334,7 @@
     "achievement_points": 37075,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-09-26T02:10:40.000Z",
+    "last_crawled_at": "2026-09-26T20:58:13.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Annadar",
     "profile_banner": "alliancebanner18"
    }
@@ -5109,7 +5109,7 @@
     "achievement_points": 41140,
     "region": "us",
     "realm": "Lothar",
-    "last_crawled_at": "2026-09-25T11:58:33.000Z",
+    "last_crawled_at": "2026-09-26T14:28:28.000Z",
     "profile_url": "https://raider.io/characters/us/lothar/Mobius",
     "profile_banner": "alliancebanner1"
    }
@@ -8998,7 +8998,7 @@
     "achievement_points": 13420,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-09-23T22:46:31.000Z",
+    "last_crawled_at": "2026-09-26T17:58:27.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Tinylight",
     "profile_banner": "hordebanner16"
    }
@@ -11626,7 +11626,7 @@
     "achievement_points": 37075,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-09-25T02:09:24.000Z",
+    "last_crawled_at": "2026-09-26T20:57:41.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Azir\u00e1",
     "profile_banner": "alliancebanner1"
    }
