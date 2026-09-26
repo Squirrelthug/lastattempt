@@ -53,7 +53,7 @@
     "realm": 97
    },
    "mythic": {
-    "world": 2769,
+    "world": 2784,
     "region": 834,
     "realm": 39
    }
@@ -65,8 +65,8 @@
     "realm": 58
    },
    "heroic": {
-    "world": 8972,
-    "region": 2962,
+    "world": 9027,
+    "region": 2977,
     "realm": 113
    },
    "mythic": {
@@ -3213,10 +3213,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 22305,
+    "achievement_points": 22310,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-09-26T00:47:25.000Z",
+    "last_crawled_at": "2026-09-26T12:58:24.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Dlm",
     "profile_banner": "alliancebanner1"
    }
@@ -4746,7 +4746,7 @@
     "achievement_points": 6775,
     "region": "us",
     "realm": "Windrunner",
-    "last_crawled_at": "2026-09-26T02:46:33.000Z",
+    "last_crawled_at": "2026-09-26T14:25:29.000Z",
     "profile_url": "https://raider.io/characters/us/windrunner/Dew",
     "profile_banner": "alliancebanner1"
    }
@@ -4782,7 +4782,7 @@
     "achievement_points": 28680,
     "region": "us",
     "realm": "Stormrage",
-    "last_crawled_at": "2026-09-25T07:31:29.000Z",
+    "last_crawled_at": "2026-09-26T19:33:38.000Z",
     "profile_url": "https://raider.io/characters/us/stormrage/Ravth",
     "profile_banner": "alliancebanner1"
    }
