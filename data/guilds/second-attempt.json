@@ -48,13 +48,13 @@
     "realm": 0
    },
    "heroic": {
-    "world": 7265,
+    "world": 7266,
     "region": 2559,
     "realm": 97
    },
    "mythic": {
-    "world": 2758,
-    "region": 828,
+    "world": 2769,
+    "region": 834,
     "realm": 39
    }
   },
@@ -65,9 +65,9 @@
     "realm": 58
    },
    "heroic": {
-    "world": 8924,
-    "region": 2931,
-    "realm": 111
+    "world": 8972,
+    "region": 2962,
+    "realm": 113
    },
    "mythic": {
     "world": 0,
@@ -135,10 +135,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 16355,
+    "achievement_points": 16365,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-09-25T07:29:37.000Z",
+    "last_crawled_at": "2026-09-26T09:15:23.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Chanaa",
     "profile_banner": "alliancebanner1"
    }
@@ -1326,7 +1326,7 @@
     "achievement_points": 16530,
     "region": "us",
     "realm": "Stormrage",
-    "last_crawled_at": "2026-09-25T07:29:37.000Z",
+    "last_crawled_at": "2026-09-26T05:29:36.000Z",
     "profile_url": "https://raider.io/characters/us/stormrage/Tommydoc",
     "profile_banner": "alliancebanner1"
    }
@@ -1488,7 +1488,7 @@
     "achievement_points": 25065,
     "region": "us",
     "realm": "Stormrage",
-    "last_crawled_at": "2026-09-24T06:07:08.000Z",
+    "last_crawled_at": "2026-09-25T22:25:28.000Z",
     "profile_url": "https://raider.io/characters/us/stormrage/S\u00eamyaz",
     "profile_banner": "alliancebanner1"
    }
@@ -1614,7 +1614,7 @@
     "achievement_points": 13980,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-09-25T04:46:36.000Z",
+    "last_crawled_at": "2026-09-26T06:00:35.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Nhelara",
     "profile_banner": "alliancebanner1"
    }
@@ -1668,7 +1668,7 @@
     "achievement_points": 19530,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-09-25T07:30:30.000Z",
+    "last_crawled_at": "2026-09-26T07:16:25.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Skath\u00ed",
     "profile_banner": "alliancebanner1"
    }
@@ -2277,10 +2277,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 28635,
+    "achievement_points": 28650,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-09-20T06:30:26.000Z",
+    "last_crawled_at": "2026-09-26T04:35:26.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Canedk",
     "profile_banner": "alliancebanner1"
    }
@@ -2352,7 +2352,7 @@
     "achievement_points": 28650,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-09-25T09:47:24.000Z",
+    "last_crawled_at": "2026-09-26T09:51:24.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Canesneakz",
     "profile_banner": "alliancebanner1"
    }
@@ -2694,7 +2694,7 @@
     "achievement_points": 28680,
     "region": "us",
     "realm": "Stormrage",
-    "last_crawled_at": "2026-09-25T04:46:36.000Z",
+    "last_crawled_at": "2026-09-26T07:46:31.000Z",
     "profile_url": "https://raider.io/characters/us/stormrage/Ravfu",
     "profile_banner": "alliancebanner1"
    }
@@ -2838,7 +2838,7 @@
     "achievement_points": 8015,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-09-25T04:46:36.000Z",
+    "last_crawled_at": "2026-09-26T06:00:34.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Romanof",
     "profile_banner": "alliancebanner1"
    }
@@ -3029,14 +3029,14 @@
     "name": "Straam",
     "race": "Goblin",
     "class": "Shaman",
-    "active_spec_name": "Elemental",
-    "active_spec_role": "DPS",
+    "active_spec_name": "Restoration",
+    "active_spec_role": "HEALING",
     "gender": "male",
     "faction": "horde",
     "achievement_points": 11820,
     "region": "us",
     "realm": "Frostwolf",
-    "last_crawled_at": "2026-09-25T04:46:36.000Z",
+    "last_crawled_at": "2026-09-25T22:54:29.000Z",
     "profile_url": "https://raider.io/characters/us/frostwolf/Straam",
     "profile_banner": "hordebanner1"
    }
@@ -3216,7 +3216,7 @@
     "achievement_points": 22305,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-09-24T06:05:47.000Z",
+    "last_crawled_at": "2026-09-26T00:47:25.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Dlm",
     "profile_banner": "alliancebanner1"
    }
@@ -4494,7 +4494,7 @@
     "achievement_points": 28650,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-09-24T09:57:41.000Z",
+    "last_crawled_at": "2026-09-26T06:39:25.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Canedru",
     "profile_banner": "alliancebanner1"
    }
@@ -4584,7 +4584,7 @@
     "achievement_points": 15650,
     "region": "us",
     "realm": "Area 52",
-    "last_crawled_at": "2026-09-25T07:30:50.000Z",
+    "last_crawled_at": "2026-09-26T03:35:30.000Z",
     "profile_url": "https://raider.io/characters/us/area-52/Holycroc",
     "profile_banner": "alliancebanner1"
    }
@@ -4746,7 +4746,7 @@
     "achievement_points": 6775,
     "region": "us",
     "realm": "Windrunner",
-    "last_crawled_at": "2026-09-25T04:46:35.000Z",
+    "last_crawled_at": "2026-09-26T02:46:33.000Z",
     "profile_url": "https://raider.io/characters/us/windrunner/Dew",
     "profile_banner": "alliancebanner1"
    }
