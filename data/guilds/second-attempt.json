@@ -36,7 +36,7 @@
     "realm": 157
    },
    "mythic": {
-    "world": 6186,
+    "world": 6187,
     "region": 2047,
     "realm": 82
    }
@@ -53,8 +53,8 @@
     "realm": 97
    },
    "mythic": {
-    "world": 2805,
-    "region": 846,
+    "world": 2868,
+    "region": 849,
     "realm": 39
    }
   },
@@ -65,8 +65,8 @@
     "realm": 58
    },
    "heroic": {
-    "world": 9141,
-    "region": 3057,
+    "world": 9331,
+    "region": 3065,
     "realm": 118
    },
    "mythic": {
@@ -1431,10 +1431,10 @@
     "active_spec_role": "HEALING",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 19340,
+    "achievement_points": 19350,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-05-16T10:56:06.000Z",
+    "last_crawled_at": "2026-09-27T18:09:41.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Squiffy",
     "profile_banner": "alliancebanner1"
    }
@@ -1668,7 +1668,7 @@
     "achievement_points": 19530,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-09-27T00:20:50.000Z",
+    "last_crawled_at": "2026-09-27T20:12:54.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Skath\u00ed",
     "profile_banner": "alliancebanner1"
    }
@@ -2835,10 +2835,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 8015,
+    "achievement_points": 8025,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-09-26T06:00:34.000Z",
+    "last_crawled_at": "2026-09-27T13:36:59.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Romanof",
     "profile_banner": "alliancebanner1"
    }
@@ -3213,10 +3213,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 22310,
+    "achievement_points": 22405,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-09-26T12:58:24.000Z",
+    "last_crawled_at": "2026-09-27T14:59:41.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Dlm",
     "profile_banner": "alliancebanner1"
    }
@@ -3231,10 +3231,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 4550,
+    "achievement_points": 4590,
     "region": "us",
     "realm": "Ragnaros",
-    "last_crawled_at": "2026-09-27T02:08:05.000Z",
+    "last_crawled_at": "2026-09-27T21:14:45.000Z",
     "profile_url": "https://raider.io/characters/us/ragnaros/Djorgx",
     "profile_banner": "alliancebanner1"
    }
@@ -4023,10 +4023,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 20855,
+    "achievement_points": 22285,
     "region": "us",
     "realm": "Uldum",
-    "last_crawled_at": "2026-09-10T13:20:01.000Z",
+    "last_crawled_at": "2026-09-27T14:16:39.000Z",
     "profile_url": "https://raider.io/characters/us/uldum/Sofeeuh",
     "profile_banner": "alliancebanner1"
    }
@@ -4386,7 +4386,7 @@
     "achievement_points": 14925,
     "region": "us",
     "realm": "Blackrock",
-    "last_crawled_at": "2026-09-25T07:30:27.000Z",
+    "last_crawled_at": "2026-09-27T13:54:45.000Z",
     "profile_url": "https://raider.io/characters/us/blackrock/Daneglesack",
     "profile_banner": "alliancebanner1"
    }
@@ -4566,7 +4566,7 @@
     "achievement_points": 18760,
     "region": "us",
     "realm": "Kil'jaeden",
-    "last_crawled_at": "2026-09-21T22:27:33.000Z",
+    "last_crawled_at": "2026-09-27T14:05:50.000Z",
     "profile_url": "https://raider.io/characters/us/kiljaeden/Lockenroll",
     "profile_banner": "alliancebanner1"
    }
@@ -4584,7 +4584,7 @@
     "achievement_points": 15650,
     "region": "us",
     "realm": "Area 52",
-    "last_crawled_at": "2026-09-26T03:35:30.000Z",
+    "last_crawled_at": "2026-09-27T13:22:06.000Z",
     "profile_url": "https://raider.io/characters/us/area-52/Holycroc",
     "profile_banner": "alliancebanner1"
    }

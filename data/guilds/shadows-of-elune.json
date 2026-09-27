@@ -36,7 +36,7 @@
     "realm": 48
    },
    "mythic": {
-    "world": 7862,
+    "world": 7863,
     "region": 2867,
     "realm": 20
    }
@@ -65,8 +65,8 @@
     "realm": 3
    },
    "heroic": {
-    "world": 7373,
-    "region": 2518,
+    "world": 7543,
+    "region": 2523,
     "realm": 18
    },
    "mythic": {
@@ -408,7 +408,7 @@
     "achievement_points": 26245,
     "region": "us",
     "realm": "Area 52",
-    "last_crawled_at": "2026-09-26T18:38:30.000Z",
+    "last_crawled_at": "2026-09-27T16:31:44.000Z",
     "profile_url": "https://raider.io/characters/us/area-52/Dlonzo",
     "profile_banner": "hordebanner1"
    }
@@ -783,10 +783,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 24815,
+    "achievement_points": 24850,
     "region": "us",
     "realm": "Dalaran",
-    "last_crawled_at": "2026-09-26T02:10:40.000Z",
+    "last_crawled_at": "2026-09-27T12:47:36.000Z",
     "profile_url": "https://raider.io/characters/us/dalaran/Vynstrinar",
     "profile_banner": "alliancebanner1"
    }
@@ -2243,10 +2243,10 @@
     "active_spec_role": "TANK",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 14095,
+    "achievement_points": 14100,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-09-27T02:52:37.000Z",
+    "last_crawled_at": "2026-09-27T16:30:48.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Moonyy",
     "profile_banner": "alliancebanner15"
    }
@@ -2365,14 +2365,14 @@
     "name": "Humviy",
     "race": "Lightforged Draenei",
     "class": "Paladin",
-    "active_spec_name": "Retribution",
-    "active_spec_role": "DPS",
+    "active_spec_name": "Holy",
+    "active_spec_role": "HEALING",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 46530,
+    "achievement_points": 46615,
     "region": "us",
     "realm": "Proudmoore",
-    "last_crawled_at": "2026-09-26T02:11:22.000Z",
+    "last_crawled_at": "2026-09-27T12:27:38.000Z",
     "profile_url": "https://raider.io/characters/us/proudmoore/Humviy",
     "profile_banner": "alliancebanner1"
    }
@@ -2966,7 +2966,7 @@
     "achievement_points": 23280,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-09-23T15:23:24.000Z",
+    "last_crawled_at": "2026-09-27T13:36:57.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Talune",
     "profile_banner": "alliancebanner1"
    }
@@ -3035,10 +3035,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 12735,
+    "achievement_points": 12780,
     "region": "us",
     "realm": "Emerald Dream",
-    "last_crawled_at": "2026-09-26T02:10:40.000Z",
+    "last_crawled_at": "2026-09-27T13:34:48.000Z",
     "profile_url": "https://raider.io/characters/us/emerald-dream/Snapmagus",
     "profile_banner": "alliancebanner1"
    }
@@ -4007,10 +4007,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "horde",
-    "achievement_points": 14065,
+    "achievement_points": 14070,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-09-26T02:10:35.000Z",
+    "last_crawled_at": "2026-09-27T16:31:38.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Frenchie",
     "profile_banner": "alliancebanner1"
    }
@@ -5736,10 +5736,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 12730,
+    "achievement_points": 12955,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-09-26T02:10:35.000Z",
+    "last_crawled_at": "2026-09-27T18:12:41.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Mgalleycat",
     "profile_banner": "alliancebanner18"
    }
@@ -7378,7 +7378,7 @@
     "achievement_points": 43650,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-09-26T02:10:37.000Z",
+    "last_crawled_at": "2026-09-27T20:38:51.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Abrelshud",
     "profile_banner": "alliancebanner1"
    }
@@ -7666,7 +7666,7 @@
     "achievement_points": 43650,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-09-26T02:10:42.000Z",
+    "last_crawled_at": "2026-09-27T21:02:59.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Igris",
     "profile_banner": "alliancebanner1"
    }
@@ -9862,7 +9862,7 @@
     "achievement_points": 43630,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-09-26T02:10:40.000Z",
+    "last_crawled_at": "2026-09-27T20:26:55.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Felenciaga",
     "profile_banner": "hordebanner1"
    }
@@ -11218,6 +11218,24 @@
    }
   },
   {
+   "rank": 99,
+   "character": {
+    "name": "Ashtrynd",
+    "race": "Blood Elf",
+    "class": "Hunter",
+    "active_spec_name": "Beast Mastery",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "horde",
+    "achievement_points": 20615,
+    "region": "us",
+    "realm": "Tichondrius",
+    "last_crawled_at": "2026-09-27T17:06:40.000Z",
+    "profile_url": "https://raider.io/characters/us/tichondrius/Ashtrynd",
+    "profile_banner": "hordebanner1"
+   }
+  },
+  {
    "rank": 6,
    "character": {
     "name": "Davenn",
@@ -11641,10 +11659,10 @@
     "active_spec_role": "TANK",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 12150,
+    "achievement_points": 12160,
     "region": "us",
     "realm": "Moon Guard",
-    "last_crawled_at": "2026-09-26T02:10:39.000Z",
+    "last_crawled_at": "2026-09-27T18:09:09.000Z",
     "profile_url": "https://raider.io/characters/us/moon-guard/Quickster",
     "profile_banner": "alliancebanner1"
    }
@@ -12760,7 +12778,7 @@
     "achievement_points": 25660,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-09-06T03:12:04.000Z",
+    "last_crawled_at": "2026-09-27T14:36:56.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Kipfire",
     "profile_banner": "alliancebanner1"
    }
