@@ -65,7 +65,7 @@
     "realm": 3
    },
    "heroic": {
-    "world": 7867,
+    "world": 7921,
     "region": 2617,
     "realm": 18
    },
@@ -2064,7 +2064,7 @@
     "achievement_points": 34305,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-09-29T06:51:07.000Z",
+    "last_crawled_at": "2026-09-29T22:07:10.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/W\u00f2rgen",
     "profile_banner": "alliancebanner1"
    }
@@ -2134,10 +2134,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "horde",
-    "achievement_points": 48110,
+    "achievement_points": 48140,
     "region": "us",
     "realm": "Area 52",
-    "last_crawled_at": "2026-09-23T22:44:43.000Z",
+    "last_crawled_at": "2026-09-29T19:57:10.000Z",
     "profile_url": "https://raider.io/characters/us/area-52/Feralstate",
     "profile_banner": "",
     "use_animated_banner": false
@@ -2243,10 +2243,10 @@
     "active_spec_role": "TANK",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 14100,
+    "achievement_points": 14115,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-09-29T06:51:08.000Z",
+    "last_crawled_at": "2026-09-29T21:46:13.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Moonyy",
     "profile_banner": "alliancebanner15"
    }
@@ -3776,7 +3776,7 @@
     "achievement_points": 15725,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-09-15T18:37:03.000Z",
+    "last_crawled_at": "2026-09-29T22:03:20.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Kapndruid",
     "profile_banner": "alliancebanner1"
    }
@@ -5196,10 +5196,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 14100,
+    "achievement_points": 14115,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-09-29T06:51:07.000Z",
+    "last_crawled_at": "2026-09-29T21:47:23.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Mooncaliber",
     "profile_banner": "alliancebanner1"
    }
@@ -6168,10 +6168,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "horde",
-    "achievement_points": 48110,
+    "achievement_points": 48140,
     "region": "us",
     "realm": "Area 52",
-    "last_crawled_at": "2026-09-23T23:13:30.000Z",
+    "last_crawled_at": "2026-09-29T19:46:07.000Z",
     "profile_url": "https://raider.io/characters/us/area-52/Feralarchon",
     "profile_banner": "",
     "use_animated_banner": false
@@ -8548,7 +8548,7 @@
     "achievement_points": 32795,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-09-29T00:22:51.000Z",
+    "last_crawled_at": "2026-09-29T20:59:17.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Auzua",
     "profile_banner": "alliancebanner1"
    }
@@ -9520,7 +9520,7 @@
     "achievement_points": 27725,
     "region": "us",
     "realm": "Area 52",
-    "last_crawled_at": "2026-09-29T06:51:11.000Z",
+    "last_crawled_at": "2026-09-29T19:40:10.000Z",
     "profile_url": "https://raider.io/characters/us/area-52/Nightstotems",
     "profile_banner": "alliancebanner1"
    }
@@ -11176,7 +11176,7 @@
     "achievement_points": 31495,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-09-28T13:55:25.000Z",
+    "last_crawled_at": "2026-09-29T19:06:23.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Lavapaladin",
     "profile_banner": "alliancebanner1"
    }
@@ -11479,10 +11479,10 @@
     "active_spec_role": "HEALING",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 15500,
+    "achievement_points": 15510,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-09-29T06:51:08.000Z",
+    "last_crawled_at": "2026-09-29T20:19:19.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Kilgarr",
     "profile_banner": "alliancebanner1"
    }
@@ -12879,14 +12879,14 @@
     "name": "Holywombat",
     "race": "Earthen",
     "class": "Paladin",
-    "active_spec_name": "Retribution",
-    "active_spec_role": "DPS",
+    "active_spec_name": "Protection",
+    "active_spec_role": "TANK",
     "gender": "male",
     "faction": "horde",
-    "achievement_points": 24755,
+    "achievement_points": 24765,
     "region": "us",
     "realm": "Stormrage",
-    "last_crawled_at": "2026-09-21T02:35:30.000Z",
+    "last_crawled_at": "2026-09-29T16:29:11.000Z",
     "profile_url": "https://raider.io/characters/us/stormrage/Holywombat",
     "profile_banner": "hordebanner1"
    }
