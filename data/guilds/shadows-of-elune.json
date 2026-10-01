@@ -65,8 +65,8 @@
     "realm": 3
    },
    "heroic": {
-    "world": 8186,
-    "region": 2786,
+    "world": 8287,
+    "region": 2790,
     "realm": 21
    },
    "mythic": {
@@ -3704,7 +3704,7 @@
     "achievement_points": 15725,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-09-18T23:03:33.000Z",
+    "last_crawled_at": "2026-10-01T21:51:52.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Kapnandrew",
     "profile_banner": "alliancebanner1"
    }

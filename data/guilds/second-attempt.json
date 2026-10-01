@@ -53,8 +53,8 @@
     "realm": 97
    },
    "mythic": {
-    "world": 3139,
-    "region": 928,
+    "world": 3186,
+    "region": 930,
     "realm": 41
    }
   },
@@ -65,8 +65,8 @@
     "realm": 58
    },
    "heroic": {
-    "world": 7398,
-    "region": 2399,
+    "world": 7497,
+    "region": 2401,
     "realm": 95
    },
    "mythic": {
@@ -2676,7 +2676,7 @@
     "achievement_points": 22265,
     "region": "us",
     "realm": "Dalaran",
-    "last_crawled_at": "2026-09-30T17:46:12.000Z",
+    "last_crawled_at": "2026-10-01T14:25:51.000Z",
     "profile_url": "https://raider.io/characters/us/dalaran/Nethertank",
     "profile_banner": "alliancebanner1"
    }
@@ -3090,7 +3090,7 @@
     "achievement_points": 33070,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-09-30T17:46:15.000Z",
+    "last_crawled_at": "2026-10-01T15:56:54.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Dowdoww",
     "profile_banner": "alliancebanner1"
    }
@@ -3213,10 +3213,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 22460,
+    "achievement_points": 22510,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-09-30T17:45:34.000Z",
+    "last_crawled_at": "2026-10-01T22:01:54.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Dlm",
     "profile_banner": "alliancebanner1"
    }
@@ -4620,7 +4620,7 @@
     "achievement_points": 16540,
     "region": "us",
     "realm": "Stormrage",
-    "last_crawled_at": "2026-10-01T09:10:46.000Z",
+    "last_crawled_at": "2026-10-01T21:11:54.000Z",
     "profile_url": "https://raider.io/characters/us/stormrage/Docxheal",
     "profile_banner": "alliancebanner1"
    }
