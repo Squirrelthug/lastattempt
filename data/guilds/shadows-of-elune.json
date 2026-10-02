@@ -65,8 +65,8 @@
     "realm": 3
    },
    "heroic": {
-    "world": 8427,
-    "region": 2915,
+    "world": 8459,
+    "region": 2917,
     "realm": 22
    },
    "mythic": {
@@ -2995,14 +2995,14 @@
     "name": "Konvicktion",
     "race": "Pandaren",
     "class": "Death Knight",
-    "active_spec_name": "Blood",
-    "active_spec_role": "TANK",
+    "active_spec_name": "Frost",
+    "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
     "achievement_points": 14645,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-01T10:33:02.000Z",
+    "last_crawled_at": "2026-10-02T22:14:02.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Konvicktion",
     "profile_banner": "classbanner_death-knight1"
    }
@@ -5199,7 +5199,7 @@
     "achievement_points": 14115,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-09-30T22:40:35.000Z",
+    "last_crawled_at": "2026-10-02T18:19:53.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Mooncaliber",
     "profile_banner": "alliancebanner1"
    }
@@ -7393,10 +7393,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "horde",
-    "achievement_points": 20225,
+    "achievement_points": 20290,
     "region": "us",
     "realm": "Zul'jin",
-    "last_crawled_at": "2026-09-29T00:31:01.000Z",
+    "last_crawled_at": "2026-10-02T16:03:02.000Z",
     "profile_url": "https://raider.io/characters/us/zuljin/Corpselicker",
     "profile_banner": "hordebanner1"
    }
@@ -8293,10 +8293,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 26525,
+    "achievement_points": 26530,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-09-30T15:11:16.000Z",
+    "last_crawled_at": "2026-10-02T18:47:54.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Rootbeer",
     "profile_banner": "alliancebanner1"
    }
