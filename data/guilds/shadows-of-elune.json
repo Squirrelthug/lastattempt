@@ -65,9 +65,9 @@
     "realm": 3
    },
    "heroic": {
-    "world": 8287,
-    "region": 2790,
-    "realm": 21
+    "world": 8427,
+    "region": 2915,
+    "realm": 22
    },
    "mythic": {
     "world": 0,
@@ -2246,7 +2246,7 @@
     "achievement_points": 14115,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-01T10:32:12.000Z",
+    "last_crawled_at": "2026-10-01T23:11:53.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Moonyy",
     "profile_banner": "alliancebanner15"
    }
@@ -5595,7 +5595,7 @@
     "achievement_points": 20615,
     "region": "us",
     "realm": "Tichondrius",
-    "last_crawled_at": "2026-10-01T10:38:19.000Z",
+    "last_crawled_at": "2026-10-02T06:09:53.000Z",
     "profile_url": "https://raider.io/characters/us/tichondrius/Staszia",
     "profile_banner": "hordebanner1"
    }
@@ -12796,7 +12796,7 @@
     "achievement_points": 20455,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-01T10:37:51.000Z",
+    "last_crawled_at": "2026-10-02T06:10:52.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Staszia",
     "profile_banner": "alliancebanner1"
    }
