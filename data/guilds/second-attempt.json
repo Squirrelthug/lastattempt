@@ -53,9 +53,9 @@
     "realm": 97
    },
    "mythic": {
-    "world": 3186,
-    "region": 930,
-    "realm": 41
+    "world": 3254,
+    "region": 985,
+    "realm": 42
    }
   },
   "the-venomous-abyss": {
@@ -65,9 +65,9 @@
     "realm": 58
    },
    "heroic": {
-    "world": 7497,
-    "region": 2401,
-    "realm": 95
+    "world": 7622,
+    "region": 2511,
+    "realm": 100
    },
    "mythic": {
     "world": 0,
@@ -138,7 +138,7 @@
     "achievement_points": 16375,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-01T08:32:34.000Z",
+    "last_crawled_at": "2026-10-02T12:01:01.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Chanaa",
     "profile_banner": "alliancebanner1"
    }
@@ -2352,7 +2352,7 @@
     "achievement_points": 28655,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-01T08:47:32.000Z",
+    "last_crawled_at": "2026-10-02T07:45:58.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Canesneakz",
     "profile_banner": "alliancebanner1"
    }
@@ -3029,14 +3029,14 @@
     "name": "Straam",
     "race": "Goblin",
     "class": "Shaman",
-    "active_spec_name": "Restoration",
-    "active_spec_role": "HEALING",
+    "active_spec_name": "Elemental",
+    "active_spec_role": "DPS",
     "gender": "male",
     "faction": "horde",
     "achievement_points": 11880,
     "region": "us",
     "realm": "Frostwolf",
-    "last_crawled_at": "2026-10-01T08:53:47.000Z",
+    "last_crawled_at": "2026-10-02T05:37:55.000Z",
     "profile_url": "https://raider.io/characters/us/frostwolf/Straam",
     "profile_banner": "hordebanner1"
    }
@@ -3144,7 +3144,7 @@
     "achievement_points": 13520,
     "region": "us",
     "realm": "Ragnaros",
-    "last_crawled_at": "2026-10-01T10:40:03.000Z",
+    "last_crawled_at": "2026-10-02T03:45:53.000Z",
     "profile_url": "https://raider.io/characters/us/ragnaros/Mark\u00fas",
     "profile_banner": "alliancebanner1"
    }
@@ -3198,7 +3198,7 @@
     "achievement_points": 33070,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-09-29T19:50:19.000Z",
+    "last_crawled_at": "2026-10-02T04:02:57.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Shaannaa",
     "profile_banner": "alliancebanner1"
    }
@@ -4044,7 +4044,7 @@
     "achievement_points": 28485,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-01T09:19:30.000Z",
+    "last_crawled_at": "2026-10-02T08:42:55.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Canefelz",
     "profile_banner": "hordebanner1"
    }
@@ -4188,7 +4188,7 @@
     "achievement_points": 5865,
     "region": "us",
     "realm": "Azshara",
-    "last_crawled_at": "2026-10-01T08:53:45.000Z",
+    "last_crawled_at": "2026-10-02T09:38:53.000Z",
     "profile_url": "https://raider.io/characters/us/azshara/Deathran",
     "profile_banner": "hordebanner1"
    }
@@ -4512,7 +4512,7 @@
     "achievement_points": 28655,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-01T08:45:30.000Z",
+    "last_crawled_at": "2026-10-02T07:27:15.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Canedru",
     "profile_banner": "alliancebanner1"
    }
