@@ -53,8 +53,8 @@
     "realm": 97
    },
    "mythic": {
-    "world": 3284,
-    "region": 997,
+    "world": 3300,
+    "region": 999,
     "realm": 42
    }
   },
@@ -65,8 +65,8 @@
     "realm": 58
    },
    "heroic": {
-    "world": 7697,
-    "region": 2539,
+    "world": 7741,
+    "region": 2542,
     "realm": 101
    },
    "mythic": {
@@ -2622,7 +2622,7 @@
     "achievement_points": 23405,
     "region": "us",
     "realm": "Barthilas",
-    "last_crawled_at": "2026-10-02T18:22:18.000Z",
+    "last_crawled_at": "2026-10-03T17:32:01.000Z",
     "profile_url": "https://raider.io/characters/us/barthilas/Aid\u00edand",
     "profile_banner": "alliancebanner1"
    }
@@ -2676,7 +2676,7 @@
     "achievement_points": 22265,
     "region": "us",
     "realm": "Dalaran",
-    "last_crawled_at": "2026-10-02T17:03:53.000Z",
+    "last_crawled_at": "2026-10-03T15:52:09.000Z",
     "profile_url": "https://raider.io/characters/us/dalaran/Nethertank",
     "profile_banner": "alliancebanner1"
    }
@@ -2691,10 +2691,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 28705,
+    "achievement_points": 28840,
     "region": "us",
     "realm": "Stormrage",
-    "last_crawled_at": "2026-09-30T17:46:12.000Z",
+    "last_crawled_at": "2026-10-03T16:06:00.000Z",
     "profile_url": "https://raider.io/characters/us/stormrage/Ravfu",
     "profile_banner": "alliancebanner1"
    }
@@ -3090,7 +3090,7 @@
     "achievement_points": 33070,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-02T18:22:14.000Z",
+    "last_crawled_at": "2026-10-03T21:06:02.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Dowdoww",
     "profile_banner": "alliancebanner1"
    }
@@ -4602,7 +4602,7 @@
     "achievement_points": 15660,
     "region": "us",
     "realm": "Area 52",
-    "last_crawled_at": "2026-10-01T08:53:45.000Z",
+    "last_crawled_at": "2026-10-03T13:41:02.000Z",
     "profile_url": "https://raider.io/characters/us/area-52/Holycroc",
     "profile_banner": "alliancebanner1"
    }
