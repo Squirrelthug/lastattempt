@@ -53,8 +53,8 @@
     "realm": 97
    },
    "mythic": {
-    "world": 3269,
-    "region": 986,
+    "world": 3284,
+    "region": 997,
     "realm": 42
    }
   },
@@ -65,9 +65,9 @@
     "realm": 58
    },
    "heroic": {
-    "world": 7654,
-    "region": 2512,
-    "realm": 100
+    "world": 7697,
+    "region": 2539,
+    "realm": 101
    },
    "mythic": {
     "world": 0,
@@ -1326,7 +1326,7 @@
     "achievement_points": 16545,
     "region": "us",
     "realm": "Stormrage",
-    "last_crawled_at": "2026-10-02T14:30:01.000Z",
+    "last_crawled_at": "2026-10-03T07:08:04.000Z",
     "profile_url": "https://raider.io/characters/us/stormrage/Tommydoc",
     "profile_banner": "alliancebanner1"
    }
@@ -1481,14 +1481,14 @@
     "name": "S\u00eamyaz",
     "race": "Blood Elf",
     "class": "Rogue",
-    "active_spec_name": "Outlaw",
+    "active_spec_name": "Assassination",
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "horde",
     "achievement_points": 25065,
     "region": "us",
     "realm": "Stormrage",
-    "last_crawled_at": "2026-10-01T08:53:45.000Z",
+    "last_crawled_at": "2026-10-02T22:54:29.000Z",
     "profile_url": "https://raider.io/characters/us/stormrage/S\u00eamyaz",
     "profile_banner": "alliancebanner1"
    }
@@ -2352,7 +2352,7 @@
     "achievement_points": 28655,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-02T21:58:55.000Z",
+    "last_crawled_at": "2026-10-03T10:11:06.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Canesneakz",
     "profile_banner": "alliancebanner1"
    }
@@ -4037,14 +4037,14 @@
     "name": "Canefelz",
     "race": "Blood Elf",
     "class": "Demon Hunter",
-    "active_spec_name": "Havoc",
-    "active_spec_role": "DPS",
+    "active_spec_name": "Vengeance",
+    "active_spec_role": "TANK",
     "gender": "female",
     "faction": "horde",
     "achievement_points": 28485,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-02T08:42:55.000Z",
+    "last_crawled_at": "2026-10-03T09:14:02.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Canefelz",
     "profile_banner": "hordebanner1"
    }
@@ -4512,7 +4512,7 @@
     "achievement_points": 28655,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-02T07:27:15.000Z",
+    "last_crawled_at": "2026-10-03T09:15:00.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Canedru",
     "profile_banner": "alliancebanner1"
    }
@@ -4797,10 +4797,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 6825,
+    "achievement_points": 6845,
     "region": "us",
     "realm": "Windrunner",
-    "last_crawled_at": "2026-10-02T17:53:10.000Z",
+    "last_crawled_at": "2026-10-03T07:05:09.000Z",
     "profile_url": "https://raider.io/characters/us/windrunner/Dew",
     "profile_banner": "alliancebanner1"
    }
