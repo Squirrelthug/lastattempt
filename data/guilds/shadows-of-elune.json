@@ -65,8 +65,8 @@
     "realm": 3
    },
    "heroic": {
-    "world": 8554,
-    "region": 2956,
+    "world": 8618,
+    "region": 3005,
     "realm": 23
    },
    "mythic": {
@@ -1215,10 +1215,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "horde",
-    "achievement_points": 38400,
+    "achievement_points": 38490,
     "region": "us",
     "realm": "Bleeding Hollow",
-    "last_crawled_at": "2026-10-01T10:21:01.000Z",
+    "last_crawled_at": "2026-10-04T11:33:22.000Z",
     "profile_url": "https://raider.io/characters/us/bleeding-hollow/Halvo",
     "profile_banner": "hordebanner1"
    }
@@ -1560,7 +1560,7 @@
     "achievement_points": 27790,
     "region": "us",
     "realm": "Area 52",
-    "last_crawled_at": "2026-10-03T05:15:02.000Z",
+    "last_crawled_at": "2026-10-04T05:58:27.000Z",
     "profile_url": "https://raider.io/characters/us/area-52/Nightportal",
     "profile_banner": "classbanner_mage1"
    }
@@ -2064,7 +2064,7 @@
     "achievement_points": 34315,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-01T10:32:08.000Z",
+    "last_crawled_at": "2026-10-04T03:23:04.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/W\u00f2rgen",
     "profile_banner": "alliancebanner1"
    }
@@ -2999,10 +2999,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 14645,
+    "achievement_points": 14655,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-02T22:14:02.000Z",
+    "last_crawled_at": "2026-10-04T05:23:29.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Konvicktion",
     "profile_banner": "classbanner_death-knight1"
    }
@@ -5793,7 +5793,7 @@
     "achievement_points": 20290,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-03T18:58:09.000Z",
+    "last_crawled_at": "2026-10-03T21:53:18.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Shinochu",
     "profile_banner": "alliancebanner1"
    }
@@ -6928,7 +6928,7 @@
     "achievement_points": 13385,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-09-29T06:51:07.000Z",
+    "last_crawled_at": "2026-10-04T03:19:06.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Smallarcana",
     "profile_banner": "alliancebanner1"
    }
@@ -12256,7 +12256,7 @@
     "achievement_points": 27790,
     "region": "us",
     "realm": "Area 52",
-    "last_crawled_at": "2026-10-03T07:58:01.000Z",
+    "last_crawled_at": "2026-10-04T04:14:39.000Z",
     "profile_url": "https://raider.io/characters/us/area-52/Nightbolts",
     "profile_banner": "hordebanner1"
    }
