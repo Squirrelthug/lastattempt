@@ -58,6 +58,23 @@
     "realm": 0
    }
   },
+  "the-unbinding-of-kithix": {
+   "normal": {
+    "world": 0,
+    "region": 0,
+    "realm": 0
+   },
+   "heroic": {
+    "world": 0,
+    "region": 0,
+    "realm": 0
+   },
+   "mythic": {
+    "world": 0,
+    "region": 0,
+    "realm": 0
+   }
+  },
   "the-venomous-abyss": {
    "normal": {
     "world": 2806,
@@ -65,8 +82,8 @@
     "realm": 3
    },
    "heroic": {
-    "world": 8955,
-    "region": 3096,
+    "world": 8995,
+    "region": 3097,
     "realm": 23
    },
    "mythic": {
@@ -96,6 +113,13 @@
    "total_bosses": 1,
    "normal_bosses_killed": 1,
    "heroic_bosses_killed": 1,
+   "mythic_bosses_killed": 0
+  },
+  "the-unbinding-of-kithix": {
+   "summary": "0/1 N",
+   "total_bosses": 1,
+   "normal_bosses_killed": 0,
+   "heroic_bosses_killed": 0,
    "mythic_bosses_killed": 0
   },
   "the-venomous-abyss": {
@@ -2588,7 +2612,7 @@
     "achievement_points": 18480,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-06T03:50:52.000Z",
+    "last_crawled_at": "2026-10-06T22:19:12.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Markymeta",
     "profile_banner": "alliancebanner1"
    }
@@ -4007,10 +4031,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "horde",
-    "achievement_points": 14080,
+    "achievement_points": 14085,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-05T20:02:53.000Z",
+    "last_crawled_at": "2026-10-06T15:09:58.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Frenchie",
     "profile_banner": "alliancebanner1"
    }
@@ -5199,7 +5223,7 @@
     "achievement_points": 14115,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-06T03:50:52.000Z",
+    "last_crawled_at": "2026-10-06T16:51:54.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Mooncaliber",
     "profile_banner": "alliancebanner1"
    }
@@ -5811,7 +5835,7 @@
     "achievement_points": 48140,
     "region": "us",
     "realm": "Area 52",
-    "last_crawled_at": "2026-10-06T03:50:53.000Z",
+    "last_crawled_at": "2026-10-06T16:02:58.000Z",
     "profile_url": "https://raider.io/characters/us/area-52/Feralevoker",
     "profile_banner": "hordebanner1"
    }
@@ -6421,10 +6445,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 31495,
+    "achievement_points": 31585,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-05T20:02:55.000Z",
+    "last_crawled_at": "2026-10-06T17:56:58.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Lavamage",
     "profile_banner": "alliancebanner1"
    }
@@ -9520,7 +9544,7 @@
     "achievement_points": 27750,
     "region": "us",
     "realm": "Area 52",
-    "last_crawled_at": "2026-10-06T06:10:11.000Z",
+    "last_crawled_at": "2026-10-06T19:29:09.000Z",
     "profile_url": "https://raider.io/characters/us/area-52/Nightstotems",
     "profile_banner": "alliancebanner1"
    }
@@ -11155,10 +11179,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 31495,
+    "achievement_points": 31585,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-05T20:02:53.000Z",
+    "last_crawled_at": "2026-10-06T15:52:55.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Lavapaladin",
     "profile_banner": "alliancebanner1"
    }
