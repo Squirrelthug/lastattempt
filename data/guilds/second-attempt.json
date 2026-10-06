@@ -53,8 +53,8 @@
     "realm": 97
    },
    "mythic": {
-    "world": 3451,
-    "region": 1028,
+    "world": 3464,
+    "region": 1039,
     "realm": 42
    }
   },
@@ -65,9 +65,9 @@
     "realm": 58
    },
    "heroic": {
-    "world": 7409,
-    "region": 2314,
-    "realm": 90
+    "world": 7445,
+    "region": 2343,
+    "realm": 93
    },
    "mythic": {
     "world": 0,
@@ -189,10 +189,10 @@
     "active_spec_role": "TANK",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 31000,
+    "achievement_points": 31005,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-02T18:22:02.000Z",
+    "last_crawled_at": "2026-10-06T09:53:07.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Ryapunch",
     "profile_banner": "classbanner_monk1"
    }
@@ -570,7 +570,7 @@
     "achievement_points": 18760,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-02T18:22:01.000Z",
+    "last_crawled_at": "2026-10-06T09:53:07.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Konimii",
     "profile_banner": "alliancebanner1"
    }
@@ -1989,10 +1989,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 21720,
+    "achievement_points": 21730,
     "region": "us",
     "realm": "Alleria",
-    "last_crawled_at": "2026-09-30T17:46:14.000Z",
+    "last_crawled_at": "2026-10-06T10:51:59.000Z",
     "profile_url": "https://raider.io/characters/us/alleria/Highbear",
     "profile_banner": "alliancebanner1"
    }
@@ -2712,7 +2712,7 @@
     "achievement_points": 28840,
     "region": "us",
     "realm": "Stormrage",
-    "last_crawled_at": "2026-10-04T21:23:06.000Z",
+    "last_crawled_at": "2026-10-06T12:55:56.000Z",
     "profile_url": "https://raider.io/characters/us/stormrage/Ravfu",
     "profile_banner": "alliancebanner1"
    }
@@ -2856,7 +2856,7 @@
     "achievement_points": 8055,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-10-05T06:01:35.000Z",
+    "last_crawled_at": "2026-10-06T13:18:57.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Romanof",
     "profile_banner": "alliancebanner1"
    }
@@ -2885,14 +2885,14 @@
     "name": "Beaujob",
     "race": "Orc",
     "class": "Hunter",
-    "active_spec_name": "Marksmanship",
+    "active_spec_name": "Beast Mastery",
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "horde",
-    "achievement_points": 9100,
+    "achievement_points": 9105,
     "region": "us",
     "realm": "Bleeding Hollow",
-    "last_crawled_at": "2026-10-04T21:23:06.000Z",
+    "last_crawled_at": "2026-10-06T09:29:56.000Z",
     "profile_url": "https://raider.io/characters/us/bleeding-hollow/Beaujob",
     "profile_banner": "alliancebanner1"
    }
@@ -2961,10 +2961,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 2685,
+    "achievement_points": 2705,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-10-05T20:57:16.000Z",
+    "last_crawled_at": "2026-10-06T00:44:07.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Gardennia",
     "profile_banner": "alliancebanner1"
    }
@@ -3180,7 +3180,7 @@
     "achievement_points": 13520,
     "region": "us",
     "realm": "Ragnaros",
-    "last_crawled_at": "2026-10-04T21:23:06.000Z",
+    "last_crawled_at": "2026-10-06T07:44:01.000Z",
     "profile_url": "https://raider.io/characters/us/ragnaros/Mark\u00fas",
     "profile_banner": "alliancebanner1"
    }
@@ -3447,10 +3447,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "horde",
-    "achievement_points": 9040,
+    "achievement_points": 9105,
     "region": "us",
     "realm": "Bleeding Hollow",
-    "last_crawled_at": "2026-10-02T14:30:01.000Z",
+    "last_crawled_at": "2026-10-06T09:54:04.000Z",
     "profile_url": "https://raider.io/characters/us/bleeding-hollow/Riptidepodd",
     "profile_banner": "alliancebanner1"
    }
@@ -4080,7 +4080,7 @@
     "achievement_points": 28485,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-05T23:14:53.000Z",
+    "last_crawled_at": "2026-10-06T07:32:02.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Canefelz",
     "profile_banner": "hordebanner1"
    }
@@ -4548,7 +4548,7 @@
     "achievement_points": 28655,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-05T06:40:34.000Z",
+    "last_crawled_at": "2026-10-06T09:16:51.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Canedru",
     "profile_banner": "alliancebanner1"
    }
@@ -4746,7 +4746,7 @@
     "achievement_points": 16545,
     "region": "us",
     "realm": "Stormrage",
-    "last_crawled_at": "2026-10-05T17:22:53.000Z",
+    "last_crawled_at": "2026-10-06T07:26:51.000Z",
     "profile_url": "https://raider.io/characters/us/stormrage/Docsbear",
     "profile_banner": "alliancebanner1"
    }
