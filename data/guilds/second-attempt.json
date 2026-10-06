@@ -53,8 +53,8 @@
     "realm": 97
    },
    "mythic": {
-    "world": 3404,
-    "region": 1026,
+    "world": 3451,
+    "region": 1028,
     "realm": 42
    }
   },
@@ -65,8 +65,8 @@
     "realm": 58
    },
    "heroic": {
-    "world": 7325,
-    "region": 2309,
+    "world": 7409,
+    "region": 2314,
     "realm": 90
    },
    "mythic": {
@@ -138,7 +138,7 @@
     "achievement_points": 16385,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-04T04:14:41.000Z",
+    "last_crawled_at": "2026-10-05T23:41:52.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Chanaa",
     "profile_banner": "alliancebanner1"
    }
@@ -1506,7 +1506,7 @@
     "achievement_points": 25065,
     "region": "us",
     "realm": "Stormrage",
-    "last_crawled_at": "2026-10-04T21:23:06.000Z",
+    "last_crawled_at": "2026-10-05T23:37:52.000Z",
     "profile_url": "https://raider.io/characters/us/stormrage/S\u00eamyaz",
     "profile_banner": "alliancebanner1"
    }
@@ -2370,7 +2370,7 @@
     "achievement_points": 28655,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-05T06:44:33.000Z",
+    "last_crawled_at": "2026-10-05T23:14:51.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Canesneakz",
     "profile_banner": "alliancebanner1"
    }
@@ -2961,10 +2961,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 2605,
+    "achievement_points": 2685,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-10-05T06:01:35.000Z",
+    "last_crawled_at": "2026-10-05T20:57:16.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Gardennia",
     "profile_banner": "alliancebanner1"
    }
@@ -3144,7 +3144,7 @@
     "achievement_points": 33070,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-05T10:10:38.000Z",
+    "last_crawled_at": "2026-10-05T22:20:55.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Illyaanaa",
     "profile_banner": "alliancebanner1"
    }
@@ -3162,7 +3162,7 @@
     "achievement_points": 33070,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-04T21:23:05.000Z",
+    "last_crawled_at": "2026-10-05T22:36:55.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Templrivanho",
     "profile_banner": "alliancebanner1"
    }
@@ -3234,7 +3234,7 @@
     "achievement_points": 33070,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-05T04:04:34.000Z",
+    "last_crawled_at": "2026-10-05T22:12:51.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Shaannaa",
     "profile_banner": "alliancebanner1"
    }
@@ -4080,7 +4080,7 @@
     "achievement_points": 28485,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-05T09:54:35.000Z",
+    "last_crawled_at": "2026-10-05T23:14:53.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Canefelz",
     "profile_banner": "hordebanner1"
    }
@@ -4509,10 +4509,10 @@
     "active_spec_role": "HEALING",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 9030,
+    "achievement_points": 9090,
     "region": "us",
     "realm": "Bleeding Hollow",
-    "last_crawled_at": "2026-10-04T21:23:06.000Z",
+    "last_crawled_at": "2026-10-05T20:30:18.000Z",
     "profile_url": "https://raider.io/characters/us/bleeding-hollow/Blackjeezy",
     "profile_banner": "alliancebanner1"
    }
@@ -4746,7 +4746,7 @@
     "achievement_points": 16545,
     "region": "us",
     "realm": "Stormrage",
-    "last_crawled_at": "2026-10-02T18:23:03.000Z",
+    "last_crawled_at": "2026-10-05T17:22:53.000Z",
     "profile_url": "https://raider.io/characters/us/stormrage/Docsbear",
     "profile_banner": "alliancebanner1"
    }
