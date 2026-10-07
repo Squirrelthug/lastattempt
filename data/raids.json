@@ -125,6 +125,34 @@
    ]
   },
   {
+   "id": 17059,
+   "slug": "the-unbinding-of-kithix",
+   "name": "The Unbinding of Kith'ix",
+   "short_name": "UOK",
+   "icon": "inv_1215_raid_achievement_kithix",
+   "starts": {
+    "us": "2026-10-13T15:00:00Z",
+    "eu": "2026-10-14T04:00:00Z",
+    "tw": "2026-10-14T23:00:00Z",
+    "kr": "2026-10-14T23:00:00Z",
+    "cn": "2026-10-14T23:00:00Z"
+   },
+   "ends": {
+    "us": "2030-01-01T00:00:00Z",
+    "eu": "2030-01-01T00:00:00Z",
+    "tw": "2030-01-01T00:00:00Z",
+    "kr": "2030-01-01T00:00:00Z",
+    "cn": "2030-01-01T00:00:00Z"
+   },
+   "encounters": [
+    {
+     "id": 197189,
+     "slug": "kithix",
+     "name": "Kith'ix"
+    }
+   ]
+  },
+  {
    "id": 16915,
    "slug": "the-venomous-abyss",
    "name": "The Venomous Abyss",
