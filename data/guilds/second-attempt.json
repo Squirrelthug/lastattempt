@@ -53,8 +53,8 @@
     "realm": 97
    },
    "mythic": {
-    "world": 3598,
-    "region": 1111,
+    "world": 3643,
+    "region": 1113,
     "realm": 47
    }
   },
@@ -82,9 +82,9 @@
     "realm": 58
    },
    "heroic": {
-    "world": 7336,
-    "region": 2367,
-    "realm": 96
+    "world": 7509,
+    "region": 2369,
+    "realm": 97
    },
    "mythic": {
     "world": 0,
@@ -2394,7 +2394,7 @@
     "achievement_points": 28655,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-08T04:02:55.000Z",
+    "last_crawled_at": "2026-10-08T20:34:57.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Canesneakz",
     "profile_banner": "alliancebanner1"
    }
@@ -2700,7 +2700,7 @@
     "achievement_points": 22265,
     "region": "us",
     "realm": "Dalaran",
-    "last_crawled_at": "2026-10-07T21:54:55.000Z",
+    "last_crawled_at": "2026-10-08T14:48:05.000Z",
     "profile_url": "https://raider.io/characters/us/dalaran/Nethertank",
     "profile_banner": "alliancebanner1"
    }
@@ -2801,14 +2801,14 @@
     "name": "Pr\u00e6charound",
     "race": "Dracthyr",
     "class": "Priest",
-    "active_spec_name": "Holy",
+    "active_spec_name": "Discipline",
     "active_spec_role": "HEALING",
     "gender": "female",
     "faction": "horde",
-    "achievement_points": 9025,
+    "achievement_points": 9030,
     "region": "us",
     "realm": "Bleeding Hollow",
-    "last_crawled_at": "2026-09-20T22:08:23.000Z",
+    "last_crawled_at": "2026-10-08T19:30:59.000Z",
     "profile_url": "https://raider.io/characters/us/bleeding-hollow/Pr\u00e6charound",
     "profile_banner": "hordebanner1"
    }
@@ -2844,7 +2844,7 @@
     "achievement_points": 8065,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-10-07T15:08:05.000Z",
+    "last_crawled_at": "2026-10-08T16:40:56.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Romanof",
     "profile_banner": "alliancebanner1"
    }
@@ -2891,14 +2891,14 @@
     "name": "Ravix",
     "race": "Human",
     "class": "Warlock",
-    "active_spec_name": "Destruction",
+    "active_spec_name": "Demonology",
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
     "achievement_points": 28840,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-07T15:07:02.000Z",
+    "last_crawled_at": "2026-10-08T16:31:05.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Ravix",
     "profile_banner": "alliancebanner1"
    }
@@ -2952,7 +2952,7 @@
     "achievement_points": 2710,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-10-07T06:37:53.000Z",
+    "last_crawled_at": "2026-10-08T22:15:27.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Gardennia",
     "profile_banner": "alliancebanner1"
    }
@@ -3312,7 +3312,7 @@
     "achievement_points": 13520,
     "region": "us",
     "realm": "Ragnaros",
-    "last_crawled_at": "2026-10-08T05:32:54.000Z",
+    "last_crawled_at": "2026-10-08T22:46:06.000Z",
     "profile_url": "https://raider.io/characters/us/ragnaros/Makoo",
     "profile_banner": "alliancebanner1"
    }
@@ -4068,7 +4068,7 @@
     "achievement_points": 28485,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-07T22:37:55.000Z",
+    "last_crawled_at": "2026-10-08T21:30:52.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Canefelz",
     "profile_banner": "hordebanner1"
    }
@@ -4842,7 +4842,7 @@
     "achievement_points": 6875,
     "region": "us",
     "realm": "Windrunner",
-    "last_crawled_at": "2026-10-08T09:08:06.000Z",
+    "last_crawled_at": "2026-10-08T21:39:05.000Z",
     "profile_url": "https://raider.io/characters/us/windrunner/Dew",
     "profile_banner": "alliancebanner1"
    }
