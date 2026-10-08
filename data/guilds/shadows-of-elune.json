@@ -82,9 +82,9 @@
     "realm": 3
    },
    "heroic": {
-    "world": 9175,
-    "region": 3205,
-    "realm": 23
+    "world": 9291,
+    "region": 3290,
+    "realm": 25
    },
    "mythic": {
     "world": 0,
@@ -1080,7 +1080,7 @@
     "achievement_points": 31260,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-06T03:50:54.000Z",
+    "last_crawled_at": "2026-10-08T00:47:54.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Bromeatigans",
     "profile_banner": "alliancebanner1"
    }
@@ -2612,7 +2612,7 @@
     "achievement_points": 18480,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-06T22:19:12.000Z",
+    "last_crawled_at": "2026-10-08T04:09:12.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Markymeta",
     "profile_banner": "alliancebanner1"
    }
@@ -2663,10 +2663,10 @@
     "active_spec_role": "HEALING",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 29585,
+    "achievement_points": 29595,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-05T20:02:51.000Z",
+    "last_crawled_at": "2026-10-08T09:04:05.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Cornhowlio",
     "profile_banner": "alliancebanner1"
    }
@@ -2789,10 +2789,10 @@
     "active_spec_role": "HEALING",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 29585,
+    "achievement_points": 29595,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-06T03:50:53.000Z",
+    "last_crawled_at": "2026-10-08T06:22:55.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Cornfucius",
     "profile_banner": "alliancebanner4"
    }
@@ -5817,7 +5817,7 @@
     "achievement_points": 20300,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-07T05:02:56.000Z",
+    "last_crawled_at": "2026-10-08T07:20:09.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Shinochu",
     "profile_banner": "alliancebanner1"
    }
@@ -8482,7 +8482,7 @@
     "achievement_points": 23110,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-06T03:50:51.000Z",
+    "last_crawled_at": "2026-10-08T07:58:07.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Lockjom",
     "profile_banner": "alliancebanner1"
    }
@@ -9328,7 +9328,7 @@
     "achievement_points": 49235,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-05T20:02:57.000Z",
+    "last_crawled_at": "2026-10-08T08:14:05.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Ishymaell",
     "profile_banner": "alliancebanner1"
    }
@@ -10498,7 +10498,7 @@
     "achievement_points": 29640,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-06T03:50:53.000Z",
+    "last_crawled_at": "2026-10-08T07:58:05.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Slicedapples",
     "profile_banner": "alliancebanner1"
    }
@@ -11272,7 +11272,7 @@
     "achievement_points": 22605,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-06T03:50:51.000Z",
+    "last_crawled_at": "2026-10-08T07:58:05.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Xsteeldruid",
     "profile_banner": "alliancebanner1"
    }
@@ -11992,7 +11992,7 @@
     "achievement_points": 18480,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-07T03:24:07.000Z",
+    "last_crawled_at": "2026-10-08T03:31:05.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Markymogging",
     "profile_banner": "alliancebanner1"
    }
@@ -12874,7 +12874,7 @@
     "achievement_points": 18480,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-07T17:59:05.000Z",
+    "last_crawled_at": "2026-10-08T04:06:32.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Markymaxxing",
     "profile_banner": "alliancebanner1"
    }
