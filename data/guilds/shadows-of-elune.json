@@ -82,8 +82,8 @@
     "realm": 3
    },
    "heroic": {
-    "world": 8175,
-    "region": 2709,
+    "world": 8266,
+    "region": 2715,
     "realm": 18
    },
    "mythic": {
@@ -11179,10 +11179,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 31585,
+    "achievement_points": 31590,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-09T04:17:22.000Z",
+    "last_crawled_at": "2026-10-09T17:15:08.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Lavapaladin",
     "profile_banner": "alliancebanner1"
    }
