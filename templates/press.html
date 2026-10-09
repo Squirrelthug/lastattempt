@@ -70,7 +70,7 @@
           <li><span>First episode</span><span>{{ stats.first_episode_date|date }}</span></li>
           <li><span>Episodes</span><span>{{ stats.episode_count }} (as of {{ stats.latest_episode_date|date('short') }})</span></li>
           <li><span>Host</span><span>{{ site.author }}</span></li>
-          <li><span>Community</span><span><a href="{{ (site.socials|selectattr('key','equalto','discord')|first).url }}" rel="noopener">Discord</a> · in-game code {{ site.community_code }}</span></li>
+          <li><span>Community</span><span><a href="/discord">Discord</a> · in-game code {{ site.community_code }}</span></li>
           <li><span>Platforms</span><span><a href="{{ site.spotify_show_url }}" rel="noopener">Spotify</a>, <a href="{{ site.apple_url }}" rel="noopener">Apple Podcasts</a>, <a href="https://www.youtube.com/@LastAttemptPod" rel="noopener">YouTube</a>, RSS</span></li>
           <li><span>Website</span><span>lastattempt.net</span></li>
           <li><span>Press</span><span><a href="mailto:{{ site.press_email }}">{{ site.press_email }}</a></span></li>
@@ -82,7 +82,7 @@
       </section>
       <section>
         <div class="section-head"><h2>People</h2></div>
-        <p class="description">Bios and links for the host, co-hosts, and recurring guests are on the <a href="/cast/">cast page</a>.</p>
+        <p class="description">Bios and links for the host, co-hosts, and recurring guests are on the <a href="/about/#cast">About page</a>.</p>
       </section>
     </aside>
   </div>

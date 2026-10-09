@@ -11,7 +11,7 @@ build.py                  the whole build: fetch feed → render → dist/
 content/articles/*.md     editorial articles (front matter + Markdown)
 content/episodes/*.json   notes_NNN.json from the LAPod notes pipeline (drives episode pages)
 content/pages/*.md        about, legal, ... (any file here becomes /<name>/)
-content/cast.json         host, co-hosts, recurring guests
+content/cast.json         host, co-hosts, recurring guests (rendered on /about/; /cast redirects there)
 templates/                Jinja2 templates
 static/                   copied as-is (css, img, _headers, _redirects, robots.txt)
 data/feed.xml             cached podcast RSS: refreshed on every online build, committed so

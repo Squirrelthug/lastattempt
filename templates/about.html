@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+{% set title = page.title %}
+{% set description = page.description %}
+{% block content %}
+<div class="wrap">
+  <header class="page-head">
+    {% if page.eyebrow %}<span class="eyebrow">{{ page.eyebrow }}</span>{% endif %}
+    <h1>{{ page.title }}</h1>
+    {% if page.lede %}<p class="lede">{{ page.lede }}</p>{% endif %}
+  </header>
+  <div class="about-grid">
+    <div class="prose">
+      {{ page.body_html|safe }}
+    </div>
+
+    <aside class="cast-roster" id="cast" aria-labelledby="cast-heading">
+      <span class="eyebrow">Who you're listening to</span>
+      <h2 id="cast-heading">The cast</h2>
+      <p class="cast-note">Recorded with players from across the community. Regulars below; guests rotate week to week.</p>
+      {% for group, heading in [('host', 'Host'), ('cohost', 'Co-hosts'), ('guest', 'Recurring guests')] %}
+      {% set people = cast.people|selectattr('role', 'equalto', group)|list %}
+      {% if people %}
+      <h3 class="cast-group">{{ heading }}</h3>
+      <ul class="cast-list">
+        {% for p in people %}
+        <li class="cast-member">
+          {% if p.bio %}
+          <details{% if group == 'host' %} open{% endif %}>
+            <summary>
+              <span class="cast-name">{{ p.name }}</span>
+              <span class="cast-title">{{ p.title }}</span>
+            </summary>
+            <p>{{ p.bio }}</p>
+            {% if p.links %}<ul class="chips">{% for l in p.links %}<li><a href="{{ l.url }}" rel="noopener">{{ l.label }}</a></li>{% endfor %}</ul>{% endif %}
+          </details>
+          {% else %}
+          <div class="cast-plain">
+            <span class="cast-name">{{ p.name }}</span>
+            <span class="cast-title">{{ p.title|replace('Recurring guest · ', '') }}</span>
+            {% if p.links %}<ul class="chips">{% for l in p.links %}<li><a href="{{ l.url }}" rel="noopener">{{ l.label }}</a></li>{% endfor %}</ul>{% endif %}
+          </div>
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+      {% endfor %}
+    </aside>
+  </div>
+</div>
+{% endblock %}
