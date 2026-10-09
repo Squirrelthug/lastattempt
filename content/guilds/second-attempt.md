@@ -16,7 +16,7 @@ guildsofwow: https://guildsofwow.com/secondattempt
 armory: https://worldofwarcraft.blizzard.com/en-us/guild/us/sargeras/second-attempt
 raid_schedule: Tuesday to Thursday, 9:00 to 11:30 PM Pacific (Late Night team)
 recruiting: Open recruitment, all roles | consistent raiders who want a focused-but-chill Mythic group that is still pushing.
-apply: https://discord.gg/7hrBH5G7Hf
+apply: https://discord.gg/fcw4UMmrw
 sources: raider.io (progression, roster), Guilds of WoW profile (history, recruitment post), Last Attempt episode notes (schedule)
 ---
 

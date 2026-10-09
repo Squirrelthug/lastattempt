@@ -30,7 +30,7 @@ We also try to be honest about expertise. The host started in Wrath of the Lich 
 
 ## The community
 
-Last Attempt is not one guild. The host raids with Second Attempt, and the show's name comes from a Vanilla-era guild in that family tree, but the point of the community is to make room for *every* guild: progression, social, RP, stream-anchored, keys-only. The [Guild Spotlight](/guilds/) exists to tell those stories, with live progression data and the guild's own words. The [Discord](https://discord.gg/7hrBH5G7Hf) and the in-game community (code `5pRrZnqfXMl`) are open to anyone.
+Last Attempt is not one guild. The host raids with Second Attempt, and the show's name comes from a Vanilla-era guild in that family tree, but the point of the community is to make room for *every* guild: progression, social, RP, stream-anchored, keys-only. The [Guild Spotlight](/guilds/) exists to tell those stories, with live progression data and the guild's own words. The [Discord](https://discord.gg/fcw4UMmrw) and the in-game community (code `5pRrZnqfXMl`) are open to anyone.
 
 ## Where things live
 
@@ -38,7 +38,7 @@ Last Attempt is not one guild. The host raids with Second Attempt, and the show'
 - **Articles:** published here, with an [RSS feed](/feed.xml).
 - **Episode pages:** show notes, segment breakdowns, and audio for every episode in the [archive](/episodes/).
 - **Guilds:** the [Guild Spotlight](/guilds/).
-- **Elsewhere:** [YouTube](https://www.youtube.com/@LastAttemptPod), [Discord](https://discord.gg/7hrBH5G7Hf), [Twitch](https://www.twitch.tv/squirrelthug_), [Instagram](https://www.instagram.com/lastattemptpod/), [X](https://x.com/LastAttemptPod), [TikTok](https://www.tiktok.com/@lastattemptpod).
+- **Elsewhere:** [YouTube](https://www.youtube.com/@LastAttemptPod), [Discord](https://discord.gg/fcw4UMmrw), [Twitch](https://www.twitch.tv/squirrelthug_), [Instagram](https://www.instagram.com/lastattemptpod/), [X](https://x.com/LastAttemptPod), [TikTok](https://www.tiktok.com/@lastattemptpod).
 
 ## Independence
 
