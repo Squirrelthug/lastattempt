@@ -26,11 +26,11 @@ We try to keep four things visibly separate:
 - **What the community is saying.** Reactions, discoveries, and the arguments that are happening.
 - **What nobody knows yet.** The questions that can only be answered once players have the thing in their hands, and who is likely to answer them.
 
-We also try to be honest about expertise. The host started in Wrath of the Lich King and has played every expansion since; the whole cast knows the game's systems well. But knowing enough to analyze what a change means is not the same as having personally run the simulations that settle the optimal answer. When the answer belongs to a specialist, we'll point at the specialist.
+We also try to be honest about expertise. The host started in Wrath of the Lich King and has played every expansion since; the whole [cast](#cast) knows the game's systems well. But knowing enough to analyze what a change means is not the same as having personally run the simulations that settle the optimal answer. When the answer belongs to a specialist, we'll point at the specialist.
 
 ## The community
 
-Last Attempt is not one guild. The host raids with Second Attempt, and the show's name comes from a Vanilla-era guild in that family tree, but the point of the community is to make room for *every* guild: progression, social, RP, stream-anchored, keys-only. The [Guild Spotlight](/guilds/) exists to tell those stories, with live progression data and the guild's own words. The [Discord](https://discord.gg/fcw4UMmrw) and the in-game community (code `5pRrZnqfXMl`) are open to anyone.
+Last Attempt is not one guild. The host raids with Second Attempt, and the show's name comes from a Vanilla-era guild in that family tree, but the point of the community is to make room for *every* guild: progression, social, RP, stream-anchored, keys-only. The [Guild Spotlight](/guilds/) exists to tell those stories, with live progression data and the guild's own words. The [Discord](/discord) and the in-game community (code `5pRrZnqfXMl`) are open to anyone.
 
 ## Where things live
 
@@ -38,7 +38,7 @@ Last Attempt is not one guild. The host raids with Second Attempt, and the show'
 - **Articles:** published here, with an [RSS feed](/feed.xml).
 - **Episode pages:** show notes, segment breakdowns, and audio for every episode in the [archive](/episodes/).
 - **Guilds:** the [Guild Spotlight](/guilds/).
-- **Elsewhere:** [YouTube](https://www.youtube.com/@LastAttemptPod), [Discord](https://discord.gg/fcw4UMmrw), [Twitch](https://www.twitch.tv/squirrelthug_), [Instagram](https://www.instagram.com/lastattemptpod/), [X](https://x.com/LastAttemptPod), [TikTok](https://www.tiktok.com/@lastattemptpod).
+- **Socials:** YouTube, Discord, Twitch, Instagram, X and TikTok, always current on the [contact page](/contact/#socials).
 
 ## Independence
 

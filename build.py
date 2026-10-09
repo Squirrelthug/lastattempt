@@ -206,14 +206,22 @@ def parse_feed(xml_text: str, site: dict) -> tuple[dict, dict[str, dict]]:
 
 def clean_description_html(desc: str) -> str:
     """Repair links in Spotify descriptions: strip invisible joiners glued onto URLs and add a
-    scheme to bare domains, which would otherwise resolve relative to our own site."""
+    scheme to bare domains, which would otherwise resolve relative to our own site. Discord
+    invites in old descriptions expire, so every one (href and visible text) becomes /discord,
+    which always redirects to the live invite on the contact page."""
     def fix(m):
         href = re.sub(r"[\u2060-\u2069\u200b\ufeff]", "", m.group(1)).strip()
         if href and not re.match(r"^(https?:|mailto:|#|/)", href, re.I):
             href = "https://" + href
+        if DISCORD_INVITE.match(href):
+            href = "/discord"
         return f'<a href="{href}" rel="noopener"'
     desc = re.sub(r'<a\s+href="([^"]*)"', fix, desc or "")
-    return re.sub(r"[\u2060-\u2069\u200b\ufeff]", "", desc)
+    desc = re.sub(r"[\u2060-\u2069\u200b\ufeff]", "", desc)
+    return re.sub(r"(?:https?://)?discord\.gg/[A-Za-z0-9]{2,10}", "lastattempt.net/discord ", desc)
+
+
+DISCORD_INVITE = re.compile(r"^(?:https?://)?(?:www\.)?discord(?:\.gg|(?:app)?\.com/invite)/", re.I)
 
 
 def feed_topics(description_html: str) -> list[str]:
@@ -524,15 +532,14 @@ def build(offline: bool, drafts: bool) -> None:
         render("guild.html", g["url"], guild=g)
     render("press.html", "/press/")
     render("contact.html", "/contact/")
-    render("cast.html", "/cast/")
     for slug, page in pages.items():
-        render("page.html", f"/{slug}/", page=page)
+        render("about.html" if slug == "about" else "page.html", f"/{slug}/", page=page)
     render("404.html", "/404.html")
 
     # Article RSS feed
     render("feed.xml", "/feed.xml", articles=articles[:20], rfc2822=rfc2822)
     # Sitemap
-    urls = ["/", "/articles/", "/episodes/", "/guilds/", "/listen/", "/press/", "/contact/", "/cast/"]
+    urls = ["/", "/articles/", "/episodes/", "/guilds/", "/listen/", "/press/", "/contact/"]
     urls += [f"/{s}/" for s in pages] + [a["url"] for a in articles] + [e["url"] for e in episodes]
     urls += [g["url"] for g in guilds]
     render("sitemap.xml", "/sitemap.xml", urls=urls)

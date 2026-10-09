@@ -1,2 +1,7 @@
 /podcast  /listen/  301
 /rss      https://anchor.fm/s/10ee80918/podcast/rss  302
+/cast     /about/#cast  301
+/cast/    /about/#cast  301
+/discord  /contact/#socials  302
+/discord/ /contact/#socials  302
+/socials  /contact/#socials  302

@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% from "_icons.html" import social_icon %}
 {% set title = "Contact" %}
 {% set description = "Get in touch with Last Attempt: guest requests, press, corrections, collaborations." %}
 {% block content %}
@@ -6,9 +7,33 @@
   <header class="page-head">
     <span class="eyebrow">Get in touch</span>
     <h1>Contact</h1>
-    <p class="lede">Email is the reliable way to reach us. We read everything; we reply to most of it.</p>
+    <p class="lede">Find us on every platform below; this page always has the current links. For anything that needs a reply, email is the reliable way to reach us.</p>
   </header>
-  <section class="section" style="padding-top:.5rem">
+  {% if site.socials %}
+  {% set discord = site.socials|selectattr('key','equalto','discord')|first %}
+  <section class="section" id="socials" style="padding-top:.5rem">
+    <div class="section-head"><h2>Socials</h2></div>
+    <div class="social-tiles">
+      {% if discord %}
+      <a class="social-tile social-tile--discord social-tile--featured" href="{{ discord.url }}" rel="me noopener">
+        {{ social_icon('discord', 36) }}
+        <span class="social-text">
+          <strong>Join the Discord</strong>
+          <small>The Last Attempt community: episode chat, guild applications, and the fastest way to reach the cast. In game, community code <code>{{ site.community_code }}</code>.</small>
+        </span>
+      </a>
+      {% endif %}
+      {% for s in site.socials if s.key != 'discord' %}
+      <a class="social-tile social-tile--{{ s.key }}" href="{{ s.url }}" rel="me noopener">
+        {{ social_icon(s.key) }}
+        <span class="social-text"><strong>{{ s.label }}</strong><small>{{ s.url.replace('https://','').replace('www.','').rstrip('/') }}</small></span>
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+  <section class="section">
+    <div class="section-head"><h2>Email</h2></div>
     <div class="contact-cards">
       <div class="card contact-card">
         <h3>General</h3>
@@ -33,13 +58,5 @@
       </div>
     </div>
   </section>
-  {% if site.socials %}
-  <section class="section">
-    <div class="section-head"><h2>Elsewhere</h2></div>
-    <div class="listen-links">
-      {% for s in site.socials %}<a href="{{ s.url }}" rel="me noopener">{{ s.label }} <small>{{ s.url.replace('https://','').replace('www.','') }}</small></a>{% endfor %}
-    </div>
-  </section>
-  {% endif %}
 </div>
 {% endblock %}
