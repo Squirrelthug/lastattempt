@@ -53,8 +53,8 @@
     "realm": 97
    },
    "mythic": {
-    "world": 3701,
-    "region": 1159,
+    "world": 3717,
+    "region": 1160,
     "realm": 53
    }
   },
@@ -82,9 +82,9 @@
     "realm": 58
    },
    "heroic": {
-    "world": 7633,
-    "region": 2460,
-    "realm": 100
+    "world": 7723,
+    "region": 2467,
+    "realm": 101
    },
    "mythic": {
     "world": 0,
@@ -162,7 +162,7 @@
     "achievement_points": 16385,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-07T15:06:54.000Z",
+    "last_crawled_at": "2026-10-09T20:49:07.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Chanaa",
     "profile_banner": "alliancebanner1"
    }
@@ -1530,7 +1530,7 @@
     "achievement_points": 25075,
     "region": "us",
     "realm": "Stormrage",
-    "last_crawled_at": "2026-10-08T08:21:57.000Z",
+    "last_crawled_at": "2026-10-09T19:24:13.000Z",
     "profile_url": "https://raider.io/characters/us/stormrage/S\u00eamyaz",
     "profile_banner": "alliancebanner1"
    }
@@ -3042,7 +3042,7 @@
     "achievement_points": 11940,
     "region": "us",
     "realm": "Frostwolf",
-    "last_crawled_at": "2026-10-09T05:11:15.000Z",
+    "last_crawled_at": "2026-10-09T22:40:18.000Z",
     "profile_url": "https://raider.io/characters/us/frostwolf/Straam",
     "profile_banner": "hordebanner1"
    }
@@ -4065,10 +4065,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 5015,
+    "achievement_points": 5025,
     "region": "us",
     "realm": "Silvermoon",
-    "last_crawled_at": "2026-09-17T11:55:35.000Z",
+    "last_crawled_at": "2026-10-09T20:51:05.000Z",
     "profile_url": "https://raider.io/characters/us/silvermoon/Jayyb",
     "profile_banner": "alliancebanner1"
    }
