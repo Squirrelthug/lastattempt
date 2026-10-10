@@ -53,9 +53,9 @@
     "realm": 97
    },
    "mythic": {
-    "world": 3717,
-    "region": 1160,
-    "realm": 53
+    "world": 3734,
+    "region": 1171,
+    "realm": 54
    }
   },
   "the-unbinding-of-kithix": {
@@ -82,9 +82,9 @@
     "realm": 58
    },
    "heroic": {
-    "world": 7723,
-    "region": 2467,
-    "realm": 101
+    "world": 7815,
+    "region": 2514,
+    "realm": 102
    },
    "mythic": {
     "world": 0,
@@ -162,7 +162,7 @@
     "achievement_points": 16385,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-09T20:49:07.000Z",
+    "last_crawled_at": "2026-10-10T04:31:09.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Chanaa",
     "profile_banner": "alliancebanner1"
    }
@@ -234,7 +234,7 @@
     "achievement_points": 31005,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-08T09:08:05.000Z",
+    "last_crawled_at": "2026-10-10T06:23:09.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Ryagas",
     "profile_banner": "alliancebanner1"
    }
@@ -1368,7 +1368,7 @@
     "achievement_points": 16545,
     "region": "us",
     "realm": "Stormrage",
-    "last_crawled_at": "2026-10-09T05:11:16.000Z",
+    "last_crawled_at": "2026-10-10T08:27:21.000Z",
     "profile_url": "https://raider.io/characters/us/stormrage/Tommydoc",
     "profile_banner": "alliancebanner1"
    }
@@ -1653,10 +1653,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 14105,
+    "achievement_points": 14165,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-10-09T05:11:15.000Z",
+    "last_crawled_at": "2026-10-10T09:52:07.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Nhelara",
     "profile_banner": "alliancebanner1"
    }
@@ -2837,14 +2837,14 @@
     "name": "Romanof",
     "race": "Human",
     "class": "Warrior",
-    "active_spec_name": "Fury",
+    "active_spec_name": "Arms",
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 8065,
+    "achievement_points": 8075,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-10-09T06:28:16.000Z",
+    "last_crawled_at": "2026-10-10T09:22:08.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Romanof",
     "profile_banner": "alliancebanner1"
    }
@@ -2931,10 +2931,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 2730,
+    "achievement_points": 2745,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-10-09T00:01:14.000Z",
+    "last_crawled_at": "2026-10-10T00:57:06.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Gardennia",
     "profile_banner": "alliancebanner1"
    }
@@ -3042,7 +3042,7 @@
     "achievement_points": 11940,
     "region": "us",
     "realm": "Frostwolf",
-    "last_crawled_at": "2026-10-09T22:40:18.000Z",
+    "last_crawled_at": "2026-10-10T09:02:08.000Z",
     "profile_url": "https://raider.io/characters/us/frostwolf/Straam",
     "profile_banner": "hordebanner1"
    }
@@ -3330,7 +3330,7 @@
     "achievement_points": 22630,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-08T06:10:04.000Z",
+    "last_crawled_at": "2026-10-10T00:59:09.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Dlpally",
     "profile_banner": "alliancebanner1"
    }
@@ -3597,10 +3597,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "horde",
-    "achievement_points": 22230,
+    "achievement_points": 22630,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-09-22T09:04:06.000Z",
+    "last_crawled_at": "2026-10-10T12:35:12.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Bonenose",
     "profile_banner": "hordebanner1"
    }
@@ -3651,10 +3651,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 22285,
+    "achievement_points": 22630,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-09-24T06:05:44.000Z",
+    "last_crawled_at": "2026-10-10T09:18:16.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Doitfrombhin",
     "profile_banner": "alliancebanner1"
    }
@@ -3669,10 +3669,10 @@
     "active_spec_role": "HEALING",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 22285,
+    "achievement_points": 22630,
     "region": "us",
     "realm": "Uldum",
-    "last_crawled_at": "2026-09-22T21:55:06.000Z",
+    "last_crawled_at": "2026-10-10T09:39:16.000Z",
     "profile_url": "https://raider.io/characters/us/uldum/Khee",
     "profile_banner": "alliancebanner1"
    }
@@ -4619,14 +4619,14 @@
     "name": "Holycroc",
     "race": "Human",
     "class": "Paladin",
-    "active_spec_name": "Retribution",
-    "active_spec_role": "DPS",
+    "active_spec_name": "Protection",
+    "active_spec_role": "TANK",
     "gender": "male",
     "faction": "alliance",
     "achievement_points": 15685,
     "region": "us",
     "realm": "Area 52",
-    "last_crawled_at": "2026-10-09T04:31:06.000Z",
+    "last_crawled_at": "2026-10-10T07:07:16.000Z",
     "profile_url": "https://raider.io/characters/us/area-52/Holycroc",
     "profile_banner": "alliancebanner1"
    }
