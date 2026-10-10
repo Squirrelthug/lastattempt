@@ -53,8 +53,8 @@
     "realm": 97
    },
    "mythic": {
-    "world": 3734,
-    "region": 1171,
+    "world": 3752,
+    "region": 1172,
     "realm": 54
    }
   },
@@ -77,13 +77,13 @@
   },
   "the-venomous-abyss": {
    "normal": {
-    "world": 2843,
+    "world": 2844,
     "region": 1222,
     "realm": 58
    },
    "heroic": {
-    "world": 7815,
-    "region": 2514,
+    "world": 7913,
+    "region": 2525,
     "realm": 102
    },
    "mythic": {
@@ -285,10 +285,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 31000,
+    "achievement_points": 31005,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-09-27T23:40:03.000Z",
+    "last_crawled_at": "2026-10-10T13:15:23.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Ryagana",
     "profile_banner": "alliancebanner1"
    }
@@ -1656,7 +1656,7 @@
     "achievement_points": 14165,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-10-10T09:52:07.000Z",
+    "last_crawled_at": "2026-10-10T20:18:09.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Nhelara",
     "profile_banner": "alliancebanner1"
    }
@@ -1710,7 +1710,7 @@
     "achievement_points": 19530,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-08T09:08:07.000Z",
+    "last_crawled_at": "2026-10-10T13:19:13.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Skath\u00ed",
     "profile_banner": "alliancebanner1"
    }
@@ -2841,10 +2841,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 8075,
+    "achievement_points": 8085,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-10-10T09:22:08.000Z",
+    "last_crawled_at": "2026-10-10T17:38:14.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Romanof",
     "profile_banner": "alliancebanner1"
    }
@@ -2934,7 +2934,7 @@
     "achievement_points": 2745,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-10-10T00:57:06.000Z",
+    "last_crawled_at": "2026-10-10T17:38:14.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Gardennia",
     "profile_banner": "alliancebanner1"
    }
@@ -4821,10 +4821,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 6875,
+    "achievement_points": 6885,
     "region": "us",
     "realm": "Windrunner",
-    "last_crawled_at": "2026-10-09T06:28:14.000Z",
+    "last_crawled_at": "2026-10-10T14:36:17.000Z",
     "profile_url": "https://raider.io/characters/us/windrunner/Dew",
     "profile_banner": "alliancebanner1"
    }
