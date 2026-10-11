@@ -82,8 +82,8 @@
     "realm": 3
    },
    "heroic": {
-    "world": 8448,
-    "region": 2765,
+    "world": 8545,
+    "region": 2829,
     "realm": 19
    },
    "mythic": {
@@ -1239,10 +1239,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "horde",
-    "achievement_points": 38500,
+    "achievement_points": 38600,
     "region": "us",
     "realm": "Bleeding Hollow",
-    "last_crawled_at": "2026-10-09T04:17:19.000Z",
+    "last_crawled_at": "2026-10-11T09:39:19.000Z",
     "profile_url": "https://raider.io/characters/us/bleeding-hollow/Halvo",
     "profile_banner": "hordebanner1"
    }
@@ -2016,7 +2016,7 @@
     "achievement_points": 23110,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-10T19:54:06.000Z",
+    "last_crawled_at": "2026-10-11T09:38:19.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Cupcak\u00eb",
     "profile_banner": "alliancebanner1"
    }
@@ -2393,10 +2393,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 46860,
+    "achievement_points": 46885,
     "region": "us",
     "realm": "Proudmoore",
-    "last_crawled_at": "2026-10-09T04:18:06.000Z",
+    "last_crawled_at": "2026-10-11T04:23:29.000Z",
     "profile_url": "https://raider.io/characters/us/proudmoore/Humviy",
     "profile_banner": "alliancebanner1"
    }
@@ -2612,7 +2612,7 @@
     "achievement_points": 18485,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-10T05:26:06.000Z",
+    "last_crawled_at": "2026-10-11T03:04:14.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Markymeta",
     "profile_banner": "alliancebanner1"
    }
@@ -4842,10 +4842,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 26110,
+    "achievement_points": 26120,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-10T12:16:08.000Z",
+    "last_crawled_at": "2026-10-11T12:06:18.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Gealtachta",
     "profile_banner": "alliancebanner18"
    }
@@ -6916,7 +6916,7 @@
     "achievement_points": 43670,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-09T04:17:22.000Z",
+    "last_crawled_at": "2026-10-11T03:46:13.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Illidaria",
     "profile_banner": "alliancebanner1"
    }
@@ -8461,10 +8461,10 @@
     "active_spec_role": "HEALING",
     "gender": "male",
     "faction": "horde",
-    "achievement_points": 22595,
+    "achievement_points": 22605,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-05T20:02:57.000Z",
+    "last_crawled_at": "2026-10-11T09:39:18.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Xtotem",
     "profile_banner": "hordebanner1"
    }
@@ -9174,7 +9174,7 @@
   {
    "rank": 3,
    "character": {
-    "name": "Redhairr",
+    "name": "Redhairr-243141267",
     "race": "Undead",
     "class": "Priest",
     "active_spec_name": "Shadow",
@@ -9185,7 +9185,7 @@
     "region": "us",
     "realm": "Lightbringer",
     "last_crawled_at": "2026-10-05T20:02:57.000Z",
-    "profile_url": "https://raider.io/characters/us/lightbringer/Redhairr",
+    "profile_url": "https://raider.io/characters/us/lightbringer/Redhairr-243141267",
     "profile_banner": "hordebanner1"
    }
   },
@@ -11992,7 +11992,7 @@
     "achievement_points": 18485,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-10T08:46:08.000Z",
+    "last_crawled_at": "2026-10-11T03:05:07.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Markymogging",
     "profile_banner": "alliancebanner1"
    }
