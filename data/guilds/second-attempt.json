@@ -53,8 +53,8 @@
     "realm": 97
    },
    "mythic": {
-    "world": 3778,
-    "region": 1182,
+    "world": 3847,
+    "region": 1183,
     "realm": 54
    }
   },
@@ -82,8 +82,8 @@
     "realm": 58
    },
    "heroic": {
-    "world": 8009,
-    "region": 2583,
+    "world": 8169,
+    "region": 2594,
     "realm": 104
    },
    "mythic": {
@@ -1530,7 +1530,7 @@
     "achievement_points": 25075,
     "region": "us",
     "realm": "Stormrage",
-    "last_crawled_at": "2026-10-09T19:24:13.000Z",
+    "last_crawled_at": "2026-10-11T18:57:24.000Z",
     "profile_url": "https://raider.io/characters/us/stormrage/S\u00eamyaz",
     "profile_banner": "alliancebanner1"
    }
@@ -1617,10 +1617,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 14025,
+    "achievement_points": 14165,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-10-04T21:23:06.000Z",
+    "last_crawled_at": "2026-10-11T19:26:33.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Aleora",
     "profile_banner": "alliancebanner3"
    }
@@ -1797,10 +1797,10 @@
     "active_spec_role": "HEALING",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 18760,
+    "achievement_points": 18790,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-05T12:55:41.000Z",
+    "last_crawled_at": "2026-10-11T18:52:38.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Jhewjitsu",
     "profile_banner": "alliancebanner1"
    }
@@ -2700,7 +2700,7 @@
     "achievement_points": 22265,
     "region": "us",
     "realm": "Dalaran",
-    "last_crawled_at": "2026-10-09T06:28:16.000Z",
+    "last_crawled_at": "2026-10-11T17:52:37.000Z",
     "profile_url": "https://raider.io/characters/us/dalaran/Nethertank",
     "profile_banner": "alliancebanner1"
    }
@@ -2841,10 +2841,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 8085,
+    "achievement_points": 8105,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-10-10T17:38:14.000Z",
+    "last_crawled_at": "2026-10-11T18:38:19.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Romanof",
     "profile_banner": "alliancebanner1"
    }
@@ -2931,10 +2931,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 2745,
+    "achievement_points": 2765,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-10-11T09:20:22.000Z",
+    "last_crawled_at": "2026-10-11T18:38:19.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Gardennia",
     "profile_banner": "alliancebanner1"
    }
@@ -3168,7 +3168,7 @@
     "achievement_points": 21735,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-08T09:08:06.000Z",
+    "last_crawled_at": "2026-10-11T19:08:25.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Soh\u00ecgh",
     "profile_banner": "alliancebanner1"
    }
@@ -3237,10 +3237,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 4850,
+    "achievement_points": 5690,
     "region": "us",
     "realm": "Ragnaros",
-    "last_crawled_at": "2026-10-09T11:17:05.000Z",
+    "last_crawled_at": "2026-10-11T19:00:17.000Z",
     "profile_url": "https://raider.io/characters/us/ragnaros/Djorgx",
     "profile_banner": "alliancebanner1"
    }
@@ -4644,7 +4644,7 @@
     "achievement_points": 16545,
     "region": "us",
     "realm": "Stormrage",
-    "last_crawled_at": "2026-10-04T21:23:06.000Z",
+    "last_crawled_at": "2026-10-11T20:57:34.000Z",
     "profile_url": "https://raider.io/characters/us/stormrage/Docxheal",
     "profile_banner": "alliancebanner1"
    }
