@@ -82,8 +82,8 @@
     "realm": 3
    },
    "heroic": {
-    "world": 8712,
-    "region": 2840,
+    "world": 8818,
+    "region": 2896,
     "realm": 19
    },
    "mythic": {
@@ -2612,7 +2612,7 @@
     "achievement_points": 18485,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-11T18:20:20.000Z",
+    "last_crawled_at": "2026-10-12T01:45:23.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Markymeta",
     "profile_banner": "alliancebanner1"
    }
