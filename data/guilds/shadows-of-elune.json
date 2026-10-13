@@ -82,8 +82,8 @@
     "realm": 3
    },
    "heroic": {
-    "world": 8818,
-    "region": 2896,
+    "world": 8912,
+    "region": 2900,
     "realm": 19
    },
    "mythic": {
@@ -5817,7 +5817,7 @@
     "achievement_points": 20300,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-11T18:20:26.000Z",
+    "last_crawled_at": "2026-10-12T22:42:25.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Shinochu",
     "profile_banner": "alliancebanner1"
    }
@@ -6159,7 +6159,7 @@
     "achievement_points": 52190,
     "region": "us",
     "realm": "Stormrage",
-    "last_crawled_at": "2026-10-11T18:21:23.000Z",
+    "last_crawled_at": "2026-10-12T18:53:16.000Z",
     "profile_url": "https://raider.io/characters/us/stormrage/Farne",
     "profile_banner": "alliancebanner1"
    }
@@ -8569,10 +8569,10 @@
     "active_spec_role": "TANK",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 32795,
+    "achievement_points": 32805,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-11T18:20:27.000Z",
+    "last_crawled_at": "2026-10-12T20:49:13.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Auzua",
     "profile_banner": "alliancebanner1"
    }
@@ -11470,7 +11470,7 @@
     "achievement_points": 15515,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-11T18:20:34.000Z",
+    "last_crawled_at": "2026-10-12T18:53:16.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Kilgarr",
     "profile_banner": "alliancebanner1"
    }
