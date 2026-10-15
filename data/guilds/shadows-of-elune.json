@@ -82,9 +82,9 @@
     "realm": 3
    },
    "heroic": {
-    "world": 8931,
-    "region": 2946,
-    "realm": 20
+    "world": 9000,
+    "region": 2951,
+    "realm": 21
    },
    "mythic": {
     "world": 0,
@@ -879,10 +879,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "horde",
-    "achievement_points": 48110,
+    "achievement_points": 48195,
     "region": "us",
     "realm": "Area 52",
-    "last_crawled_at": "2026-10-11T18:19:34.000Z",
+    "last_crawled_at": "2026-10-15T20:28:34.000Z",
     "profile_url": "https://raider.io/characters/us/area-52/Feralarrow",
     "profile_banner": "hordebanner1"
    }
@@ -1293,10 +1293,10 @@
     "active_spec_role": "HEALING",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 34190,
+    "achievement_points": 34245,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-11T18:19:31.000Z",
+    "last_crawled_at": "2026-10-15T17:18:33.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Earthwolf",
     "profile_banner": "alliancebanner1"
    }
@@ -2158,10 +2158,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "horde",
-    "achievement_points": 48140,
+    "achievement_points": 48195,
     "region": "us",
     "realm": "Area 52",
-    "last_crawled_at": "2026-10-11T18:19:33.000Z",
+    "last_crawled_at": "2026-10-15T20:27:23.000Z",
     "profile_url": "https://raider.io/characters/us/area-52/Feralstate",
     "profile_banner": "",
     "use_animated_banner": false
@@ -5835,7 +5835,7 @@
     "achievement_points": 48195,
     "region": "us",
     "realm": "Area 52",
-    "last_crawled_at": "2026-10-14T21:01:21.000Z",
+    "last_crawled_at": "2026-10-15T20:03:28.000Z",
     "profile_url": "https://raider.io/characters/us/area-52/Feralevoker",
     "profile_banner": "hordebanner1"
    }
@@ -6156,10 +6156,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 52190,
+    "achievement_points": 52225,
     "region": "us",
     "realm": "Stormrage",
-    "last_crawled_at": "2026-10-13T10:38:41.000Z",
+    "last_crawled_at": "2026-10-15T15:02:29.000Z",
     "profile_url": "https://raider.io/characters/us/stormrage/Farne",
     "profile_banner": "alliancebanner1"
    }
@@ -6192,10 +6192,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "horde",
-    "achievement_points": 48140,
+    "achievement_points": 48195,
     "region": "us",
     "realm": "Area 52",
-    "last_crawled_at": "2026-10-11T18:21:21.000Z",
+    "last_crawled_at": "2026-10-15T20:05:24.000Z",
     "profile_url": "https://raider.io/characters/us/area-52/Feralarchon",
     "profile_banner": "",
     "use_animated_banner": false
@@ -12547,10 +12547,10 @@
     "active_spec_role": "HEALING",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 47905,
+    "achievement_points": 47960,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-14T21:01:22.000Z",
+    "last_crawled_at": "2026-10-15T19:57:22.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Feralshaman",
     "profile_banner": "alliancebanner1"
    }
