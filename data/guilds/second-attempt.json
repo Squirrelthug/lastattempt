@@ -53,9 +53,9 @@
     "realm": 97
    },
    "mythic": {
-    "world": 4014,
-    "region": 1214,
-    "realm": 54
+    "world": 4027,
+    "region": 1223,
+    "realm": 55
    }
   },
   "the-unbinding-of-kithix": {
@@ -82,9 +82,9 @@
     "realm": 58
    },
    "heroic": {
-    "world": 8606,
-    "region": 2754,
-    "realm": 111
+    "world": 8507,
+    "region": 2736,
+    "realm": 110
    },
    "mythic": {
     "world": 0,
@@ -159,10 +159,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 16385,
+    "achievement_points": 16395,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-12T09:36:12.000Z",
+    "last_crawled_at": "2026-10-15T07:53:31.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Chanaa",
     "profile_banner": "alliancebanner1"
    }
@@ -2338,10 +2338,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 28655,
+    "achievement_points": 28665,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-14T09:04:19.000Z",
+    "last_crawled_at": "2026-10-14T23:35:17.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Canedk",
     "profile_banner": "alliancebanner1"
    }
@@ -2413,7 +2413,7 @@
     "achievement_points": 28665,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-14T09:17:19.000Z",
+    "last_crawled_at": "2026-10-15T06:52:22.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Canesneakz",
     "profile_banner": "alliancebanner1"
    }
@@ -3169,7 +3169,7 @@
     "achievement_points": 13530,
     "region": "us",
     "realm": "Ragnaros",
-    "last_crawled_at": "2026-10-14T09:40:22.000Z",
+    "last_crawled_at": "2026-10-15T07:52:51.000Z",
     "profile_url": "https://raider.io/characters/us/ragnaros/Mark\u00fas",
     "profile_banner": "alliancebanner1"
    }
@@ -3313,7 +3313,7 @@
     "achievement_points": 13530,
     "region": "us",
     "realm": "Ragnaros",
-    "last_crawled_at": "2026-10-14T09:40:21.000Z",
+    "last_crawled_at": "2026-10-15T10:17:28.000Z",
     "profile_url": "https://raider.io/characters/us/ragnaros/Makoo",
     "profile_banner": "alliancebanner1"
    }
@@ -3360,14 +3360,14 @@
     "name": "Gadjet",
     "race": "Lightforged Draenei",
     "class": "Warlock",
-    "active_spec_name": "Affliction",
+    "active_spec_name": "Demonology",
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 8495,
+    "achievement_points": 8550,
     "region": "us",
     "realm": "Tichondrius",
-    "last_crawled_at": "2026-09-08T16:48:22.000Z",
+    "last_crawled_at": "2026-10-15T00:23:19.000Z",
     "profile_url": "https://raider.io/characters/us/tichondrius/Gadjet",
     "profile_banner": "alliancebanner1"
    }
@@ -4069,7 +4069,7 @@
     "achievement_points": 28495,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-14T09:11:19.000Z",
+    "last_crawled_at": "2026-10-15T10:08:29.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Canefelz",
     "profile_banner": "hordebanner1"
    }
@@ -4537,7 +4537,7 @@
     "achievement_points": 28665,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-14T09:38:17.000Z",
+    "last_crawled_at": "2026-10-15T07:45:34.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Canedru",
     "profile_banner": "alliancebanner1"
    }
