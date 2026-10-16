@@ -53,9 +53,9 @@
     "realm": 97
    },
    "mythic": {
-    "world": 4044,
-    "region": 1223,
-    "realm": 55
+    "world": 4078,
+    "region": 1246,
+    "realm": 56
    }
   },
   "the-unbinding-of-kithix": {
@@ -82,8 +82,8 @@
     "realm": 58
    },
    "heroic": {
-    "world": 8580,
-    "region": 2743,
+    "world": 8510,
+    "region": 2735,
     "realm": 110
    },
    "mythic": {
@@ -123,10 +123,10 @@
    "mythic_bosses_killed": 0
   },
   "the-venomous-abyss": {
-   "summary": "7/8 H",
+   "summary": "8/8 H",
    "total_bosses": 8,
    "normal_bosses_killed": 8,
-   "heroic_bosses_killed": 7,
+   "heroic_bosses_killed": 8,
    "mythic_bosses_killed": 0
   }
  },
@@ -1530,7 +1530,7 @@
     "achievement_points": 25100,
     "region": "us",
     "realm": "Stormrage",
-    "last_crawled_at": "2026-10-15T13:56:36.000Z",
+    "last_crawled_at": "2026-10-16T03:48:22.000Z",
     "profile_url": "https://raider.io/characters/us/stormrage/S\u00eamyaz",
     "profile_banner": "alliancebanner1"
    }
@@ -1779,10 +1779,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 13290,
+    "achievement_points": 14165,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-08-11T12:22:58.000Z",
+    "last_crawled_at": "2026-10-16T06:47:38.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Shayanna",
     "profile_banner": "",
     "use_animated_banner": false
@@ -3115,7 +3115,7 @@
     "achievement_points": 33090,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-12T09:36:14.000Z",
+    "last_crawled_at": "2026-10-16T03:44:37.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Dowdoww",
     "profile_banner": "alliancebanner1"
    }
@@ -3133,7 +3133,7 @@
     "achievement_points": 33090,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-10T22:34:09.000Z",
+    "last_crawled_at": "2026-10-16T10:36:33.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Illyaanaa",
     "profile_banner": "alliancebanner1"
    }
@@ -3151,7 +3151,7 @@
     "achievement_points": 33090,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-14T09:40:27.000Z",
+    "last_crawled_at": "2026-10-16T03:00:22.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Templrivanho",
     "profile_banner": "alliancebanner1"
    }
@@ -3223,7 +3223,7 @@
     "achievement_points": 33090,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-15T14:50:26.000Z",
+    "last_crawled_at": "2026-10-16T03:22:46.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Shaannaa",
     "profile_banner": "alliancebanner1"
    }
@@ -3310,10 +3310,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 13530,
+    "achievement_points": 13540,
     "region": "us",
     "realm": "Ragnaros",
-    "last_crawled_at": "2026-10-15T10:17:28.000Z",
+    "last_crawled_at": "2026-10-16T10:58:27.000Z",
     "profile_url": "https://raider.io/characters/us/ragnaros/Makoo",
     "profile_banner": "alliancebanner1"
    }
@@ -4069,7 +4069,7 @@
     "achievement_points": 28495,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-15T20:58:24.000Z",
+    "last_crawled_at": "2026-10-16T02:40:21.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Canefelz",
     "profile_banner": "hordebanner1"
    }
@@ -4534,10 +4534,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 28665,
+    "achievement_points": 28675,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-15T07:45:34.000Z",
+    "last_crawled_at": "2026-10-16T09:05:24.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Canedru",
     "profile_banner": "alliancebanner1"
    }
@@ -4791,6 +4791,24 @@
     "realm": "Sargeras",
     "last_crawled_at": "2026-07-27T12:20:23.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Girthkong",
+    "profile_banner": "alliancebanner1"
+   }
+  },
+  {
+   "rank": 99,
+   "character": {
+    "name": "Linsyl",
+    "race": "Night Elf",
+    "class": "Hunter",
+    "active_spec_name": "Beast Mastery",
+    "active_spec_role": "DPS",
+    "gender": "female",
+    "faction": "alliance",
+    "achievement_points": 24935,
+    "region": "us",
+    "realm": "Stormrage",
+    "last_crawled_at": "2026-10-16T09:08:23.000Z",
+    "profile_url": "https://raider.io/characters/us/stormrage/Linsyl",
     "profile_banner": "alliancebanner1"
    }
   },
