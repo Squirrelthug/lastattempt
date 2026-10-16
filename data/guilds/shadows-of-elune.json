@@ -82,9 +82,9 @@
     "realm": 3
    },
    "heroic": {
-    "world": 8575,
-    "region": 2768,
-    "realm": 21
+    "world": 8607,
+    "region": 2772,
+    "realm": 22
    },
    "mythic": {
     "world": 0,
@@ -2081,14 +2081,14 @@
     "name": "W\u00f2rgen",
     "race": "Worgen",
     "class": "Warrior",
-    "active_spec_name": "Fury",
+    "active_spec_name": "Arms",
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
     "achievement_points": 34565,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-15T22:30:35.000Z",
+    "last_crawled_at": "2026-10-16T19:21:25.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/W\u00f2rgen",
     "profile_banner": "alliancebanner1"
    }
@@ -3725,10 +3725,10 @@
     "active_spec_role": "HEALING",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 15735,
+    "achievement_points": 15770,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-15T23:03:22.000Z",
+    "last_crawled_at": "2026-10-16T18:21:32.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Kapnandrew",
     "profile_banner": "alliancebanner1"
    }
@@ -9307,10 +9307,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 49235,
+    "achievement_points": 49275,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-13T06:07:28.000Z",
+    "last_crawled_at": "2026-10-16T20:07:46.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Ishymaell",
     "profile_banner": "alliancebanner1"
    }
