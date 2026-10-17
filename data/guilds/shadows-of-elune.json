@@ -4,7 +4,7 @@
  "faction": "alliance",
  "region": "us",
  "realm": "Lightbringer",
- "last_crawled_at": "2026-10-16T22:59:27.000Z",
+ "last_crawled_at": "2026-10-17T16:39:25.000Z",
  "profile_url": "https://raider.io/guilds/us/lightbringer/Shadows%20of%20Elune",
  "raid_rankings": {
   "tier-mn-1": {
@@ -82,8 +82,8 @@
     "realm": 3
    },
    "heroic": {
-    "world": 8653,
-    "region": 2804,
+    "world": 8682,
+    "region": 2808,
     "realm": 22
    },
    "mythic": {
@@ -666,7 +666,7 @@
     "achievement_points": 32760,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-16T22:57:35.000Z",
+    "last_crawled_at": "2026-10-17T16:40:26.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Addiknight",
     "profile_banner": "alliancebanner1"
    }
@@ -774,7 +774,7 @@
     "achievement_points": 34245,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-16T22:57:34.000Z",
+    "last_crawled_at": "2026-10-17T16:40:27.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Ellyriax",
     "profile_banner": "alliancebanner1"
    }
@@ -1080,7 +1080,7 @@
     "achievement_points": 31260,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-16T22:57:35.000Z",
+    "last_crawled_at": "2026-10-17T16:40:25.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Bromeatigans",
     "profile_banner": "alliancebanner1"
    }
@@ -1170,7 +1170,7 @@
     "achievement_points": 31260,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-14T21:01:22.000Z",
+    "last_crawled_at": "2026-10-17T16:40:25.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Banini",
     "profile_banner": "alliancebanner1"
    }
@@ -1242,7 +1242,7 @@
     "achievement_points": 38770,
     "region": "us",
     "realm": "Bleeding Hollow",
-    "last_crawled_at": "2026-10-16T22:57:34.000Z",
+    "last_crawled_at": "2026-10-17T16:40:25.000Z",
     "profile_url": "https://raider.io/characters/us/bleeding-hollow/Halvo",
     "profile_banner": "hordebanner1"
    }
@@ -1599,10 +1599,10 @@
     "active_spec_role": "TANK",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 18525,
+    "achievement_points": 18570,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-16T22:57:35.000Z",
+    "last_crawled_at": "2026-10-17T19:51:26.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Markyded",
     "profile_banner": "alliancebanner1"
    }
@@ -2016,7 +2016,7 @@
     "achievement_points": 23120,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-15T23:03:24.000Z",
+    "last_crawled_at": "2026-10-17T16:40:26.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Cupcak\u00eb",
     "profile_banner": "alliancebanner1"
    }
@@ -2088,7 +2088,7 @@
     "achievement_points": 34565,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-16T22:57:37.000Z",
+    "last_crawled_at": "2026-10-17T16:40:25.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/W\u00f2rgen",
     "profile_banner": "alliancebanner1"
    }
@@ -2267,10 +2267,10 @@
     "active_spec_role": "TANK",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 14115,
+    "achievement_points": 14215,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-14T21:01:19.000Z",
+    "last_crawled_at": "2026-10-17T16:40:25.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Moonyy",
     "profile_banner": "alliancebanner15"
    }
@@ -2612,7 +2612,7 @@
     "achievement_points": 18545,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-14T22:44:18.000Z",
+    "last_crawled_at": "2026-10-17T16:40:26.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Markymeta",
     "profile_banner": "alliancebanner1"
    }
@@ -2792,7 +2792,7 @@
     "achievement_points": 29645,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-16T22:57:38.000Z",
+    "last_crawled_at": "2026-10-17T16:40:26.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Cornfucius",
     "profile_banner": "alliancebanner4"
    }
@@ -2810,7 +2810,7 @@
     "achievement_points": 21160,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-14T21:01:20.000Z",
+    "last_crawled_at": "2026-10-17T16:40:27.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Chowito",
     "profile_banner": "classbanner_monk1"
    }
@@ -3026,7 +3026,7 @@
     "achievement_points": 14660,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-14T21:01:19.000Z",
+    "last_crawled_at": "2026-10-17T16:40:27.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Konvicktion",
     "profile_banner": "classbanner_death-knight1"
    }
@@ -3383,10 +3383,10 @@
     "active_spec_role": "HEALING",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 18905,
+    "achievement_points": 18915,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-16T22:57:37.000Z",
+    "last_crawled_at": "2026-10-17T16:40:27.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Domimommy",
     "profile_banner": "alliancebanner1"
    }
@@ -3512,7 +3512,7 @@
     "achievement_points": 15515,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-13T10:38:30.000Z",
+    "last_crawled_at": "2026-10-17T11:20:25.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Ximian",
     "profile_banner": "alliancebanner1"
    }
@@ -3728,7 +3728,7 @@
     "achievement_points": 15775,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-16T22:57:37.000Z",
+    "last_crawled_at": "2026-10-17T19:43:31.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Kapnandrew",
     "profile_banner": "alliancebanner1"
    }
@@ -3944,7 +3944,7 @@
     "achievement_points": 31685,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-16T22:57:37.000Z",
+    "last_crawled_at": "2026-10-17T16:40:27.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Narivi",
     "profile_banner": "alliancebanner1"
    }
@@ -4412,7 +4412,7 @@
     "achievement_points": 37125,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-10-14T21:01:22.000Z",
+    "last_crawled_at": "2026-10-17T16:41:27.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Aribelle",
     "profile_banner": "alliancebanner18"
    }
@@ -4845,7 +4845,7 @@
     "achievement_points": 26140,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-16T22:58:24.000Z",
+    "last_crawled_at": "2026-10-17T16:40:31.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Gealtachta",
     "profile_banner": "alliancebanner18"
    }
@@ -5130,10 +5130,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "horde",
-    "achievement_points": 41205,
+    "achievement_points": 41215,
     "region": "us",
     "realm": "Lothar",
-    "last_crawled_at": "2026-10-16T22:58:29.000Z",
+    "last_crawled_at": "2026-10-17T19:43:33.000Z",
     "profile_url": "https://raider.io/characters/us/lothar/Mobius",
     "profile_banner": "alliancebanner1"
    }
@@ -5223,7 +5223,7 @@
     "achievement_points": 14190,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-16T22:57:49.000Z",
+    "last_crawled_at": "2026-10-17T16:40:32.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Mooncaliber",
     "profile_banner": "alliancebanner1"
    }
@@ -5259,7 +5259,7 @@
     "achievement_points": 15120,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-16T22:58:23.000Z",
+    "last_crawled_at": "2026-10-17T16:40:34.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Maplepally",
     "profile_banner": "covenantbanner_kyrian"
    }
@@ -5601,7 +5601,7 @@
     "achievement_points": 22650,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-15T23:03:24.000Z",
+    "last_crawled_at": "2026-10-17T16:40:28.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Xillidanjr",
     "profile_banner": "classbanner_demon-hunter1"
    }
@@ -5619,7 +5619,7 @@
     "achievement_points": 20635,
     "region": "us",
     "realm": "Tichondrius",
-    "last_crawled_at": "2026-10-14T21:01:20.000Z",
+    "last_crawled_at": "2026-10-17T16:41:32.000Z",
     "profile_url": "https://raider.io/characters/us/tichondrius/Staszia",
     "profile_banner": "hordebanner1"
    }
@@ -5817,7 +5817,7 @@
     "achievement_points": 20325,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-15T04:18:33.000Z",
+    "last_crawled_at": "2026-10-17T16:40:39.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Shinochu",
     "profile_banner": "alliancebanner1"
    }
@@ -5835,7 +5835,7 @@
     "achievement_points": 48195,
     "region": "us",
     "realm": "Area 52",
-    "last_crawled_at": "2026-10-16T22:58:29.000Z",
+    "last_crawled_at": "2026-10-17T16:41:29.000Z",
     "profile_url": "https://raider.io/characters/us/area-52/Feralevoker",
     "profile_banner": "hordebanner1"
    }
@@ -5997,7 +5997,7 @@
     "achievement_points": 43720,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-16T22:58:25.000Z",
+    "last_crawled_at": "2026-10-17T16:40:39.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Glaivewaifu",
     "profile_banner": "alliancebanner1"
    }
@@ -6877,10 +6877,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "horde",
-    "achievement_points": 25075,
+    "achievement_points": 25080,
     "region": "us",
     "realm": "Tichondrius",
-    "last_crawled_at": "2026-10-16T22:58:33.000Z",
+    "last_crawled_at": "2026-10-17T16:41:35.000Z",
     "profile_url": "https://raider.io/characters/us/tichondrius/Thalmaerix",
     "profile_banner": "hordebanner1"
    }
@@ -6952,7 +6952,7 @@
     "achievement_points": 13385,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-14T21:01:20.000Z",
+    "last_crawled_at": "2026-10-17T16:40:35.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Smallarcana",
     "profile_banner": "alliancebanner1"
    }
@@ -7006,7 +7006,7 @@
     "achievement_points": 17325,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-14T21:01:20.000Z",
+    "last_crawled_at": "2026-10-17T16:40:44.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Cheestick",
     "profile_banner": "alliancebanner1"
    }
@@ -7204,7 +7204,7 @@
     "achievement_points": 47875,
     "region": "us",
     "realm": "Area 52",
-    "last_crawled_at": "2026-10-14T21:01:20.000Z",
+    "last_crawled_at": "2026-10-17T16:41:36.000Z",
     "profile_url": "https://raider.io/characters/us/area-52/Feraldeath",
     "profile_banner": "alliancebanner1"
    }
@@ -7816,7 +7816,7 @@
     "achievement_points": 16985,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-16T22:58:24.000Z",
+    "last_crawled_at": "2026-10-17T16:40:43.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Anderdingus",
     "profile_banner": "alliancebanner1"
    }
@@ -8374,7 +8374,7 @@
     "achievement_points": 25085,
     "region": "us",
     "realm": "Dalaran",
-    "last_crawled_at": "2026-10-16T22:58:28.000Z",
+    "last_crawled_at": "2026-10-17T16:41:28.000Z",
     "profile_url": "https://raider.io/characters/us/dalaran/Erinari",
     "profile_banner": "alliancebanner1"
    }
@@ -8479,10 +8479,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 23135,
+    "achievement_points": 23165,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-16T22:58:26.000Z",
+    "last_crawled_at": "2026-10-17T16:41:25.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Lockjom",
     "profile_banner": "alliancebanner1"
    }
@@ -8608,7 +8608,7 @@
     "achievement_points": 29670,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-16T22:58:24.000Z",
+    "last_crawled_at": "2026-10-17T16:40:40.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Corncubine",
     "profile_banner": "hordebanner1"
    }
@@ -9307,10 +9307,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 49275,
+    "achievement_points": 49380,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-16T22:58:26.000Z",
+    "last_crawled_at": "2026-10-17T16:41:29.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Ishymaell",
     "profile_banner": "alliancebanner1"
    }
@@ -9328,7 +9328,7 @@
     "achievement_points": 23690,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-14T21:01:21.000Z",
+    "last_crawled_at": "2026-10-17T16:41:25.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Stabberz",
     "profile_banner": "alliancebanner1"
    }
@@ -9526,7 +9526,7 @@
     "achievement_points": 27750,
     "region": "us",
     "realm": "Area 52",
-    "last_crawled_at": "2026-10-15T23:04:31.000Z",
+    "last_crawled_at": "2026-10-17T16:41:39.000Z",
     "profile_url": "https://raider.io/characters/us/area-52/Nightstotems",
     "profile_banner": "alliancebanner1"
    }
@@ -9541,10 +9541,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 20500,
+    "achievement_points": 20505,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-14T21:01:20.000Z",
+    "last_crawled_at": "2026-10-17T16:41:25.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Shadouken",
     "profile_banner": "alliancebanner1"
    }
@@ -9868,7 +9868,7 @@
     "achievement_points": 43700,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-16T22:58:27.000Z",
+    "last_crawled_at": "2026-10-17T16:41:27.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Felenciaga",
     "profile_banner": "hordebanner1"
    }
@@ -10084,7 +10084,7 @@
     "achievement_points": 35760,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-14T21:01:20.000Z",
+    "last_crawled_at": "2026-10-17T16:41:25.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Aribelle",
     "profile_banner": "hordebanner1"
    }
@@ -10480,7 +10480,7 @@
     "achievement_points": 29695,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-16T22:58:28.000Z",
+    "last_crawled_at": "2026-10-17T16:41:25.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Slicedapples",
     "profile_banner": "alliancebanner1"
    }
@@ -10552,7 +10552,7 @@
     "achievement_points": 23625,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-16T22:58:27.000Z",
+    "last_crawled_at": "2026-10-17T16:41:25.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Ghamma",
     "profile_banner": "alliancebanner1"
    }
@@ -11125,10 +11125,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 29635,
+    "achievement_points": 29695,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-14T21:01:23.000Z",
+    "last_crawled_at": "2026-10-17T16:41:24.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Goldenapples",
     "profile_banner": "alliancebanner1"
    }
@@ -11164,7 +11164,7 @@
     "achievement_points": 31600,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-15T23:03:22.000Z",
+    "last_crawled_at": "2026-10-17T17:08:27.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Lavapaladin",
     "profile_banner": "alliancebanner1"
    }
@@ -11254,7 +11254,7 @@
     "achievement_points": 22650,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-15T23:03:24.000Z",
+    "last_crawled_at": "2026-10-17T16:40:25.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Xsteeldruid",
     "profile_banner": "alliancebanner1"
    }
@@ -11467,10 +11467,10 @@
     "active_spec_role": "HEALING",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 15515,
+    "achievement_points": 15565,
     "region": "us",
     "realm": "Sargeras",
-    "last_crawled_at": "2026-10-14T21:01:21.000Z",
+    "last_crawled_at": "2026-10-17T16:41:26.000Z",
     "profile_url": "https://raider.io/characters/us/sargeras/Kilgarr",
     "profile_banner": "alliancebanner1"
    }
@@ -11629,10 +11629,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 37125,
+    "achievement_points": 37185,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-10-14T21:01:21.000Z",
+    "last_crawled_at": "2026-10-17T16:41:30.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Azir\u00e1",
     "profile_banner": "alliancebanner1"
    }
@@ -11722,7 +11722,7 @@
     "achievement_points": 24280,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-14T21:01:22.000Z",
+    "last_crawled_at": "2026-10-17T16:41:26.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Sabryelle",
     "profile_banner": "alliancebanner1"
    }
@@ -11956,7 +11956,7 @@
     "achievement_points": 23065,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-16T22:58:28.000Z",
+    "last_crawled_at": "2026-10-17T16:41:27.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Haranasty",
     "profile_banner": "alliancebanner1"
    }
@@ -11974,7 +11974,7 @@
     "achievement_points": 18570,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-16T22:57:38.000Z",
+    "last_crawled_at": "2026-10-17T16:40:26.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Markymogging",
     "profile_banner": "alliancebanner1"
    }
@@ -12550,7 +12550,7 @@
     "achievement_points": 47960,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-15T23:04:28.000Z",
+    "last_crawled_at": "2026-10-17T16:41:26.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Feralshaman",
     "profile_banner": "alliancebanner1"
    }
@@ -12694,7 +12694,7 @@
     "achievement_points": 20535,
     "region": "us",
     "realm": "Wyrmrest Accord",
-    "last_crawled_at": "2026-10-14T21:01:21.000Z",
+    "last_crawled_at": "2026-10-17T16:41:25.000Z",
     "profile_url": "https://raider.io/characters/us/wyrmrest-accord/Blackoutkick",
     "profile_banner": "alliancebanner1"
    }
@@ -12712,7 +12712,7 @@
     "achievement_points": 2055,
     "region": "us",
     "realm": "Nazjatar",
-    "last_crawled_at": "2026-10-14T21:01:21.000Z",
+    "last_crawled_at": "2026-10-17T16:41:44.000Z",
     "profile_url": "https://raider.io/characters/us/nazjatar/Charlyne",
     "profile_banner": "alliancebanner1"
    }
@@ -12748,7 +12748,7 @@
     "achievement_points": 20475,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-16T23:05:28.000Z",
+    "last_crawled_at": "2026-10-17T16:41:26.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Staszia",
     "profile_banner": "alliancebanner1"
    }
