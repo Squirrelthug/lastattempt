@@ -77,13 +77,13 @@
   },
   "the-venomous-abyss": {
    "normal": {
-    "world": 2807,
+    "world": 2808,
     "region": 1189,
     "realm": 3
    },
    "heroic": {
-    "world": 8682,
-    "region": 2808,
+    "world": 8721,
+    "region": 2835,
     "realm": 22
    },
    "mythic": {
@@ -807,10 +807,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 25140,
+    "achievement_points": 25145,
     "region": "us",
     "realm": "Dalaran",
-    "last_crawled_at": "2026-10-15T23:04:28.000Z",
+    "last_crawled_at": "2026-10-18T06:34:41.000Z",
     "profile_url": "https://raider.io/characters/us/dalaran/Vynstrinar",
     "profile_banner": "alliancebanner1"
    }
@@ -2843,10 +2843,10 @@
     "active_spec_role": "TANK",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 18525,
+    "achievement_points": 18570,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-15T23:03:23.000Z",
+    "last_crawled_at": "2026-10-17T21:21:39.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Markypala",
     "profile_banner": "alliancebanner1"
    }
@@ -3599,10 +3599,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "horde",
-    "achievement_points": 29630,
+    "achievement_points": 29715,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-13T10:31:30.000Z",
+    "last_crawled_at": "2026-10-18T02:52:27.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Corneezy",
     "profile_banner": "hordebanner1"
    }
@@ -6499,10 +6499,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "horde",
-    "achievement_points": 21395,
+    "achievement_points": 21410,
     "region": "us",
     "realm": "Skullcrusher",
-    "last_crawled_at": "2026-10-11T18:20:34.000Z",
+    "last_crawled_at": "2026-10-18T04:47:33.000Z",
     "profile_url": "https://raider.io/characters/us/skullcrusher/Kaoscontrol",
     "profile_banner": "hordebanner1"
    }
@@ -7057,10 +7057,10 @@
     "active_spec_role": "TANK",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 18525,
+    "achievement_points": 18575,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-16T23:05:27.000Z",
+    "last_crawled_at": "2026-10-18T05:53:53.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Markymoist",
     "profile_banner": "alliancebanner1"
    }
@@ -11971,10 +11971,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 18570,
+    "achievement_points": 18575,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-17T16:40:26.000Z",
+    "last_crawled_at": "2026-10-18T06:08:26.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Markymogging",
     "profile_banner": "alliancebanner1"
    }
@@ -12813,14 +12813,14 @@
     "name": "Holywombat",
     "race": "Earthen",
     "class": "Paladin",
-    "active_spec_name": "Protection",
-    "active_spec_role": "TANK",
+    "active_spec_name": "Retribution",
+    "active_spec_role": "DPS",
     "gender": "male",
     "faction": "horde",
-    "achievement_points": 24765,
+    "achievement_points": 24805,
     "region": "us",
     "realm": "Stormrage",
-    "last_crawled_at": "2026-10-16T22:58:31.000Z",
+    "last_crawled_at": "2026-10-18T03:15:25.000Z",
     "profile_url": "https://raider.io/characters/us/stormrage/Holywombat",
     "profile_banner": "hordebanner1"
    }
@@ -12889,10 +12889,10 @@
     "active_spec_role": "TANK",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 38465,
+    "achievement_points": 38635,
     "region": "us",
     "realm": "Moon Guard",
-    "last_crawled_at": "2026-10-13T10:38:29.000Z",
+    "last_crawled_at": "2026-10-18T04:53:47.000Z",
     "profile_url": "https://raider.io/characters/us/moon-guard/Cla\u00fcd\u00eda",
     "profile_banner": "alliancebanner1"
    }
