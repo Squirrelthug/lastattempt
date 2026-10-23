@@ -30,7 +30,7 @@ We also try to be honest about expertise. The host started in Wrath of the Lich 
 
 ## The community
 
-Last Attempt is not one guild. The host raids with a guild, and the show's name comes from a Vanilla-era guild in that family tree, but the point of the community is to make room for *every* guild: progression, social, RP, stream-anchored, keys-only. The [Guild Spotlight](/guilds/) exists to tell those stories, with live progression data and the guild's own words. The [Discord](/discord) and the in-game community (code `5pRrZnqfXMl`) are open to anyone.
+Last Attempt is not one guild. The point of the community is to make room for *every* guild: progression, social, RP, stream-anchored, keys-only. The [Guild Spotlight](/guilds/) exists to tell those stories, with live progression data and the guild's own words. The [Discord](/discord) and the in-game community (code `5pRrZnqfXMl`) are open to anyone.
 
 ## Where things live
 

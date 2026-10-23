@@ -169,7 +169,8 @@ def parse_feed(xml_text: str, site: dict) -> tuple[dict, dict[str, dict]]:
     img = ch.find("itunes:image", NS)
     show = {
         "title": ch.findtext("title", ""),
-        "description": ch.findtext("description", ""),
+        # site.json wins: the Spotify channel text names a guild the show is no longer part of
+        "description": site.get("show_description") or ch.findtext("description", ""),
         "image": img.get("href") if img is not None else "",
         "author": ch.findtext("itunes:author", "", NS),
         "link": ch.findtext("link", ""),
