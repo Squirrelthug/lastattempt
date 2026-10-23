@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
 	<channel>
 		<title><![CDATA[Last Attempt: A World of Warcraft Guildcast]]></title>
-		<description><![CDATA[Last Attempt is a World of Warcraft guildcast focused on the week-to-week reality of mythic progression with our guild SECOND ATTEMPT: raid nights, Mythic+ runs, roster changes, patch and expansion updates, and the lessons learned between pulls. Each episode mixes practical discussion and strategy with guild culture—what’s working, what isn’t, and what we’re doing next.
+		<description><![CDATA[Last Attempt is a World of Warcraft guildcast about life in Azeroth and the people we share it with. Each week, we discuss what we’ve been playing, the latest news, and stories from our adventures—from raid nights and dungeon runs to leveling alts and getting sidetracked.
 
-If you care about organized progression, improving your play, and the social side of WoW, this is the show.]]></description>
+We bring different interests and experiences to the conversation, with room for guests, guild spotlights, and perspectives from across the community. There’s always another adventure, another conversation, and time for one last attempt.]]></description>
 		<link>https://podcasters.spotify.com/pod/show/last-attempt-podcast</link>
 		<generator>Anchor Podcasts</generator>
-		<lastBuildDate>Thu, 22 Oct 2026 18:21:30 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 23 Oct 2026 00:16:53 GMT</lastBuildDate>
 		<atom:link href="https://anchor.fm/s/10ee80918/podcast/rss" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Squirrelthug]]></author>
 		<copyright><![CDATA[Squirrelthug]]></copyright>
 		<language><![CDATA[en]]></language>
 		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 		<itunes:author>Squirrelthug</itunes:author>
-		<itunes:summary>Last Attempt is a World of Warcraft guildcast focused on the week-to-week reality of mythic progression with our guild SECOND ATTEMPT: raid nights, Mythic+ runs, roster changes, patch and expansion updates, and the lessons learned between pulls. Each episode mixes practical discussion and strategy with guild culture—what’s working, what isn’t, and what we’re doing next.
+		<itunes:summary>Last Attempt is a World of Warcraft guildcast about life in Azeroth and the people we share it with. Each week, we discuss what we’ve been playing, the latest news, and stories from our adventures—from raid nights and dungeon runs to leveling alts and getting sidetracked.
 
-If you care about organized progression, improving your play, and the social side of WoW, this is the show.</itunes:summary>
+We bring different interests and experiences to the conversation, with room for guests, guild spotlights, and perspectives from across the community. There’s always another adventure, another conversation, and time for one last attempt.</itunes:summary>
 		<itunes:type>episodic</itunes:type>
 		<itunes:owner>
 			<itunes:name>Squirrelthug</itunes:name>
