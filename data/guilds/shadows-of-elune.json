@@ -36,7 +36,7 @@
     "realm": 48
    },
    "mythic": {
-    "world": 7868,
+    "world": 7869,
     "region": 2867,
     "realm": 20
    }
@@ -82,7 +82,7 @@
     "realm": 3
    },
    "heroic": {
-    "world": 9000,
+    "world": 9001,
     "region": 2937,
     "realm": 23
    },
@@ -1242,7 +1242,7 @@
     "achievement_points": 38770,
     "region": "us",
     "realm": "Bleeding Hollow",
-    "last_crawled_at": "2026-10-24T00:25:38.000Z",
+    "last_crawled_at": "2026-10-24T19:02:45.000Z",
     "profile_url": "https://raider.io/characters/us/bleeding-hollow/Halvo",
     "profile_banner": "hordebanner1"
    }
@@ -12187,10 +12187,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 18565,
+    "achievement_points": 18590,
     "region": "us",
     "realm": "Zul'jin",
-    "last_crawled_at": "2026-10-22T05:26:39.000Z",
+    "last_crawled_at": "2026-10-24T20:08:36.000Z",
     "profile_url": "https://raider.io/characters/us/zuljin/Raelock",
     "profile_banner": "alliancebanner1"
    }
@@ -12388,7 +12388,7 @@
     "achievement_points": 20345,
     "region": "us",
     "realm": "Moon Guard",
-    "last_crawled_at": "2026-10-22T05:26:35.000Z",
+    "last_crawled_at": "2026-10-24T20:28:53.000Z",
     "profile_url": "https://raider.io/characters/us/moon-guard/Ixloatel",
     "profile_banner": "alliancebanner1"
    }
