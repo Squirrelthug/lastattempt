@@ -5115,7 +5115,7 @@
     "achievement_points": 41235,
     "region": "us",
     "realm": "Lothar",
-    "last_crawled_at": "2026-10-26T05:46:59.000Z",
+    "last_crawled_at": "2026-10-26T19:09:53.000Z",
     "profile_url": "https://raider.io/characters/us/lothar/Mobius",
     "profile_banner": "alliancebanner1"
    }
@@ -5832,10 +5832,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "horde",
-    "achievement_points": 48215,
+    "achievement_points": 48225,
     "region": "us",
     "realm": "Area 52",
-    "last_crawled_at": "2026-10-26T05:47:02.000Z",
+    "last_crawled_at": "2026-10-26T19:05:55.000Z",
     "profile_url": "https://raider.io/characters/us/area-52/Feralevoker",
     "profile_banner": "hordebanner1"
    }
@@ -6192,10 +6192,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "horde",
-    "achievement_points": 48205,
+    "achievement_points": 48225,
     "region": "us",
     "realm": "Area 52",
-    "last_crawled_at": "2026-10-22T05:26:34.000Z",
+    "last_crawled_at": "2026-10-26T19:18:03.000Z",
     "profile_url": "https://raider.io/characters/us/area-52/Feralarchon",
     "profile_banner": "",
     "use_animated_banner": false
@@ -8320,7 +8320,7 @@
     "achievement_points": 26665,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-22T05:25:37.000Z",
+    "last_crawled_at": "2026-10-26T18:05:02.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Rootbeer",
     "profile_banner": "alliancebanner1"
    }
