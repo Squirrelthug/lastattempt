@@ -14,7 +14,7 @@
     "realm": 7
    },
    "heroic": {
-    "world": 2713,
+    "world": 2714,
     "region": 917,
     "realm": 6
    },
@@ -36,7 +36,7 @@
     "realm": 48
    },
    "mythic": {
-    "world": 7869,
+    "world": 7871,
     "region": 2867,
     "realm": 20
    }
@@ -4319,10 +4319,10 @@
     "active_spec_role": "HEALING",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 37125,
+    "achievement_points": 37185,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-10-22T05:26:36.000Z",
+    "last_crawled_at": "2026-10-27T18:44:15.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Kez\u00ed",
     "profile_banner": "alliancebanner18"
    }
@@ -4845,7 +4845,7 @@
     "achievement_points": 26235,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-27T05:48:57.000Z",
+    "last_crawled_at": "2026-10-27T18:24:13.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Gealtachta",
     "profile_banner": "alliancebanner18"
    }
@@ -5205,7 +5205,7 @@
     "achievement_points": 14250,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-22T05:25:43.000Z",
+    "last_crawled_at": "2026-10-27T18:53:54.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Mooncaliber",
     "profile_banner": "alliancebanner1"
    }
@@ -11164,7 +11164,7 @@
     "achievement_points": 31705,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-25T19:54:50.000Z",
+    "last_crawled_at": "2026-10-27T16:10:57.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Lavapaladin",
     "profile_banner": "alliancebanner1"
    }
@@ -12781,10 +12781,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 38435,
+    "achievement_points": 38665,
     "region": "us",
     "realm": "Grizzly Hills",
-    "last_crawled_at": "2026-10-22T05:26:39.000Z",
+    "last_crawled_at": "2026-10-27T18:23:08.000Z",
     "profile_url": "https://raider.io/characters/us/grizzly-hills/Redawn",
     "profile_banner": "alliancebanner1"
    }
