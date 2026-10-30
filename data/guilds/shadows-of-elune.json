@@ -65,7 +65,7 @@
     "realm": 0
    },
    "heroic": {
-    "world": 10140,
+    "world": 10142,
     "region": 3537,
     "realm": 29
    },
@@ -1242,7 +1242,7 @@
     "achievement_points": 38860,
     "region": "us",
     "realm": "Bleeding Hollow",
-    "last_crawled_at": "2026-10-29T20:20:56.000Z",
+    "last_crawled_at": "2026-10-30T03:55:08.000Z",
     "profile_url": "https://raider.io/characters/us/bleeding-hollow/Halvo",
     "profile_banner": "hordebanner1"
    }
@@ -2163,8 +2163,7 @@
     "realm": "Area 52",
     "last_crawled_at": "2026-10-27T23:16:13.000Z",
     "profile_url": "https://raider.io/characters/us/area-52/Feralstate",
-    "profile_banner": "",
-    "use_animated_banner": false
+    "profile_banner": "hordebanner1"
    }
   },
   {
@@ -2663,10 +2662,10 @@
     "active_spec_role": "HEALING",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 29700,
+    "achievement_points": 29720,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-23T05:40:44.000Z",
+    "last_crawled_at": "2026-10-30T02:20:58.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Cornhowlio",
     "profile_banner": "alliancebanner1"
    }
@@ -2771,10 +2770,10 @@
     "active_spec_role": "HEALING",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 29710,
+    "achievement_points": 29720,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-28T19:35:55.000Z",
+    "last_crawled_at": "2026-10-30T04:39:56.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Corndormu",
     "profile_banner": "alliancebanner1"
    }
@@ -3944,7 +3943,7 @@
     "achievement_points": 31755,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-29T20:20:56.000Z",
+    "last_crawled_at": "2026-10-30T03:55:00.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Narivi",
     "profile_banner": "alliancebanner1"
    }
@@ -4572,10 +4571,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "horde",
-    "achievement_points": 29735,
+    "achievement_points": 29745,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-28T19:35:03.000Z",
+    "last_crawled_at": "2026-10-30T04:01:58.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Cornoodle",
     "profile_banner": "hordebanner1"
    }
@@ -4878,10 +4877,10 @@
     "active_spec_role": "HEALING",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 29710,
+    "achievement_points": 29720,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-24T05:44:50.000Z",
+    "last_crawled_at": "2026-10-30T04:22:56.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Corndelia",
     "profile_banner": "alliancebanner1"
    }
@@ -6197,8 +6196,7 @@
     "realm": "Area 52",
     "last_crawled_at": "2026-10-26T19:18:03.000Z",
     "profile_url": "https://raider.io/characters/us/area-52/Feralarchon",
-    "profile_banner": "",
-    "use_animated_banner": false
+    "profile_banner": "hordebanner1"
    }
   },
   {
@@ -6250,7 +6248,7 @@
     "achievement_points": 23225,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-29T20:20:58.000Z",
+    "last_crawled_at": "2026-10-30T03:55:06.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Totjom",
     "profile_banner": "alliancebanner1"
    }
@@ -8209,10 +8207,10 @@
     "active_spec_role": "HEALING",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 29710,
+    "achievement_points": 29720,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-26T05:47:58.000Z",
+    "last_crawled_at": "2026-10-30T04:40:56.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Cornjulio",
     "profile_banner": "alliancebanner1"
    }
@@ -8626,7 +8624,7 @@
     "achievement_points": 29745,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-29T20:20:58.000Z",
+    "last_crawled_at": "2026-10-30T03:55:06.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Corncubine",
     "profile_banner": "hordebanner1"
    }
@@ -10513,10 +10511,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "horde",
-    "achievement_points": 22035,
+    "achievement_points": 22050,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-24T05:44:48.000Z",
+    "last_crawled_at": "2026-10-30T06:38:06.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Holyfuego",
     "profile_banner": "hordebanner1"
    }
@@ -11254,7 +11252,7 @@
     "achievement_points": 22715,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-29T20:20:57.000Z",
+    "last_crawled_at": "2026-10-30T03:55:06.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Xsteeldruid",
     "profile_banner": "alliancebanner1"
    }
