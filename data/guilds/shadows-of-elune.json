@@ -65,7 +65,7 @@
     "realm": 0
    },
    "heroic": {
-    "world": 10145,
+    "world": 10146,
     "region": 3538,
     "realm": 29
    },
@@ -2085,10 +2085,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 34735,
+    "achievement_points": 34740,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-31T00:17:02.000Z",
+    "last_crawled_at": "2026-10-31T14:06:10.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/W\u00f2rgen",
     "profile_banner": "alliancebanner1"
    }
@@ -4697,10 +4697,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 31690,
+    "achievement_points": 31705,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-23T21:43:37.000Z",
+    "last_crawled_at": "2026-10-31T16:40:28.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Arathemis",
     "profile_banner": "alliancebanner1"
    }
@@ -4841,10 +4841,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 26245,
+    "achievement_points": 26255,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-31T00:17:09.000Z",
+    "last_crawled_at": "2026-10-31T18:41:14.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Gealtachta",
     "profile_banner": "alliancebanner18"
    }
@@ -9431,10 +9431,10 @@
     "active_spec_role": "HEALING",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 18450,
+    "achievement_points": 18615,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-22T05:25:49.000Z",
+    "last_crawled_at": "2026-10-31T19:11:07.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Markybenched",
     "profile_banner": "alliancebanner1"
    }
