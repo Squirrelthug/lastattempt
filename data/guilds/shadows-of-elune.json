@@ -65,7 +65,7 @@
     "realm": 0
    },
    "heroic": {
-    "world": 10150,
+    "world": 10152,
     "region": 3538,
     "realm": 29
    },
@@ -3943,7 +3943,7 @@
     "achievement_points": 31755,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-30T03:55:00.000Z",
+    "last_crawled_at": "2026-11-01T21:05:09.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Narivi",
     "profile_banner": "alliancebanner1"
    }
@@ -4844,7 +4844,7 @@
     "achievement_points": 26255,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-31T18:41:14.000Z",
+    "last_crawled_at": "2026-11-01T18:21:19.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Gealtachta",
     "profile_banner": "alliancebanner18"
    }
@@ -9884,7 +9884,7 @@
     "achievement_points": 43735,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-26T05:46:57.000Z",
+    "last_crawled_at": "2026-11-01T17:20:18.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Felenciaga",
     "profile_banner": "hordebanner1"
    }
@@ -10010,7 +10010,7 @@
     "achievement_points": 29745,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-01T05:08:07.000Z",
+    "last_crawled_at": "2026-11-01T18:10:19.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Corntezuma",
     "profile_banner": "hordebanner1"
    }
@@ -12728,7 +12728,7 @@
     "achievement_points": 25660,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-10-22T05:26:37.000Z",
+    "last_crawled_at": "2026-11-01T21:03:18.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Kipfire",
     "profile_banner": "alliancebanner1"
    }
