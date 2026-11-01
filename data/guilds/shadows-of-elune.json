@@ -65,7 +65,7 @@
     "realm": 0
    },
    "heroic": {
-    "world": 10146,
+    "world": 10150,
     "region": 3538,
     "realm": 29
    },
@@ -2081,14 +2081,14 @@
     "name": "W\u00f2rgen",
     "race": "Worgen",
     "class": "Warrior",
-    "active_spec_name": "Fury",
+    "active_spec_name": "Arms",
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 34740,
+    "achievement_points": 34745,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-31T14:06:10.000Z",
+    "last_crawled_at": "2026-10-31T22:54:13.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/W\u00f2rgen",
     "profile_banner": "alliancebanner1"
    }
@@ -2791,7 +2791,7 @@
     "achievement_points": 29720,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-31T00:17:02.000Z",
+    "last_crawled_at": "2026-11-01T03:27:06.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Cornfucius",
     "profile_banner": "alliancebanner4"
    }
@@ -4357,7 +4357,7 @@
     "achievement_points": 37190,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-10-31T00:17:12.000Z",
+    "last_crawled_at": "2026-11-01T02:54:23.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Annadar",
     "profile_banner": "alliancebanner18"
    }
@@ -6158,7 +6158,7 @@
     "achievement_points": 52225,
     "region": "us",
     "realm": "Stormrage",
-    "last_crawled_at": "2026-10-31T00:17:13.000Z",
+    "last_crawled_at": "2026-11-01T01:18:14.000Z",
     "profile_url": "https://raider.io/characters/us/stormrage/Farne",
     "profile_banner": "alliancebanner1"
    }
@@ -10007,10 +10007,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "horde",
-    "achievement_points": 29620,
+    "achievement_points": 29745,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-22T05:25:49.000Z",
+    "last_crawled_at": "2026-11-01T05:08:07.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Corntezuma",
     "profile_banner": "hordebanner1"
    }
@@ -12386,7 +12386,7 @@
     "achievement_points": 20375,
     "region": "us",
     "realm": "Moon Guard",
-    "last_crawled_at": "2026-10-28T07:31:56.000Z",
+    "last_crawled_at": "2026-11-01T05:57:15.000Z",
     "profile_url": "https://raider.io/characters/us/moon-guard/Ixloatel",
     "profile_banner": "alliancebanner1"
    }
@@ -12890,7 +12890,7 @@
     "achievement_points": 38735,
     "region": "us",
     "realm": "Moon Guard",
-    "last_crawled_at": "2026-10-31T00:17:12.000Z",
+    "last_crawled_at": "2026-11-01T04:13:08.000Z",
     "profile_url": "https://raider.io/characters/us/moon-guard/Cla\u00fcd\u00eda",
     "profile_banner": "alliancebanner1"
    }
