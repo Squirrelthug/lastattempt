@@ -65,7 +65,7 @@
     "realm": 0
    },
    "heroic": {
-    "world": 10154,
+    "world": 10157,
     "region": 3538,
     "realm": 29
    },
@@ -666,7 +666,7 @@
     "achievement_points": 32835,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-02T05:01:14.000Z",
+    "last_crawled_at": "2026-11-02T21:25:11.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Addiknight",
     "profile_banner": "alliancebanner1"
    }
@@ -4008,14 +4008,14 @@
     "name": "Venndia",
     "race": "Night Elf",
     "class": "Priest",
-    "active_spec_name": "Holy",
-    "active_spec_role": "HEALING",
+    "active_spec_name": "Shadow",
+    "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 17325,
+    "achievement_points": 17355,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-22T05:25:40.000Z",
+    "last_crawled_at": "2026-11-02T21:25:11.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Venndia",
     "profile_banner": "alliancebanner1"
    }
@@ -4837,14 +4837,14 @@
     "name": "Gealtachta",
     "race": "Night Elf",
     "class": "Druid",
-    "active_spec_name": "Guardian",
-    "active_spec_role": "TANK",
+    "active_spec_name": "Feral",
+    "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 26255,
+    "achievement_points": 26265,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-02T05:01:12.000Z",
+    "last_crawled_at": "2026-11-02T19:28:25.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Gealtachta",
     "profile_banner": "alliancebanner18"
    }
@@ -7811,10 +7811,10 @@
     "active_spec_role": "TANK",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 17250,
+    "achievement_points": 17255,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-02T05:01:12.000Z",
+    "last_crawled_at": "2026-11-02T21:24:24.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Anderdingus",
     "profile_banner": "alliancebanner1"
    }
@@ -10151,10 +10151,10 @@
     "active_spec_role": "HEALING",
     "gender": "female",
     "faction": "horde",
-    "achievement_points": 34365,
+    "achievement_points": 34405,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-02T01:22:26.000Z",
+    "last_crawled_at": "2026-11-02T21:25:11.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Peachpi",
     "profile_banner": "hordebanner1"
    }
@@ -10568,7 +10568,7 @@
     "achievement_points": 23685,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-02T05:01:17.000Z",
+    "last_crawled_at": "2026-11-02T21:25:11.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Ghamma",
     "profile_banner": "alliancebanner1"
    }
