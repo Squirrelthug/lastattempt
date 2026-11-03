@@ -65,8 +65,8 @@
     "realm": 0
    },
    "heroic": {
-    "world": 10159,
-    "region": 3538,
+    "world": 10161,
+    "region": 3539,
     "realm": 29
    },
    "mythic": {
@@ -82,7 +82,7 @@
     "realm": 3
    },
    "heroic": {
-    "world": 9003,
+    "world": 9004,
     "region": 2937,
     "realm": 23
    },
@@ -2788,10 +2788,10 @@
     "active_spec_role": "HEALING",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 29720,
+    "achievement_points": 29730,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-02T05:01:11.000Z",
+    "last_crawled_at": "2026-11-03T20:42:14.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Cornfucius",
     "profile_banner": "alliancebanner4"
    }
@@ -5834,7 +5834,7 @@
     "achievement_points": 48230,
     "region": "us",
     "realm": "Area 52",
-    "last_crawled_at": "2026-11-02T05:01:18.000Z",
+    "last_crawled_at": "2026-11-03T18:15:31.000Z",
     "profile_url": "https://raider.io/characters/us/area-52/Feralevoker",
     "profile_banner": "hordebanner1"
    }
@@ -5996,7 +5996,7 @@
     "achievement_points": 43755,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-02T05:01:12.000Z",
+    "last_crawled_at": "2026-11-03T22:38:20.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Glaivewaifu",
     "profile_banner": "alliancebanner1"
    }
@@ -7400,7 +7400,7 @@
     "achievement_points": 43755,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-29T20:20:57.000Z",
+    "last_crawled_at": "2026-11-03T22:53:28.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Abrelshud",
     "profile_banner": "alliancebanner1"
    }
@@ -7688,7 +7688,7 @@
     "achievement_points": 43755,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-29T09:33:05.000Z",
+    "last_crawled_at": "2026-11-03T22:46:20.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Igris",
     "profile_banner": "alliancebanner1"
    }
@@ -8621,10 +8621,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "horde",
-    "achievement_points": 29745,
+    "achievement_points": 29755,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-02T05:01:12.000Z",
+    "last_crawled_at": "2026-11-03T20:23:12.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Corncubine",
     "profile_banner": "hordebanner1"
    }
@@ -11947,14 +11947,14 @@
     "name": "Markymogging",
     "race": "Night Elf",
     "class": "Druid",
-    "active_spec_name": "Restoration",
-    "active_spec_role": "HEALING",
+    "active_spec_name": "Balance",
+    "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
     "achievement_points": 18625,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-02T05:01:10.000Z",
+    "last_crawled_at": "2026-11-03T18:46:24.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Markymogging",
     "profile_banner": "alliancebanner1"
    }
