@@ -48,7 +48,7 @@
     "realm": 4
    },
    "heroic": {
-    "world": 5381,
+    "world": 5382,
     "region": 1751,
     "realm": 9
    },
@@ -6158,7 +6158,7 @@
     "achievement_points": 52225,
     "region": "us",
     "realm": "Stormrage",
-    "last_crawled_at": "2026-11-02T04:21:52.000Z",
+    "last_crawled_at": "2026-11-05T16:42:33.000Z",
     "profile_url": "https://raider.io/characters/us/stormrage/Farne",
     "profile_banner": "alliancebanner1"
    }
@@ -12617,10 +12617,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 26615,
+    "achievement_points": 26725,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-22T05:25:45.000Z",
+    "last_crawled_at": "2026-11-05T22:34:20.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Kalnoth",
     "profile_banner": "alliancebanner1"
    }
