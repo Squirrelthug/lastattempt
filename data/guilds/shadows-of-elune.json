@@ -1329,10 +1329,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 34605,
+    "achievement_points": 34615,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-02T05:40:19.000Z",
+    "last_crawled_at": "2026-11-06T20:40:32.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Helenax",
     "profile_banner": "alliancebanner1"
    }
@@ -9110,7 +9110,7 @@
     "achievement_points": 27220,
     "region": "us",
     "realm": "Moon Guard",
-    "last_crawled_at": "2026-10-30T19:29:03.000Z",
+    "last_crawled_at": "2026-11-06T19:17:35.000Z",
     "profile_url": "https://raider.io/characters/us/moon-guard/Fathernaric",
     "profile_banner": "alliancebanner1"
    }
