@@ -1,0 +1,664 @@
+{
+  "episode": "038",
+  "date": "2026-10-31",
+  "subtitle": "Forever Launch Week",
+  "logo": "../media/last_attempt_logo.png",
+  "intro": {
+    "heads_up": "Quick heads-up before we dive in: by the time this episode drops Tuesday morning, WoW: Forever goes live that same afternoon, 3 p.m. Pacific in the Americas and just after midnight on Wednesday in Europe.",
+    "rundown": [
+      "WoW: Forever going live worldwide, plus the beta by the numbers",
+      "a first look at Forever's roadmap and a four-month patch cadence",
+      "the name, layering and tuning fixes landing right before launch",
+      "a gold-buying ban wave that anyone selling carries needs to hear about",
+      "Midnight's Labyrinth fixes and 200,000 solo Kindo'jan kills",
+      "the Talebound demo and more housing on the 12.1.7 PTR",
+      "the Grimtide housing bundles and the backlash over Blizzard's shop promise",
+      "and we'll close out the news with Blizzard name-dropping Project Helix and WoW on whatever you want"
+    ]
+  },
+  "items": [
+    {
+      "deck_only": true,
+      "title": "Last Attempt: A WoW Guildcast",
+      "tab": "Open",
+      "category": "Episode 038",
+      "synopsis": "",
+      "points": [],
+      "questions": [],
+      "sources": [],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_00_open.png",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "WoW: Forever Goes Live November 4",
+      "tab": "Launch Day",
+      "category": "World of Warcraft: Forever, Launch",
+      "synopsis": "Forever goes live worldwide Tuesday at 3 p.m. Pacific, a permanent third game next to retail and Classic.",
+      "points": [
+        "Blizzard's launch post landing October 29: November 4 at 3 p.m. PST, 12 a.m. CET on the 5th",
+        "set after Warcraft III Reforged: Forsaken Kingdom and before Molten Core, a full 1 to 60 journey",
+        "more than 1,000 new quests, with Mount Hyjal, Shen'dralas, the Riverglades and Zephras Isle to explore",
+        {
+          "text": "the Skyborne debuting as the new race, Alliance or Horde, starting on Zephras Isle at 1 to 12",
+          "sub": "Skyborne access requires the Heroic Pack or higher"
+        },
+        "new combos on day one: Human Hunter, Dwarf Shaman, Gnome Priest, Orc Mage, Troll Warlock, Undead Paladin",
+        "choosing a Classic or Enhanced preset before you even pick a ruleset, and HD or SD models per character",
+        "four rulesets at launch, Normal, PvP, Roleplay and Roleplay PvP, with Hardcore sometime after",
+        "the beta by the numbers: 8,862,354 characters created, 1,889,084 Skyborne, 612,096 Forsaken Paladins",
+        {
+          "text": "the Kobold Miner crowned the beta's deadliest creature, and the Hall of Thanes its deadliest dungeon",
+          "sub": "plus 1,157,204 deaths from falling"
+        },
+        "a poster signing with the devs at the Irvine Improv on November 2, free tickets through TIXR",
+        "Jen and Eric's first Dwarf co-stream in over a year, November 6 at 6 p.m. Pacific, to celebrate launch"
+      ],
+      "questions": [
+        "Are we playing day one, and what's the race and class combo you're rolling first?",
+        "Do we have a guild plan for launch night, or is everyone leveling on their own schedule?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard, World of Warcraft: Forever Goes Live Globally November 4!",
+          "url": "https://worldofwarcraft.blizzard.com/news/24315820/world-of-warcraft-forever-goes-live-globally-november-4"
+        },
+        {
+          "label": "Source, Everything You Need to Know for WoW: Forever's Global Launch (Wowhead)",
+          "url": "https://www.wowhead.com/news=383656/everything-you-need-to-know-for-wow-forevers-global-launch"
+        },
+        {
+          "label": "Blizzard, Return to Azeroth in World of Warcraft: Forever",
+          "url": "https://worldofwarcraft.blizzard.com/news/24315643/return-to-azeroth-in-world-of-warcraft-forever"
+        },
+        {
+          "label": "Blizzard: Prepare for Forever, Try Midnight's Talebound, and Discover Sweet Treats in WoW Weekly",
+          "url": "https://worldofwarcraft.blizzard.com/news/24316094/prepare-for-forever-try-midnights-talebound-and-discover-sweet-treats-in-wow-weekly"
+        },
+        {
+          "label": "Blizzard, Get Your Ticket to the WoW: Forever Poster Signing at the Irvine Improv",
+          "url": "https://worldofwarcraft.blizzard.com/news/24302547/now-live-get-your-ticket-to-the-wow-forever-poster-signing-at-the-irvine-improv"
+        },
+        {
+          "label": "Bluesky, JenEricLive: first Dwarf co-stream in more than a year",
+          "url": "https://bsky.app/profile/jenericlive.com/post/3myqcjpcfi22e"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_01_title.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_02_shot.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_03_timeline.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_04_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_05_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_06_compare.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_07_shot.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_08_stats.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_09_shot.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_10_questions.png",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "Forever's Roadmap: A Four-Month Patch Cadence",
+      "tab": "Roadmap",
+      "category": "World of Warcraft: Forever, Interview",
+      "synopsis": "Kris Zierhut tells IGN that Forever is aiming for about four months between patches, and the retail team wants Forever's lighting and water.",
+      "points": [
+        "Kris Zierhut sitting down with IGN right before launch, with Wowhead pulling out the highlights",
+        "Forever aiming for roughly a four-month patch cadence",
+        "Zierhut also talking through where future patches could take us, and how respeccing works",
+        "the retail team confirmed to be talking about adopting Forever's lighting and water improvements",
+        {
+          "text": "a very different pace from retail's eight-week patch cycle",
+          "sub": "Windows Central called that retail pace \"failing players\" back on October 18"
+        },
+        "the first big beat already on the calendar: Barrow Deeps, Hyjal Summit and Onyxia's Lair on December 9",
+        "Blizzard framing Forever as a permanent home alongside modern and Classic WoW, not a limited-time mode"
+      ],
+      "questions": [
+        "Is four months between patches the right pace for Forever, or will people run out of things to do?",
+        "If retail takes Forever's lighting and water, what else should it borrow?"
+      ],
+      "sources": [
+        {
+          "label": "Source, Patch Cadence, Future Locations, Respeccing, IGN Interview on WoW: Forever (Wowhead)",
+          "url": "https://www.wowhead.com/news=383635/patch-cadence-future-locations-respeccing-ign-interview-on-wow-forever"
+        },
+        {
+          "label": "Source, WoW: Forever is Aiming for a 4-Month Patch Cadence (Wowhead)",
+          "url": "https://www.wowhead.com/news=383640/wow-forever-is-aiming-for-a-4-month-patch-cadence"
+        },
+        {
+          "label": "Source, Retail Team Discussing Lighting and Water Improvements from WoW: Forever (Wowhead)",
+          "url": "https://www.wowhead.com/news=383637/retail-team-discussing-lighting-and-water-improvements-from-wow-forever"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_01_title.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_02_stats.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_03_quote.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_04_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_05_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_06_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_07_questions.png",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "Names, Layers and Last-Minute Tuning",
+      "tab": "Forever Fixes",
+      "category": "World of Warcraft: Forever, Pre-Launch Fixes",
+      "synopsis": "Blizzard spent the last week before launch fixing name reservation and layering, and pushing one more round of class and racial tuning.",
+      "points": [
+        "name reservation going live for NA and EU this week, after a delay",
+        {
+          "text": "an overly restrictive name check blocking names it shouldn't, like anything containing \"c-o-n\"",
+          "sub": "fixed with the next realm restarts, so if a name got rejected, try it again"
+        },
+        {
+          "text": "Oceanic players on Australian servers hitting a ruleset bug",
+          "sub": "make your Roleplay or RP-PvP characters first, or those rulesets disappear for later characters"
+        },
+        "forced world refreshes from layering getting significantly reduced",
+        "joining a group no longer auto-phasing you, as Blizzard works the top layering issues from beta",
+        "big talent tree changes for Druids and Paladins on October 30, after Hunter changes on October 28",
+        "racial tuning: Orc Blood Fury down to a 2-minute cooldown, Troll Berserking up to 15 seconds",
+        "Undead Touch of the Grave's internal cooldown cut to 15 seconds, from 25",
+        "Skyborne's Charged and Attuned buffs persisting through death, but removed when you enter a raid"
+      ],
+      "questions": [
+        "Did either of you get the names you wanted, or get caught by the restricted-name bug?",
+        "Do any of these racial or talent changes change what you're rolling on Tuesday?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard Forums: Overly Restrictive Name Check and Fix Incoming: October 27",
+          "url": "https://us.forums.blizzard.com/en/wow/t/overly-restrictive-name-check-and-fix-incoming-october-27/2394467/1"
+        },
+        {
+          "label": "Blizzard Forums: Name Reservation Issue for Oceanic Players",
+          "url": "https://us.forums.blizzard.com/en/wow/t/name-reservation-issue-for-oceanic-players/2393431/1"
+        },
+        {
+          "label": "Blizzard Forums: WoW Forever Beta Development Notes: Updated October 26",
+          "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-october-26/2360696/8"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_01_title.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_02_shot.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_03_quote.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_04_bullets.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_05_bullets.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_06_stats.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_07_bullets.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_08_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_09_questions.png",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "Gold Transactions Must Be Direct",
+      "tab": "Gold Ban Wave",
+      "category": "World of Warcraft: Blue Post",
+      "synopsis": "Blizzard actioned accounts that bought RMT gold and had it routed through a middleman to pay for carries, and guilds selling carries can lose that gold.",
+      "points": [
+        "Blizzard finishing a round of actions against accounts that spent real money on third-party gold",
+        "some buyers having the seller deliver the gold to a different player, who then sold them a raid carry",
+        "Blizzard's warning: gold from an intermediate player has an extremely high likelihood of being illicit",
+        "the rule going forward: always pay the player providing the carry directly",
+        {
+          "text": "guilds selling carries at risk of having that gold removed",
+          "sub": "when the buyer pays with gold that came from an intermediate"
+        },
+        "account suspensions on the table, on top of the gold removal"
+      ],
+      "questions": [
+        "Have either of you ever bought or sold a carry for gold, and does this make you think twice?",
+        "Is it fair to put the risk on the guild selling the carry when they can't see where the gold came from?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard Forums: Gold Transactions Must Be Direct",
+          "url": "https://us.forums.blizzard.com/en/wow/t/gold-transactions-must-be-direct/2394005/1"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_01_title.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_02_longquote.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_03_timeline.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_04_quote.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_05_bullets.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_06_questions.png",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "Labyrinth Fixes and 200,000 Solo Kindo'jan Kills",
+      "tab": "Hotfixes",
+      "category": "Midnight: Hotfixes",
+      "synopsis": "The October 27 tuning is live, the Labyrinths got another round of fixes, and over 200,000 players have soloed Kindo'jan.",
+      "points": [
+        "the class tuning we previewed last week going live with maintenance on October 27, Subtlety rollback included",
+        "Labyrinth scenarios that weren't granting Great Vault credit, fixed October 27",
+        "Labyrinths now also dropping a Myth 2/6 item",
+        "the \"Voices of Stone\" bonus objective in \"Bear's Burden\" no longer getting stuck on the UI",
+        "Tether icons no longer flickering erratically in \"The Wandering\"",
+        "more than 200,000 players soloing Tier 11 Kindo'jan in two weeks",
+        "tabards no longer hiding the Rexxar armor set",
+        "PvP: San'layn Vampiric Strike down 20%, Devourer's Collapsing Star up 20%",
+        "and over in TBC Classic, heroic dungeon keys now only needing Honored, not Revered"
+      ],
+      "questions": [
+        "Have the Labyrinths been worth running for you now that most of the bugs are gone?",
+        "200,000 solo kills: did either of you get Kindo'jan down, and how many tries did it take?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard, Hotfixes: October 30, 2026",
+          "url": "https://worldofwarcraft.blizzard.com/news/24307310/hotfixes-october-30-2026"
+        },
+        {
+          "label": "Blizzard Forums: The Burning Crusade Hotfixes: Updated October 27",
+          "url": "https://us.forums.blizzard.com/en/wow/t/the-burning-crusade-hotfixes-updated-october-27/2227871/191"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_01_title.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_02_stats.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_03_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_04_bullets.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_05_bullets.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_06_compare.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_07_questions.png",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "Talebound Demo Live, Dornogal on the PTR",
+      "tab": "Talebound",
+      "category": "Midnight: PTR",
+      "synopsis": "The Talebound demo is open on the PTR with no subscription required, and 12.1.7 keeps adding housing to the Return to Dornogal patch.",
+      "points": [
+        "the Talebound demo going live on the PTR October 30, no subscription required",
+        "the Red Hollow introduction plus three eerie tales across Normal, Veteran and Heroic",
+        "all three classes to try: Slayer, Inquisitor and Witch",
+        {
+          "text": "Talebound's end-game rewards including Venomstones, bonus rolls and XP potions",
+          "sub": "plus two pieces of Mythic Venomous Abyss loot and a Drust-themed hearthstone"
+        },
+        "Blizzard asking for feedback on the demo before it goes live",
+        "12.1.7 on the PTR with the \"Returning to Dornogal\" campaign",
+        "new cabin and theatre decor, and two new housing exterior customizations"
+      ],
+      "questions": [
+        "Are you going to try the Talebound demo, and which class are you starting with?",
+        "Mythic raid loot from Talebound: great for alts, or does it cheapen the raid?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard Forums, WoW: Midnight's Talebound Demo is Now Live",
+          "url": "https://us.forums.blizzard.com/en/wow/t/wow-midnight%E2%80%99s-talebound-demo-is-now-live/2392403/1"
+        },
+        {
+          "label": "Blizzard: Prepare for Forever, Try Midnight's Talebound, and Discover Sweet Treats in WoW Weekly",
+          "url": "https://worldofwarcraft.blizzard.com/news/24316094/prepare-for-forever-try-midnights-talebound-and-discover-sweet-treats-in-wow-weekly"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_01_title.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_02_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_03_bullets.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_04_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_05_stats.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_06_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_07_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_08_questions.png",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "Grimtide Bundles and the Hearthsteel Promise",
+      "tab": "Housing Shop",
+      "category": "Midnight: Housing & Shop",
+      "synopsis": "The new Grimtide housing bundles have players saying Blizzard broke its own rule against selling race-themed decor for real money.",
+      "points": [
+        "the Haunted Grimtide Estate at $25: the Spirited Grimtide Manse exterior and Spirited Grimtide Foyer interior",
+        "the Grimtide Decor Pack at $10, 59 pieces from tentacles to a grand piano, on sale through December 1",
+        "players pointing out the pirate, Lovecraftian look is Kul Tiran-themed decor",
+        {
+          "text": "Blizzard's November 2025 promise: housing items tied to the core fantasy of a race or class won't be sold in the shop",
+          "sub": "Windows Central's headline: \"WoW caught in a lie\""
+        },
+        "Bellular among the creators calling it out",
+        "the Living Heartsbane Cauldron mount hitting the shop the same day",
+        "and the November Trading Post going Sweet Tooth, with the Hot Motocross Bunmover 4600 as the Traveler's Log reward"
+      ],
+      "questions": [
+        "Is Kul Tiran-themed decor a real line being crossed, or does it not matter as long as it's cosmetic?",
+        "Would either of you pay $25 for a house exterior?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard: Bring the Spirit of the Sea Home with the New Grimtide Estate and Grimtide Decor Packs!",
+          "url": "https://worldofwarcraft.blizzard.com/news/24303011/bring-the-spirit-of-the-sea-home-with-the-new-grimtide-estate-and-grimtide-decor-packs"
+        },
+        {
+          "label": "Source: Players Upset Latest Housing Bundles Breaks Stated Philosophy on Hearthsteel (Wowhead)",
+          "url": "https://www.wowhead.com/news=383614/players-upset-latest-housing-bundles-breaks-stated-philosophy-on-hearthsteel"
+        },
+        {
+          "label": "Windows Central: WoW caught in a lie by selling housing items tied to player races for real money",
+          "url": "https://www.windowscentral.com/gaming/blizzard/blizzard-said-it-wouldnt-sell-real-money-world-of-warcraft-housing-items-tied-to-player-races-it-lied"
+        },
+        {
+          "label": "Blizzard: Add the Living Heartsbane Cauldron Mount to your Collection",
+          "url": "https://worldofwarcraft.blizzard.com/news/24304164/add-the-living-heartsbane-cauldron-mount-to-your-collection"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_01_title.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_02_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_03_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_04_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_05_longquote.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_06_quote.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_07_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_08_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_09_questions.png",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "\"On Whatever You Want\": WoW and Project Helix",
+      "tab": "WoW on Xbox",
+      "category": "Industry: Xbox & Blizzard",
+      "synopsis": "Holly Longdale called Forever's gamepad support the first leg of playing WoW anywhere, and name-dropped Project Helix, the next Xbox.",
+      "points": [
+        "GamesRadar+ asking Holly Longdale and Clay Stone whether a PC-only Forever is a missed opportunity",
+        "Longdale: \"Play it wherever you want and, at some point, on whatever you want\"",
+        "gamepad support as the first leg of that journey, and Forever as the perfect place to start",
+        "name-dropping Project Helix, and players already getting it running on the ROG Ally X",
+        {
+          "text": "nothing confirmed, and Windows Central calls its own Xbox-port read pure speculation",
+          "sub": "their comparison: Final Fantasy XIV got an Xbox port after more than a decade"
+        },
+        "a leaked email from Johanna Faries calling Blizzard Xbox's top-performing studio for FY26",
+        "Blizzard's third-highest year ever for top-line revenue, led by Diablo 4 and Overwatch",
+        "and the backdrop: Mike Ybarra saying an $1,800 next-gen Xbox \"will never sell\""
+      ],
+      "questions": [
+        "Would WoW actually work on a console, and would either of you play it that way?",
+        "Is Forever the testbed for a console WoW, or is this just good gamepad support?"
+      ],
+      "sources": [
+        {
+          "label": "Windows Central: World of Warcraft on Xbox? Blizzard name-drops Project Helix while talking about WoW's future beyond PC",
+          "url": "https://www.windowscentral.com/gaming/blizzard/world-of-warcraft-on-xbox-blizzard-says-it-wants-wow-playable-on-whatever-you-want"
+        },
+        {
+          "label": "PC Gamer: Blizzard is now reportedly Microsoft's top studio, according to leaked email",
+          "url": "https://www.pcgamer.com/gaming-industry/blizzard-is-now-reportedly-microsofts-top-studio-according-to-leaked-email/"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_01_title.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_02_longquote.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_03_quote.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_04_bullets.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_05_stats.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_06_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_07_questions.png",
+          "caption": ""
+        }
+      ]
+    }
+  ]
+}

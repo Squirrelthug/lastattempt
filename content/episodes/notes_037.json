@@ -1,0 +1,821 @@
+{
+  "episode": "037",
+  "date": "2026-10-24",
+  "subtitle": "Forever Countdown · Beta's Over",
+  "logo": "../media/last_attempt_logo.png",
+  "intro": {
+    "heads_up": "Quick heads-up before we dive in: by the time this episode drops Tuesday morning, Forever character creation and name reservation open at 1 p.m. Pacific, class tuning lands with maintenance, and the Fabled Kindo'jan deadline closes with that same maintenance.",
+    "rundown": [
+      "the WoW: Forever beta wrapping up with a send-off party, and what name reservation looks like",
+      "Blizzard reversing course and adding an RP-PvP ruleset for launch",
+      "a first real look at Forever's endgame: three raids on December 9 and nine new dungeons",
+      "Midnight's next patch, Echoes of the Worldcore, hitting the PTR",
+      "class tuning for October 27, with Subtlety Rogue getting rolled back",
+      "one more week for the Fabled Kindo'jan achievement",
+      "the Liadrin story backlash we didn't get to last week",
+      "and we'll close out the news with Fortune's Xbox report, BioWare closing its doors, and a crowded November launch calendar"
+    ]
+  },
+  "items": [
+    {
+      "deck_only": true,
+      "title": "Last Attempt: A WoW Guildcast",
+      "tab": "Open",
+      "category": "Episode 037",
+      "synopsis": "",
+      "points": [],
+      "questions": [],
+      "sources": [],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_00_open.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_00_wide.png",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "The Forever Beta Is Over: Name Reservation Opens October 27",
+      "tab": "Beta Ends",
+      "category": "World of Warcraft: Forever, Launch",
+      "synopsis": "Forever's five-week beta closed October 23 with a send-off party, and the next stop is character creation and name reservation on October 27.",
+      "points": [
+        "the beta closing October 23 after five weeks of playtesting",
+        "the final day turning the starting zones into a party, with Stitches crashing Goldshire and Super Hogger in Elwynn",
+        "big crowds in Stormwind and Thunder Bluff for the send-off, and nothing from the beta carrying over",
+        "Blizzard spending a few days on priority issues and server work before launch",
+        {
+          "text": "character creation and name reservation opening Tuesday, October 27, running through November 3",
+          "sub": "NA opens at 1:00 p.m. PDT, EU at 18:00 CET"
+        },
+        "up to three characters total across every ruleset, so two on PvP leaves you one for Normal or RP",
+        "pre-purchase required: the Skyborne Heroic or Epic Pack, or the Warcraft Forever Collection",
+        "names first come, first served, so have a backup ready",
+        "the End of Beta Special, episode 5 of the Forever Podcast, with Aggrend, Clay Stone, Ana Resendez and Michael Nuthals",
+        "launch still set for November 4"
+      ],
+      "questions": [
+        "Did either of you get on for the send-off, and what was the best moment of the beta for you?",
+        "Three characters across every ruleset: how are you splitting yours?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard: Thank You for Testing the WoW Forever Beta",
+          "url": "https://us.forums.blizzard.com/en/wow/t/thank-you-for-testing-the-wow-forever-beta/2390465/1"
+        },
+        {
+          "label": "Blizzard, Claim Your World of Warcraft: Forever Character Names",
+          "url": "https://worldofwarcraft.blizzard.com/news/24303866/claim-your-world-of-warcraft-forever-character-names"
+        },
+        {
+          "label": "Blizzard: Dive into the End of Beta Special!",
+          "url": "https://worldofwarcraft.blizzard.com/news/24302577/dive-into-the-end-of-beta-special"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_01_title.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_02_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_03_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_04_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_05_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_06_shot.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_07_shot.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_08_timeline.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_09_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_10_questions.png",
+          "caption": ""
+        },
+        {
+          "type": "youtube",
+          "id": "uOlxa3xvNq4",
+          "caption": "End of Beta Special, The WoW: Forever Podcast, Episode 5",
+          "start": 0
+        }
+      ]
+    },
+    {
+      "title": "Blizzard Reverses Course: Forever Gets an RP-PvP Ruleset",
+      "tab": "RP-PvP",
+      "category": "World of Warcraft: Forever, Rulesets",
+      "synopsis": "Days after raising concerns on their own podcast, Blizzard decided to add a Roleplay-PvP ruleset for launch on November 4.",
+      "points": [
+        "the original lineup at announcement: Normal, PvP, Roleplay and Hardcore, with no RP-PvP",
+        "the devs talking through their concerns with an RP-PvP ruleset on the Forever Podcast",
+        "Blizzard on October 22: we've carefully examined what it would take to add it to WoW Forever and decided to go for it",
+        "the RP-PvP ruleset arriving with launch on November 4",
+        "Blizzard working to have it selectable for name reservations on October 27",
+        "the rulesets article updated the same day with how they all work",
+        "no grouping across rulesets, and no free hopping between them",
+        "collections and Legacy Points account-wide, with Hardcore coming after launch",
+        "a fast, public reversal driven by player feedback, two weeks before launch"
+      ],
+      "questions": [
+        "Does a fast reversal like this make you trust the Forever team more, or worry about what else could change?",
+        "Would either of you roll RP-PvP, or is it Normal and PvP for us?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard: The Roleplay-PvP Ruleset Is Coming to WoW Forever",
+          "url": "https://us.forums.blizzard.com/en/wow/t/the-roleplay-pvp-ruleset-is-coming-to-wow-forever/2389502/1"
+        },
+        {
+          "label": "Blizzard, [Updated 10/22] Choose Your Ruleset in World of Warcraft: Forever",
+          "url": "https://worldofwarcraft.blizzard.com/news/24302070/updated-1022-choose-your-ruleset-in-world-of-warcraft-forever"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_01_title.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_02_shot.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_03_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_04_quote.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_05_timeline.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_06_bullets.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_07_shot.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_08_questions.png",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "Forever's Endgame: Three Raids on December 9, Nine New Dungeons",
+      "tab": "Raids & Dungeons",
+      "category": "World of Warcraft: Forever, Endgame",
+      "synopsis": "Blizzard laid out Forever's first raids, all unlocking December 9, and the nine new dungeons you'll level through on the way.",
+      "points": [
+        "Barrow Deeps, Hyjal Summit and Onyxia's Lair all unlocking December 9 for level 60",
+        "the Barrow Deeps: 10 players, 8 bosses, in the prison that held Illidan for 10,000 years",
+        "entrances to the Barrow Deeps from Mount Hyjal, Winterspring and Blackmaw Hold",
+        "Hyjal Summit: 20 players, 13 bosses, opening with a battle against an ancient guardian, then branching paths",
+        "Onyxia's Lair: 40 players, a three-phase fight, and you'll want fire resistance",
+        {
+          "text": "Onyxia attunement coming back: the Drakefire Amulet, through a faction questline",
+          "sub": "it runs through Upper Blackrock Spire; the amulet only has to be in your bags"
+        },
+        "nine new five-player dungeons from level 13 to 60",
+        "Hall of Thanes, Ruins of Lordaeron, Excavation Site, City of Dalaran, The Drowned City and Krol'dok Stronghold",
+        "then Alcaz Prison, Blackmaw Hold and Shaper's Terrace in Kalimdor",
+        "raids landing five weeks after launch, so the first month is a leveling and dungeons race"
+      ],
+      "questions": [
+        "Ten, twenty and forty: which raid size do you want our group to start with?",
+        "Five weeks from launch to raids. Enough time to get the guild to 60 and attuned?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard, World of Warcraft: Forever Raid Overview: Locations, Raid Sizes, and Attunement",
+          "url": "https://worldofwarcraft.blizzard.com/news/24303009/world-of-warcraft-forever-raid-overview-locations-raid-sizes-and-attunement"
+        },
+        {
+          "label": "Blizzard, Explore the New Dungeons of World of Warcraft: Forever",
+          "url": "https://worldofwarcraft.blizzard.com/news/24301455/explore-the-new-dungeons-of-world-of-warcraft-forever"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_01_title.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_02_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_03_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_04_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_05_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_06_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_07_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_08_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_09_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_10_questions.png",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "Next Up for Midnight: Echoes of the Worldcore on the PTR",
+      "tab": "Echoes of the Worldcore",
+      "category": "World of Warcraft: Midnight, Patch 12.1.7 PTR",
+      "synopsis": "Midnight's next content update is on the PTR, sending us back to Dornogal with a new campaign, new Lorewalking and more Omnium Folio runes.",
+      "points": [
+        "the new campaign, The Return to Dornogal: Xal'atath has breached the Worldcore",
+        "Arator, Brinthe, Dagran and Brann working out how to get through the damaged Coreway",
+        "the Singularity motion comic on October 23, Arator's Void story setting up the patch",
+        "new Lorewalking with Li Li Stormstout: Jaina, Thrall, the Titans and Tyr",
+        {
+          "text": "Talebound, a new solo-or-group mode with its own cosmetics store",
+          "sub": "it wasn't open on the PTR yet as of mid-October"
+        },
+        "Turbulent Timeways for eight weeks, with the Markeet of the Infinite skyriding mount",
+        "two more Omnium Folio runes, Empowerment and Critical Mass, plus two more Motes of Omnial Inquiry",
+        "a PTR bug-fix build on October 22",
+        "no release date yet, and Blizzard Watch guessing early December"
+      ],
+      "questions": [
+        "Back to Dornogal and Brann again: are you excited for this story, or ready to leave Khaz Algar behind?",
+        "If 12.1.7 lands right as Forever raids open, which one gets your time?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard, Midnight: Echoes of the Worldcore PTR Development Notes",
+          "url": "https://us.forums.blizzard.com/en/wow/t/midnight-echoes-of-the-worldcore-ptr-development-notes/2383391/1"
+        },
+        {
+          "label": "Blizzard, Midnight: Echoes of the Worldcore Overview",
+          "url": "https://worldofwarcraft.blizzard.com/news/24310659"
+        },
+        {
+          "label": "Blizzard, Watch the World of Warcraft: Midnight Motion Comic, “Singularity”",
+          "url": "https://worldofwarcraft.blizzard.com/news/24313104/watch-the-world-of-warcraft-midnight-motion-comic-singularity"
+        },
+        {
+          "label": "Blizzard Watch: WoW Midnight patch 12.1.7 release date",
+          "url": "https://blizzardwatch.com/2026/10/15/wow-midnight-patch-12-1-7-release-date/"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_01_title.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_02_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_03_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_04_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_05_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_06_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_07_bullets.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_08_stats.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_09_questions.png",
+          "caption": ""
+        },
+        {
+          "type": "youtube",
+          "id": "LyL3u4Q3954",
+          "caption": "“Singularity” Motion Comic",
+          "start": 0
+        },
+        {
+          "type": "youtube",
+          "id": "Un7JXrIcUvE",
+          "caption": "Talebound Story Trailer",
+          "start": 0
+        }
+      ]
+    },
+    {
+      "title": "Class Tuning October 27: Subtlety Rolled Back",
+      "tab": "Class Tuning",
+      "category": "World of Warcraft: Midnight, Class Tuning",
+      "synopsis": "Tuning lands with maintenance on October 27, and Subtlety Rogue gives back a big chunk of the buff it got in 12.1.5.",
+      "points": [
+        "Subtlety Rogue taking an 8% cut to all ability damage",
+        {
+          "text": "the devs: the 12.1.5 compensation buff overshot expectations, so they're rolling back a significant portion of it",
+          "sub": "and since the patch helped Trickster more than Deathstalker, Trickster's Fazed drops to 5% (was 7%)"
+        },
+        "that's after Subtlety got 14% more ability damage in 12.1.5",
+        "Fire Mage getting 5% more damage in PvE, and 5% less in PvP for overperforming",
+        "Resto Druid getting dungeon help: Verdancy +60%, Regrowth +10%, Improved Swiftmend up to 40%",
+        "Feral up 5%, plus Marksmanship AoE buffs to Trick Shots, Explosive Shot and Volley",
+        "Affliction's Unstable Affliction and Destruction's Rain of Fire both up 20%",
+        "San'layn Vampiric Strike cut 20% in PvP",
+        "the October 20 hotfixes uncapping Conquest and Bloody Tokens",
+        "Spoils of War on: 50% more Conquest and 40% more Honor in battlegrounds and arenas"
+      ],
+      "questions": [
+        "Fair rollback, or did Subtlety players just get the rug pulled two weeks after a buff?",
+        "Does uncapped Conquest plus Spoils of War get either of you back into PvP this season?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard: Class Tuning Incoming: October 27",
+          "url": "https://us.forums.blizzard.com/en/wow/t/class-tuning-incoming-october-27/2390748/1"
+        },
+        {
+          "label": "Blizzard, Hotfixes: October 23, 2026",
+          "url": "https://worldofwarcraft.blizzard.com/news/24307310/hotfixes-october-23-2026"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_01_title.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_02_longquote.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_03_stats.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_04_compare.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_05_bullets.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_06_bullets.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_07_bullets.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_08_questions.png",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "Labyrinth Follow-Up: Fabled Kindo'jan Extended a Week",
+      "tab": "Kindo'jan",
+      "category": "World of Warcraft: Midnight, Labyrinth of Kindo'jan",
+      "synopsis": "Blizzard owned up to the Labyrinth's buggy first week and gave everyone one more week at the Fabled Kindo'jan achievement.",
+      "points": [
+        "Blizzard acknowledging that first-week bugs blocked Labyrinth runs, including Fabled Let Me Solo Him: Kindo'jan",
+        "Blizzard saying they've now addressed the vast majority of those bugs",
+        "the deadline moving to weekly maintenance on October 27",
+        "a follow-up to last week's rough first week: falling through floors, missing boss credit, stuck scenarios",
+        "the October 21 fix: talk to Kinduru in the antechamber to leave mid-scenario",
+        "Jan'alai Tear now stacking to 4, and shorter characters no longer falling through Jan'alai's Refuge",
+        "by the time this episode is out, that window has closed"
+      ],
+      "questions": [
+        "Did either of you get Fabled Kindo'jan done in the extra week?",
+        "Is a one-week extension enough of a make-good after a week like that?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard, Fabled Let Me Solo Him: Kindo'jan Achievement Extended an Additional Week",
+          "url": "https://us.forums.blizzard.com/en/wow/t/fabled-let-me-solo-him-kindojan-achievement-extended-an-additional-week/2387015/1"
+        },
+        {
+          "label": "Blizzard, Hotfixes: October 23, 2026",
+          "url": "https://worldofwarcraft.blizzard.com/news/24307310/hotfixes-october-23-2026"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_01_title.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_02_quote.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_03_timeline.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_04_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_05_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_06_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_07_questions.png",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "Liadrin's Send-Off: The Backlash Keeps Going",
+      "tab": "Liadrin",
+      "category": "World of Warcraft: Midnight, Story (Spoilers)",
+      "synopsis": "We didn't get to it last week: the Kith'ix finale ends Lady Liadrin's story, and a week later players are still unhappy with how it was handled.",
+      "points": [
+        "spoiler warning before we start this one",
+        "Liadrin channeling the Light against Kith'ix, then collapsing after the fight",
+        "her last words: Darkness will never prevail",
+        "Icy Veins calling it one of the most unceremonious, anticlimactic deaths in WoW history",
+        "Windows Central: the most painfully, miserably weak writing in all of Blizzard",
+        "the common complaint: little build-up for a character around since The Burning Crusade",
+        "a death in a .5 patch, cut off from the main story",
+        "part of a pattern players are tired of: old feuds getting settled too easily",
+        "GameSpot on October 19: Forever is soaring, but Midnight is struggling",
+        "still no public Blizzard response that we could find, and fans guessing she comes back as Forsaken"
+      ],
+      "questions": [
+        "Did Liadrin's death land for you, or did it feel rushed?",
+        "Is the faster patch schedule hurting the story, or is this just how WoW does character deaths now?"
+      ],
+      "sources": [
+        {
+          "label": "GameSpot, WoW: Forever Is Soaring, But Midnight Is Struggling",
+          "url": "https://www.gamespot.com/articles/wow-forever-is-soaring-but-midnight-is-struggling/"
+        },
+        {
+          "label": "Windows Central, Backlash grows as 'World of Warcraft: Midnight' continues to represent the most painfully, miserably weak writing in all of Blizzard",
+          "url": "https://www.windowscentral.com/gaming/blizzard/backlash-grows-as-world-of-warcraft-midnight-continues-to-represent-the-most-painfully-weak-writing"
+        },
+        {
+          "label": "Digital Citizen, World of Warcraft: Midnight Patch 12.1.5 Faces Backlash Over Lady Liadrin's Death",
+          "url": "https://www.digitalcitizen.life/world-of-warcraft-midnight-patch-12-1-5-faces-backlash-over-lady-liadrins-death/"
+        },
+        {
+          "label": "Blizzard Story Forum: Kith'ix Raid Cinematic Ending (SPOILERS)",
+          "url": "https://us.forums.blizzard.com/en/wow/t/kithix-raid-cinematic-ending-spoilers/2381377"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_01_title.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_02_quote.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_03_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_04_quote.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_05_bullets.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_06_shot.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_07_bullets.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_08_questions.png",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "Fortune's Xbox Report, and EA Closes BioWare",
+      "tab": "Xbox & BioWare",
+      "category": "Microsoft / Xbox & EA: Business",
+      "synopsis": "Fortune reports more Xbox cuts and a $1,200-plus console under Asha Sharma, and EA shut down BioWare and cancelled the next Mass Effect.",
+      "points": [
+        {
+          "text": "Fortune's report on Asha Sharma's Xbox: 1,868 jobs cut so far toward a 3,200 target",
+          "sub": "mostly unnamed sources, so this is reported, not confirmed"
+        },
+        "more rounds reportedly planned for November and January",
+        "Game Pass being rebuilt into tiers you pick à la carte",
+        "a handheld for holiday 2027, and the next console for holiday 2028 projected at $1,200 to $1,800",
+        "former Blizzard president Mike Ybarra: a console at that price will never sell",
+        "staff talking about a sale or spinoff, which Microsoft disputes on the record",
+        "BioWare's farewell message on October 21: the studio is closing and the next Mass Effect is cancelled",
+        "around 400 EA jobs cut, about 50 of them at BioWare, after EA's $55 billion buyout closed in August",
+        "Dragon Age: The Veilguard reaching about 1.5 million players, nearly 50% under EA's target",
+        "EA keeping the Mass Effect IP, so any future game comes from another studio"
+      ],
+      "questions": [
+        "Would either of you buy an $1,800 Xbox, or does that number end the console for you?",
+        "BioWare gone after 30 years: what's the BioWare game that meant the most to you?"
+      ],
+      "sources": [
+        {
+          "label": "Fortune: The non-gamer CEO racing to save Microsoft's Xbox",
+          "url": "https://fortune.com/2026/10/20/the-non-gamer-ceo-racing-to-save-microsofts-xbox/"
+        },
+        {
+          "label": "GamesRadar: Ex-Blizzard boss says an $1800 Xbox \"will never sell\"",
+          "url": "https://www.gamesradar.com/platforms/xbox/ex-blizzard-boss-says-an-usd1800-xbox-will-never-sell-and-current-gen-consoles-are-fine-for-99-percent-of-the-audience-anyway/"
+        },
+        {
+          "label": "Forbes: EA Shuts Down BioWare, Cancels 'Mass Effect 5' And Ends An Era",
+          "url": "https://www.forbes.com/sites/paultassi/2026/10/21/ea-shuts-down-bioware-cancels-mass-effect-5-and-ends-an-era/"
+        },
+        {
+          "label": "Game Rant: EA is Permanently Shutting Down BioWare, New Mass Effect Game Canceled",
+          "url": "https://gamerant.com/bioware-shut-down-mass-effect-cancelled-why/"
+        },
+        {
+          "label": "VideoCardz: EA shuts down BioWare after 30 years, next Mass Effect game canceled",
+          "url": "https://videocardz.com/newz/ea-shuts-down-bioware-after-30-years-next-mass-effect-game-canceled"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_01_title.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_02_stats.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_03_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_04_bullets.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_05_shot.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_06_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_07_stats.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_08_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_09_shot.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_10_questions.png",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "The Launch Calendar Around Forever: MW4, Zelda, GTA VI",
+      "tab": "Launch Calendar",
+      "category": "Coming Up: Release Calendar",
+      "synopsis": "Forever launches into the most crowded November in years, with Zelda the next day and GTA VI two weeks later.",
+      "points": [
+        "Call of Duty: Modern Warfare 4 already out since October 23 on PS5, Xbox Series X|S, PC and Switch 2",
+        "Xbox going all in on MW4, down to ads taking over custom dashboard backgrounds",
+        "WoW: Forever launching November 4",
+        {
+          "text": "The Legend of Zelda: Ocarina of Time, a full remake for Switch 2, out November 5, one day after Forever",
+          "sub": "voiced cutscenes, 60 FPS, a jump button; $59.99 digital, $69.99 physical"
+        },
+        "a Zelda-themed Switch 2 landing October 29",
+        "Rockstar's GTA VI launch trailer out October 23, with the game arriving November 19",
+        "Forever's raids opening December 9, right after all of it"
+      ],
+      "questions": [
+        "What's actually pulling you away from Forever in November: Zelda, GTA, or nothing?",
+        "Does GTA VI two weeks in hurt Forever's first month, or is the WoW crowd locked in?"
+      ],
+      "sources": [
+        {
+          "label": "Xbox Wire: Watch the official Grand Theft Auto VI launch trailer",
+          "url": "https://news.xbox.com/en-us/2026/10/23/watch-the-official-grand-theft-auto-vi-launch-trailer-explore-leonida-before-the-game-arrives-november-19/"
+        },
+        {
+          "label": "Prima Games, When Does Modern Warfare 4 Release? Exact Start Time & Date",
+          "url": "https://primagames.com/gaming/modern-warfare-4-release-date-start-times"
+        },
+        {
+          "label": "Windows Central: Xbox hijacks your custom background for Call of Duty Modern Warfare 4 ads",
+          "url": "https://www.windowscentral.com/gaming/call-of-duty/annoying-xbox-is-hijacking-your-custom-dynamic-background-for-call-of-duty-modern-warfare-4-marketing"
+        },
+        {
+          "label": "Notebookcheck, Zelda: Ocarina of Time Switch 2 remake drops soon",
+          "url": "https://www.notebookcheck.net/The-Legend-of-Zelda-Ocarina-of-Time-Switch-2-remake-drops-soon.1427388.0.html"
+        },
+        {
+          "label": "Forbes: Ocarina Of Time Remake Preorders Are Live",
+          "url": "https://www.forbes.com/sites/brianmazique/2026/10/14/ocarina-of-time-remake-preorders-are-live---switch-2-price-editions-and-release-date/"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_09_01_title.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_09_02_timeline.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_09_03_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_09_04_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_09_05_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_09_06_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_09_07_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_09_08_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_09_09_art.png",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_09_10_questions.png",
+          "caption": ""
+        }
+      ]
+    }
+  ]
+}

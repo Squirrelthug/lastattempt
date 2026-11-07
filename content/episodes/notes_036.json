@@ -1,0 +1,775 @@
+{
+  "episode": "036",
+  "date": "2026-10-17",
+  "subtitle": "12.1.5 Live · Forever Countdown",
+  "logo": "../media/last_attempt_logo.png",
+  "intro": {
+    "heads_up": "Quick heads-up before we dive in: by the time this episode drops Tuesday morning, the crest cap lifts and Ascendant Venomstones unlock with this week's reset, and the WoW: Forever Stress Test is Wednesday, October 21.",
+    "rundown": [
+      "a batch of datamined mounts Blizzard says are not meant for Forever, and storms rolling into the beta",
+      "the October 15 Forever build, where the weapon racials finally go away",
+      "the WoW: Forever Podcast on PvP, and the $100K Forever Open happening this weekend",
+      "the road to launch: a free stress test, economy holds on gold buyers, and layering complaints",
+      "Liquid taking world first on Mythic Kith'ix, even without an official race",
+      "Patch 12.1.5 going live, and a rough first week in the Labyrinth of Kindo'jan",
+      "the Liadrin backlash after the Kith'ix finale",
+      "and we'll close out the news with Microsoft's earnings date"
+    ]
+  },
+  "items": [
+    {
+      "deck_only": true,
+      "title": "Last Attempt: A WoW Guildcast",
+      "tab": "Open",
+      "category": "Episode 036",
+      "synopsis": "",
+      "points": [],
+      "questions": [],
+      "sources": [],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_00_open.png",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "Not for This Version: Blizzard Guards Forever's Look",
+      "tab": "Datamine & Weather",
+      "category": "World of Warcraft: Forever, Art Direction",
+      "synopsis": "Within hours of a retail-looking datamine, Blizzard said those cosmetics aren't coming to Forever, and the next day it was showing off the beta's new storms.",
+      "points": [
+        "the October 15 beta build opening up new art through tactkeys",
+        {
+          "text": "Spectral Wolf Pack, Verdant Sea Turtle, Crimson Rooster, three pets, a tent toy, and two transmog ensembles",
+          "sub": "the Wolf Pack lets up to two nearby party members join in on their own wolves"
+        },
+        "a lot of players saying it looked straight out of the retail shop",
+        "Kaivax on the forums: these assets are not intended for this version of World of Warcraft",
+        "Clay Stone and art director Jeff Parrott both reposting that note on X",
+        {
+          "text": "Blizzard not saying which version they are for",
+          "sub": "Wowhead points out the Rexxar shop sets first showed up on China's Titan Reforged servers"
+        },
+        "the cash-shop question for Forever still unanswered",
+        "the next day, pre-storm weather and lightning strikes going live on the beta",
+        "lead environment artist Matt Heyman: fog and clouds roll in, distant thunder, then rain in stages",
+        "big thunderstorms meant to be rare, plus heavy blizzards added in Alterac Mountains"
+      ],
+      "questions": [
+        "If a Spectral Wolf Pack showed up in a Forever shop, would that bother you, or is cosmetic-only fine?",
+        "Fast denial on the datamine, big push on the weather. What does that tell you about what the Forever team is protecting?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard: Datamined in the Latest Beta Build (Kaivax)",
+          "url": "https://us.forums.blizzard.com/en/wow/t/datamined-in-the-latest-beta-build/2385060"
+        },
+        {
+          "label": "Source, Potential New Mounts, Pets, and Cosmetics Discovered in Latest WoW: Forever Build (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/potential-new-mounts-pets-and-cosmetics-discovered-in-latest-wow-forever-build-383463"
+        },
+        {
+          "label": "Source, Blizzard Clarifies Recent Art Assets Discovered on the WoW: Forever Beta (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/blizzard-clarifies-recent-art-assets-discovered-on-the-wow-forever-beta-383472"
+        },
+        {
+          "label": "Icy Veins: Recently Datamined Mounts Won't Be Coming to WoW Forever",
+          "url": "https://www.icy-veins.com/wow-forever/news/recently-datamined-mounts-wont-be-coming-to-wow-forever/"
+        },
+        {
+          "label": "WoWSoD: Blizzard Says the Spectral Wolf Pack and Crimson Rooster Are \"Not Intended\" for Forever",
+          "url": "https://wowsod.pro/articles/wow-forever-datamined-mounts-not-intended"
+        },
+        {
+          "label": "X: @ClaytonStone relaying the forum note (via Grok report)",
+          "url": "https://x.com/ClaytonStone/status/2111218576749424883"
+        },
+        {
+          "label": "X: @artofjeffp relaying the forum note (via Grok report)",
+          "url": "https://x.com/artofjeffp/status/2111223898914398569"
+        },
+        {
+          "label": "X, @Warcraft: Pre-storm weather and lightning strikes are live (via Grok report)",
+          "url": "https://x.com/Warcraft/status/2111244343298138306"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_01_title.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_02_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_03_art.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_04_quote.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_05_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_06_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_07_questions.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "The October 15 Build: Weapon Racials Are Gone",
+      "tab": "Oct 15 Build",
+      "category": "World of Warcraft: Forever, Beta",
+      "synopsis": "The October 15 Forever build replaced every weapon specialization racial with flat crit, slowed down Blood Fury, and made a long list of buffs raid-wide.",
+      "points": [
+        "Human Sword Specialization becoming Ruthless, 2% crit with any weapon",
+        "Orc Axe Specialization becoming Savage, 1% crit with any weapon",
+        "Dwarf and Tauren both getting 2% more crit damage and healing, and the forums hating it",
+        "Blood Fury going to a 3 minute cooldown, up from 2",
+        {
+          "text": "Undead Touch of the Grave getting a 25 second internal cooldown",
+          "sub": "it also stops breaking CC and no longer procs off things like Distract or Pickpocket"
+        },
+        "Troll, Skyborne, Gnome and Night Elf all coming out ahead",
+        "Battle Shout, Trueshot Aura, Leader of the Pack, Moonkin Form and Shaman totems now raid-wide",
+        "Hunter pets losing some power, with Dismember and Furious Howl cut down",
+        "Druid Mangle renamed Primal Bite, and Druid Wrath base damage up about 50%",
+        "respecs down to 1 silver for the beta only"
+      ],
+      "questions": [
+        "With weapon racials gone, does race choice still matter to you, or do you just pick what looks good?",
+        "Raid-wide buffs remove a lot of group shuffling. Good change, or does it lose something?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard: WoW Forever Beta Development Notes (October 15 update)",
+          "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-october-15/2360696/6"
+        },
+        {
+          "label": "Source, Massive Racial Updates, WoW: Forever Beta Development Notes (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/massive-racial-updates-wow-forever-beta-development-notes-383454"
+        },
+        {
+          "label": "WoWSoD, WoW Forever Racial Rework: Weapon Specs Are Gone, Blood Fury Goes to 3 Minutes",
+          "url": "https://wowsod.pro/articles/wow-forever-racial-rework-october-15"
+        },
+        {
+          "label": "Source, Many Buffs Now Raid-Wide: Class Changes in Latest WoW: Forever Build (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/many-buffs-now-raid-wide-class-changes-in-latest-wow-forever-build-383456"
+        },
+        {
+          "label": "Source, Some Powerful Hunter Pet Abilities Nerfed in WoW: Forever (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/some-powerful-hunter-pet-abilities-nerfed-in-wow-forever-383460"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_01_title.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_02_compare.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_03_stats.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_04_shot.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_05_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_06_questions.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "Forever PvP: The Podcast and the $100K Forever Open",
+      "tab": "Forever PvP",
+      "category": "World of Warcraft: Forever, PvP",
+      "synopsis": "Episode 4 of the WoW: Forever Podcast was all PvP, and Blizzard is building an official arena for this weekend's $100K Forever Open.",
+      "points": [
+        "Aggrend and Lead Designer Tim Jones on the podcast with Savix and Tips Out",
+        "Alterac Valley honor coming down, every other battleground's honor going way up",
+        "Tim Jones: they want Warsong, Arathi Basin and Darkspear Islands to feel worth your time",
+        {
+          "text": "no protection planned for low-level players getting ganked",
+          "sub": "Aggrend: PvP occurs on a PvP server, and that's been true for 22 years"
+        },
+        "no current plans for an RP-PvP ruleset, with Aggrend pointing to how those realms have actually played out",
+        "the Forever Open running October 17 and 18, with around 6,000 entrants",
+        "Blizzard opening Hyjal Crater as the official dueling arena on day two",
+        "NPCs selling soul shards and reagents, maybe a cooldown reset vendor too"
+      ],
+      "questions": [
+        "No low-level protection on PvP servers. Correct call, or is Forever leaving casual players to get camped?",
+        "Would you rather grind honor in Warsong and Arathi, or does AV still win?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard, Explore PvP in Episode 4 of the WoW: Forever Podcast",
+          "url": "https://worldofwarcraft.blizzard.com/news/24304079/explore-pvp-in-episode-4-of-the-wow-forever-podcast"
+        },
+        {
+          "label": "Source: Blizzard to Lower Alterac Valley Honor and Increase All Other Battlegrounds Honor (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/blizzard-to-lower-alterac-valley-honor-and-increase-all-other-battlegrounds-383433"
+        },
+        {
+          "label": "Source, No Lower Level PvP Protection Planned for WoW: Forever (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/no-lower-level-pvp-protection-planned-for-wow-forever-383435"
+        },
+        {
+          "label": "Source, Blizzard Confirms No Current Plans for RP-PVP Ruleset in WoW: Forever (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/blizzard-confirms-no-current-plans-for-rp-pvp-ruleset-in-wow-forever-383431"
+        },
+        {
+          "label": "Source, Official Dueling Arena Added for $100k PvP Tournament in WoW: Forever (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/official-dueling-arena-added-for-100k-pvp-tournament-in-wow-forever-383438"
+        },
+        {
+          "label": "Source: The $100K WoW Tournament Is Pure Chaos! The PULL 10 Podcast Featuring Tips Out (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/the-100k-wow-tournament-is-pure-chaos-the-pull-10-podcast-featuring-tips-out-383470"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_01_title.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_02_art.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_03_art.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_04_quote.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_05_stats.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_06_shot.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_07_questions.jpg",
+          "caption": ""
+        },
+        {
+          "type": "youtube",
+          "id": "bzaMA5fZ1tE",
+          "caption": "The PvP Episode | Episode 4, The WoW: Forever Podcast",
+          "start": 0
+        }
+      ]
+    },
+    {
+      "title": "Road to Launch: Stress Test, Economy Holds, and Layering",
+      "tab": "Road to Launch",
+      "category": "World of Warcraft: Forever, Launch",
+      "synopsis": "With launch on November 4, Forever gets a free stress test, a new weapon against gold buyers, and some layering complaints Blizzard is still working on.",
+      "points": [
+        "the Stress Test moving to Wednesday, October 21, two days later than first announced",
+        "open to anyone, no subscription, Game Time, invite, or beta access needed",
+        {
+          "text": "2:00 p.m. PDT in North America, 19:00 CEST in Europe",
+          "sub": "pick World of Warcraft: Forever Stress Test from the Game Version menu in Battle.net"
+        },
+        "every stress test character, name and guild wiped before name reservations open October 27",
+        "Temporary Economy Holds locking trade, mail, guild bank and Auction House on suspected RMT accounts",
+        "Blizzard admitting there may be false positives, but no permanent strike unless RMT is proven",
+        "and if it works, rolling it out to every version of WoW",
+        "leaving a group now moving the group leader to a new layer too",
+        "bordering zones sitting on different layers, like Dalaran and Silverpine",
+        "Tim Jones calling layering a work in progress with incremental steps"
+      ],
+      "questions": [
+        "Are you jumping into the stress test, or saving yourself for launch?",
+        "Economy holds with possible false positives. Would you rather risk the occasional wrong hold, or have the gold sellers?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard, [Updated Oct 16] Join the World of Warcraft: Forever Stress Test",
+          "url": "https://worldofwarcraft.blizzard.com/news/24302072/updated-oct-16-join-the-world-of-warcraft-forever-stress-test"
+        },
+        {
+          "label": "Source, Blizzard Moves WoW: Forever Stress Test to October 21 (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/blizzard-moves-wow-forever-stress-test-to-october-21-383474"
+        },
+        {
+          "label": "Blizzard: Temporary Economy Holds For RMT (Kaivax)",
+          "url": "https://us.forums.blizzard.com/en/wow/t/temporary-economy-holds-for-rmt/2381433/1"
+        },
+        {
+          "label": "Source. What's Going on With Layering in WoW: Forever? (Wowhead)",
+          "url": "https://www.wowhead.com/forever/news/whats-going-on-with-layering-in-wow-forever-383412"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_01_title.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_02_timeline.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_03_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_04_shot.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_05_compare.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_06_art.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_07_questions.jpg",
+          "caption": ""
+        },
+        {
+          "type": "youtube",
+          "id": "9AlEQvn4dlc",
+          "caption": "Launch Dungeons | World of Warcraft: Forever",
+          "start": 0
+        }
+      ]
+    },
+    {
+      "title": "Race to World First: Liquid Takes Mythic Kith'ix",
+      "tab": "RWF Kith'ix",
+      "category": "Midnight: Race to World First",
+      "synopsis": "There was no official Race to World First for 12.1.5, but Liquid still got the world first kill on Mythic Kith'ix.",
+      "points": [
+        "Kith'ix opening October 13 in North America and October 14 in Europe",
+        "a single-boss raid, with flexible Mythic for 15 to 25 players",
+        "no official race this patch, and Liquid racing it anyway",
+        "Liquid on top at Raider.io, followed by SOMA, Vulgar and Consequence",
+        "Advance the first EU guild on the list, at number seven",
+        {
+          "text": "Lu'selama, Light's Justice and Twisted Horror's Tendril dropping at item level 340",
+          "sub": "Wowhead also spotted a Libram of the Matriarch and a Shadeweaver's Hearthstone in the loot"
+        },
+        "Blizzard easing Mythic Sszorak and the Coiled Altar the same week",
+        "and the Venomous Abyss Hall of Fame now closed"
+      ],
+      "questions": [
+        "No official race and Liquid still went all in. Is an unofficial world first worth anything?",
+        "One-boss raid with flex Mythic. Something you'd want our team to push?"
+      ],
+      "sources": [
+        {
+          "label": "Source: Mythic Kith'ix World First Officially Killed by Liquid (Wowhead)",
+          "url": "https://www.wowhead.com/news/mythic-kithix-world-first-officially-killed-by-liquid-383400"
+        },
+        {
+          "label": "Raider.io: The Unbinding of Kith'ix Mythic World Raid Rankings",
+          "url": "https://raider.io/the-unbinding-of-kithix/rankings/world/mythic"
+        },
+        {
+          "label": "Source: Mythic Sszorak Quality of Life Change with Patch 12.1.5 (Wowhead)",
+          "url": "https://www.wowhead.com/news/mythic-sszorak-quality-of-life-change-with-patch-12-1-5-383397"
+        },
+        {
+          "label": "Source: Massive Mythic Coiled Altar Nerfs with Weekly Reset (Wowhead)",
+          "url": "https://www.wowhead.com/news/massive-mythic-coiled-altar-nerfs-with-weekly-reset-383389"
+        },
+        {
+          "label": "Source: Blizzard Confirms Venomous Abyss Hall of Fame Closing with Weekly Reset (Wowhead)",
+          "url": "https://www.wowhead.com/news/blizzard-confirms-venomous-abyss-hall-of-fame-closing-with-weekly-reset-383391"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_01_title.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_02_stats.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_03_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_04_art.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_05_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_06_questions.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "Patch 12.1.5 Is Live",
+      "tab": "12.1.5 Live",
+      "category": "Midnight: Patch 12.1.5",
+      "synopsis": "12.1.5 brought the Kith'ix raid, the Labyrinth of Kindo'jan, a mid-season power bump, and a new campaign back to Quel'Thalas and Zul'Aman.",
+      "points": [
+        "the Unbinding of Kith'ix, with Lady Liadrin at your side, in Story, Normal, Heroic and Mythic",
+        "the Labyrinth of Kindo'jan, a nine-chamber Delve-style gauntlet with Mythic gear and a Tier 11 solo challenge",
+        "Keystone Myth back for Season 2, needing a 3600 rating",
+        {
+          "text": "Ascendant Venomstones unlocking the week of October 20",
+          "sub": "10 of them raise a fully upgraded Hero, Myth, or max Tidal Crafted weapon, trinket, or necklace"
+        },
+        "the crest cap lifting the same week",
+        "Aqir Invasions in Eversong or Zul'Aman, ten minutes every hour",
+        "Altar of Fangs and Ruby Life Pools nerfed for Mythic+",
+        "Subtlety Rogues getting 14% more ability damage in a late patch note update",
+        "Blizzard fixing Voidcore trackers for players who were briefly suspended over extra bonus rolls"
+      ],
+      "questions": [
+        "Ascendant Venomstones and the crest cap lift both land next week. What are you upgrading first?",
+        "Keystone Myth at 3600. Anyone in the guild going for it?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard: Midnight's 12.1.5 Content Update is Now Live",
+          "url": "https://worldofwarcraft.blizzard.com/news/24307306/midnights-1215-content-update-is-now-live"
+        },
+        {
+          "label": "Source: Mythic+ Dungeon Tuning with Weekly Reset: Altar of Fangs Nerfed (Wowhead)",
+          "url": "https://www.wowhead.com/news/mythic-dungeon-tuning-with-weekly-reset-altar-of-fangs-nerfed-383388"
+        },
+        {
+          "label": "Source: Subtlety Rogue Buff: Updates to 12.1.5 Patch Notes (Wowhead)",
+          "url": "https://www.wowhead.com/news/subtlety-rogue-buff-updates-to-12-1-5-patch-notes-383393"
+        },
+        {
+          "label": "Source: Blizzard Addressing Issue with Nebulous Voidcores for Players Who Were Temporarily Suspended (Wowhead)",
+          "url": "https://www.wowhead.com/news/blizzard-addressing-issue-with-nebulous-voidcores-for-players-who-were-383427"
+        },
+        {
+          "label": "Source: Patch 12.1.5 Content Update Trailer (Wowhead)",
+          "url": "https://www.wowhead.com/news/patch-12-1-5-content-update-trailer-383384"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_01_title.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_02_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_03_stats.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_04_art.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_05_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_06_questions.jpg",
+          "caption": ""
+        },
+        {
+          "type": "youtube",
+          "id": "phxy5Gat_Gs",
+          "caption": "Midnight Content Update | Labyrinth, Kith'ix Campaign, Aqir Invasions, and more",
+          "start": 0
+        }
+      ]
+    },
+    {
+      "title": "The Labyrinth of Kindo'jan: A Rough First Week",
+      "tab": "Labyrinth",
+      "category": "Midnight: Labyrinth of Kindo'jan",
+      "synopsis": "The Labyrinth launched with run-ending bugs and three days of hotfixes, and it turns out you can't save a run.",
+      "points": [
+        "all nine chambers in one run to reach Kindo'jan",
+        "bosses not giving credit and Returning the Bounty getting stuck, ending runs early",
+        {
+          "text": "Kindo'jan's platform sometimes not spawning, so you fall through the floor and die",
+          "sub": "Blizzard: two map configurations overlapping in a very specific case, hard to catch in testing"
+        },
+        "hotfixes on October 14, 15 and 16, and players still reporting credit bugs after the first round",
+        "no save points, so a long logout resets the whole run",
+        "Blizzard's own wording saying you could tackle it piece by piece over time",
+        "Valeera dying instantly, with Blizzard investigating and fixing her Stagger with a healer around",
+        "tip: Mislaid Curiosity buffs last the whole run, so stack them before Kindo'jan",
+        "tip: 44 Sturdy Chests for reputation and the Treasure Hound title"
+      ],
+      "questions": [
+        "Has either of you made it all the way to Kindo'jan yet, or has a bug ended your run?",
+        "Should a 30-plus minute run let you save, or is all-in-one-sitting part of the challenge?"
+      ],
+      "sources": [
+        {
+          "label": "Source: Multiple Bugs Preventing Progress in Labyrinths (Wowhead)",
+          "url": "https://www.wowhead.com/news/multiple-bugs-preventing-progress-in-labyrinths-forcing-383409"
+        },
+        {
+          "label": "Source: Blizzard Identifies Likely Issue of Falling Through Kindo'jan's Platform in Labyrinths (Wowhead)",
+          "url": "https://www.wowhead.com/news/blizzard-identifies-likely-issue-of-falling-through-kindojans-platform-in-383473"
+        },
+        {
+          "label": "Source: Players Report Progression-Bricking Bugs Still Exist in Labyrinth of Kindo'jan (Wowhead)",
+          "url": "https://www.wowhead.com/news/players-reporting-progression-bricking-bugs-still-persist-in-labyrinths-383439"
+        },
+        {
+          "label": "Source: Labyrinth of Kindo'jan Has No Save Points Mid Run (Wowhead)",
+          "url": "https://www.wowhead.com/news/labyrinth-of-kindojan-has-no-save-points-mid-run-383469"
+        },
+        {
+          "label": "Source: Blizzard Investigating Valeera Survivability Issues in Patch 12.1.5 (Wowhead)",
+          "url": "https://www.wowhead.com/news/blizzard-investigating-valeera-survivability-issues-in-patch-12-1-5-383467"
+        },
+        {
+          "label": "Blizzard, Hotfixes: October 16, 2026",
+          "url": "https://worldofwarcraft.blizzard.com/news/24307310/hotfixes-october-16-2026"
+        },
+        {
+          "label": "Source: Mislaid Curiosities Allow Massive Stat Buff Stacking in Labyrinths (Wowhead)",
+          "url": "https://www.wowhead.com/news/mislaid-curiosities-allow-massive-stat-buff-stacking-in-labyrinths-383422"
+        },
+        {
+          "label": "Source: Loot Sturdy Chests in Labyrinth of Kindo'jan for Lots of Reputation (Wowhead)",
+          "url": "https://www.wowhead.com/news/loot-sturdy-chests-in-labyrinth-of-kindojan-for-lots-of-reputation-383421"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_01_title.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_02_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_03_art.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_04_timeline.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_05_art.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_06_art.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_07_art.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_08_questions.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "Liadrin's Send-Off: The 12.1.5 Story Backlash",
+      "tab": "Liadrin",
+      "category": "Midnight: Story (Spoilers)",
+      "synopsis": "The Kith'ix finale ends Lady Liadrin's story, and a lot of players think she deserved much better.",
+      "points": [
+        "spoiler warning before we start this one",
+        "Liadrin channeling the Light like in the Midnight cinematic, then collapsing after the fight",
+        "Icy Veins calling it one of the most unceremonious, anticlimactic deaths in WoW history",
+        "the common complaint: not enough build-up for a character who's been around since TBC",
+        "Windows Central's Jez Corden calling it one of the weakest character deaths he's seen",
+        "no public Blizzard response to the criticism that we could find",
+        {
+          "text": "the post-raid quests What the World Sees and Belly of the Beast bugged at launch",
+          "sub": "the end of that questline awards the Blade and Shield of the Blood Knight Matriarch cosmetics"
+        }
+      ],
+      "questions": [
+        "Did Liadrin's death land for you, or did it feel rushed?",
+        "Is the faster patch schedule hurting the story, or is this just how WoW does character deaths now?"
+      ],
+      "sources": [
+        {
+          "label": "Icy Veins: WoW Players Slam Midnight's Storytelling After 12.1.5 Raid Cinematic",
+          "url": "https://www.icy-veins.com/wow/news/wow-players-slam-midnights-storytelling-after-12-1-5-raid-cinematic/"
+        },
+        {
+          "label": "Windows Central, Backlash grows as 'World of Warcraft: Midnight' continues to represent the most painfully, miserably weak writing in all of Blizzard",
+          "url": "https://www.windowscentral.com/gaming/blizzard/backlash-grows-as-world-of-warcraft-midnight-continues-to-represent-the-most-painfully-weak-writing"
+        },
+        {
+          "label": "Source: Kith'ix Raid Finale Cinematic (Wowhead)",
+          "url": "https://www.wowhead.com/news/kithix-raid-finale-cinematic-383398"
+        },
+        {
+          "label": "Source: Post-Raid Campaign Cannot Be Completed: Blizzard Investigating (Wowhead)",
+          "url": "https://www.wowhead.com/news/post-raid-campaign-cannot-be-completed-blizzard-investigating-383406"
+        },
+        {
+          "label": "Source: New Cosmetics Items Available from Patch 12.1.5 Campaign (Wowhead)",
+          "url": "https://www.wowhead.com/news/new-cosmetics-items-available-from-patch-12-1-5-campaign-383403"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_01_title.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_02_art.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_03_quote.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_04_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_05_questions.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "Microsoft: Earnings on October 28",
+      "tab": "Microsoft",
+      "category": "Microsoft / Xbox: Business",
+      "synopsis": "A quiet week for Xbox business news, but Microsoft's next earnings report, with the first gaming numbers since July, comes out October 28.",
+      "points": [
+        "Microsoft reporting fiscal 2027 first-quarter results after market close on Wednesday, October 28",
+        "the earnings webcast at 2:30 p.m. Pacific",
+        "the first look at Xbox and gaming revenue since the July report",
+        "MSFT stock falling to about $525 on October 16 after failing to set a new high above $550",
+        "the slide blamed on a UK regulator probe and heavy AI infrastructure spending, not gaming",
+        "and we'll have the Xbox numbers for you next episode"
+      ],
+      "questions": [
+        "What number would tell you Microsoft is happy with Xbox right now?"
+      ],
+      "sources": [
+        {
+          "label": "PR Newswire via Finviz: Microsoft announces quarterly earnings release date",
+          "url": "https://finviz.com/news/400058/microsoft-announces-quarterly-earnings-release-date"
+        },
+        {
+          "label": "FX Leaders: MSFT Stock Falls to $525 after Failing at the Highs, as Regulation and Spending Concerns Mount",
+          "url": "https://fxleaders.com/news/2026/10/16/msft-stock-falls-to-525-after-failing-at-the-highs-as-regulation-and-spending-concerns-mount"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_09_01_title.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_09_02_stats.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_09_03_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_09_04_questions.jpg",
+          "caption": ""
+        }
+      ]
+    }
+  ]
+}

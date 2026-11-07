@@ -1,0 +1,639 @@
+{
+  "episode": "035",
+  "date": "2026-10-10",
+  "subtitle": "Forever Beta · Final Stretch",
+  "logo": "../media/last_attempt_logo.png",
+  "intro": {
+    "heads_up": "Quick heads-up before we dive in: by the time this episode drops Tuesday morning, Patch 12.1.5 is going live in North America, Kith'ix and the Labyrinths are here, and Europe gets it Wednesday.",
+    "rundown": [
+      "Forever beta week four: Dalaran opens up, XP goes up, and Classic looting comes back",
+      "a big round of Forever class fixes, with rage finally getting sorted out",
+      "Holly Longdale's PAX Aus keynote and our first real look at a brand-new Forever dungeon",
+      "Clay Stone on horizontal progression, the item squish, and a regional GDKP ban",
+      "the road to launch: beta ending, name reservation, and gold buyers",
+      "everything landing in Midnight's 12.1.5 on October 13",
+      "and we'll close out the news with Zul'Aman for the TBC Anniversary realms and a quick look at ThugUI"
+    ]
+  },
+  "items": [
+    {
+      "deck_only": true,
+      "title": "Last Attempt: A WoW Guildcast",
+      "tab": "Open",
+      "category": "Episode 035",
+      "synopsis": "",
+      "points": [],
+      "questions": [],
+      "sources": [],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_00_open.png",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "Forever Beta: The October 8 Build",
+      "tab": "Oct 8 Build",
+      "category": "World of Warcraft: Forever, Beta",
+      "synopsis": "The October 8 build opened the City of Dalaran dungeon, sped up dungeon leveling, and brought back a few Classic behaviors players had been asking for.",
+      "points": [
+        "Blizzard calling it Week 4: team up and take on the City of Dalaran, up to level 30",
+        "the brand-new City of Dalaran dungeon now open for testing",
+        "experience from dungeon kills going up about 20%",
+        {
+          "text": "the grouped-with-a-higher-level XP penalty fixed",
+          "sub": "XP now depends only on your own level, the same as Classic Era"
+        },
+        "Classic looting back: mobs that dropped nothing can still be interacted with",
+        "weapon-swap macros working inside the same GCD again",
+        "every beta player getting the Legacy Challenge completion: 16 Legacy Points",
+        "Cooldown Manager now supporting every class, racial, and trinket, with consumables coming later",
+        "a Discord Voice option under Audio, and Group Finder able to prompt your group into voice chat",
+        "more gamepad work: the gamepad action bar now supports Edit Mode",
+        "Will of the Forsaken usable while asleep or charmed again",
+        "Blizzard's own 'LF1M for boar killing' post pulling about 34,000 likes: the hype is real"
+      ],
+      "questions": [
+        "Dalaran finally playable. Is a new dungeon in a city everyone knows the most exciting thing in this build, or is it the XP bump?",
+        "Built-in Discord voice in the Group Finder. Would you actually use that in pugs?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard, WoW: Forever Beta Development Notes (October 8 update)",
+          "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-october-1/2360696"
+        },
+        {
+          "label": "X, @Warcraft: The WoW: Forever Beta enters Week 4",
+          "url": "https://x.com/Warcraft/status/2108319907720905046"
+        },
+        {
+          "label": "X, @Warcraft: LF1M for boar killing",
+          "url": "https://x.com/Warcraft/status/2107274646986879230"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_01_title.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_02_stats.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_03_art.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_04_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_05_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_06_quote.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_07_questions.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "Forever Class Changes: Rage Gets Fixed",
+      "tab": "Class Changes",
+      "category": "World of Warcraft: Forever, Classes",
+      "synopsis": "The same build carried a long list of class fixes, led by a rage rework and a push to put several abilities back to their Vanilla values.",
+      "points": [
+        {
+          "text": "rage calculations fixed and rebalanced",
+          "sub": "it was using your health instead of the creature's, mishandling crits, and counting absorbs"
+        },
+        "rage gains now rebalanced to 20% to 40% depending on level",
+        "Bear and Dire Bear threat bonus up to 50%, and Mana Potions usable in Bear, Dire Bear, and Cat Form",
+        "Druid Thorns and Paladin Retribution Aura damage going back to Vanilla values, about a third less",
+        "Discipline Penance nerfed after a bug left it channeling for 3 seconds instead of 2",
+        "Survival's Expose Prey doubled to 10 seconds, and Entrapment now has diminishing returns",
+        "Arms Warriors needing Deep Wounds again to reach Impale",
+        "Protection Warriors' Last Stand giving the right amount of health again",
+        "Warlock pets now stunned while you summon a new one",
+        "lots of low-rank spells retuned for smoother growth: Frostbolt, Fireball, Smite, Lightning Bolt, Shadow Bolt"
+      ],
+      "questions": [
+        "The rage fix touches every Warrior and Bear. Does this change how you feel about the Warrior cleave king talk from last week?",
+        "Blizzard is pulling some numbers back to Vanilla. Should Forever stick close to the old values, or keep its own tuning?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard, WoW: Forever Beta Development Notes (October 8 update)",
+          "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-october-1/2360696"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_01_title.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_02_compare.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_03_stats.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_04_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_05_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_06_art.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_07_questions.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "PAX Aus: Holly's Keynote and Krol'dok Stronghold",
+      "tab": "PAX Aus",
+      "category": "World of Warcraft: Forever, PAX Aus 2026",
+      "synopsis": "Holly Longdale opened PAX Aus with her Storytime keynote, and Clay Stone gave the first real behind-the-scenes look at a brand-new Forever dungeon, Krol'dok Stronghold.",
+      "points": [
+        {
+          "text": "Krol'dok Stronghold: a level 40 to 45 Twilight's Hammer ogre fortress",
+          "sub": "in the new Riverglades zone on the eastern coast of the Eastern Kingdoms, near Redridge and the Burning Steppes"
+        },
+        "the dungeon starting as a gnoll idea and turning into ogres, because gnolls were already everywhere in Vanilla",
+        "a vertical climb over bridges that ends at the summit: rerouted after playtests so you never walk back down",
+        "a big hole in one bridge left in on purpose and made canon, because they're ogres",
+        "five ogre bosses shown, including a two-headed ogre with a purple crystal and a woman with wolves",
+        "Clay walking through the original pitch: the world is the main character, journey before destination, protect the social experience",
+        "not a remake, no art-style overhaul, and nothing that stomps on later lore",
+        "Forever pitched as the permanent third pillar of WoW, with frequent big updates",
+        "lessons from China's Reforged realms going straight into Forever",
+        "Holly's path from EverQuest dark elf to running all of Warcraft",
+        "her line that once a game ships, it belongs to the community",
+        "Holly calling this the biggest beta Blizzard has ever run",
+        "no new systems or date changes, still level 60 and November 4"
+      ],
+      "questions": [
+        "An ogre fortress you climb from the bottom to the top. Does Krol'dok sound like the kind of new dungeon that earns a spot next to the originals?",
+        "Holly says the game belongs to the community once it ships. Does Forever feel more like that than retail does right now?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard: Watch Holly Longdale and Clay Stone's Keynote Presentations Live from PAX Aus 9-11 October",
+          "url": "https://news.blizzard.com/en-us/article/24302503/watch-holly-longdale-and-clay-stones-keynote-presentations-live-from-pax-aus-9-11-october"
+        },
+        {
+          "label": "Briefing: PAX Aus Keynote, Holly & Clay, Oct 9 (docs\\PAX_Aus_Keynote_Holly_Clay_Oct9_2026.pdf)",
+          "url": "PAX_Aus_Keynote_Holly_Clay_Oct9_2026.pdf"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_01_title.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_02_stats.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_03_art.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_04_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_05_quote.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_06_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_07_quote.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_08_questions.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "Clay Stone on Progression, GDKP, and the Squish",
+      "tab": "Clay Interviews",
+      "category": "World of Warcraft: Forever, Developer Interviews",
+      "synopsis": "In interviews around PAX, Clay Stone explained what horizontal progression actually means for Forever, and that the GDKP ban only covers North America and Europe.",
+      "points": [
+        "horizontal progression meaning more content and more world, not gear that stops going up",
+        "small gear upgrades between raids, with power increases handled carefully",
+        "no full item squish or reset decided yet",
+        {
+          "text": "the GDKP ban only applying to North America and Europe",
+          "sub": "a regional rule, not a worldwide one"
+        },
+        "the economy lessons from earlier Classic realms shaping Forever's rules",
+        "the camping system landing well, and devs already talking about expanding it",
+        "the community split, some happy with the economy talk, some saying tier 2 beating tier 1 is still just vertical"
+      ],
+      "questions": [
+        "If tier 2 is still better than tier 1, is horizontal progression just a new name for the old treadmill?",
+        "GDKP banned here but not elsewhere. Does a regional ban actually stop it, or just push it to Discord?"
+      ],
+      "sources": [
+        {
+          "label": "X, @ClipsForeverWoW on Clay Stone: GDKP ban regional only",
+          "url": "https://x.com/ClipsForeverWoW/status/2108913111969267924"
+        },
+        {
+          "label": "X: @espwowforever summary of Forever gear progression",
+          "url": "https://x.com/espwowforever/status/2109016934897631272"
+        },
+        {
+          "label": "Briefing: WoW X Briefing, Oct 3 to 10 (docs\\WoW_X_Briefing_Oct3-10_2026.pdf)",
+          "url": "WoW_X_Briefing_Oct3-10_2026.pdf"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_01_title.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_02_compare.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_03_stats.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_04_art.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_05_compare.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_06_questions.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "The Road to Launch: Beta End, Names, and Gold-Buyer Bans",
+      "tab": "Road to Launch",
+      "category": "World of Warcraft: Forever, Launch",
+      "synopsis": "With the beta wrapping up October 21 and launch on November 4, Blizzard laid out how early name reservation works while it keeps closing gold-buying accounts.",
+      "points": [
+        "beta testing ending October 21, and none of your beta progress carries over",
+        "early name reservation running October 27 through November 3",
+        {
+          "text": "reservation only for players who bought an upgrade",
+          "sub": "the Skyborne Heroic Pack, Skyborne Epic Pack, or Warcraft Forever Collection: a beta invite alone doesn't count"
+        },
+        "up to three characters per account, fully customized ahead of time",
+        "no realms means every name has to be unique across the whole region",
+        "characters getting both a first and a second name",
+        "no early access: everyone starts November 4",
+        "the gold-buyer ban totals Aggrend gave earlier, more than 2,100 buyers, nearly 4,000 RMT closures in total",
+        "a new trade warning coming for gold trades and mail from people you don't know"
+      ],
+      "questions": [
+        "Region-wide unique names with a first and last name. Does that save the name-ban mess, or just move it?",
+        "Banning gold buyers instead of only sellers. Is that the right line, or will innocent people get caught?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard Watch, Everything you need to know about early name reservation in World of Warcraft: Forever",
+          "url": "https://blizzardwatch.com/2026/10/07/early-name-reservation-wow-forever/"
+        },
+        {
+          "label": "Blizzard: World of Warcraft Forever Beta Schedule",
+          "url": "https://us.forums.blizzard.com/en/wow/t/world-of-warcraft-forever-beta-schedule/2357729"
+        },
+        {
+          "label": "Icy Veins, Nearly 4,000 Accounts Banned Due to RMT: WoW Forever Beta",
+          "url": "https://www.icy-veins.com/wow-forever/news/nearly-4000-accounts-banned-due-to-rmt-wow-forever-beta/"
+        },
+        {
+          "label": "Blizzard: Actions Taken Against Botting and RMT",
+          "url": "https://us.forums.blizzard.com/en/wow/t/2368705/1"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_01_title.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_02_timeline.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_03_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_04_art.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_05_stats.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_06_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_07_questions.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "Midnight 12.1.5 Arrives October 13",
+      "tab": "12.1.5",
+      "category": "Midnight: Patch 12.1.5",
+      "synopsis": "Patch 12.1.5 lands October 13 in North America and October 14 in Europe with the one-boss Kith'ix raid, the Labyrinths, class tuning, and a big round of housing decor changes.",
+      "points": [
+        "The Unbinding of Kith'ix: a focused one-boss raid in Story, Raid Finder, Normal, Heroic, and Mythic",
+        "Mythic Kith'ix running as flexible 15-to-25-player groups",
+        "the Labyrinth of Kindo'jan arriving alongside it",
+        "major class tuning in the patch: Devourer and Void-Scarred Demon Hunter getting the biggest list",
+        {
+          "text": "the October 6 hotfixes already landing ahead of it",
+          "sub": "six PvE specs including an Unholy nerf, a pile of PvP changes, and a long list of Ula'tek nerfs"
+        },
+        "crafted decor needing a lot less lumber across the board",
+        "the Apothecary's Worktable going from 8 Black Lotus down to 1",
+        "a batch of new craftable decor sending you back through Oribos, Dalaran, Boralus, Dazar'alor, and Nazjatar",
+        "Hallow's End spooky decor available for your house right now"
+      ],
+      "questions": [
+        "A one-boss raid with flex Mythic. Is that a good fit for the guild, or a weird tier to pace a team around?",
+        "Ula'tek nerfs right before a new raid. Does that change our plan for the week?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard: Midnight's 12.1.5 Content Update Arrives October 13",
+          "url": "https://worldofwarcraft.blizzard.com/news/24307306/midnights-1215-content-update-arrives-october-13"
+        },
+        {
+          "label": "Blizzard: 12.1.5 Content Update Notes",
+          "url": "https://worldofwarcraft.blizzard.com/news/24304162/1215-content-update-notes"
+        },
+        {
+          "label": "Icy Veins, Class and Raid Tuning: Midnight 12.1 Hotfixes, October 6th",
+          "url": "https://www.icy-veins.com/wow/news/class-and-raid-tuning-midnight-12-1-hotfixes-october-6th/"
+        },
+        {
+          "label": "Blizzard Watch: New craftable Decor coming to Player Housing in patch 12.1.5",
+          "url": "https://blizzardwatch.com/2026/10/08/changes-decor-crafting-patch-12-1-5/"
+        },
+        {
+          "label": "Blizzard Watch: Hallow's End brings spooky decor to use in your player housing",
+          "url": "https://blizzardwatch.com/2026/10/05/hallows-end-decor/"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_01_title.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_02_timeline.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_03_stats.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_04_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_05_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_06_stats.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_07_questions.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "TBC Anniversary Phase 3.5: Zul'Aman",
+      "tab": "TBC Phase 3.5",
+      "category": "WoW Classic: Burning Crusade Anniversary",
+      "synopsis": "The Burning Crusade Anniversary realms get Phase 3.5 on October 22, opening Zul'Aman and making the old raids much easier to catch up on.",
+      "points": [
+        "Phase 3.5 going live October 22 at 3pm Pacific",
+        "Gods of Zul'Aman: the 10-player troll raid in the Ghostlands",
+        "the hostage timer run: save them all in time for the Amani War Bear",
+        "Hyjal and Black Temple attunements gone",
+        "Heroic dungeons getting easier, and Heroic keys needing only Honored now",
+        "Badges of Justice dropping from every raid boss, Karazhan through Zul'Aman",
+        "Kazzak and Doomwalker loot turning Bind on Equip",
+        "epic gems coming from Magtheridon's Black Sack of Gems and Jewelcrafters' Brilliant Glass",
+        "all landing two weeks before Forever launches, after last week's TBC raider numbers"
+      ],
+      "questions": [
+        "Is a Zul'Aman timer run enough to keep TBC raiders from leaving for Forever?",
+        "Did either of you ever get the Amani War Bear back in the day?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard Watch: The Burning Crusade Classic anniversary realms launch Phase 3.5 on October 22",
+          "url": "https://blizzardwatch.com/2026/10/09/burning-crusade-classic-anniversary-phase-3-5/"
+        },
+        {
+          "label": "X, @Warcraft (Oct 8): Gods of Zul'Aman arrives October 22",
+          "url": "https://x.com/Warcraft"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_01_title.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_02_stats.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_03_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_04_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_05_quote.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_06_questions.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "ThugUI: My Addon",
+      "tab": "ThugUI",
+      "category": "Squirrelthug's Addon",
+      "synopsis": "A quick look at ThugUI, the UI suite I build for Retail and WoW Forever.",
+      "points": [
+        "one download for Retail and WoW Forever",
+        "every part a module you switch on or off",
+        "mouse and keyboard or controller, same features on both",
+        "cooldown grids and rings anchored to your cursor",
+        "health and resource orbs, party frames, and name-only nameplates",
+        "the controller wheel on Start for WoW Forever",
+        "Season of Thuggery: the Retail seasonal panel for your alts' gear and raid progress",
+        "find it on CurseForge or GitHub, and bring feedback to the Last Attempt Discord"
+      ],
+      "questions": [
+        "What would you want a UI addon to do for Forever that Blizzard's UI doesn't?",
+        "Controller players: is the wheel the thing that makes Forever playable on a pad?"
+      ],
+      "sources": [
+        {
+          "label": "GitHub: Squirrelthug/thugui",
+          "url": "https://github.com/Squirrelthug/thugui"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_01_title.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_02_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_03_shot.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_04_shot.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_05_shot.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_06_shot.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_07_shot.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_08_shot.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_09_shot.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_10_shot.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_11_bullets.jpg",
+          "caption": ""
+        }
+      ]
+    }
+  ]
+}

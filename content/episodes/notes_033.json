@@ -1,0 +1,803 @@
+{
+ "episode": "033",
+ "date": "2026-09-26",
+ "subtitle": "Forever Beta · Week Two",
+ "logo": "../media/last_attempt_logo.png",
+ "intro": {
+  "heads_up": "Quick heads-up before we dive in: Brewfest runs through October 6, so if you're after the Brewfest Barrel Bomber, Coren Direbrew is once a day and the clock is running.",
+  "rundown": [
+   "a hands-on look at playing Forever on a controller",
+   "the beta's second week: a big new build, weather coming back, and another round of restarts",
+   "the name bans and Olympus marching through the beta",
+   "the fight over who Forever is actually for, and retail's answer to it",
+   "Midnight's road ahead on the 12.1.5 PTR",
+   "a heavy tuning week and the latest from the Venomous Abyss",
+   "and we'll close out the news with Brewfest and the shop, Blizzard's own Forever podcast, and Xbox's latest round of cuts"
+  ]
+ },
+ "items": [
+  {
+   "title": "Playing Forever on a Gamepad",
+   "tab": "Gamepad",
+   "category": "World of Warcraft: Forever, Hands-On",
+   "synopsis": "Forever is the first WoW with real controller support, and this week's beta build gave it class flyouts, pet radials, and a pile of new gamepad options.",
+   "points": [
+    "me playing the beta almost entirely on a controller: healer, rogue, and warlock so far",
+    "the radial main menu and the dynamic interact button: one press for an NPC, a herb node, whatever's in front of you",
+    "class flyouts landing on the action bar: Druid shapeshifts, Paladin auras, Warrior stances",
+    {
+     "text": "pet control and pet spell radials only for Hunters and Warlocks: the thing I noticed before the patch notes explained it",
+     "sub": "the pet bar also no longer replaces the bottom gamepad bar for those two classes"
+    },
+    "new Gamepad (Alpha) options: a compact action bar and fixed party targeting, where each d-pad direction is one party member",
+    "swap options for which side your friendly and hostile targeting live on",
+    "Edit Mode layouts finally applying with the gamepad UI on, which is how I'm moving cast bars around",
+    "the Cooldown Manager showing up off by default: five classes testable, no spell ranks yet",
+    "my setup now: one personal addon of my own, and I keep folding whatever else I need into it"
+   ],
+   "questions": [
+    "Would you ever raid on a controller, or is this strictly a leveling-on-the-couch thing?",
+    "If Forever launches with controller play this good, does retail have to catch up?"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard: WoW Forever Beta Development Notes, Updated September 24",
+     "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-september-24/2360696"
+    },
+    {
+     "label": "Blizzard: Beta Client Update, September 22",
+     "url": "https://us.forums.blizzard.com/en/wow/t/beta-client-update-september-22/2358655/1"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "src": "../media/Forever_Gamepad_Main_Menu_Radial_Center.jpg",
+     "caption": "Main menu radial: SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Gamepad_Main_Menu_Radial_Left.jpg",
+     "caption": "Main menu radial, left: SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Gamepad_Main_Menu_Radial_Right.jpg",
+     "caption": "Main menu radial, right: SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Gamepad_Dynamic_Interact_Button_Npc.jpg",
+     "caption": "Dynamic interact: NPC, SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Gamepad_Dynamic_Interact_Button_Herb_Node.jpg",
+     "caption": "Dynamic interact: herb node, SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Gamepad_Warlock_Pet_Actions_Radial_Menu.jpg",
+     "caption": "Warlock pet actions radial: SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Gamepad_Warlock_Pet_Spells_Radial.jpg",
+     "caption": "Warlock pet spells radial: SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Gamepad_Character_Menu_Paperdoll.jpg",
+     "caption": "Character menu: paperdoll, SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Gamepad_Character_Menu_Reputation.jpg",
+     "caption": "Character menu: reputation, SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Gamepad_Character_Menu_Skills.jpg",
+     "caption": "Character menu: skills, SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Gamepad_Character_Menu_Pvp.jpg",
+     "caption": "Character menu: PvP, SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Gamepad_Character_Menu_Currency.jpg",
+     "caption": "Character menu: currency, SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Gamepad_Character_Menu_Statistics.jpg",
+     "caption": "Character menu: statistics, SquirrelThug"
+    }
+   ]
+  },
+  {
+   "title": "Forever Beta, Week Two: A New Build, Weather, and More Restarts",
+   "tab": "Beta Week Two",
+   "category": "World of Warcraft: Forever, Beta",
+   "synopsis": "The first full weekly beta build landed with a long class list and developer notes explaining the why, and the servers still needed another restart on Friday.",
+   "points": [
+    "respecs dropping to 1 silver if you haven't changed talents recently: beta only",
+    "Druid Wrath up about 50%, heal-over-times able to crit, and Mangle renamed Primal Bite",
+    {
+     "text": "Improved Holy Strike cut and made baseline: Blizzard saying it \"felt like a talent that was required\"",
+     "sub": "one of several changes this build that came with a developer note explaining the reasoning"
+    },
+    "wands no longer scaling off spell damage, and Wizard Oils reverted to Classic Era values",
+    "the Hunter and wand auto-shot bug still open, with a fix promised \"hopefully next week\"",
+    "Jasperlode and Fargodeep mines losing their candles for being \"a little more deadly than intended\"",
+    "increased weather effects coming soon to the beta zones: snow and rain back in the world",
+    "Thursday's maintenance running a couple of hours, including a fix for a slow memory leak",
+    {
+     "text": "Friday's \"game is unplayable\" thread and a same-day realm restart for stability fixes",
+     "sub": "new known issue: changing your party can bounce you to a different world instance"
+    }
+   ],
+   "questions": [
+    "Which of these changes hold the Classic line, and which are quietly modernizing it?",
+    "Two weeks of beta restarts. Are you worried about November 4, or is this just what betas look like?"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard: WoW Forever Beta Development Notes, Updated September 24",
+     "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-september-24/2360696"
+    },
+    {
+     "label": "Blizzard: Auto-shoot Bug and Fix Incoming",
+     "url": "https://us.forums.blizzard.com/en/wow/t/auto-shoot-bug-and-fix-incoming/2359185/1"
+    },
+    {
+     "label": "Blizzard: Increased Weather Effects",
+     "url": "https://us.forums.blizzard.com/en/wow/t/increased-weather-effects/2359491/1"
+    },
+    {
+     "label": "Blizzard: Beta Realm Maintenance is Underway, September 24",
+     "url": "https://us.forums.blizzard.com/en/wow/t/beta-realm-maintenance-is-underway-september-24/2360489"
+    },
+    {
+     "label": "Blizzard: \"Game is unplayable today\" (Kaivax)",
+     "url": "https://us.forums.blizzard.com/en/wow/t/game-is-unplayable-today/2361831/23"
+    },
+    {
+     "label": "Blizzard: Beta Realm Restarts Incoming, Sept. 25",
+     "url": "https://us.forums.blizzard.com/en/wow/t/beta-realm-restarts-incoming-sept-25/2362048"
+    }
+   ],
+   "media": [
+    {
+     "type": "video",
+     "src": "../media/Forever_Weather_Rainy_Day_Elwynn_Forest.mp4",
+     "caption": "A rainy day in Elwynn Forest, Forever beta: SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Tom_Ellis_X_Beta_Postmortem_1.png",
+     "caption": "Tom Ellis's launch-night post-mortem, part 1: X @FwoiblesWoW"
+    },
+    {
+     "type": "image",
+     "src": "../media/Tom_Ellis_X_Beta_Postmortem_2.png",
+     "caption": "Tom Ellis's launch-night post-mortem, part 2: X @FwoiblesWoW"
+    }
+   ]
+  },
+  {
+   "title": "Beta Culture: Name Bans and the Olympus Army",
+   "tab": "Names & Olympus",
+   "category": "World of Warcraft: Forever, Community",
+   "synopsis": "Two stories about what happens when a lot of people share one world: Blizzard pulling testers over names, and Asmongold's Olympus marching through the beta.",
+   "points": [
+    "Blizzard issuing forced renames and pulling beta access for names \"far outside\" the Code of Conduct",
+    "dual names giving people room to be clever, and some using it to \"reveal too much about themselves\"",
+    "every case reviewed by the dev team, and Customer Service \"cannot and will not assist with any appeals\"",
+    {
+     "text": "Tom Ellis on X: \"No new standards have been set\", the dual-name filter just wasn't ready yet",
+     "sub": "0.18% of names earned an exit from beta, and every \"cheeky name\" poster had a fourth character they left out"
+    },
+    "Asmongold reviving Olympus in the beta: reports of 30-plus full guilds and 30,000-plus members",
+    "the crowds causing lag, blocking NPCs, and making questing miserable for anyone nearby",
+    "players writing addons just to hide Olympus chat, invites, duels, and trades",
+    {
+     "text": "the Horde's-eye view of the Olympus army marching on Undercity",
+     "sub": "a real MMO-scale moment, whatever you think of the guy leading it"
+    }
+   ],
+   "questions": [
+    "No appeals on a beta ban: fair, or a precedent you don't love going into launch?",
+    "Would you want a 30,000-person guild on your ruleset at launch, or does that break the world for everyone else?"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard, WoW Forever Beta: Account Actions For Name Violations (Fwoibles)",
+     "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-account-actions-for-name-violations/2360739"
+    },
+    {
+     "label": "X: Tom Ellis (@FwoiblesWoW)",
+     "url": "https://x.com/FwoiblesWoW"
+    },
+    {
+     "label": "Blizzard, Create a Name of Your Own in WoW: Forever",
+     "url": "https://worldofwarcraft.blizzard.com/news/24304161/create-a-name-of-your-own-in-wow-forever"
+    }
+   ],
+   "media": [
+    {
+     "type": "video",
+     "src": "../media/Olympus_March_To_Undercity.mp4",
+     "caption": "Olympus marches on Undercity, the Horde's view: posted on X"
+    },
+    {
+     "type": "image",
+     "src": "../media/Olympus_Roach_King_AI_Art.jpg",
+     "caption": "\"The roach king\": AI-generated fan art circulating on X"
+    },
+    {
+     "type": "image",
+     "src": "../media/Olympus_Roach_King_Meme.jpg",
+     "caption": "Roach king meme: circulating on X"
+    }
+   ]
+  },
+  {
+   "title": "Who Is Forever For? Cornfed, and Retail's Answer",
+   "tab": "Who It's For",
+   "category": "WoW: Forever & The Last Titan",
+   "synopsis": "A Forever world builder said convenience is the death of the journey, and the same week, Ion said retail's next expansion wants more friction too.",
+   "points": [
+    "Cornfed, a self-described Forever world builder, posting from his personal account to about 2 million views",
+    "\"I am making WoW Forever for the classic gamer\" and the millions whose accounts lapsed over changes",
+    "a year spent relearning 20-year-old art techniques instead of the retail shortcuts he already knew",
+    {
+     "text": "\"Convenience is the death of the journey\" and \"if you're making a game for everyone then you're making it for no one\"",
+     "sub": "the official line from Tim Jones and Nora Mills: Forever is a third pillar, not a Classic remake or a stepping stone"
+    },
+    "Blizzard's site sending new players to retail and returning players to \"WoW and WoW Classic\"",
+    "Ion telling Windows Central The Last Titan should have a Heroic World Tier for leveling",
+    "built on Legion Remix's Heroic tier and the harder outdoor zones, no flying, tougher enemies",
+    {
+     "text": "\"We would never say 'Go play Classic if you want that.' All versions of WoW should have that.\"",
+     "sub": "his words: something \"like that\", a goal, not a confirmed feature"
+    }
+   ],
+   "questions": [
+    "Is retail learning from Forever here, or trying to keep Forever players from leaving?",
+    "What does friction actually mean to you on a Tuesday night when you've only got an hour?"
+   ],
+   "sources": [
+    {
+     "label": "X: Cornfed (@Marmstrongwow)",
+     "url": "https://x.com/Marmstrongwow"
+    },
+    {
+     "label": "Bluesky, World of Warcraft: What is World of Warcraft: Forever?",
+     "url": "https://bsky.app/profile/worldofwarcraft.blizzard.com/post/3mw7rl7d5it2r"
+    },
+    {
+     "label": "Windows Central: Blizzard wants The Last Titan to have more open-world leveling challenges",
+     "url": "https://www.windowscentral.com/gaming/blizzard/blizzard-wants-world-of-warcraft-the-last-titan-to-have-more-open-world-levelling-challenges-and-immersion-like-wow-forever"
+    },
+    {
+     "label": "Source: Faction Conflict & Heroic World Tier in The Last Titan (Wowhead)",
+     "url": "https://www.wowhead.com/news/faction-conflict-and-heroic-world-tier-in-the-last-titan-windows-central-382997"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "src": "../media/WoW_Site_Banner_New_vs_Returning.png",
+     "caption": "worldofwarcraft.com: new players to WoW, returning players to WoW & Classic"
+    },
+    {
+     "type": "video",
+     "src": "../media/The_Last_Titan_Teaser_Colossal.mp4",
+     "caption": "The Last Titan teaser: Colossal (Blizzard Entertainment)"
+    },
+    {
+     "type": "image",
+     "src": "../media/The_Last_Titan_Logo.png",
+     "caption": "The Last Titan"
+    }
+   ]
+  },
+  {
+   "title": "Midnight's Road Ahead: The 12.1.5 PTR and Kith'ix",
+   "tab": "12.1.5 PTR",
+   "category": "Midnight: Patch 12.1.5",
+   "synopsis": "12.1.5 is still on the PTR with no release date, and the biggest news since we last looked is Blizzard walking back its own changes.",
+   "points": [
+    {
+     "text": "Prot Warrior Execute walked back: Blizzard saying last week's changes \"were not sufficient\"",
+     "sub": "old Execute back with a damage boost, and the real Prot rework pushed to 12.2 and 13.0"
+    },
+    "Devourer DH getting The Hunt and Eradicate moved out of the crowded final gate",
+    "Resto Druid's Nature's Bounty redesigned: Regrowth also healing up to three allies with Rejuvenation",
+    "Merithra's Blessing and Master the Darkness both cut to 30 seconds",
+    "a new accessibility setting, Pulse Your Health: a looping sound that gets louder as your health drops",
+    "Kith'ix raid testing on Heroic and Mythic, with testers scaled to 90",
+    "Mythic Kith'ix no longer dropping Myth 9/6 loot on the current PTR build: walking back what we said in 031",
+    "Paul Kubit and Kim Flack sitting down with Artemir on Astalor's Nemesis fight and where Talebound came from"
+   ],
+   "questions": [
+    "A one-boss raid without the above-cap loot. Is Kith'ix still worth a raid night for us?",
+    "Blizzard admitting a PTR change didn't work and pushing Prot to a major patch. Right call?"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard, Midnight: 12.1.5 PTR Development Notes (September 15)",
+     "url": "https://us.forums.blizzard.com/en/wow/t/midnight-1215-ptr-development-notes/2344395/4"
+    },
+    {
+     "label": "Blizzard, Midnight: 12.1.5 PTR Development Notes (September 22)",
+     "url": "https://us.forums.blizzard.com/en/wow/t/midnight-1215-ptr-development-notes/2344395/5"
+    },
+    {
+     "label": "Blizzard: The Unbinding of Kith'ix Raid Testing Schedule",
+     "url": "https://us.forums.blizzard.com/en/wow/t/the-unbinding-of-kithix-raid-testing-schedule/2346119"
+    },
+    {
+     "label": "Source: Mythic Kith'ix No Longer Drops Myth 9/6 Loot on Patch 12.1.5 PTR (Wowhead)",
+     "url": "https://www.wowhead.com/news=382926/mythic-kithix-no-longer-drops-myth-9-6-loot-on-patch-12-1-5-ptr"
+    },
+    {
+     "label": "YouTube, Artemir: Interviewing WoW Developers on Talebound, Astalor, Xal'atath, Season 3",
+     "url": "https://www.youtube.com/watch?v=okHIpRqKFac"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "src": "../media/Artemir_Interview_1.jpg",
+     "caption": "Paul Kubit & Kim Flack interview, 1 of 4: Artemir"
+    },
+    {
+     "type": "image",
+     "src": "../media/Artemir_Interview_2.jpg",
+     "caption": "Paul Kubit & Kim Flack interview, 2 of 4: Artemir"
+    },
+    {
+     "type": "image",
+     "src": "../media/Artemir_Interview_3.jpg",
+     "caption": "Paul Kubit & Kim Flack interview, 3 of 4: Artemir"
+    },
+    {
+     "type": "image",
+     "src": "../media/Artemir_Interview_4.jpg",
+     "caption": "Paul Kubit & Kim Flack interview, 4 of 4: Artemir"
+    },
+    {
+     "type": "image",
+     "src": "../media/Artemir_Interview_Kubit_Flack.png",
+     "caption": "Kim Flack and Paul Kubit with Artemir at BlizzCon: Artemir"
+    },
+    {
+     "type": "image",
+     "src": "../media/Talebound_Artemir_Interview_Still.png",
+     "caption": "Talebound, from the Artemir interview"
+    }
+   ]
+  },
+  {
+   "title": "Tuning Week: Class Changes, Final Trinkets, and Hotfixes",
+   "tab": "Tuning",
+   "category": "Midnight: Season 2 Tuning",
+   "synopsis": "Blizzard went after low performers and lopsided hero talent trees, and called this the last trinket pass of Season 2.",
+   "points": [
+    "the September 22 pass \"mostly targeted at low performers\" and hero talent gaps",
+    {
+     "text": "Blood DK down 6% overall, with Death Strike up 15%",
+     "sub": "announced at 25% and trimmed to 15% the day before it went live"
+    },
+    "Unholy Blightfall doubled to bring the build back, then a bug fix the next day added more on top",
+    "the underused hero trees pushed hard: Aldrachi Reaver, Templar, Trickster, and Mountain Thane",
+    "Disc Priest Atonement up 40% outside of raids so Disc can finally work in keys",
+    "the final raid and dungeon trinket pass for Season 2, announced a week early so you could plan loot",
+    "single-target healing trinkets buffed hard, and Season 1 holdovers like Algeth'ar Puzzle Box nerfed",
+    "hotfixes cleaning up Windwalker PvP numbers leaking into PvE, and a round of PvP snare trims"
+   ],
+   "questions": [
+    "Does anything here touch a spec on our roster, and is anyone swapping hero trees because of it?",
+    "Did anyone spend a vault on a trinket that just changed?"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard: Class Tuning Incoming, September 22",
+     "url": "https://us.forums.blizzard.com/en/wow/t/class-tuning-incoming-september-22/2354340"
+    },
+    {
+     "label": "Blizzard: Midnight Season 2 Trinket Tuning, September 22",
+     "url": "https://us.forums.blizzard.com/en/wow/t/midnight-season-2-trinket-tuning-%E2%80%93-september-22/2349649"
+    },
+    {
+     "label": "Blizzard, Hotfixes: September 23, 2026",
+     "url": "https://worldofwarcraft.blizzard.com/news/24296142/hotfixes-september-23-2026"
+    },
+    {
+     "label": "Blizzard, World of Warcraft: Midnight Hotfixes, September 24",
+     "url": "https://us.forums.blizzard.com/en/wow/t/world-of-warcraft-midnight-hotfixes-september-24/2336376/154"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "src": "../media/Tuning_2026-09-22_Death_Knight.png",
+     "caption": "September 22 class tuning: Death Knight, Blizzard"
+    },
+    {
+     "type": "image",
+     "src": "../media/Tuning_2026-09-22_Demon_Hunter.png",
+     "caption": "September 22 class tuning: Demon Hunter, Blizzard"
+    },
+    {
+     "type": "image",
+     "src": "../media/Tuning_2026-09-22_Druid.png",
+     "caption": "September 22 class tuning: Druid, Blizzard"
+    },
+    {
+     "type": "image",
+     "src": "../media/Tuning_2026-09-22_Evoker.png",
+     "caption": "September 22 class tuning: Evoker, Blizzard"
+    },
+    {
+     "type": "image",
+     "src": "../media/Tuning_2026-09-22_Hunter.png",
+     "caption": "September 22 class tuning: Hunter, Blizzard"
+    },
+    {
+     "type": "image",
+     "src": "../media/Tuning_2026-09-22_Mage.png",
+     "caption": "September 22 class tuning: Mage, Blizzard"
+    },
+    {
+     "type": "image",
+     "src": "../media/Tuning_2026-09-22_Monk.png",
+     "caption": "September 22 class tuning: Monk, Blizzard"
+    },
+    {
+     "type": "image",
+     "src": "../media/Tuning_2026-09-22_Paladin.png",
+     "caption": "September 22 class tuning: Paladin, Blizzard"
+    },
+    {
+     "type": "image",
+     "src": "../media/Tuning_2026-09-22_Priest.png",
+     "caption": "September 22 class tuning: Priest, Blizzard"
+    },
+    {
+     "type": "image",
+     "src": "../media/Tuning_2026-09-22_Rogue.png",
+     "caption": "September 22 class tuning: Rogue, Blizzard"
+    },
+    {
+     "type": "image",
+     "src": "../media/Tuning_2026-09-22_Warrior.png",
+     "caption": "September 22 class tuning: Warrior, Blizzard"
+    }
+   ]
+  },
+  {
+   "title": "The Venomous Abyss: A Nerf Wave, and Rextroy Solos Twin Fangs",
+   "tab": "Venomous Abyss",
+   "category": "Midnight: Season 2 Raid",
+   "synopsis": "Over two weeks Blizzard nerfed four bosses, buffed and then nerfed Ula'tek, and a Warrior went and soloed Twin Fangs anyway.",
+   "points": [
+    "a September 15 nerf pass across Sszorak, Twin Fangs, the Coiled Altar, and Ula'tek",
+    "Mythic Putrid Membrane going from an hour to 30 seconds",
+    "Ula'tek's Mythic add waves cut: Blightscale Spawn from 13 down to 8 per wave",
+    "the Coiled Altar Soulcoiler note rewritten from \"always spawns\" to \"increased the likelihood\" after players caught it",
+    "Ula'tek quietly buffed so his tank debuff can't be outranged, per a datamined hotfix",
+    "then Stone Venom cut 40% on every difficulty with the next weekly restart",
+    {
+     "text": "Rextroy, a Warrior, soloing Twin Fangs in the current-tier raid",
+     "sub": "the same boss had its Mythic damage and Broodling count nerfed a week earlier"
+    }
+   ],
+   "questions": [
+    "Where are we on the Venomous Abyss, and did these nerfs change the plan for this reset?",
+    "A Warrior soloing a current-tier boss: class trick, or a tuning hole?"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard: The Venomous Abyss Raid Tuning, September 15",
+     "url": "https://us.forums.blizzard.com/en/wow/t/the-venomous-abyss-raid-tuning-september-15/2349528"
+    },
+    {
+     "label": "Blizzard: Midnight Hotfixes, September 21 (Ula'tek)",
+     "url": "https://us.forums.blizzard.com/en/wow/t/world-of-warcraft-midnight-hotfixes-september-24/2336376/141"
+    },
+    {
+     "label": "Blizzard: Midnight Hotfixes, Coiled Altar correction",
+     "url": "https://us.forums.blizzard.com/en/wow/t/world-of-warcraft-midnight-hotfixes-september-24/2336376/148"
+    },
+    {
+     "label": "Source: Rextroy Solos Twin Fangs in Venomous Abyss (Wowhead)",
+     "url": "https://www.wowhead.com/news=383097/rextroy-solos-twin-fangs-in-venomous-abyss"
+    }
+   ],
+   "media": [
+    {
+     "type": "video",
+     "src": "../media/Warrior_Solo_Current_Tier_Raid_Boss.mp4",
+     "caption": "Rextroy solos Twin Fangs, Venomous Abyss: Rextroy"
+    },
+    {
+     "type": "image",
+     "src": "../media/Venomous_Abyss_Tuning_Sszorak.png",
+     "caption": "Venomous Abyss raid tuning: Sszorak, Blizzard"
+    },
+    {
+     "type": "image",
+     "src": "../media/Venomous_Abyss_Tuning_Twin_Fangs.png",
+     "caption": "Venomous Abyss raid tuning: Twin Fangs, Blizzard"
+    },
+    {
+     "type": "image",
+     "src": "../media/Venomous_Abyss_Tuning_Coiled_Altar.png",
+     "caption": "Venomous Abyss raid tuning: The Coiled Altar, Blizzard"
+    },
+    {
+     "type": "image",
+     "src": "../media/Venomous_Abyss_Tuning_Ulatek.png",
+     "caption": "Venomous Abyss raid tuning: Ula'tek, Blizzard"
+    }
+   ]
+  },
+  {
+   "title": "Around Azeroth: Brewfest, the Abyssal Crown, and D&D",
+   "tab": "Collections",
+   "category": "Midnight: Events & Collections",
+   "synopsis": "The collector's corner: Brewfest has new housing decor, the shop has Azshara, and Dungeon Masters is running a campaign in Azeroth.",
+   "points": [
+    "Brewfest running through October 6: Coren Direbrew once a day for a shot at the Brewfest Barrel Bomber",
+    "Brewfest decor for your house this year: wreaths, steins, fences, banners, and crates",
+    "a Brewer's Balloon, new kilt colors, and Hunters able to tame a pink elekk during the event",
+    "October's Trading Post, Costumed Calamity, Ensemble: Thornshadow Assassin's Attire for finishing the Traveler's Log",
+    {
+     "text": "the Abyssal Crown Collection in the shop: Azshara's Darkscale and Deepscale Raiment",
+     "sub": "plus the Zothwing Darkseeker and Deepseeker mounts, \"steeped in the dark influence of the Old Gods\""
+    },
+    "Dungeon Masters coming back for a third campaign, set in Azeroth and built on D&D: World of Warcraft",
+    "new episodes Wednesdays at 6:30 PM Pacific on the D&D YouTube channel"
+   ],
+   "questions": [
+    "Now that there's a house to put it in, is holiday decor the reason you log in for events?",
+    "After that BlizzCon one-shot. Would we actually play a WoW D&D campaign as a guild?"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard: Raise Your Stein! Brewfest Returns with Battle-Brewed Rewards",
+     "url": "https://worldofwarcraft.blizzard.com/news/24303006"
+    },
+    {
+     "label": "Blizzard, World of Warcraft: Forever Headlines a Packed WoW Weekly",
+     "url": "https://worldofwarcraft.blizzard.com/en-us/news/24303315/world-of-warcraft-forever-headlines-a-packed-wow-weekly"
+    },
+    {
+     "label": "Blizzard: Corruption Calls with the Abyssal Crown Collection",
+     "url": "https://worldofwarcraft.com/en-us/news/24276747"
+    },
+    {
+     "label": "Source, Exclusive Look at Dungeon Masters Campaign Characters for D&D: World of Warcraft (Wowhead)",
+     "url": "https://www.wowhead.com/news=383061/exclusive-look-at-dungeon-masters-campaign-characters-for-d-d-world-of-warcraft"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "src": "../media/Brewfest_Barrel_Bomber_Mount.png",
+     "caption": "Brewfest Barrel Bomber: Blizzard Entertainment"
+    },
+    {
+     "type": "image",
+     "src": "../media/Brewfest_Brewers_Balloon.png",
+     "caption": "Brewer's Balloon: Blizzard Entertainment"
+    },
+    {
+     "type": "image",
+     "src": "../media/Brewfest_Decor_Hanging_Wreath.png",
+     "caption": "Hanging Brewfest Wreath (decor)"
+    },
+    {
+     "type": "image",
+     "src": "../media/Brewfest_Decor_Traditional_Stein.png",
+     "caption": "Traditional Brewfest Stein (decor)"
+    },
+    {
+     "type": "image",
+     "src": "../media/Brewfest_Decor_Fencepost.png",
+     "caption": "Brewfest Fencepost (decor)"
+    },
+    {
+     "type": "image",
+     "src": "../media/Brewfest_Decor_Traditional_Banner.png",
+     "caption": "Traditional Brewfest Banner"
+    },
+    {
+     "type": "image",
+     "src": "../media/Brewfest_Decor_Fence.png",
+     "caption": "Brewfest Fence"
+    },
+    {
+     "type": "image",
+     "src": "../media/Brewfest_Decor_Crate.png",
+     "caption": "Brewfest Crate"
+    },
+    {
+     "type": "image",
+     "src": "../media/Abyssal_Crown_Collection.png",
+     "caption": "Abyssal Crown Collection: Blizzard Entertainment"
+    },
+    {
+     "type": "image",
+     "src": "../media/Abyssal_Crown_Azsharas_Darkscale_Raiment.png",
+     "caption": "Azshara's Darkscale Raiment: Blizzard Entertainment"
+    },
+    {
+     "type": "image",
+     "src": "../media/Abyssal_Crown_Azsharas_Deepscale_Raiment.png",
+     "caption": "Azshara's Deepscale Raiment: Blizzard Entertainment"
+    },
+    {
+     "type": "image",
+     "src": "../media/Abyssal_Crown_Zothwing_Darkseeker.png",
+     "caption": "Zothwing Darkseeker: Blizzard Entertainment"
+    },
+    {
+     "type": "image",
+     "src": "../media/Abyssal_Crown_Zothwing_Deepseeker.png",
+     "caption": "Zothwing Deepseeker: Blizzard Entertainment"
+    },
+    {
+     "type": "image",
+     "src": "../media/DnD_Dungeon_Masters_Campaign_3.png",
+     "caption": "Dungeon Masters, campaign 3: Wizards of the Coast"
+    }
+   ]
+  },
+  {
+   "title": "Blizzard's Forever Week: The Official Podcast, Toronto, and the CE Restock",
+   "tab": "Forever Podcast",
+   "category": "World of Warcraft: Forever, Official",
+   "synopsis": "Blizzard launched its own Forever podcast with Aggrend, Tim Jones, and two content creators, and put more Collector's Editions on sale that won't arrive until February.",
+   "points": [
+    "the WoW: Forever Podcast episode 1, Unpacking Beta Launch, Aggrend and Tim Jones with Countdown To Classic and Xaryu",
+    {
+     "text": "episode 2 focusing on class design with the systems design team",
+     "sub": "Aggrend on the forums asking what topics people want covered after that"
+    },
+    "Forever Escape Together coming to Toronto: Horde versus Alliance, ending in a Scarlet Monastery escape room",
+    "new Forever channels in the official Portal Room Discord, and a Forever Collection code giveaway",
+    "more English Collector's Editions on sale in North America, the UK, Europe, and Australia and New Zealand",
+    "restock orders shipping in February 2027: three months after the November 4 launch",
+    "a strict limit of one per household on the Gear Store"
+   ],
+   "questions": [
+    "Blizzard running its own podcast with streamers on it: good for the community, or a harder room for shows like ours?",
+    "Would you buy a statue that shows up three months after launch?"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard, World of Warcraft: Forever Headlines a Packed WoW Weekly",
+     "url": "https://worldofwarcraft.blizzard.com/en-us/news/24303315/world-of-warcraft-forever-headlines-a-packed-wow-weekly"
+    },
+    {
+     "label": "YouTube: Unpacking Beta Launch ft. Xaryu | Episode 1, The WoW: Forever Podcast",
+     "url": "https://www.youtube.com/watch?v=m49-jvGPCkA"
+    },
+    {
+     "label": "Blizzard. What insights would you like to see in a future episode of the WoW: Forever Podcast?",
+     "url": "https://us.forums.blizzard.com/en/wow/t/what-insights-would-you-like-to-see-in-a-future-episode-of-the-wow-forever-podcast/2361993"
+    },
+    {
+     "label": "Blizzard, World of Warcraft: Forever Escape Together Comes to Toronto",
+     "url": "https://worldofwarcraft.blizzard.com/news/24302094"
+    },
+    {
+     "label": "Blizzard, [Updated 9/24] Pre-Purchase the World of Warcraft: Forever Collector's Edition",
+     "url": "https://us.forums.blizzard.com/en/wow/t/updated-924-pre-purchase-the-world-of-warcraft%C2%AE-forever-collector%E2%80%99s-edition/2347306/106"
+    }
+   ],
+   "media": [
+    {
+     "type": "youtube",
+     "id": "m49-jvGPCkA",
+     "caption": "Unpacking Beta Launch ft. Xaryu | Episode 1, The WoW: Forever Podcast (World of Warcraft)"
+    },
+    {
+     "type": "image",
+     "src": "../media/WoW_Weekly_2026-09-25_Header.png",
+     "caption": "WoW Weekly, September 25: Blizzard Entertainment"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Escape_Together_Toronto.png",
+     "caption": "Forever Escape Together, Toronto: Blizzard Entertainment"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Collectors_Edition.png",
+     "caption": "Forever Collector's Edition: Blizzard Entertainment"
+    }
+   ]
+  },
+  {
+   "title": "Xbox's Reset Continues: 268 More Cuts and Halo Moves to Activision",
+   "tab": "Xbox",
+   "category": "Microsoft & Xbox",
+   "synopsis": "Xbox cut another 268 roles and reorganized its studios, and Activision is now making the next Halo, while Blizzard stayed out of this round.",
+   "points": [
+    "Matt Booty's \"Continuing Our Reset\" memo: 268 roles cut across Halo Studios, first-party studios, and Xbox management",
+    "Xbox saying it's about three-quarters of the way through the restructuring",
+    "studios folded into fewer business units, with Activision, Bethesda, and King part of the reshuffle",
+    "Activision taking over development of the next Halo",
+    "reported layoffs hitting The Coalition, World's Edge, Treyarch, and Raven",
+    "Undead Labs going independent, then announcing layoffs within hours",
+    "no Blizzard cuts reported in any of it",
+    "the lightning round: Dune: Awakening on Xbox, CONTROL Resonant, Age of Empires II's Viking Sagas, and a Gears of War: E-Day event in LA"
+   ],
+   "questions": [
+    "Blizzard sat this round out. Is that because Forever and Midnight are working?",
+    "What does it say that Activision is the studio Microsoft trusts with Halo?"
+   ],
+   "sources": [
+    {
+     "label": "Xbox Wire: Continuing Our Reset",
+     "url": "https://news.xbox.com/en-us/2026/09/22/continuing-our-reset/"
+    },
+    {
+     "label": "Pure Xbox: Xbox Confirms Activision Will Develop The Next Halo Title",
+     "url": "https://www.purexbox.com/news/2026/09/xbox-confirms-activision-will-develop-the-next-halo-title"
+    },
+    {
+     "label": "Pure Xbox: Devs From The Coalition, World's Edge, And Other Xbox Studios Confirm Layoffs",
+     "url": "https://www.purexbox.com/news/2026/09/devs-from-the-coalition-worlds-edge-and-other-xbox-studios-confirm-layoffs2"
+    },
+    {
+     "label": "Pure Xbox: Former Xbox Studio Suffers 'Significant' Layoffs Hours After Going Independent",
+     "url": "https://www.purexbox.com/news/2026/09/former-xbox-studio-suffers-significant-layoffs-hours-after-going-independent"
+    },
+    {
+     "label": "Xbox Wire, Dune: Awakening Arrives on Xbox With New Ways to Play",
+     "url": "https://news.xbox.com/en-us/2026/09/22/dune-awakening-xbox-launch/"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "src": "../media/Xbox_Wire_Continuing_Our_Reset.png",
+     "caption": "Continuing Our Reset: Xbox Wire"
+    },
+    {
+     "type": "image",
+     "src": "../media/PureXbox_Activision_Next_Halo.jpg",
+     "caption": "Xbox Confirms Activision Will Develop The Next Halo Title: Pure Xbox"
+    },
+    {
+     "type": "image",
+     "src": "../media/PureXbox_Studio_Layoffs.jpg",
+     "caption": "Devs From The Coalition, World's Edge, And Other Xbox Studios Confirm Layoffs: Pure Xbox"
+    },
+    {
+     "type": "image",
+     "src": "../media/PureXbox_Undead_Labs_Layoffs.jpg",
+     "caption": "Former Xbox Studio Suffers 'Significant' Layoffs Hours After Going Independent: Pure Xbox"
+    },
+    {
+     "type": "image",
+     "src": "../media/Xbox_Logo.png",
+     "caption": "Xbox"
+    },
+    {
+     "type": "image",
+     "src": "../media/Xbox_Wire_Logo.png",
+     "caption": "Xbox Wire"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,825 @@
+{
+ "episode": "034",
+ "date": "2026-10-03",
+ "subtitle": "Forever Beta · Week Three",
+ "logo": "../media/last_attempt_logo.png",
+ "intro": {
+  "heads_up": "Quick heads-up before we dive in: by the time this episode drops Tuesday morning, Orin Straylight's research in Silvermoon is done, if you haven't picked up \"Prismatic Potential\" yet, go grab it so you can start buying that extra Nebulous Voidcore every week.",
+  "rundown": [
+   "the Forever beta's third week: level 30, a brand-new dungeon, and a 15-versus-15 battleground",
+   "Blizzard's class deep dives, and the Rogue and Warrior questions",
+   "Tom Ellis logging off X after the name-ban fallout",
+   "gold buyers, legacy points, and a hundred-thousand-dollar duel",
+   "Aggrend teasing a Blackrock Depths-style mega dungeon",
+   "Forever outgrowing its servers while Classic raiders head for the door",
+   "everything coming in Midnight's 12.1.5 on October 13, and a look down the road at Wrath Remix",
+   "and we'll close out the news with tuning, paid addons in China, the Trading Post, and a little Xbox"
+  ]
+ },
+ "items": [
+  {
+   "title": "Forever Beta, Week Three: Level 30, the Wetlands, and Darkspear Islands",
+   "tab": "Beta Week Three",
+   "category": "World of Warcraft: Forever, Beta",
+   "synopsis": "The October 1 build pushed the beta to level 30 and opened up a new dungeon, a new battleground, and a pile of tuning that changes how leveling and the economy feel.",
+   "points": [
+    "the level cap going up to 30, with Razorfen Downs and Uldaman now open",
+    {
+     "text": "a brand-new dungeon, Excavation Site: Wetlands, for levels 26 to 31",
+     "sub": "Wowhead's note: no Dalaran dungeon this week"
+    },
+    "a new 15-versus-15 battleground on Darkspear Islands",
+    "Hall of Thanes, Ruins of Lordaeron, and the Skyborne starting zone all still playable",
+    "dungeon quests now giving 50% less bonus XP: Blizzard answering feedback on leveling pace",
+    "honor gear costing about 50% more, with the honor cap going from 15,000 to 25,000",
+    "skinning back to one skin per mob: the group-wide skinning was a bug",
+    "enchanted wands now vendoring for 1 copper, so no more easy money on wand flips",
+    "the library book necklaces dropping to uncommon, and the 20-book ring no longer Rogue-only",
+    "Stitches showing up neutral in Duskwood: confirmed a bug, he'll be back to terrorizing soon",
+    "Ghost Wolf glowing bright blue on purpose for now, because it was invisible in dark zones",
+    "more gamepad work: pet stable, compact raid frames, and gamepad bindings now separate from keyboard"
+   ],
+   "questions": [
+    "Dungeon XP nerfed, skinning fixed, wands worth a copper. Is Blizzard sanding off the fun exploits, or protecting the launch economy?",
+    "Where are you parked at level 30, and is the new Wetlands dungeon worth running?"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard: WoW Forever Beta Development Notes, Updated October 1",
+     "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-october-1/2360696/4"
+    },
+    {
+     "label": "Blizzard (Bluesky): Forever Beta Week 3",
+     "url": "https://bsky.app/profile/worldofwarcraft.blizzard.com/post/3mwtxyaobce23"
+    },
+    {
+     "label": "Source, Level 30 Now Available: Forever Beta Patch Notes (Wowhead)",
+     "url": "https://www.wowhead.com/news=383217/level-30-now-available-forever-beta-patch-notes"
+    },
+    {
+     "label": "Source, Skinning No Longer Group-Wide in Latest WoW: Forever Beta Build (Wowhead)",
+     "url": "https://www.wowhead.com/news=383226/skinning-no-longer-group-wide-in-latest-wow-forever-beta-build"
+    },
+    {
+     "label": "Source, No More Easy Money with Enchanting Flips in WoW: Forever (Wowhead)",
+     "url": "https://www.wowhead.com/news=383224/no-more-easy-money-with-enchanting-flips-in-wow-forever-sell-cost-nerfed"
+    },
+    {
+     "label": "Source: Necklace Rewards from Collecting Books Nerfed to Uncommon Quality (Wowhead)",
+     "url": "https://www.wowhead.com/news=383231/necklace-rewards-from-collecting-books-nerfed-to-uncommon-quality-in-wow-forever"
+    },
+    {
+     "label": "Source: Book Collection Ring No Longer Class Restricted (Wowhead)",
+     "url": "https://www.wowhead.com/news=383225/book-collection-ring-no-longer-class-restricted-in-wow-forever"
+    },
+    {
+     "label": "Source: Stitches is Currently Neutral, but will Terrorize Duskwood Again Soon (Wowhead)",
+     "url": "https://www.wowhead.com/news=383238/stitches-is-currently-neutral-but-will-terrorize-duskwood-again-soon-in-wow"
+    },
+    {
+     "label": "Source: Ghost Wolf Appearance Temporary Until Fixes Are In (Wowhead)",
+     "url": "https://www.wowhead.com/news=383241/ghost-wolf-appearance-temporary-until-fixes-are-in-for-wow-forever"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "src": "../media/Forever_Beta_Week3.jpg",
+     "caption": "Forever Beta Week 3: World of Warcraft (Bluesky)"
+    },
+    {
+     "type": "video",
+     "src": "../media/Forever_Beta_Darkshore.mp4",
+     "caption": "Darkshore at night: SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Beta_Stormwind_Chapel_Bridge_Gamepad.jpg",
+     "caption": "Stormwind chapel bridge, gamepad UI: SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Beta_Auberdine_Fog.jpg",
+     "caption": "Fog rolling over Auberdine: SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Beta_Darkshore_Aura_Farm.jpg",
+     "caption": "Darkshore aura farm: SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Beta_Furbolg_Entrance_Torches.jpg",
+     "caption": "Furbolg den entrance by torchlight: SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Beta_Deathknell_Torches.jpg",
+     "caption": "Deathknell torches: SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Beta_Tirisfal_Crossroads.jpg",
+     "caption": "Crossroads in Tirisfal Glades: SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Beta_Hillsbrad_Foothills.jpg",
+     "caption": "Hillsbrad Foothills: SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Beta_Lordaeron_Fountain.jpg",
+     "caption": "Ruins of Lordaeron fountain: SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Beta_Lordaeron_Lamp.jpg",
+     "caption": "Ruins of Lordaeron lamp: SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Beta_Lordaeron_Party_Trek.jpg",
+     "caption": "Party trek through Lordaeron: SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Beta_Hall_of_Thanes_Bridge.jpg",
+     "caption": "Hall of Thanes bridge: SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Beta_Skyborne_Town.jpg",
+     "caption": "Skyborne town: SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Beta_Skyborne_Skywall_Portal.jpg",
+     "caption": "Skyborne Skywall portal: SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Beta_Dalaran_Skyline.jpg",
+     "caption": "Dalaran skyline: SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Beta_Dalaran_Towers.jpg",
+     "caption": "Dalaran towers: SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Beta_Dalaran_Sunset.jpg",
+     "caption": "Dalaran at sunset: SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Beta_Shadowgale_Forest.jpg",
+     "caption": "Shadowgale Forest: SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Beta_Shadowgale_Forest_Arch.jpg",
+     "caption": "Shadowgale Forest arch: SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Beta_Shadowgale_Forest_Aura_Farm.jpg",
+     "caption": "Shadowgale Forest aura farm: SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Beta_Stormwind_Dwarven_District.jpg",
+     "caption": "Stormwind Dwarven District: SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Beta_Stormwind_Entrance.jpg",
+     "caption": "Stormwind entrance: SquirrelThug"
+    }
+   ]
+  },
+  {
+   "title": "Forever Classes: Deep Dives, and the Rogue and Warrior Questions",
+   "tab": "Class Deep Dives",
+   "category": "World of Warcraft: Forever, Classes",
+   "synopsis": "Blizzard walked through the Forever classes this week, and Rogues and Warriors got the most specific, and most argued-about, answers.",
+   "points": [
+    "1.12 talent trees with a new 16-point milestone, and talent taxes like Blessing of Kings made baseline",
+    "Hunters getting Aimed Shot at 20 and gear-scaling pets; every Priest gets Fear Ward at 20",
+    {
+     "text": "Kris Zierhut promising Rogues the highest single-target damage in the game, on a standstill fight",
+     "sub": "\"really easy to take them too far\": white hits, Slice and Dice, and poisons all stacking"
+    },
+    "the reassurance aimed at PvE Rogues, \"not the PvP ones\"",
+    "Rogue Energy now regenerating continuously, Mutilate hitting with both weapons, and a new Venom finisher",
+    "the Gnome racial nerfed twice: Eureka! no longer touches Garrote or Rupture at all",
+    {
+     "text": "Warriors' crit Rage going from 75% to 100% after a dual-wield bug threw off Blizzard's tests",
+     "sub": "Aidan Moon confirming it, and Fury getting a whole second pass the same week"
+    },
+    "Fury's tree reshuffled again: Lingering Rage, Furious Precision, Gore Drinker, and Flurry no longer locked behind Enrage",
+    "Spearing Strike dismounting players, and Protection reworked as a PvP tech spec for non-shield Warriors"
+   ],
+   "questions": [
+    "Rogues on top by design: good for Forever, or are raids going to stack them and bench everyone else?",
+    "Warriors got reworked mid-week twice: exciting, or a sign the class still isn't settled with a month to launch?"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard, World of Warcraft: Forever Class Deep Dives, Hunter and Druid",
+     "url": "https://worldofwarcraft.blizzard.com/news/24301515/world-of-warcraft-forever-class-deep-dives-hunter-and-druid"
+    },
+    {
+     "label": "Blizzard, World of Warcraft: Forever Class Deep Dives, Priest and Warrior",
+     "url": "https://worldofwarcraft.blizzard.com/news/24301514/world-of-warcraft-forever-class-deep-dives-priest-and-warrior"
+    },
+    {
+     "label": "Source, Rogues Will Have the Highest Single Target Damage in WoW: Forever (Wowhead)",
+     "url": "https://www.wowhead.com/news=383209/rogues-will-have-the-highest-single-target-damage-in-wow-forever"
+    },
+    {
+     "label": "Source: Aidan Moon Confirms Rage Bug for Warriors While Dual Wielding (Wowhead)",
+     "url": "https://www.wowhead.com/news=383204/aiden-moon-confirms-rage-bug-for-warriors-while-dual-wielding"
+    },
+    {
+     "label": "Source, Gnome Racial Nerfed Again In Latest WoW: Forever Build (Wowhead)",
+     "url": "https://www.wowhead.com/news=383222/gnome-racial-nerfed-again-in-latest-wow-forever-build"
+    },
+    {
+     "label": "Blizzard forums: WoW Forever Beta Development Notes (Warrior updates, Oct 1)",
+     "url": "https://us.forums.blizzard.com/en/wow/t/2369360/1"
+    },
+    {
+     "label": "Source, Class Highlights for Warriors, Rogues and Shamans in WoW: Forever (Wowhead)",
+     "url": "https://www.wowhead.com/news=383189/class-highlights-for-warriors-rogues-and-shamans-in-wow-forever"
+    },
+    {
+     "label": "YouTube (World of Warcraft): Speed Running Classes ft. Sodapoppin | Forever Podcast Ep. 2",
+     "url": "https://www.youtube.com/watch?v=uDRcv_w85j8"
+    }
+   ],
+   "media": [
+    {
+     "type": "youtube",
+     "id": "uDRcv_w85j8",
+     "caption": "Speed Running Classes ft. Sodapoppin | The WoW: Forever Podcast, Ep. 2",
+     "start": 0
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Podcast_Ep2_Header.png",
+     "caption": "The WoW: Forever Podcast, Ep. 2"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Deep_Dive_Hunter_Druid_Header.png",
+     "caption": "Class Deep Dives: Hunter and Druid"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Talents_Hunter.png",
+     "caption": "Hunter talent trees: Blizzard"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Talents_Druid.png",
+     "caption": "Druid talent trees: Blizzard"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Deep_Dive_Priest_Warrior_Header.png",
+     "caption": "Class Deep Dives: Priest and Warrior"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Talents_Priest.png",
+     "caption": "Priest talent trees: Blizzard"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Talents_Warrior.png",
+     "caption": "Warrior talent trees: Blizzard"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Capstones_Paladin_Priest_Rogue_1.jpg",
+     "caption": "Capstone talents: Paladin, Priest, Rogue (1/2)"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Capstones_Paladin_Priest_Rogue_2.jpg",
+     "caption": "Capstone talents: Paladin, Priest, Rogue (2/2)"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Capstones_Warlock_Shaman_1.jpg",
+     "caption": "Capstone talents: Warlock and Shaman (1/2)"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Capstones_Warlock_Shaman_2.jpg",
+     "caption": "Capstone talents: Warlock and Shaman (2/2)"
+    }
+   ]
+  },
+  {
+   "title": "Tom Ellis Logs Off After the Name-Ban Fallout",
+   "tab": "Tom Ellis",
+   "category": "World of Warcraft: Forever, Community",
+   "synopsis": "Last week's name bans turned into this week's biggest community story: Forever senior producer Tom Ellis deleted his X account after players went digging through his old posts.",
+   "points": [
+    "Ellis defending the name enforcement: existing legacy ban lists, not Blizzard going \"extra woke\"",
+    {
+     "text": "\"I read the list. No sympathy. Be a better human next time.\"",
+     "sub": "only 0.18% of players removed from beta: the \"cheeky name\" crowd mostly got forced renames"
+    },
+    "players digging up his posts from around 2009 and 2010 and pushing to get him fired",
+    "people tagging Xbox's CEO over a beta character name policy",
+    {
+     "text": "Ellis deleting his X account, with reports he cited harassment of friends and family",
+     "sub": "the threats come from his own posts and secondhand reporting, nothing independently confirmed"
+    },
+    "Asmongold calling the \"better human\" line \"fake and patronizing\" while saying he'd prefer more \"edgy, weird devs\"",
+    "plenty of players on the forums and Reddit saying the crackdown was refreshing",
+    "anecdotal reports some banned testers being let back in with forced renames instead"
+   ],
+   "questions": [
+    "Should a senior producer be on X arguing with players at all, or was he right to say his piece?",
+    "Is fifteen-year-old internet history fair game when someone tells you to be a better human?"
+   ],
+   "sources": [
+    {
+     "label": "Kotaku, WoW: Forever Ban Controversy Forces Blizzard Dev To Delete Account After Asking Players To Be 'Better Humans'",
+     "url": "https://kotaku.com/wow-forever-ban-controversy-forces-blizzard-veteran-to-delete-account-after-asking-players-to-be-better-humans-2000737990"
+    },
+    {
+     "label": "Deltia's Gaming, \"It's Fake and Patronizing\": Asmongold Reacts After Blizzard Producer Deactivates X Account",
+     "url": "https://deltiasgaming.com/its-fake-and-patronizing-asmongold-reacts-after-blizzard-producer-deactivates-x-account/"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "src": "../media/Tom_Ellis_X_Name_Bans_1.jpg",
+     "caption": "Tom Ellis on X, Sept 25 (now deleted): 1/2"
+    },
+    {
+     "type": "image",
+     "src": "../media/Tom_Ellis_X_Name_Bans_2.jpg",
+     "caption": "Tom Ellis on X, Sept 25 (now deleted): 2/2"
+    }
+   ]
+  },
+  {
+   "title": "Gold Buyers, Legacy Points, and a $100,000 Duel",
+   "tab": "Gold & Legacy",
+   "category": "World of Warcraft: Forever, Beta",
+   "synopsis": "Blizzard is going after gold buyers as well as sellers in Forever, handing every tester 16 Legacy points, and the community already has a six-figure tournament running in the beta.",
+   "points": [
+    "Blizzard actioning beta accounts that botted gold, and accounts that bought or knowingly received it",
+    {
+     "text": "a new warning popping up whenever you trade with a stranger",
+     "sub": "\"you could put your account at risk of closure\""
+    },
+    "illicit gold removed, suspensions, or permanent closures, for buyers, not just sellers",
+    "\"knew or should-have-known\": be careful taking big gold gifts from people you don't know",
+    "all beta testers getting 16 Legacy points in a future week, so the system can actually get tested",
+    "Legacy being the alt-friendly prestige layer, and the community mostly loving it",
+    {
+     "text": "Tips Out, Esfand, and Xaryu running The Forever Open: a $100,000 dueling tournament on the beta",
+     "sub": "TimTheTatman doubled the prize pool, and 4,000 sign-ups closed registration two days early"
+    }
+   ],
+   "questions": [
+    "Punishing the buyer, not just the seller: fair, or is \"should-have-known\" going to catch innocent people?",
+    "Would either of you ever sign up for a dueling tournament like this?"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard forums: Actions Taken Against Botting and RMT",
+     "url": "https://us.forums.blizzard.com/en/wow/t/actions-taken-against-botting-and-rmt/2368705/1"
+    },
+    {
+     "label": "Blizzard forums: Gold buying rules",
+     "url": "https://us.forums.blizzard.com/en/wow/t/gold-buying-rules/2364933/43"
+    },
+    {
+     "label": "Blizzard forums: Legacy Points for Beta Testing",
+     "url": "https://us.forums.blizzard.com/en/wow/t/legacy-points-for-beta-testing/2368776/1"
+    },
+    {
+     "label": "Source, Registration for Tips Out $100,000 WoW: Forever Dueling Tournament Closing Tomorrow (Wowhead)",
+     "url": "https://www.wowhead.com/news=383153/registration-for-tips-out-100-000-wow-forever-dueling-tournament-closing-early"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "Aggrend Teases a Mega Dungeon, and Forever's Dungeon Deep Dive at PAX",
+   "tab": "Mega Dungeon",
+   "category": "World of Warcraft: Forever, Endgame",
+   "synopsis": "Aggrend hinted that Forever has its own Blackrock Depths waiting at the end, and we may get our first real look at a new dungeon at PAX Aus next week.",
+   "points": [
+    {
+     "text": "someone asking for \"a good BRD-like mega dungeon\" and Aggrend replying \"Hold our beer(s).\"",
+     "sub": "he attached a \"spoiler-y\" image: Wowhead's read is the endgame dungeon Blackmaw Hold, not confirmed"
+    },
+    "the original Blackrock Depths running about 20 encounters and hours to clear",
+    "Clay Stone giving an exclusive deep dive on one of Forever's new dungeons at PAX Aus",
+    "Holly Longdale opening PAX with the Storytime keynote, October 8, 6:00 PM Pacific on the Warcraft Twitch",
+    "the Dalaran dungeon held back for a future beta build, with Excavation Site: Wetlands out this week",
+    "every Forever raid tier getting both a 10-player and a 20-player raid",
+    "40-player raids coming back, starting with Onyxia's Lair, but not every tier"
+   ],
+   "questions": [
+    "Is a three-hour mega dungeon something you'd actually run weekly, or a once-a-month guild night?",
+    "BRD was the best dungeon in Classic for a lot of people. Can a new one live up to that?"
+   ],
+   "sources": [
+    {
+     "label": "Source, Josh Greenfield Teases BRD-Like Mega Dungeon for WoW: Forever (Wowhead, quoting Aggrend on X)",
+     "url": "https://www.wowhead.com/forever/news/josh-greenfield-teases-brd-like-mega-dungeon-for-wow-forever-383154"
+    },
+    {
+     "label": "Blizzard: Watch Holly Longdale and Clay Stone's Keynote Presentations Live from PAX Aus",
+     "url": "https://worldofwarcraft.blizzard.com/news/24302503/watch-holly-longdale-and-clay-stones-keynote-presentations-live-from-pax-aus-9-11-october"
+    },
+    {
+     "label": "Source, New Wetlands Dungeon Available on WoW: Forever Beta This Week, No Dalaran Dungeon (Wowhead)",
+     "url": "https://www.wowhead.com/news=383203/new-wetlands-dungeon-available-on-wow-forever-beta-this-week-no-dalaran-dungeon"
+    },
+    {
+     "label": "Source, World of Warcraft: Live Q&A Liveblog, Midnight and Forever (Wowhead)",
+     "url": "https://www.wowhead.com/forever/news/world-of-warcraft-live-q-a-liveblog-midnight-and-forever-382967"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "src": "../media/PAX_Aus_2026_Keynote.jpg",
+     "caption": "PAX Aus 2026: Holly Longdale and Clay Stone"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Beta_Dalaran_Skyline.jpg",
+     "caption": "Dalaran skyline: SquirrelThug"
+    }
+   ]
+  },
+  {
+   "title": "Forever Is Eating Classic",
+   "tab": "Forever vs Classic",
+   "category": "World of Warcraft: Forever, Community",
+   "synopsis": "The Forever beta keeps outgrowing its servers, and the raid logs say Classic players are already packing up to move.",
+   "points": [
+    "Holly Longdale: \"we had to increase the WoW: Forever Beta population cap again. The wild ride continues.\"",
+    "Blizzard finding and fixing a bug that was filling the login queue",
+    {
+     "text": "TBC Anniversary raiders dropping from 212,821 to 124,487 in a single week, about 88,000 gone",
+     "sub": "Ironforge.pro, pulling from Warcraft Logs: Sept 8 to 14 versus Sept 15 to 21, the beta's first week"
+    },
+    "Mists of Pandaria Classic raiders falling from 33,125 to 24,971 in the same stretch",
+    "TBC Anniversary still sitting in Black Temple and Hyjal, with Zul'Aman and Sunwell still to come",
+    "no word yet on a Wrath Anniversary, or what happens to MoP Classic characters from 2019",
+    "Jesse Heinig on Bluesky: a \"cultural moment\", \"we got some juice comin'\""
+   ],
+   "questions": [
+    "If you're on TBC Anniversary or MoP Classic, are you sticking around, or already gone to Forever?",
+    "Should Blizzard say now what happens to the Classic versions, or let Forever launch first?"
+   ],
+   "sources": [
+    {
+     "label": "Source, Blizzard Increases Population Cap for WoW: Forever, Login Queues Fixed (Wowhead, quoting Holly Longdale on X)",
+     "url": "https://www.wowhead.com/forever/news/blizzard-increases-population-cap-for-wow-forever-login-queues-fixed-383144"
+    },
+    {
+     "label": "Blizzard forums: Realm is full",
+     "url": "https://us.forums.blizzard.com/en/wow/t/realm-is-full/2363282/19"
+    },
+    {
+     "label": "Source, Classic Raid Population Dropping as WoW: Forever Beta Progresses (Wowhead)",
+     "url": "https://www.wowhead.com/news/classic-raid-population-dropping-as-wow-forever-beta-progresses-383131"
+    },
+    {
+     "label": "Bluesky: Jesse Heinig",
+     "url": "https://bsky.app/profile/jesseheinig.bsky.social/post/3mwbw4oxbac2r"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "src": "../media/Jesse_Heinig_Bluesky.jpg",
+     "caption": "Jesse Heinig on Bluesky"
+    },
+    {
+     "type": "image",
+     "src": "../media/Forever_Beta_Stormwind_Entrance.jpg",
+     "caption": "Stormwind entrance: SquirrelThug"
+    }
+   ]
+  },
+  {
+   "title": "Midnight's 12.1.5 Arrives October 13",
+   "tab": "12.1.5",
+   "category": "World of Warcraft: Midnight, 12.1.5",
+   "synopsis": "The 12.1.5 patch notes are out: a single-boss raid, a nine-chamber Labyrinth, Keystone Myth, and a staggered power ramp starting next week.",
+   "points": [
+    "The Unbinding of Kith'ix: a single-boss raid with Lady Liadrin, and a flexible 15-to-25 Mythic",
+    "the C'Thraxxi general that Ula'tek's defeat woke up beneath the Venomous Abyss",
+    {
+     "text": "the Labyrinth of Kindo'jan: a nine-chamber, Delve-like mega-dungeon with Valeera Sanguinar",
+     "sub": "Tier 11 solo challenge, Mythic gear, and you can do it one wing at a time"
+    },
+    "Keystone Myth back for Season 2: a 3600 rating for the Venomous Contender title and the Timelost Saddle",
+    "an extra Nebulous Voidcore every week from Orin Straylight, starting the week of October 6",
+    "Ascendant Venomstones the week of October 20: ten of them push a maxed weapon, trinket, or necklace higher",
+    "the crest cap coming off October 20",
+    "Aqir Invasions in Eversong or Zul'Aman for ten minutes every hour, with eight possible affixes",
+    "player coordinates under the minimap, and Legion and Battle for Azeroth reputations going warband-wide"
+   ],
+   "questions": [
+    "A single-boss raid with flexible Mythic. Does that work as a mid-season raid, or does it feel thin?",
+    "Labyrinth versus Mythic+ for Mythic gear, where are you spending your week?"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard: Midnight's 12.1.5 Content Update Arrives October 13",
+     "url": "https://worldofwarcraft.blizzard.com/news/24307306/midnights-1215-content-update-arrives-october-13"
+    },
+    {
+     "label": "Blizzard: 12.1.5 Content Update Notes",
+     "url": "https://worldofwarcraft.blizzard.com/news/24304162/1215-content-update-notes"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "src": "../media/Midnight_12.1.5_Arrives_Oct13_Header.png",
+     "caption": "Midnight's 12.1.5 Content Update Arrives October 13"
+    },
+    {
+     "type": "image",
+     "src": "../media/Midnight_12.1.5_Patch_Notes_Header.png",
+     "caption": "12.1.5 Content Update Notes"
+    },
+    {
+     "type": "image",
+     "src": "../media/Midnight_12.1.5_Void_Construct.png",
+     "caption": "Midnight 12.1.5: Blizzard"
+    },
+    {
+     "type": "image",
+     "src": "../media/Midnight_12.1.5_Amani_Ruins.png",
+     "caption": "Midnight 12.1.5: Blizzard"
+    },
+    {
+     "type": "image",
+     "src": "../media/Midnight_12.1.5_Silvermoon_Figure.png",
+     "caption": "Silvermoon City: Blizzard"
+    },
+    {
+     "type": "image",
+     "src": "../media/Midnight_12.1.5_Silvermoon_Gate.png",
+     "caption": "Silvermoon City: Blizzard"
+    },
+    {
+     "type": "image",
+     "src": "../media/Midnight_12.1.5_Eversong_Party.png",
+     "caption": "Midnight 12.1.5: Blizzard"
+    }
+   ]
+  },
+  {
+   "title": "The Road Back to Northrend: Wrath of the Lich King Remix",
+   "tab": "Wrath Remix",
+   "category": "World of Warcraft: Wrath Remix & The Last Titan",
+   "synopsis": "Wrath Remix lands summer 2027 as the bridge into The Last Titan: Blizzard's own pitch is to see Northrend now, before we go back to it.",
+   "points": [
+    "Wrath of the Lich King Remix as the third Remix, coming summer 2027 right after 12.2.7",
+    {
+     "text": "Blizzard's stated reason: lots of players have never been to Northrend, and The Last Titan is going there next",
+     "sub": "read between the lines: a last look at Northrend the way we remember it"
+    },
+    "Blizzard's panel recap telling us to \"embrace the power of the Scourge\"",
+    {
+     "text": "Runeforging for every class: the idea came from Hearthstone art of every class raised by the Scourge",
+     "sub": "think Knights of the Frozen Throne: every hero turned Death Knight"
+    },
+    "my theory: we all fall and come back Scourge, and do Death Knights get to double up on runes?",
+    "Scourge Outbreaks out in the world and in dungeons, plus infinitely scaling dungeons",
+    "Jake Miller saying it plays closer to Mists Remix, with Wrath being simple enough to leave room for wild new abilities",
+    "unreleased items and appearances, and \"a modern take\" on mounts like Invincible",
+    {
+     "text": "The Last Titan as \"more than a return to Northrend\": Wyrmrest Temple and a colossal figure in the teaser",
+     "sub": "full reveal early 2027, after Eclipse: Blizzard says talking now would spoil Midnight"
+    }
+   ],
+   "questions": [
+    "If Northrend is getting wrecked or rebuilt in The Last Titan, is Remix the goodbye tour, and what would you want to see one more time?",
+    "Runeforging on every class. What rune are you putting on your main's weapon?"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard: World of Warcraft at BlizzCon 2026 News Round-Up",
+     "url": "https://worldofwarcraft.blizzard.com/en-us/news/24301145"
+    },
+    {
+     "label": "Source, World of Warcraft: Live Q&A Liveblog, Midnight and Forever (Wowhead)",
+     "url": "https://www.wowhead.com/forever/news/world-of-warcraft-live-q-a-liveblog-midnight-and-forever-382967"
+    },
+    {
+     "label": "Icy Veins: A Remade Invincible and Runeforge for Every Class Coming in WotLK Remix!",
+     "url": "https://www.icy-veins.com/wow/news/a-remade-invincible-and-runeforge-for-every-class-coming-in-wotlk-remix/"
+    },
+    {
+     "label": "Blizzard Watch: Wrath of the Lich King is the next WoW Remix event scheduled for summer 2027",
+     "url": "https://blizzardwatch.com/2026/09/15/wrath-lich-king-next-wow-remix-event-scheduled-summer-2027/"
+    },
+    {
+     "label": "Source, World of Warcraft: Midnight and The Last Titan Roadmap Revealed (Wowhead)",
+     "url": "https://www.wowhead.com/news/world-of-warcraft-midnight-and-the-last-titan-roadmap-revealed-382850"
+    },
+    {
+     "label": "YouTube (World of Warcraft): The Last Titan Teaser | COLOSSAL",
+     "url": "https://www.youtube.com/watch?v=F9Xb5PhF5pc"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "src": "../media/Wrath_Remix_Announce.jpg",
+     "caption": "Wrath of the Lich King Remix: Blizzard"
+    },
+    {
+     "type": "image",
+     "src": "../media/WoW_Modern_Roadmap_CY26_27.png",
+     "caption": "Modern roadmap, 2026 to 27: Blizzard"
+    },
+    {
+     "type": "video",
+     "src": "../media/The_Last_Titan_Teaser_Colossal.mp4",
+     "caption": "The Last Titan Teaser | COLOSSAL: Blizzard"
+    },
+    {
+     "type": "image",
+     "src": "../media/The_Last_Titan_Teaser_Wyrmrest_Blizzard.png",
+     "caption": "Wyrmrest Temple in the COLOSSAL teaser: Blizzard"
+    },
+    {
+     "type": "image",
+     "src": "../media/The_Last_Titan_Teaser_Colossal_Figure.png",
+     "caption": "The colossal figure: Blizzard"
+    },
+    {
+     "type": "image",
+     "src": "../media/The_Last_Titan_Logo.png",
+     "caption": "The Last Titan"
+    }
+   ]
+  },
+  {
+   "title": "Tuning Week and the Race to World First",
+   "tab": "Tuning & RWF",
+   "category": "World of Warcraft: Midnight, Tuning",
+   "synopsis": "Unholy gets brought back down to earth on Tuesday, a handful of underperformers get help, and the top two raiding guilds are talking about fewer splits.",
+   "points": [
+    "Unholy's Blightfall cut in half after a bug fix made it hit way harder than intended",
+    "Devourer Demon Hunters getting 8 to 10% single-target buffs across the board",
+    "Brewmasters dying too much in dungeons, more Stagger purify and longer dodge windows",
+    "Mistweaver healing up 15% to help them in raid",
+    "Subtlety's Trickster buffed to close the gap with Deathstalker",
+    "Enhancement up 4% across the board, with Lava Lash up 35%",
+    "Survival's Wildfire Bomb buff actually landing, and Ula'tek's heart no longer meleeing players",
+    {
+     "text": "Liquid and Echo talking about fewer characters and fewer splits for the next Race to World First",
+     "sub": "Echo says it's still in talks: Liquid turned down the first deal over raid-time limits"
+    }
+   ],
+   "questions": [
+    "Is your spec on this list, and does it actually change anything for you on Tuesday?",
+    "Would a no-splits race be more fun to watch, or does it just hand the win to whoever has the deeper bench?"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard forums: Incoming Class Tuning: October 6",
+     "url": "https://us.forums.blizzard.com/en/wow/t/incoming-class-tuning-october-6/2370266/1"
+    },
+    {
+     "label": "Blizzard, Hotfixes: October 1, 2026",
+     "url": "https://worldofwarcraft.blizzard.com/news/24296142/hotfixes-october-1-2026"
+    },
+    {
+     "label": "Source: [Updated] Liquid and Echo Discussing Less Characters and Splits for Next Race to World First (Wowhead)",
+     "url": "https://www.wowhead.com/news=383211/liquid-and-echo-discussing-less-characters-and-splits-for-next-race-to-world"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "src": "../media/Hotfixes_Oct1_Header.png",
+     "caption": "Hotfixes: October 1, 2026, Blizzard"
+    }
+   ]
+  },
+  {
+   "title": "NetEase Cracks Down on Paid Addons in WoW China",
+   "tab": "Paid Addons",
+   "category": "World of Warcraft: Addons",
+   "synopsis": "China is enforcing the rule Blizzard's addon policy already has on paper, addons have to be free, and threatening legal action over it.",
+   "points": [
+    "Blizzard's own addon policy, rule one: \"Add-ons must be free of charge\"",
+    "the West living in a grey area: free base addons with paid premium tiers, and streamers selling UI packs to subs",
+    {
+     "text": "NetEase banning paid unlocks, VIP tiers, subscriptions, and pay-per-use services on CN realms",
+     "sub": "reported by CN community contributor Elspeth on X"
+    },
+    "even paid WeakAura and config sharing called out",
+    "tipping still allowed, as long as it's voluntary and doesn't unlock anything",
+    "anyone who keeps selling addons facing legal action",
+    "where that leaves my own setup: one personal addon I built for me, never sold"
+   ],
+   "questions": [
+    "Should Blizzard enforce this in the West too, or would that kill the addons people rely on?",
+    "Is selling a UI pack to your subs any different from selling the addon itself?"
+   ],
+   "sources": [
+    {
+     "label": "Blizzard forums: World of Warcraft UI Add-On Development Policy",
+     "url": "https://us.forums.blizzard.com/en/wow/t/ui-add-on-development-policy/24534"
+    },
+    {
+     "label": "Source: NetEase Cracking Down on Paid Addons in WoW China (Wowhead, quoting Elspeth on X)",
+     "url": "https://www.wowhead.com/news/netease-cracking-down-on-paid-addons-in-wow-china-383125"
+    }
+   ],
+   "media": []
+  },
+  {
+   "title": "The Trading Post, Warcraft Figures, and Xbox in Your Living Room",
+   "tab": "Shop & Xbox",
+   "category": "Collectibles & Microsoft",
+   "synopsis": "October's Trading Post leans into Hallow's End, Warcraft is getting action figures, and Xbox is now selling furniture through IKEA.",
+   "points": [
+    "October's Trading Post bringing the Bilebound Ur'zul mount and the Archmage's Familiar wizard cat",
+    "the Headless Horseman's Hallowed Charger and the Ghastly Charger back on the vendor",
+    "Thornshadow Assassin's Attire as the bonus reward: Blizzard only previewed that one",
+    "JOYTOY announcing a line of Warcraft action figures: Humans, Orcs, Night Elves, and the Undead",
+    "Xal'atath joining Heroes of the Storm, with Twitch drops",
+    {
+     "text": "IKEA and Xbox launching YXSTABY: a nine-piece gaming furniture collection",
+     "sub": "including a stool shaped like a thumbstick, built from the controller's own design files"
+    },
+    "Windows Central noticing more games than ever hitting Xbox Play Anywhere"
+   ],
+   "questions": [
+    "Would you sit on a giant thumbstick?",
+    "Anything on this month's Trading Post worth your tenders?"
+   ],
+   "sources": [
+    {
+     "label": "Source: October 2026 Trading Post: Bilebound Ur'zul Mount & Wizard Cat (Wowhead)",
+     "url": "https://www.wowhead.com/news=383229/october-2026-trading-post-bilebound-urzul-mount-and-wizard-cat"
+    },
+    {
+     "label": "Source: Warcraft Action Figures Coming: JOYTOY x Warcraft Collaboration (Wowhead)",
+     "url": "https://www.wowhead.com/news=383198/warcraft-action-figures-coming-joytoy-x-warcraft-collaboration"
+    },
+    {
+     "label": "Blizzard: Xal'atath has joined Heroes of the Storm!",
+     "url": "https://news.blizzard.com/en-us/article/24303314/xalatath-has-joined-heroes-of-the-storm"
+    },
+    {
+     "label": "Xbox Wire: IKEA and XBOX Team Up on YXSTABY, a New Collection Made for Gaming at Home",
+     "url": "https://news.xbox.com/en-us/2026/10/01/ikea-xbox-gaming-collection-yxstaby/"
+    },
+    {
+     "label": "Windows Central, More games than ever are hitting Xbox Play Anywhere and Xbox PC",
+     "url": "https://www.windowscentral.com/gaming/xbox/more-games-than-ever-are-hitting-xbox-play-anywhere-and-xbox-pc-is-it-finally-going-mainstream"
+    }
+   ],
+   "media": [
+    {
+     "type": "image",
+     "src": "../media/Travelers_Log_October_Costumed_Calamity.jpg",
+     "caption": "October Traveler's Log: Costumed Calamity, SquirrelThug"
+    },
+    {
+     "type": "image",
+     "src": "../media/HotS_Xalatath.jpg",
+     "caption": "Xal'atath in Heroes of the Storm"
+    },
+    {
+     "type": "image",
+     "src": "../media/Xbox_IKEA_YXSTABY.jpg",
+     "caption": "IKEA x XBOX YXSTABY: Xbox Wire"
+    },
+    {
+     "type": "image",
+     "src": "../media/WindowsCentral_Play_Anywhere.jpg",
+     "caption": "Xbox Play Anywhere: Windows Central"
+    }
+   ]
+  }
+ ]
+}
