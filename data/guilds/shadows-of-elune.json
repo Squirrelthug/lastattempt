@@ -14,7 +14,7 @@
     "realm": 7
    },
    "heroic": {
-    "world": 2714,
+    "world": 2715,
     "region": 917,
     "realm": 6
    },
@@ -77,7 +77,7 @@
   },
   "the-venomous-abyss": {
    "normal": {
-    "world": 2809,
+    "world": 2810,
     "region": 1189,
     "realm": 3
    },
@@ -2446,10 +2446,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 17325,
+    "achievement_points": 17365,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-22T05:25:43.000Z",
+    "last_crawled_at": "2026-11-07T12:53:27.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Vencia",
     "profile_banner": "alliancebanner18"
    }
@@ -2662,10 +2662,10 @@
     "active_spec_role": "HEALING",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 29720,
+    "achievement_points": 29730,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-31T00:17:01.000Z",
+    "last_crawled_at": "2026-11-07T11:51:28.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Cornhowlio",
     "profile_banner": "alliancebanner1"
    }
