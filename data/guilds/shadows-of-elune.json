@@ -65,7 +65,7 @@
     "realm": 0
    },
    "heroic": {
-    "world": 10162,
+    "world": 10163,
     "region": 3540,
     "realm": 29
    },
@@ -4411,7 +4411,7 @@
     "achievement_points": 37190,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-11-07T13:33:29.000Z",
+    "last_crawled_at": "2026-11-08T06:39:27.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Aribelle",
     "profile_banner": "alliancebanner18"
    }
@@ -4844,7 +4844,7 @@
     "achievement_points": 26270,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-04T06:04:14.000Z",
+    "last_crawled_at": "2026-11-08T05:09:34.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Gealtachta",
     "profile_banner": "alliancebanner18"
    }
@@ -9755,10 +9755,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 12050,
+    "achievement_points": 12060,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-22T05:25:49.000Z",
+    "last_crawled_at": "2026-11-08T10:08:43.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Fythor",
     "profile_banner": "alliancebanner1"
    }
