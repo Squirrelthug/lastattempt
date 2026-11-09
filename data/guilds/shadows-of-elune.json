@@ -429,10 +429,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "horde",
-    "achievement_points": 26405,
+    "achievement_points": 26410,
     "region": "us",
     "realm": "Area 52",
-    "last_crawled_at": "2026-11-03T08:58:25.000Z",
+    "last_crawled_at": "2026-11-09T13:20:49.000Z",
     "profile_url": "https://raider.io/characters/us/area-52/Dlonzo",
     "profile_banner": "hordebanner1"
    }
@@ -2392,10 +2392,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 48755,
+    "achievement_points": 48810,
     "region": "us",
     "realm": "Proudmoore",
-    "last_crawled_at": "2026-11-02T04:21:52.000Z",
+    "last_crawled_at": "2026-11-09T14:42:01.000Z",
     "profile_url": "https://raider.io/characters/us/proudmoore/Humviy",
     "profile_banner": "alliancebanner1"
    }
@@ -4357,7 +4357,7 @@
     "achievement_points": 37190,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-11-02T04:21:49.000Z",
+    "last_crawled_at": "2026-11-09T14:55:51.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Annadar",
     "profile_banner": "alliancebanner18"
    }
@@ -4411,7 +4411,7 @@
     "achievement_points": 37190,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-11-08T06:39:27.000Z",
+    "last_crawled_at": "2026-11-09T02:22:30.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Aribelle",
     "profile_banner": "alliancebanner18"
    }
@@ -8498,7 +8498,7 @@
     "achievement_points": 23225,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-04T06:04:15.000Z",
+    "last_crawled_at": "2026-11-09T14:49:13.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Lockjom",
     "profile_banner": "alliancebanner1"
    }
@@ -9161,10 +9161,10 @@
     "active_spec_role": "TANK",
     "gender": "male",
     "faction": "horde",
-    "achievement_points": 41315,
+    "achievement_points": 41335,
     "region": "us",
     "realm": "Lothar",
-    "last_crawled_at": "2026-11-02T04:21:50.000Z",
+    "last_crawled_at": "2026-11-09T04:01:32.000Z",
     "profile_url": "https://raider.io/characters/us/lothar/Offtank",
     "profile_banner": "hordebanner1"
    }
