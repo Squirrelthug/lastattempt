@@ -36,7 +36,7 @@
     "realm": 48
    },
    "mythic": {
-    "world": 7872,
+    "world": 7873,
     "region": 2867,
     "realm": 20
    }
@@ -915,10 +915,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 23665,
+    "achievement_points": 23720,
     "region": "us",
     "realm": "Garrosh",
-    "last_crawled_at": "2026-10-22T05:25:39.000Z",
+    "last_crawled_at": "2026-11-09T18:01:46.000Z",
     "profile_url": "https://raider.io/characters/us/garrosh/Deithis",
     "profile_banner": "alliancebanner1"
    }
@@ -4844,7 +4844,7 @@
     "achievement_points": 26270,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-08T05:09:34.000Z",
+    "last_crawled_at": "2026-11-09T21:40:52.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Gealtachta",
     "profile_banner": "alliancebanner18"
    }
@@ -12890,7 +12890,7 @@
     "achievement_points": 38765,
     "region": "us",
     "realm": "Moon Guard",
-    "last_crawled_at": "2026-11-02T04:21:50.000Z",
+    "last_crawled_at": "2026-11-09T21:26:54.000Z",
     "profile_url": "https://raider.io/characters/us/moon-guard/Cla\u00fcd\u00eda",
     "profile_banner": "alliancebanner1"
    }
@@ -12919,14 +12919,14 @@
     "name": "Ish",
     "race": "Worgen",
     "class": "Druid",
-    "active_spec_name": "Guardian",
-    "active_spec_role": "TANK",
+    "active_spec_name": "Feral",
+    "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 6990,
+    "achievement_points": 7030,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-04T22:50:25.000Z",
+    "last_crawled_at": "2026-11-09T18:09:51.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Ish",
     "profile_banner": "alliancebanner1"
    }
