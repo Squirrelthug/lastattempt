@@ -3972,14 +3972,14 @@
     "name": "Jommesh",
     "race": "Orc",
     "class": "Hunter",
-    "active_spec_name": "Marksmanship",
+    "active_spec_name": "Beast Mastery",
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "horde",
-    "achievement_points": 23075,
+    "achievement_points": 23200,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-22T05:25:44.000Z",
+    "last_crawled_at": "2026-11-11T12:23:54.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Jommesh",
     "profile_banner": "hordebanner1"
    }
@@ -4375,7 +4375,7 @@
     "achievement_points": 37190,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-11-02T04:21:50.000Z",
+    "last_crawled_at": "2026-11-11T10:15:52.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Ariell\u00e1",
     "profile_banner": "alliancebanner1"
    }
@@ -4411,7 +4411,7 @@
     "achievement_points": 37190,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-11-10T05:34:43.000Z",
+    "last_crawled_at": "2026-11-11T06:43:52.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Aribelle",
     "profile_banner": "alliancebanner18"
    }
@@ -4610,7 +4610,7 @@
     "achievement_points": 37190,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-11-04T19:35:30.000Z",
+    "last_crawled_at": "2026-11-11T09:34:50.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Zar\u00ed",
     "profile_banner": "alliancebanner1"
    }
@@ -8513,10 +8513,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 21500,
+    "achievement_points": 21510,
     "region": "us",
     "realm": "Kul Tiras",
-    "last_crawled_at": "2026-10-26T05:46:57.000Z",
+    "last_crawled_at": "2026-11-11T06:54:47.000Z",
     "profile_url": "https://raider.io/characters/us/kul-tiras/Amaniara",
     "profile_banner": "alliancebanner1"
    }
@@ -9722,7 +9722,7 @@
     "achievement_points": 37025,
     "region": "us",
     "realm": "Wyrmrest Accord",
-    "last_crawled_at": "2026-11-02T04:21:46.000Z",
+    "last_crawled_at": "2026-11-11T09:54:56.000Z",
     "profile_url": "https://raider.io/characters/us/wyrmrest-accord/Ann\u00e1dar",
     "profile_banner": "hordebanner1"
    }
@@ -11612,7 +11612,7 @@
     "achievement_points": 37190,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-11-10T05:34:43.000Z",
+    "last_crawled_at": "2026-11-11T10:07:58.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Azir\u00e1",
     "profile_banner": "alliancebanner1"
    }
