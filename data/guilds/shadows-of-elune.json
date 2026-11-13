@@ -36,7 +36,7 @@
     "realm": 48
    },
    "mythic": {
-    "world": 7874,
+    "world": 7875,
     "region": 2868,
     "realm": 20
    }
@@ -5279,24 +5279,6 @@
     "last_crawled_at": "2026-10-22T05:25:44.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Lostprincess",
     "profile_banner": "hordebanner1"
-   }
-  },
-  {
-   "rank": 6,
-   "character": {
-    "name": "Verelkon",
-    "race": "Void Elf",
-    "class": "Warlock",
-    "active_spec_name": "Destruction",
-    "active_spec_role": "DPS",
-    "gender": "male",
-    "faction": "alliance",
-    "achievement_points": 14215,
-    "region": "us",
-    "realm": "Nagrand",
-    "last_crawled_at": "2026-11-02T04:21:50.000Z",
-    "profile_url": "https://raider.io/characters/us/nagrand/Verelkon",
-    "profile_banner": "alliancebanner1"
    }
   },
   {
@@ -12383,10 +12365,10 @@
     "active_spec_role": "HEALING",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 20385,
+    "achievement_points": 20395,
     "region": "us",
     "realm": "Moon Guard",
-    "last_crawled_at": "2026-11-04T07:00:12.000Z",
+    "last_crawled_at": "2026-11-13T18:03:13.000Z",
     "profile_url": "https://raider.io/characters/us/moon-guard/Ixloatel",
     "profile_banner": "alliancebanner1"
    }
