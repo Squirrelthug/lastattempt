@@ -810,7 +810,7 @@
     "achievement_points": 25205,
     "region": "us",
     "realm": "Dalaran",
-    "last_crawled_at": "2026-11-04T06:11:18.000Z",
+    "last_crawled_at": "2026-11-14T17:16:05.000Z",
     "profile_url": "https://raider.io/characters/us/dalaran/Vynstrinar",
     "profile_banner": "alliancebanner1"
    }
@@ -2392,10 +2392,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 48810,
+    "achievement_points": 48985,
     "region": "us",
     "realm": "Proudmoore",
-    "last_crawled_at": "2026-11-09T14:42:01.000Z",
+    "last_crawled_at": "2026-11-14T22:16:10.000Z",
     "profile_url": "https://raider.io/characters/us/proudmoore/Humviy",
     "profile_banner": "alliancebanner1"
    }
