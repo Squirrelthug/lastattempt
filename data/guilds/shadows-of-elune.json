@@ -7649,10 +7649,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 26020,
+    "achievement_points": 26655,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-10T05:34:46.000Z",
+    "last_crawled_at": "2026-11-15T14:25:59.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Barkpriest",
     "profile_banner": "alliancebanner1"
    }
@@ -7796,7 +7796,7 @@
     "achievement_points": 17275,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-10T05:33:44.000Z",
+    "last_crawled_at": "2026-11-15T17:57:11.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Anderdingus",
     "profile_banner": "alliancebanner1"
    }
