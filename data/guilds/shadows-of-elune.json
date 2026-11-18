@@ -2088,7 +2088,7 @@
     "achievement_points": 34850,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-16T01:13:19.000Z",
+    "last_crawled_at": "2026-11-17T22:34:40.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/W\u00f2rgen",
     "profile_banner": "alliancebanner1"
    }
@@ -4837,14 +4837,14 @@
     "name": "Gealtachta",
     "race": "Night Elf",
     "class": "Druid",
-    "active_spec_name": "Guardian",
-    "active_spec_role": "TANK",
+    "active_spec_name": "Feral",
+    "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
     "achievement_points": 26270,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-16T05:15:13.000Z",
+    "last_crawled_at": "2026-11-17T22:20:58.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Gealtachta",
     "profile_banner": "alliancebanner18"
    }
