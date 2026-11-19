@@ -2395,7 +2395,7 @@
     "achievement_points": 48990,
     "region": "us",
     "realm": "Proudmoore",
-    "last_crawled_at": "2026-11-17T05:33:26.000Z",
+    "last_crawled_at": "2026-11-19T12:50:57.000Z",
     "profile_url": "https://raider.io/characters/us/proudmoore/Humviy",
     "profile_banner": "alliancebanner1"
    }
@@ -6140,7 +6140,7 @@
     "achievement_points": 52255,
     "region": "us",
     "realm": "Stormrage",
-    "last_crawled_at": "2026-11-17T05:33:26.000Z",
+    "last_crawled_at": "2026-11-19T07:02:54.000Z",
     "profile_url": "https://raider.io/characters/us/stormrage/Farne",
     "profile_banner": "alliancebanner1"
    }
@@ -7573,14 +7573,14 @@
     "name": "Jijidruid",
     "race": "Highmountain Tauren",
     "class": "Druid",
-    "active_spec_name": "Restoration",
-    "active_spec_role": "HEALING",
+    "active_spec_name": "Feral",
+    "active_spec_role": "DPS",
     "gender": "male",
     "faction": "horde",
     "achievement_points": 22435,
     "region": "us",
     "realm": "Aegwynn",
-    "last_crawled_at": "2026-11-14T06:20:58.000Z",
+    "last_crawled_at": "2026-11-19T07:18:59.000Z",
     "profile_url": "https://raider.io/characters/us/aegwynn/Jijidruid",
     "profile_banner": "hordebanner1"
    }
@@ -9308,7 +9308,7 @@
     "achievement_points": 49450,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-17T05:33:25.000Z",
+    "last_crawled_at": "2026-11-19T03:04:59.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Ishymaell",
     "profile_banner": "alliancebanner1"
    }
