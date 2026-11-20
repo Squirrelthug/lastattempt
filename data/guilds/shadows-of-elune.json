@@ -36,7 +36,7 @@
     "realm": 48
    },
    "mythic": {
-    "world": 7876,
+    "world": 7877,
     "region": 2868,
     "realm": 20
    }
@@ -432,7 +432,7 @@
     "achievement_points": 26415,
     "region": "us",
     "realm": "Area 52",
-    "last_crawled_at": "2026-11-18T08:31:54.000Z",
+    "last_crawled_at": "2026-11-20T18:41:35.000Z",
     "profile_url": "https://raider.io/characters/us/area-52/Dlonzo",
     "profile_banner": "hordebanner1"
    }
@@ -2395,7 +2395,7 @@
     "achievement_points": 48990,
     "region": "us",
     "realm": "Proudmoore",
-    "last_crawled_at": "2026-11-19T12:50:57.000Z",
+    "last_crawled_at": "2026-11-20T16:21:35.000Z",
     "profile_url": "https://raider.io/characters/us/proudmoore/Humviy",
     "profile_banner": "alliancebanner1"
    }
@@ -11159,10 +11159,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 31705,
+    "achievement_points": 31725,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-30T17:14:16.000Z",
+    "last_crawled_at": "2026-11-20T16:48:02.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Lavapaladin",
     "profile_banner": "alliancebanner1"
    }
