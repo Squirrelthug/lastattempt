@@ -10493,10 +10493,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "horde",
-    "achievement_points": 22130,
+    "achievement_points": 22150,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-16T19:56:27.000Z",
+    "last_crawled_at": "2026-11-20T05:14:04.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Holyfuego",
     "profile_banner": "hordebanner1"
    }
@@ -12422,7 +12422,7 @@
     "achievement_points": 21055,
     "region": "us",
     "realm": "Garona",
-    "last_crawled_at": "2026-11-04T19:22:29.000Z",
+    "last_crawled_at": "2026-11-20T14:43:03.000Z",
     "profile_url": "https://raider.io/characters/us/garona/Mavhnoa",
     "profile_banner": "alliancebanner1"
    }
