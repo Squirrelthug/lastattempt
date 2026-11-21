@@ -7649,10 +7649,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 26655,
+    "achievement_points": 26690,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-15T14:25:59.000Z",
+    "last_crawled_at": "2026-11-21T05:34:10.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Barkpriest",
     "profile_banner": "alliancebanner1"
    }
@@ -8930,7 +8930,7 @@
     "achievement_points": 23910,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-17T05:33:25.000Z",
+    "last_crawled_at": "2026-11-21T08:14:14.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Mititei",
     "profile_banner": "alliancebanner1"
    }
