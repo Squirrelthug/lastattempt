@@ -1,0 +1,713 @@
+{
+  "episode": "039",
+  "date": "2026-11-07",
+  "subtitle": "Forever Is Live",
+  "logo": "../media/last_attempt_logo.png",
+  "intro": {
+    "heads_up": "Quick heads-up before we dive in: by the time this episode drops Tuesday morning, Blizzard's first round of Forever class tuning is scheduled to land that same day, and the Pouch of Violet Dust Twitch drop runs through Thursday, November 12.",
+    "rundown": [
+      "Blizzard calling WoW: Forever the biggest launch in WoW history",
+      "a launch week of empty cities, lost zeppelins and Blizzard's fixes",
+      "Forever's first hotfix list, including a fresh pot of coffee for Kerlonian",
+      "Blizzard throwing out Classic power budgets, and the first class tuning pass",
+      "mega-raids and proximity voice from the Forever tech podcast",
+      "the community showing up, from a walk to 60 to a launch-week Twitch drop",
+      "gamepad support, Taldramir and the rest of Forever's extras",
+      "a big round of Venomous Abyss nerfs over on retail",
+      "and we'll close out the news with a faster, simpler Xbox app on PC"
+    ]
+  },
+  "items": [
+    {
+      "deck_only": true,
+      "title": "Last Attempt: A WoW Guildcast",
+      "tab": "Open",
+      "category": "Episode 039",
+      "synopsis": "",
+      "points": [],
+      "questions": [],
+      "sources": [],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_00_open.png",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "Blizzard: Biggest Launch in WoW History",
+      "tab": "Biggest Launch",
+      "category": "World of Warcraft: Forever, Launch",
+      "synopsis": "Blizzard's own accounts are calling Forever the biggest launch in WoW history, and the most returning players the game has ever seen.",
+      "points": [
+        "Forever going live in every region at once, November 4 at 3 p.m. PST",
+        "the official World of Warcraft account posting \"you made HISTORY\" two days later",
+        "the biggest launch in WoW history by peak concurrent players, in Blizzard's own words",
+        "and the highest number of returning players in WoW history on top of it",
+        {
+          "text": "no actual concurrent number attached, just the record claim",
+          "sub": "Windows Central reported it as beating Wrath of the Lich King, from that same post"
+        },
+        "@Warcraft slapping the roof of Forever: 3,924 virtual machines, 251,136 GB of memory, 70,480 CPU cores",
+        "Blizzard ANZ showing heroes entering Azeroth one dot at a time, blue and red dots lighting up the world map",
+        {
+          "text": "Twitch reportedly peaking around 1.12 million viewers, close to Classic in 2019",
+          "sub": "that number is from X chatter, not from Blizzard"
+        },
+        "Mitch Jones, Sodapoppin and NmpLul reportedly running multi-day streams with $1 million in giveaways",
+        "Windows Central already asking whether retail is cooked"
+      ],
+      "questions": [
+        "From where you were standing on launch night, did it feel like the biggest launch ever?",
+        "Is Forever pulling players away from retail, or bringing back people who'd already left?"
+      ],
+      "sources": [
+        {
+          "label": "Bluesky, World of Warcraft: Congratulations everyone, you made HISTORY!",
+          "url": "https://bsky.app/profile/worldofwarcraft.blizzard.com/post/3mzoudcfxws2t"
+        },
+        {
+          "label": "Blizzard, World of Warcraft: Forever Now Live!",
+          "url": "https://worldofwarcraft.blizzard.com/news/24315820/world-of-warcraft-forever-now-live"
+        },
+        {
+          "label": "Blizzard forums, World of Warcraft: Forever Launch Time (Kaivax)",
+          "url": "https://us.forums.blizzard.com/en/wow/t/2400905/1"
+        },
+        {
+          "label": "X, @Warcraft: Slaps Roof of WoW: Forever (November 4)",
+          "url": "https://x.com/Warcraft"
+        },
+        {
+          "label": "Windows Central: Blizzard confirms World of Warcraft Forever is the biggest launch in WoW history",
+          "url": "https://www.windowscentral.com/gaming/blizzard/blizzard-confirms-world-of-warcraft-forever-is-the-biggest-launch-in-wow-history-beating-wrath-of-the-lich-king-is-wow-retail-cooked"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_01_title.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_02_shot.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_03_shot.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_04_stats.jpg",
+          "caption": ""
+        },
+        {
+          "type": "video",
+          "src": "../media/5 Blizzard ANZ on X watching heroes enter Azeroth one dot at a t.mp4",
+          "caption": "Blizzard ANZ: watching heroes enter Azeroth one dot at a time"
+        },
+        {
+          "type": "youtube",
+          "id": "n2Wg46fwmb0",
+          "caption": "Launch Overview | World of Warcraft: Forever",
+          "start": 0
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_05_quote.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_06_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_01_07_questions.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "Empty Cities, Lost Zeppelins: Launch Week Fixes",
+      "tab": "Launch Bugs",
+      "category": "World of Warcraft: Forever, Blue Posts",
+      "synopsis": "Launch week was smoother than most, and Blizzard was on the forums answering the stuff that did break.",
+      "points": [
+        "a player asking why they only see maybe 8 people inside the main city",
+        {
+          "text": "Aggrend: some areas \"not feeling as populated as they should,\" with numbers tweaked the next day",
+          "sub": "that's layering; the read on X was that it started out too aggressive"
+        },
+        "boats and zeppelins getting \"lost in the maelstrom\" for extended periods",
+        "Blizzard spawning temporary portals at the docks and inside the zeppelin towers until the real fix landed",
+        "Invite-a-Friend players locked out of chat, guilds, parties, trading and leveling past 10, hotfixed launch night",
+        "PvP vendors temporarily unavailable in Orgrimmar, Stormwind and Dalaran on the Known Issues list",
+        "Vorsha the Lasher in Ashenvale disabled over a crash bug",
+        "group phasing still a problem from beta, with Kaivax walking players through the Refresh Now prompt",
+        {
+          "text": "Horde PvP character creation reportedly throttled for faction balance",
+          "sub": "from X chatter; we didn't find a Blizzard post on it"
+        },
+        "Blizzard's new bug report forum rules: \"We read every single post\" but can't reply to most"
+      ],
+      "questions": [
+        "Did either of you get stuck on a dock, in an empty layer, or behind a phasing wall?",
+        "Is a launch with this many players and this few problems the new bar Blizzard has to hit?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard forums. Why do I see maybe 8 people inside the main city? (Aggrend)",
+          "url": "https://us.forums.blizzard.com/en/wow/t/2401806/27"
+        },
+        {
+          "label": "Blizzard forums: Zeppelins broken? (Aggrend)",
+          "url": "https://us.forums.blizzard.com/en/wow/t/2401777/15"
+        },
+        {
+          "label": "Blizzard forums: Issues Resolved for Invite-a-Friend Players (Kaivax)",
+          "url": "https://us.forums.blizzard.com/en/wow/t/2401646/1"
+        },
+        {
+          "label": "Blizzard forums: Known Issues: WoW Forever: Updated Nov. 5 (Kaivax)",
+          "url": "https://us.forums.blizzard.com/en/wow/t/2402363/1"
+        },
+        {
+          "label": "Blizzard forums: Phasing issues with group still persist from beta (Kaivax)",
+          "url": "https://us.forums.blizzard.com/en/wow/t/2402367/2"
+        },
+        {
+          "label": "Blizzard forums: WoW Forever Bug Report Forum Guidelines (Kaivax)",
+          "url": "https://us.forums.blizzard.com/en/wow/t/2402319/1"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_01_title.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_02_quote.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_03_quote.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_04_shot.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_05_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_06_longquote.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_02_07_questions.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "Forever's First Hotfix List",
+      "tab": "Hotfixes",
+      "category": "World of Warcraft: Forever, Hotfixes",
+      "synopsis": "Forever's November 6 hotfixes clean up the leveling road, and Blizzard had some fun writing them.",
+      "points": [
+        "Blizzard brewing a fresh pot of Darnassus's finest coffee for Kerlonian Evershade",
+        {
+          "text": "so he falls asleep less often during \"The Sleeper Has Awakened\"",
+          "sub": "and you now start the quest with the Horn of Awakening to wake him up"
+        },
+        "\"Vorsha the Lasher\" no longer rudely lashing everyone in the zone",
+        "the Tanning Rack requirement lowered to 125 (was 140) so it stops blocking Leatherworking patterns",
+        "Zaetar's Spirit spawning again after Princess Theradras in Maraudon",
+        "creatures in Blackmaw Hold and The Drowned City no longer disengaging, and the Drowned City portal fixed",
+        "the troggs in Grol'bolar Quarry no longer respawning too quickly",
+        "Lasher Sproutlings, Blooming Lashers and Wrathvine in Teldrassil no longer immune to nature damage",
+        "Voidwalker base health going up by about 40 at all levels",
+        "Mages no longer learning a Research spell that shouldn't exist and losing it on relog"
+      ],
+      "questions": [
+        "Which leveling quest has been the biggest pain so far, and did it make this list?",
+        "How long until the starting zones settle down and the corpse piles go away?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard, WoW: Forever Hotfixes, November 6, 2026",
+          "url": "https://worldofwarcraft.blizzard.com/news/24315281/wow-forever-hotfixes-november-6-2026"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_01_title.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_02_shot.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_03_quote.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_04_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_05_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_03_06_questions.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "Blizzard Drops Classic Power Budgets",
+      "tab": "Class Balance",
+      "category": "World of Warcraft: Forever, Development Notes",
+      "synopsis": "Blizzard's final pre-launch notes admit Classic power budgets were holding Forever back, and the first live tuning pass is coming Tuesday.",
+      "points": [
+        "Blizzard saying holding to Classic power budgets meant every new element came at the expense of something else",
+        "some iconic abilities left feeling lackluster because of it",
+        "damage raised on classes across the game, with higher-level creatures given more health to compensate",
+        "Blizzard admitting it was \"likely hasty\" in reaching for Burning Crusade or Wrath-era solutions",
+        "the goal not perfect numerical equality, but every class feeling valuable to the group it joins",
+        "no big tuning changes until the raids open next month, outside of bugs and serious outliers",
+        "Tauren Warriors now correctly starting with +5 Strength over Human Warriors (was +2)",
+        "Hunter pets and Warlock Voidwalkers not holding up as tanks, with Classic Era as the target",
+        "Affliction finding that always channeling Wrack beats casting their damage-over-time spells",
+        {
+          "text": "Enhancement Shamans finding Intellect and Spell Power better than Strength and Attack Power",
+          "sub": "Blizzard: leveling Enhancement players should collect Strength and Attack Power gear from now on"
+        },
+        "class balance changes landing Tuesday, November 10, then on future Tuesdays if necessary"
+      ],
+      "questions": [
+        "Is moving past Classic power budgets the right call, or does that make Forever just another retail?",
+        "What are you playing, and does it feel stronger than it did in the original game?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard forums: WoW Forever Beta Development Notes: Updated November 2 (Kaivax)",
+          "url": "https://us.forums.blizzard.com/en/wow/t/2360696/10"
+        },
+        {
+          "label": "Blizzard forums: Class Tuning Incoming: November 10 (Kaivax)",
+          "url": "https://us.forums.blizzard.com/en/wow/t/2404092/1"
+        },
+        {
+          "label": "Blizzard, WoW: Forever Hotfixes, November 6, 2026 (Voidwalker health)",
+          "url": "https://worldofwarcraft.blizzard.com/news/24315281/wow-forever-hotfixes-november-6-2026"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_01_title.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_02_longquote.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_03_quote.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_04_timeline.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_05_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_06_quote.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_04_07_questions.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "Mega-Raids and Proximity Voice",
+      "tab": "Tech Podcast",
+      "category": "World of Warcraft: Forever, The Forever Podcast",
+      "synopsis": "The latest WoW: Forever Podcast went all-in on tech, and the big ideas were mega-raids for huge open-world events and proximity voice.",
+      "points": [
+        "Episode 6, All About Tech, hosted by Countdown To Classic with special guest Shobek",
+        "Aggrend, Lead Software Engineer Ana Resendez and Principal Software Engineer Frank Williams on the panel",
+        "large \"mega-raids\" floated as the answer for big open-world PvP and roleplay gatherings",
+        "proximity voice chat talked about as something they'd like to allow in the game",
+        "Discord already wired into both retail and Forever, with account linking and guild chat mirroring",
+        "guild leaders choosing whether Discord traffic lands in /guild or a dedicated /discord channel",
+        {
+          "text": "in-game voice channels already live, with a push-to-talk bug on Blizzard's Known Issues list",
+          "sub": "push-to-talk instructions can show up by mistake when you join a voice channel"
+        },
+        "no new episode this Thursday, so the show is either skipping a week or running late"
+      ],
+      "questions": [
+        "Would proximity voice make Forever better, or would it turn Goldshire into a nightmare?",
+        "What would a mega-raid open-world PvP night look like for a guild like ours?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard, Watch the WoW: Forever Podcast: All About Tech",
+          "url": "https://worldofwarcraft.blizzard.com/news/24315819/watch-the-wow-forever-podcast-all-about-tech"
+        },
+        {
+          "label": "Blizzard: Stay Connected in World of Warcraft with Discord",
+          "url": "https://worldofwarcraft.blizzard.com/news/24296228/stay-connected-in-world-of-warcraft-with-discord"
+        },
+        {
+          "label": "Blizzard forums: Known Issues: WoW Forever: Updated Nov. 5 (voice channel bug)",
+          "url": "https://us.forums.blizzard.com/en/wow/t/2402363/1"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_01_title.jpg",
+          "caption": ""
+        },
+        {
+          "type": "youtube",
+          "id": "BVyhnixdPQg",
+          "caption": "All About Tech ft. Shobek | Episode 6, The WoW: Forever Podcast",
+          "start": 0
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_02_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_03_art.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_04_shot.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_05_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_05_06_questions.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "The Community Shows Up",
+      "tab": "Community",
+      "category": "World of Warcraft: Forever, Community",
+      "synopsis": "Launch week was as much about the people as the patch, from a walk to 60 to a campfire drop for watching streams.",
+      "points": [
+        "bigguygrind taking on a walking challenge on stream, all the way to level 60",
+        "the starting zones turning into fields of corpses with accelerated spawns, per heyitslissala",
+        "the Pouch of Violet Dust Twitch drop running November 4 through November 12 at 4:30 p.m. PST",
+        "a purple campfire adding an hour to every camp benefit, two hours total, shared with everyone resting there",
+        {
+          "text": "an ephemeral toy, removed from collections when the launch celebration ends in early December",
+          "sub": "link your Twitch account at account.battle.net/connections first"
+        },
+        "Blizzard's Nikki Crenshaw shouting out the RP-PvP community's own newspaper, The Hearthside Herald",
+        "the WoW Portal Room Discord pitched as the place to find your next community",
+        "Blizzard posting video call backgrounds to tide you over at work until you can log back in"
+      ],
+      "questions": [
+        "What's the most Forever thing you've seen another player do this week?",
+        "Is the community energy this time different from Classic in 2019?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard: Set Your Campfire Ablaze with the Pouch of Violet Dust!",
+          "url": "https://worldofwarcraft.blizzard.com/news/24317678/set-your-campfire-ablaze-with-the-pouch-of-violet-dust"
+        },
+        {
+          "label": "Bluesky, Nikki 'Gazelle' Crenshaw: why I love the #WoW #RPPVP community",
+          "url": "https://bsky.app/profile/gaiazelle.bsky.social/post/3mzdssqzzos2t"
+        },
+        {
+          "label": "Blizzard, World of Warcraft: Forever Now Live! (WoW Portal Room)",
+          "url": "https://worldofwarcraft.blizzard.com/news/24315820/world-of-warcraft-forever-now-live"
+        },
+        {
+          "label": "Bluesky, World of Warcraft: video call backgrounds",
+          "url": "https://bsky.app/profile/worldofwarcraft.blizzard.com/post/3mzo6xo3zt22o"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_01_title.jpg",
+          "caption": ""
+        },
+        {
+          "type": "video",
+          "src": "../media/bigguygrind walking journey.mp4",
+          "caption": "bigguygrind: the walking journey to 60"
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_02_art.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_03_timeline.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_04_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_06_05_questions.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "Gamepads, Taldramir and Forever's Extras",
+      "tab": "Extras",
+      "category": "World of Warcraft: Forever, Features",
+      "synopsis": "Blizzard spent launch week explaining the extras: controller play, a Wētā-forged legendary, and how Forever differs from retail.",
+      "points": [
+        "every XInput-compatible controller supported, with Xbox and PlayStation button icons",
+        "targeting, casting, looting and menus refined for gamepads, though you still need a keyboard for chat",
+        {
+          "text": "gamepad support still in a beta state, with more improvements to come",
+          "sub": "Holly Longdale's \"play it wherever\" Project Helix comment from last week still hanging over this"
+        },
+        "Taldramir, the Whispering Wood, revealed as Forever's first legendary",
+        "Wētā Workshop forging a real-life Taldramir for the Forging Forever video",
+        "Classic and Enhanced presets changing presentation only, never which ruleset you play on",
+        "Enhanced turning on quest guidance, a one-bag view and transmog by default",
+        "the Cooldown Manager and a Damage Meter sitting in Forever's Advanced options",
+        "nine new five-player dungeons across levels 13 to 60",
+        "the level cap staying at 60, \"an expanding game without an expansion of levels\""
+      ],
+      "questions": [
+        "Has anyone in the guild actually tried leveling on a controller yet?",
+        "Is Classic or Enhanced the way you're playing, and why?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard, Explore WoW: Forever with a Gamepad",
+          "url": "https://worldofwarcraft.blizzard.com/news/24316974/explore-wow-forever-with-a-gamepad"
+        },
+        {
+          "label": "Blizzard, WoW: Forever, Watch Forging Forever",
+          "url": "https://worldofwarcraft.blizzard.com/news/24317865/wow-forever-watch-forging-forever"
+        },
+        {
+          "label": "Bluesky, aramis: Taldramir, the Whispering Wood",
+          "url": "https://bsky.app/profile/aramisx.bsky.social/post/3mzje7aa5d22c"
+        },
+        {
+          "label": "Blizzard, WoW: Forever, What's New and What Feels Familiar",
+          "url": "https://worldofwarcraft.blizzard.com/news/24315821/wow-forever-whats-new-and-what-feels-familiar"
+        },
+        {
+          "label": "Wccftech: Holly Longdale mentions Project Helix",
+          "url": "https://wccftech.com/world-of-warcraft-forever-gamepad-support-console-hopes-holly-longdale/"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_01_title.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_02_art.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_03_shot.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_04_art.jpg",
+          "caption": ""
+        },
+        {
+          "type": "youtube",
+          "id": "mFOkBPMKJhc",
+          "caption": "Forging Forever | World of Warcraft: Forever",
+          "start": 0
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_05_compare.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_06_stats.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_07_07_questions.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "Venomous Abyss Takes a Big Round of Nerfs",
+      "tab": "Raid Nerfs",
+      "category": "Midnight: Raid Tuning",
+      "synopsis": "While everyone's in Forever, retail raiders are getting a big round of Venomous Abyss nerfs, Mythic especially.",
+      "points": [
+        "Linxy announcing Venomous Abyss adjustments rolling out over a few days",
+        "Ula'tek's Unchecked Rage damage reduced by 61% on all difficulties",
+        "Ula'tek's health reduced by 15% on Heroic, with smaller-raid health scaling fixed on Raid Finder, Normal and Heroic",
+        "Caustic Waves damage over time cut by 75% on Normal, 61% on Heroic and 89% on Mythic",
+        "the Coiled Altar's Malevolent Resonance damage reduced by 60%",
+        "Vashnik, the Malignant's Malignance damage reduced by 37% on Mythic",
+        "Twin Fangs' Visceral Burst damage reduced by 40% on Mythic",
+        "Linxy following up that the Ula'tek changes are already live, ahead of the hotfix post",
+        "the Hot Motocross Bunmover mounts getting fixes ahead of next week's maintenance"
+      ],
+      "questions": [
+        "Does a nerf this big change the plan for anyone still pushing Heroic or Mythic?",
+        "Is retail quietly getting easier because everyone's attention is on Forever?"
+      ],
+      "sources": [
+        {
+          "label": "Blizzard forums: The Venomous Abyss Raid Tuning Incoming (Linxy)",
+          "url": "https://us.forums.blizzard.com/en/wow/t/2402937/56"
+        },
+        {
+          "label": "Blizzard, Hotfixes: November 6, 2026",
+          "url": "https://worldofwarcraft.blizzard.com/news/24307310/hotfixes-november-6-2026"
+        },
+        {
+          "label": "Blizzard forums: Bunmover needs work! (Linxy)",
+          "url": "https://us.forums.blizzard.com/en/wow/t/2398542/6"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_01_title.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_02_stats.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_03_bullets.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_04_quote.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_08_05_questions.jpg",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "A Faster, Simpler Xbox App on PC",
+      "tab": "Xbox",
+      "category": "Industry: Xbox",
+      "synopsis": "Xbox is rebuilding its PC app to launch faster and feel simpler, starting with Insiders.",
+      "points": [
+        "Xbox Insiders getting an updated Xbox PC app that launches up to 60% faster",
+        "easier ways to find games, connect with friends and play",
+        "the refreshed Xbox web experience reaching more players",
+        "cloud gaming app updates on supported TVs and VR headsets",
+        "Xbox admitting \"we've heard where the experience could be better\""
+      ],
+      "questions": [
+        "Does anyone actually use the Xbox app on PC, or is it all Battle.net and Steam?",
+        "With Forever on a gamepad, does a better Xbox PC app bring WoW any closer to console?"
+      ],
+      "sources": [
+        {
+          "label": "Xbox Wire: A Faster, Simpler XBOX Experience Is Coming to PC, Web and Cloud",
+          "url": "https://news.xbox.com/en-us/2026/11/05/a-faster-simpler-xbox-experience-is-coming-to-pc-web-and-cloud/"
+        }
+      ],
+      "media": [
+        {
+          "type": "image",
+          "src": "../media/slides/slide_09_01_title.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_09_02_stats.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_09_03_quote.jpg",
+          "caption": ""
+        },
+        {
+          "type": "image",
+          "src": "../media/slides/slide_09_04_questions.jpg",
+          "caption": ""
+        }
+      ]
+    }
+  ]
+}
