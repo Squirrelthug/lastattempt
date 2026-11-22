@@ -429,10 +429,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "horde",
-    "achievement_points": 26425,
+    "achievement_points": 26430,
     "region": "us",
     "realm": "Area 52",
-    "last_crawled_at": "2026-11-21T22:11:44.000Z",
+    "last_crawled_at": "2026-11-22T19:46:51.000Z",
     "profile_url": "https://raider.io/characters/us/area-52/Dlonzo",
     "profile_banner": "hordebanner1"
    }
@@ -4837,14 +4837,14 @@
     "name": "Gealtachta",
     "race": "Night Elf",
     "class": "Druid",
-    "active_spec_name": "Feral",
-    "active_spec_role": "DPS",
+    "active_spec_name": "Guardian",
+    "active_spec_role": "TANK",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 26275,
+    "achievement_points": 26285,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-19T16:35:06.000Z",
+    "last_crawled_at": "2026-11-22T20:56:26.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Gealtachta",
     "profile_banner": "alliancebanner18"
    }
@@ -6425,10 +6425,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 31745,
+    "achievement_points": 31770,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-21T21:28:25.000Z",
+    "last_crawled_at": "2026-11-22T18:51:44.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Lavamage",
     "profile_banner": "alliancebanner1"
    }
@@ -11231,10 +11231,10 @@
     "active_spec_role": "TANK",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 22725,
+    "achievement_points": 22750,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-17T05:33:24.000Z",
+    "last_crawled_at": "2026-11-22T16:18:27.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Xsteeldruid",
     "profile_banner": "alliancebanner1"
    }
@@ -11684,7 +11684,7 @@
     "achievement_points": 24320,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-10T05:33:44.000Z",
+    "last_crawled_at": "2026-11-22T22:31:19.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Sabryelle",
     "profile_banner": "alliancebanner1"
    }
