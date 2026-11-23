@@ -1941,10 +1941,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "horde",
-    "achievement_points": 45760,
+    "achievement_points": 45775,
     "region": "us",
     "realm": "Eredar",
-    "last_crawled_at": "2026-11-19T00:24:02.000Z",
+    "last_crawled_at": "2026-11-23T17:19:41.000Z",
     "profile_url": "https://raider.io/characters/us/eredar/Space",
     "profile_banner": "classbanner_death-knight1"
    }
@@ -2085,10 +2085,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 34855,
+    "achievement_points": 34865,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-21T19:17:22.000Z",
+    "last_crawled_at": "2026-11-23T00:14:32.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/W\u00f2rgen",
     "profile_banner": "alliancebanner1"
    }
@@ -5240,7 +5240,7 @@
     "achievement_points": 15175,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-18T19:21:57.000Z",
+    "last_crawled_at": "2026-11-23T06:23:28.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Maplepally",
     "profile_banner": "covenantbanner_kyrian"
    }
@@ -8927,10 +8927,10 @@
     "active_spec_role": "HEALING",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 23910,
+    "achievement_points": 23925,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-21T08:14:14.000Z",
+    "last_crawled_at": "2026-11-23T03:40:44.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Mititei",
     "profile_banner": "alliancebanner1"
    }
@@ -9308,7 +9308,7 @@
     "achievement_points": 49450,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-19T03:04:59.000Z",
+    "last_crawled_at": "2026-11-23T03:59:35.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Ishymaell",
     "profile_banner": "alliancebanner1"
    }
