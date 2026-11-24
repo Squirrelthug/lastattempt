@@ -36,7 +36,7 @@
     "realm": 48
    },
    "mythic": {
-    "world": 7877,
+    "world": 7878,
     "region": 2868,
     "realm": 20
    }
@@ -2085,10 +2085,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 34865,
+    "achievement_points": 34930,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-23T00:14:32.000Z",
+    "last_crawled_at": "2026-11-23T23:48:48.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/W\u00f2rgen",
     "profile_banner": "alliancebanner1"
    }
@@ -6140,7 +6140,7 @@
     "achievement_points": 52255,
     "region": "us",
     "realm": "Stormrage",
-    "last_crawled_at": "2026-11-19T07:02:54.000Z",
+    "last_crawled_at": "2026-11-24T02:55:30.000Z",
     "profile_url": "https://raider.io/characters/us/stormrage/Farne",
     "profile_banner": "alliancebanner1"
    }
@@ -11159,10 +11159,10 @@
     "active_spec_role": "DPS",
     "gender": "male",
     "faction": "alliance",
-    "achievement_points": 31725,
+    "achievement_points": 31780,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-20T16:48:02.000Z",
+    "last_crawled_at": "2026-11-23T20:36:32.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Lavapaladin",
     "profile_banner": "alliancebanner1"
    }
