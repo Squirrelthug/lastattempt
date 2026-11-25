@@ -65,7 +65,7 @@
     "realm": 0
    },
    "heroic": {
-    "world": 10163,
+    "world": 10164,
     "region": 3540,
     "realm": 29
    },
@@ -8423,10 +8423,10 @@
     "active_spec_role": "HEALING",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 20345,
+    "achievement_points": 20395,
     "region": "us",
     "realm": "Aegwynn",
-    "last_crawled_at": "2026-10-25T05:45:41.000Z",
+    "last_crawled_at": "2026-11-24T19:11:49.000Z",
     "profile_url": "https://raider.io/characters/us/aegwynn/\u00c9owyn",
     "profile_banner": "alliancebanner1"
    }
