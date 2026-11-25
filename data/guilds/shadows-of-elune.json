@@ -1242,7 +1242,7 @@
     "achievement_points": 38900,
     "region": "us",
     "realm": "Bleeding Hollow",
-    "last_crawled_at": "2026-11-10T05:32:45.000Z",
+    "last_crawled_at": "2026-11-25T11:32:36.000Z",
     "profile_url": "https://raider.io/characters/us/bleeding-hollow/Halvo",
     "profile_banner": "hordebanner1"
    }
@@ -1937,14 +1937,14 @@
     "name": "Space",
     "race": "Blood Elf",
     "class": "Death Knight",
-    "active_spec_name": "Blood",
-    "active_spec_role": "TANK",
+    "active_spec_name": "Frost",
+    "active_spec_role": "DPS",
     "gender": "female",
     "faction": "horde",
-    "achievement_points": 45775,
+    "achievement_points": 45785,
     "region": "us",
     "realm": "Eredar",
-    "last_crawled_at": "2026-11-24T05:34:34.000Z",
+    "last_crawled_at": "2026-11-25T06:11:48.000Z",
     "profile_url": "https://raider.io/characters/us/eredar/Space",
     "profile_banner": "classbanner_death-knight1"
    }
@@ -5114,7 +5114,7 @@
     "achievement_points": 41335,
     "region": "us",
     "realm": "Lothar",
-    "last_crawled_at": "2026-11-24T04:14:49.000Z",
+    "last_crawled_at": "2026-11-25T06:20:34.000Z",
     "profile_url": "https://raider.io/characters/us/lothar/Mobius",
     "profile_banner": "alliancebanner1"
    }
@@ -7652,7 +7652,7 @@
     "achievement_points": 26765,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-24T05:34:34.000Z",
+    "last_crawled_at": "2026-11-25T14:52:41.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Barkpriest",
     "profile_banner": "alliancebanner1"
    }
