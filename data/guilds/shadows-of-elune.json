@@ -36,7 +36,7 @@
     "realm": 48
    },
    "mythic": {
-    "world": 7878,
+    "world": 7879,
     "region": 2868,
     "realm": 20
    }
@@ -432,7 +432,7 @@
     "achievement_points": 26430,
     "region": "us",
     "realm": "Area 52",
-    "last_crawled_at": "2026-11-24T05:34:32.000Z",
+    "last_crawled_at": "2026-11-26T19:57:37.000Z",
     "profile_url": "https://raider.io/characters/us/area-52/Dlonzo",
     "profile_banner": "hordebanner1"
    }
@@ -810,7 +810,7 @@
     "achievement_points": 25205,
     "region": "us",
     "realm": "Dalaran",
-    "last_crawled_at": "2026-11-14T17:16:05.000Z",
+    "last_crawled_at": "2026-11-26T18:22:48.000Z",
     "profile_url": "https://raider.io/characters/us/dalaran/Vynstrinar",
     "profile_banner": "alliancebanner1"
    }
@@ -4357,7 +4357,7 @@
     "achievement_points": 37230,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-11-24T05:34:33.000Z",
+    "last_crawled_at": "2026-11-26T19:56:40.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Annadar",
     "profile_banner": "alliancebanner18"
    }
@@ -4411,7 +4411,7 @@
     "achievement_points": 37230,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-11-24T05:34:35.000Z",
+    "last_crawled_at": "2026-11-27T00:19:46.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Aribelle",
     "profile_banner": "alliancebanner18"
    }
@@ -8804,7 +8804,7 @@
     "achievement_points": 17600,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-02T04:21:47.000Z",
+    "last_crawled_at": "2026-11-26T20:18:41.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Warpone",
     "profile_banner": "alliancebanner1"
    }
@@ -11144,7 +11144,7 @@
     "achievement_points": 17600,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-02T04:21:48.000Z",
+    "last_crawled_at": "2026-11-26T20:18:39.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Fangmommy",
     "profile_banner": "alliancebanner1"
    }
@@ -11594,7 +11594,7 @@
     "achievement_points": 37230,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-11-24T05:34:35.000Z",
+    "last_crawled_at": "2026-11-27T00:23:43.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Azir\u00e1",
     "profile_banner": "alliancebanner1"
    }
@@ -12584,7 +12584,7 @@
     "achievement_points": 27220,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-10-24T05:44:47.000Z",
+    "last_crawled_at": "2026-11-26T17:44:37.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Brimnith",
     "profile_banner": "alliancebanner1"
    }
