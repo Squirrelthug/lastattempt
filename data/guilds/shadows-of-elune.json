@@ -65,7 +65,7 @@
     "realm": 0
    },
    "heroic": {
-    "world": 10164,
+    "world": 10165,
     "region": 3540,
     "realm": 29
    },
@@ -4321,7 +4321,7 @@
     "achievement_points": 37230,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-11-22T05:47:33.000Z",
+    "last_crawled_at": "2026-11-27T02:03:55.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Kez\u00ed",
     "profile_banner": "alliancebanner18"
    }
@@ -4375,7 +4375,7 @@
     "achievement_points": 37230,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-11-22T05:58:28.000Z",
+    "last_crawled_at": "2026-11-27T02:15:48.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Ariell\u00e1",
     "profile_banner": "alliancebanner1"
    }
@@ -4610,7 +4610,7 @@
     "achievement_points": 37230,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-11-22T05:59:22.000Z",
+    "last_crawled_at": "2026-11-27T02:29:36.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Zar\u00ed",
     "profile_banner": "alliancebanner1"
    }
@@ -4837,14 +4837,14 @@
     "name": "Gealtachta",
     "race": "Night Elf",
     "class": "Druid",
-    "active_spec_name": "Feral",
-    "active_spec_role": "DPS",
+    "active_spec_name": "Guardian",
+    "active_spec_role": "TANK",
     "gender": "female",
     "faction": "alliance",
     "achievement_points": 26300,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-26T11:14:35.000Z",
+    "last_crawled_at": "2026-11-27T04:40:49.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Gealtachta",
     "profile_banner": "alliancebanner18"
    }
@@ -5096,7 +5096,7 @@
     "achievement_points": 37230,
     "region": "us",
     "realm": "Illidan",
-    "last_crawled_at": "2026-11-22T05:52:30.000Z",
+    "last_crawled_at": "2026-11-27T02:10:43.000Z",
     "profile_url": "https://raider.io/characters/us/illidan/Rosal\u00ed",
     "profile_banner": "alliancebanner1"
    }
@@ -7649,10 +7649,10 @@
     "active_spec_role": "DPS",
     "gender": "female",
     "faction": "alliance",
-    "achievement_points": 26765,
+    "achievement_points": 26795,
     "region": "us",
     "realm": "Lightbringer",
-    "last_crawled_at": "2026-11-25T14:52:41.000Z",
+    "last_crawled_at": "2026-11-27T15:06:44.000Z",
     "profile_url": "https://raider.io/characters/us/lightbringer/Barkpriest",
     "profile_banner": "alliancebanner1"
    }
@@ -9704,7 +9704,7 @@
     "achievement_points": 37065,
     "region": "us",
     "realm": "Wyrmrest Accord",
-    "last_crawled_at": "2026-11-24T05:34:32.000Z",
+    "last_crawled_at": "2026-11-27T02:53:52.000Z",
     "profile_url": "https://raider.io/characters/us/wyrmrest-accord/Ann\u00e1dar",
     "profile_banner": "hordebanner1"
    }
